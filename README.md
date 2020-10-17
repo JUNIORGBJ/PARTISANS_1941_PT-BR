@@ -1,10 +1,8 @@
-# PARTISANS 1941 PT-BR
-
 [![Discord](https://img.shields.io/discord/721047801957580821?color=blueviolet&label=Discord)](https://discord.gg/HESMuU2)
 [![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-blue?style=flat&logo=Windows&logoColor=white)](https://github.com/JUNIORGBJ)
 
 <h1 align="center"><figure>
-  <img src="DesperadosIII.png">
+  <img src="PARTISANS_1941.png">
 </figure></h1>
 
 
