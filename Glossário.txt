@@ -1,0 +1,3 @@
+Glossário
+====================
+partisanos=partisans
