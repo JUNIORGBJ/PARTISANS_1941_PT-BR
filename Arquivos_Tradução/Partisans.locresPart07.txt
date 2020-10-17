@@ -1,0 +1,99 @@
+Quemaron todos los cobertizos.
+El Ejército Rojo nos ha metido a todos en un lío.
+Ya estamos todos
+Se lo llevaron todo. ¡Nos veremos obligados a comer corteza de los árboles si no queremos morir de hambre!
+¡Qué calamidad! ¡Tengo los ojos secos de tanto llorar!
+Todos los aldeanos deben sobrevivir
+Todos los nuestros han muerto.
+Vendas, medicamentos y hierbas para restaurar la salud de los luchadores en la tienda médica.
+Molienda en el molino
+Tengo las suelas muy desgastadas.
+Los agentes sufrieron heridas
+Los agentes fueron eliminados
+Todos los edificios disponibles para el campamento. Algunos tienen requisitos especiales o van estando disponibles durante la historia, por lo que podrían estar bloqueados en estos momentos.
+Todo está saliendo según lo planeado. Les llevará un tiempo reparar la torre de agua.
+Ha salido todo tal y como lo habíamos planeado. Esperemos noticias.
+Todo ha ido según lo planeado. El surtidor de agua está irreparable.
+Tengo ampollas en los dedos.
+Nos quitaron nuestros abrigos.
+Todo desastre tiene un primer paso...
+Enemigos eliminados: {enemies}/{maxenemies}
+Lleva a tus partisanos al BTR
+Ejecutaron a todos los prisioneros que no pudieron escapar durante los disturbios.
+Me he quedado sin tabaco.
+Últimamente, ha salido porquería de todo tipo.
+Puedes encontrar información sobre diferentes aspectos del juego en la enciclopedia. Para abrirla, pulsa el botón «I» y abre la pestaña «Enciclopedia». Ahí podrás encontrar todos los consejos.
+Por el molino
+Los acabaremos encontrando a todos.
+Está todo muy tranquilo.
+Se incluye en el equipo de todo soldado que se precie. Recupera una pequeña cantidad de PS.
+Dos partisanas fueron colgadas ayer.
+Ayer colgamos a más partisanos.
+Cobré ayer mi sueldo. ¡Habrá que celebrarlo!
+Lográis escapar, pero el sargento Fetisov sufre heridas graves. Sanek, un joven de la zona, os lleva a la aldea y os presenta a Vasily Gavrilovich, un hombre de su confianza. El anciano se muestra reacio a aceptar a presos fugados, pero, aun así, os ofrece cobijo, os ayuda a limpiaros y se ocupa de la herida del sargento.
+Te pasas horas caminando por el bosque, con los árboles volviéndose cada vez más densos y oscuros a cada kilómetro que avanzas. Los pantanos y los árboles caídos te bloquean el paso cada cierto tiempo. Por fin, llegas a un claro con un refugio subterráneo en medio. Parece que su dueño, «Papá» Trofim, no está, así que haces una hoguera y te sientas a descansar.
+¡Tenéis que protegerme!
+Algunas puertas pueden estar bloqueadas. Tendrás que encontrar y usar las llaves adecuadas para abrirlas.
+Puedes cambiar los ajustes de juego (tales como mostrar la probabilidad exacta de impacto) en la pestaña «Ajustes de juego» del menú principal.
+Puedes cambiar la configuración del juego en la pestaña «Ajustes» del menú principal.
+Puedes usar ciertos objetos de tu entorno para esconderte del oponente. Haz clic con el botón izquierdo del ratón en el sótano para meterte dentro y esconderte de la mirada de las patrullas enemigas. Haz clic en el botón derecho del ratón para salir del sótano.
+Puedes saquear los cadáveres de los enemigos para conseguir equipo después de matarlos.
+Puedes cambiar tu actitud en combate. Si usas el modo defensivo, los partisanos no dispararán mientras no haya órdenes de que lo hagan. Durante el modo defensivo, se reduce la probabilidad de que los partisanos reciban daños. Puedes activar este modo si pulsas el botón [T].
+Puedes cocinar más si usas las provisiones obtenidas durante las misiones.
+Puedes servirte de objetos del entorno para esconder los cuerpos del enemigo y que así no los encuentren.
+¿Nos ayudaréis?
+No se han asignado partisanos.
+Se acabó el tiempo
+Esta es la pantalla de gestión del campamento partisano. Las pestañas de la derecha te permiten asignar tareas a los miembros de tu unidad.
+Cuánta terquedad.
+¿Venceréis a los malos?
+¿Has terminado de planificar las acciones de hoy?
+Deseja mesmo abandonar a missão?
+Terminou mesmo de planejar suas atividades diárias?
+Deseja mesmo voltar ao menu?
+Deseja mesmo substituir o registro salvo atual?
+Deseja mesmo reiniciar a missão?
+Deseja mesmo restaurar as configurações atuais?
+Deseja mesmo alterar o idioma? Isso reiniciará o jogo.
+Deseja mesmo alterar as configurações atuais?
+Deseja mesmo alterar o nível de dificuldade? Esta ação irá reiniciar a missão.
+Deseja mesmo excluir o registro salvo atual?
+Escolha o nível de dificuldade
+Selecionar o personagem
+Selecionar todos os personagens
+Escolha o 2º personagem
+Escolha o 1º personagem
+Escolha o 5º personagem
+Escolha o 3º personagem
+Escolha o 4º personagem
+Saia do campo de batalha vivo
+Descartar
+Espere {0} dias
+El ataque aéreo solicitado por los partisanos destrozó completamente la estación. Un impacto directo destruyó su arma de asedio Krupp K5, la cual ahora no suponía amenaza alguna para Leningrado. El grupo de partisanos había completado con éxito la misión de Moscú.
+Menu
+Chame o ataque aéreo
+Menu de depuração
+Chegue ao pântano
+Saia pela aldeia abandonada
+Apague todas as luzes
+El ataque a la estación de Bogachevo generó mucha agitación. Zobel, el comandante de la Hilfspolizei, lideró personalmente la cacería de partisanos. Siguiendo sus órdenes, decenas de ciudadanos inocentes fueron detenidos, interrogados y torturados.
+Los agentes clandestinos han fracasado en su misión. Los fascistas los han arrestado y colgado.
+Operações
+Tratamento: 
+Constituição
+Constituição I
+Constituição II
+Eventos y tareas que se han completado recientemente.
+Completado
+Al completar esta tarea, el escuadrón recibirá
+Completa la primera misión en menos de 10 minutos
+¿Acaso los hemos educado para ser traidores?
+Cuando sea mayor, pienso vengar a mis padres.
+Cavemos un par de trampas para lobos. Quizás atrapemos a algún animal salvaje.
+Moral alta
+Verja alta
+Solo puedes escalar verjas altas en ciertos lugares.
+Alta probabilidad de éxito
+Te permite aturdir a los enemigos de bajo rango (Polizei).
+Discurso radial del presidente del Comité de Defensa del Estado J. V. Stalin.
+Sair do jogo

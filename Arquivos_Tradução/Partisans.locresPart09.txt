@@ -1,0 +1,99 @@
+Se necesita mucha madera para mantener el ferrocarril en un funcionamiento ininterrumpido. Podríamos causar problemas si nos cargamos la madera de sus reservas.
+Se usa para pesar objetos. Coloca el objeto que deseas pesar en un cuenco y coloca contrapesos en el otro. Cuando ambos cuencos estén a la misma altura, la suma de los contrapesos te indica el peso del objeto en cuestión".
+Para verlo mejor todo desde el refugio.
+¡Sois los héroes del pueblo!
+Para destacar objetos con los que se puede interactuar, pulsa la tecla ALT.
+Pulsa «I» para abrir el inventario y equipar tu cuchillo en la primera ranura para armas. Arrastra y suelta el objeto en la ranura de la derecha o haz doble clic con el botón izquierdo del ratón para equiparlo. 
+Para obtener más información sobre la probabilidad de acierto de tu arma, pon el cursor sobre tu objetivo. Cuanto mayor sea la probabilidad de acierto, más lleno estará el marcador del objetivo.
+Tus personajes pueden saltar verjas pequeñas para tomar atajos.
+Para disparar tu arma, tienes que tenerla equipada y tener munición. Pulsa «R» para recargar tu arma. Las balas se almacenan en la mochila de tu personaje.
+Necesitamos un buen suministro de madera para construcciones y reparaciones. Menos mal que tenemos una arboleda de pinos cerca.
+Para aprender habilidades de un nivel superior, primero tienes que aprender tres habilidades del nivel anterior. A la derecha del árbol de habilidades se indica la cantidad de habilidades que te faltan.
+Tendrás que pulsar «Al día siguiente» para que los partisanos se pongan a hacer las tareas que les has asignado.
+Cualquier estructura de madera, ya sea un granero o un cobertizo, puede usarse como protección contra las balas. Cava un hoyo de protección cerca de la pared y usa la tierra para reforzar la pared desde fuera.
+Usa tácticas de emboscada para acabar con las patrullas de enemigos. Ponte a cubierto para sacarles ventaja. Ahí enfrente tienes un sitio perfecto.
+Los soldados de la Wehrmacht consumen 10 gramos de azúcar al día.
+Tiempo restante:
+añade o quita personajes seleccionados
+Llega a la aldea
+Llega a la base de los partisanos.
+Llega al lugar de la ejecución en 25 minutos
+Coge los documentos
+Obtén la información
+Búsqueda de recursos
+Llega al molino
+Doctor Zaytsev
+Documentos del comandante Biermeier
+¿Cuánto tiempo tengo que estar aquí?
+Tenemos muchas posibilidades
+Dombás, el corazón industrial de la URSS, ha caído en manos de los fascistas.
+Información adicional
+Misión secundaria
+Se han llevado una buena.
+El camino
+Tablón
+Agentes disponibles
+Partisanos disponibles
+Archivo: «Y. D. Belyaev»
+Archivo: «V. O. Gnarovskaya»
+Archivo: «E. I. Zelenko»
+Archivo: «I. I. Ivanov»
+Archivo: «V. P. Kislyakov»
+Archivo: «Z. A. Kosmodemyanskaya», parte 1
+Archivo: «Z. A. Kosmodemyanskaya», parte 1
+Archivo: «Z. A. Kosmodemyanskaya», parte 2
+Archivo: «Z. A. Kosmodemyanskaya», parte 2
+Archivo: «V. A. Kotyk»
+Archivo: «V. A. Kotyk»
+Archivo: «A. V. Petrova»
+Archivo: «E. M. Fomin»
+Archivo: «B. L. Khigrin»
+Circulan rumores de que los fascistas están ejecutando a la gente en masa tras ocupar Kiev. Según los informes, habrían matado a miles de personas.
+Dulag
+Lock y Stock
+SUMINISTROS DE COMIDA:
+COMIDA SUFICIENTE
+La comida está lista
+Si te vas al bosque, llévate un hacha
+Si la lata está llena, lo recomendable es que se la hagas llegar al enemigo.
+Si no estás en combate, puedes ocultarte para que los enemigos no te vean. Aprovéchalo para tender emboscadas.
+Si a mala fe violo este solemne juramento, que el severo castigo de la ley soviética y todo el odio y desprecio de las clases trabajadoras caigan sobre mí.
+¿Morir? Hoy no va a ser.
+Que vengan. Les daremos una cálida bienvenida.
+Si los partisanos son mínimamente inteligentes, no se atreverán a salir del bosque.
+Nadie se dará cuenta de que falta algo.
+Se puede activar la alarma en territorio enemigo.
+Hay misiones secundarias adicionales disponibles.
+¿Tienes algún contacto con el ejército?
+Hay oficiales de la Wehrmacht.
+Un alijo oculto.
+¿Hay alguien ahí?
+¡En el blanco!
+No hubo forma de corregir su comportamiento. Tuvimos que tomar medidas drásticas.
+Otra semana que pasa y otra incursión que termina. Debemos recuperar fuerzas y prepararnos para la próxima incursión.
+Otra aldea reducida a cenizas.
+No creerán que he sido yo, ¿no?
+¿Y si nos ordenan que peinemos el bosque?
+Otro cadáver.
+La habilidad se puede usar a mayor distancia. Aumenta el número de usos de una habilidad durante la misión.
+Puente ferroviario
+Cómo lamento lo de Praskovya. Era la chica más guapa de la aldea.
+Gendarme
+Cuerpo de hierro
+Tengo una mujer preciosa, pero temo por ella.
+¡Vete a casa!
+Escudo de carne
+Me duele el estómago.
+Qué hambre.
+¡Come plomo, escoria!
+O
+BLOQUEADO
+RECLUTAR AGENTE
+CARREGAR
+TAREAS
+CERRAR
+MATA A TODOS LOS ENEMIGOS EN LA ALDEA
+RANGO
+SOM
+recibirán {0}  de experiencia adicional
+Zorin vale más vivo que muerto.

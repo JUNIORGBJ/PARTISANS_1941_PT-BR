@@ -1,0 +1,99 @@
+Mata a 100 enemigos.
+Mata a 2 enemigos en un mismo uso de la habilidad Disparos en abanico.
+Mata a los dos polizei
+Mata a 3 enemigos con objetos del entorno.
+Mata a 3 enemigos en un mismo uso de la habilidad Ráfaga larga.
+Mata a 3 enemigos en un mismo uso de la habilidad Perdigones.
+Mata a 3 enemigos con una granada de mano
+Mata a 3 enemigos con una misma mina.
+Mata a 4 enemigos en un mismo uso de la habilidad Disparos en abanico.
+Mata a N enemigos con granadas
+Mata a N enemigos con granadas.
+Mata a N enemigos con minas y trampas de cable.
+Mata a N enemigos con minas y trampas de cable
+Mata a N enemigos con habilidades.
+Mata a N enemigos con habilidades
+Mata a N enemigos con objetos del entorno
+Mata a N enemigos con objetos del entorno.
+Apuñala a Biermeier por la espalda sin hacer saltar ninguna alarma.
+Mata a todos los enemigos
+Mata a todos los enemigos durante la misión de Zaborovka.
+Mata a todos los oficiales nazis del mapa
+¡Matad a esos malnacidos!
+Mata al comandante de los castigadores
+Elimina al comandante
+Elimina al comandante de las SS con un cuchillo
+Mata al líder del campamento
+Mata a los oficiales nazis mientras pescan
+Quitar del escuadrón
+Aumentan el radio y la distancia de «Ráfaga larga».
+Aumenta la distancia de las habilidades y se reduce su tiempo de recarga. Aumenta el número de usos de una habilidad durante la misión.
+Aumenta el radio de las habilidades y se reduce su tiempo de recarga.
+Aumenta el daño de las habilidades y se reduce su tiempo de recarga.
+Mochila aumentada I
+Mochila aumentada II
+Mochila aumentada III
+Aumenta la bonificación de defensa del personaje al estar a cubierto.
+Aumenta el alcance del lanzamiento de granadas. Reduce el tiempo para la explosión.
+Aumenta la distancia de lanzamiento y se reduce el tiempo de recarga de las habilidades.
+Aumenta en un 10 % la experiencia obtenida.
+Aumenta en un 25 % la experiencia obtenida.
+Aumenta en un 40 % la experiencia obtenida.
+Aumenta la cantidad de PS recuperados al usar botiquines.
+Aumenta el límite diario de misiones. Tus partisanos estarán mejor informados sobre los acontecimientos de la zona.
+Aumenta el número de cuchillos que se pueden lanzar a un enemigo. Se reduce notablemente la recarga de las habilidades.
+Aumenta el espacio en la mochila.
+Aumenta a 12 el tamaño del cargador.
+Aumenta a 20 el tamaño del cargador.
+Aumenta a 40 el tamaño del cargador.
+Aumenta a 97 el tamaño del cargador.
+Aumenta el daño en un 20 %.
+Aumenta algo.
+Aumenta la probabilidad de daño crítico en un 10 %.
+Aumenta la probabilidad de impactar al enemigo en un 10 %.
+Aumenta la probabilidad de impactar al enemigo en un 8 %.
+Aumenta la probabilidad de impactar al enemigo al usar fusiles.
+Aumenta la probabilidad de impactar al enemigo al usar metralletas.
+Aumenta la probabilidad de impactar al enemigo al usar pistolas.
+Aumenta la probabilidad de impactar al enemigo al usar ametralladoras pesadas y armas estáticas.
+Aumenta la probabilidad de impactar al enemigo al usar escopetas.
+Aumenta la bonificación de defensa del personaje mientras corre.
+Aumenta la distancia de las habilidades y se reduce la recarga. Aumenta el número de usos de una habilidad durante la misión.
+Aumenta el número de usos de una habilidad durante la misión.
+Aumenta la probabilidad de impactar al enemigo durante el modo Emboscada [Y].
+Pantano de Ugryumoye
+Eliminar elemento
+¡Que tengas suerte!
+Puesto de comunicaciones
+Evita los impactos al usar Voltereta de esquiva.
+Zona reforzada
+Coberturas
+Coberturas y tiroteos
+Ponte a salvo
+No tengo ni idea de cómo sobrevivir al invierno.
+Hasta las narices de tanto correr.
+La recarga entre disparos se reduce en un 25 %.
+Reduce la recarga de la habilidad.
+El radio de ruido del arma se reduce en un 60 %.
+Reduce el coste de energía que supone correr en combate.
+Se reduce la recarga de la habilidad «Inspiración».
+Munición universal de escopeta. Se puede usar con IZh – 5, IZhB – 36 y M30 Luftwaffe.
+Acaba con los bandidos y con cualquiera que los ayude. ¡Sus actividades te perjudican demasiado!
+Mata a Biermeier
+Deshazte de Zobel
+Acaba con los enemigos de la plaza
+Destruye todos los tanques nazis
+Acaba con el grupo de castigadores
+Destruye el arma del ferrocarril.
+Deshazte del armamento antiaéreo
+Acaba con el escuadrón de la muerte en la zona en ruinas
+Acaba con los nazis del otro lado del río
+Deshazte de los guardias de la segunda zona de explotación forestal
+Acaba con la seguridad del convoy
+Acaba con la seguridad del puente
+Deshazte de los guardias del embarcadero
+Deshazte de los guardias de la primera zona de explotación forestal
+Deshazte de la Polizei que está junto a la casa
+Acaba con los soldados
+Destruye el tanque
+Acaba con todos los enemigos o los nazis vendrán a matar a la hija del molinero.

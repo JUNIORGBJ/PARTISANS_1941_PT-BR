@@ -1,0 +1,99 @@
+No queda comida. Estamos a punto de morirnos de hambre. Debemos encontrar comida inmediatamente.
+Provocación I
+Provocación II
+Continuar
+Creación
+Evento de campamento
+Incidentes
+Completa la misión sin hacer saltar ninguna alarma.
+Completa la misión Cortijo.
+Completa la misión en menos de {N} minutos.
+Completa la misión sin usar granadas
+Completa la misión sin usar granadas.
+Completa la misión sin usar el cuchillo.
+Completa la misión sin usar el cuchillo
+Completa la misión sin usar armas de fuego
+Completa la misión sin usar armas de fuego.
+Completa la misión sin usar ametralladoras ligeras
+Completa la misión sin usar ametralladoras ligeras.
+Completa la misión de la ciudad sin hacer saltar ninguna alarma.
+Completa la misión de la estación de Bogachevo sin hacer saltar ninguna alarma.
+Ábrete paso a través de la aldea
+Pulmón perforado
+Propaganda
+Permiso
+El portador de este pase no tiene intención alguna de participar en la ridícula matanza en nombre de los judíos y comisarios y, por tanto, abandona al Ejército Rojo derrotado y se une al ejército alemán. Los oficiales alemanes ofrecen comida, alojamiento y trabajo. No es necesario el pase para unirse al ejército alemán, sino que se ofrecerá una cálida bienvenida en cualquier caso.
+Un tronco normal y corriente.
+Los enemigos pueden pedir refuerzos a través de sistemas especiales de alarma. Haz lo que esté en tus manos para impedirlo.
+Una lluvia intensa dañó el tejado. Debemos reparar el siguiente tejado: {0}.
+¡Dejad que me vaya, por favor!
+¡Escondeos!
+Los pájaros están a punto de migrar, pero aún podríamos ir de caza. No obstante, no queremos que unos disparos llamen la atención del enemigo.
+Ametralladora
+Las ametralladoras son armas extremadamente efectivas, pero necesitan grandes cantidades de munición.
+Lewis
+Ametralladora Lewis
+Dejad que vengan si es que tienen valor para hacerlo.
+Es culpa de los partisanos.
+¡Dejad que vengan, dejad!
+Grrr...
+DIVIDIR
+DISOLVER
+CONSUMO
+CONSUMO DE COMIDA AL DÍA
+LA PALA EN COMBATE
+Emisora de radio
+Radios del enemigo
+Si los alemanes pueden, nosotros también.
+¡Corred!
+¡Dividíos en grupos y buscad partisanos!
+Ahora, ya nadie los encontrará.
+Ahora ya nadie los encontrará.
+Exploración
+Dividir
+Brazo roto
+Diferentes objetos mecánicos.
+Tamaño del cargador
+Posiciona a todos tus personajes en el área especificada para salir de la ubicación.
+Desmontar
+Encuentra al representante de la aldea
+Ruptura del tendón
+Descargar
+Región disponible para explorar
+Los rangos del enemigo
+Los rangos del enemigo reflejan su nivel de peligrosidad. Para ver el rango, mantén pulsada la tecla ALT y pasa el cursor del ratón sobre el enemigo.
+Tendríamos que haber empezado a luchar antes.
+Antaño éramos el azote de los alemanes. Ahora, son ellos nuestro azote.
+Ya los vencimos en el pasado y podemos volver a hacerlo.
+Encontramos el alijo. Gavrilovich nos ayudó a devolver los objetos de valor a sus propietarios y nosotros nos quedamos con el resto.
+Horario de trenes
+Reparto del botín
+Mina de cable
+Las trampas de cable infligen daño de área y pueden ser muy útiles a la hora de tender emboscadas.
+Consumo
+cargador de gran tamaño
+Kit de resurrección
+Reanima a un partisano.
+La niña se perdió en el bosque. Esperemos que pueda sobrevivir por sí sola.
+Un revólver de la Primera Guerra Mundial reconvertido al calibre 7,62. Es un modelo de acción simple. Compensa su baja cadencia de tiro con un daño elevado y un elevado bloqueo de aire. Esta arma parece estar ajada por el uso.
+Un revólver de la Primera Guerra Mundial reconvertido al calibre 7,62. Es un modelo de acción simple. Compensa su baja cadencia de tiro con un daño elevado y un elevado bloqueo de aire. Es un arma de calidad media.
+Un revólver de la Primera Guerra Mundial reconvertido al calibre 7,62. Es un modelo de acción simple. Compensa su baja cadencia de tiro con un daño elevado y un elevado bloqueo de aire. Es un arma de calidad alta.
+Modo de visualização
+Modo Sigilo
+Masacre I
+Resultado
+La dificultad recomendada para la primera partida.
+Guerra ferroviaria
+Fuera de servicio
+De vital importancia para que la unidad funcione. Sin comida, los partisanos se morirán de hambre.
+Se usa para construir nuevas armas y mejorar las ya existentes. En ocasiones, se necesita para eventos del mapa de la campaña.
+Recursos encontrados:
+Recompensa: {food} de comida, {grocery} de recursos.
+Recompensa: {food} de comida.
+Recompensa: {grocery} de recursos.
+Recursos de la base
+Nuestro discurso no sonó muy convincente. Los ciudadanos nos echaron a patadas.
+La batalla decisiva
+Decidimos no perder el tiempo con el alijo. Consideramos que sería raro que la Polizei tuviera algo de valor y decidimos que no necesitábamos relojes o pendientes.
+Honda I
+Honda II

@@ -1,0 +1,99 @@
+Kit de primeros auxilios
+Archivos
+¡Cuidado!
+¡Mierda!
+BASE DE CONOCIMIENTO
+La abuela dice que mamá y papá están en el cielo.
+Las chicas de hoy en día son muy agresivas.
+Afilalápices de mesa de baquelita. Se suele usar en barracones y colegios.
+Esos bandidos que se hacen llamar «partisanos» no son nuestros camaradas. Hemos localizado su campamento y lo hemos destruido.
+Las bandas de Biermeier siguen asaltando las aldeas y los graneros de las granjas.
+Pan.
+¡Alabado sea el señor!
+Me duele la cabeza.
+¡Corred por vuestra vida!
+Dimos de comer a los fugitivos y los guiamos por el bosque hacia un lugar seguro.
+Ahuyentamos a los fugitivos. Esperemos que puedan sobrevivir en el bosque por sí solos.
+El nuevo grupo no tenía munición suficiente y fue derrotado. Los fascistas arrestaron y colgaron a los partisanos.
+Manos desnudas
+No puedo salir sin el permiso del representante de la aldea.
+Sin una buena pala, no se puede excavar un buen refugio subterráneo en el bosque.
+No puedes iniciar la misión sin este partisano
+¡Matad a los comisarios!
+Belozerova
+Belozerova corre en la dirección elegida. Los enemigos no pueden acertar a la partisana mientras corre.
+Belozerova mata a todos los enemigos que se encuentren en una pequeña zona alrededor de la partisana. Se necesita una pistola.
+Olga Mikhailovna Belozerova
+Belozerova, Olga Mikhailovna. Edad: 27. Nació en Novosibirsk (posteriormente, Novonikolayevsk). Fue criada por su padre, que era coronel en el ejército. Es licenciada en Derecho por la Universidad Estatal de Moscú y trabajó como investigadora en la Milítsiya de Moscú. Experta en los deporte de tiro. Se unió al Ejército Rojo después de que enviaran a su padre al frente.
+Pantano de Beloretskeya
+¡Cuidado! ¡Granada!
+¡Cuidado! ¡Viene una granada!
+Berta
+Cuánta maldad.
+Venda
+Biermeier ha vuelto a enviar a su banda.
+Biermeier ha ordenado aumentar el trabajo en las labores agrícolas. Las mujeres y los niños están trabajando duro en los campos de la mañana a la noche.
+¡Biermeier le quitaría hasta un mendrugo de pan a un bebé!
+Biermeier organizó la cosecha de maravilla.
+Cuerpo a cuerpo I
+Cuerpo a cuerpo II
+Cuerpo a cuerpo III
+Qué mal rollo.
+Misión de combate
+Brest: Informe de batalla
+Tareas y misiones de combate
+Los soldados de las SS son muy peligrosos, puesto que son guerreros muy hábiles que están volcados con su ideología. Pueden equiparse con ametralladoras.
+Soldados alemanes con el equipo más moderno y una importante experiencia en combate. Son muy peligrosos. Los francotiradores y los operarios de ametralladoras son especialmente letales.
+Hospital
+La Gran Berta
+Hubo una tragedia en el frente. Kiev, la capital de la Ucrania soviética, ha sido tomada por los fascistas.
+Ya no se puede usar.
+Los bolcheviques cerraron todas las iglesias. Ya ni siquiera podemos acudir a Dios para que nos proteja.
+Carne
+¡Es una bomba!
+Bonificación por cobertura
+Bonificación de precisión
+El borsch sabe igualito que el de mi abuela.
+Mi hermano también es partisano.
+¡Cubridme!
+¡Me han dado, hermanos!
+No está bien eso de coger cosas que no te pertenecen.
+Tronco
+La caída de Moscú no es más que otra mentira de los alemanes. ¡Nuestra capital resiste con uñas y dientes!
+Una ametralladora ligera Lewis de origen británico, adaptada al calibre 7,62. Aunque es un poco basta en comparación con otras armas más modernas, sigue siendo muy efectiva. Esta arma parece estar ajada por el uso.
+Una ametralladora ligera Lewis de origen británico, adaptada al calibre 7,62. Aunque es un poco basta en comparación con otras armas más modernas, sigue siendo muy efectiva. Es un arma de calidad media.
+Una ametralladora ligera Lewis de origen británico, adaptada al calibre 7,62. Aunque es un poco basta en comparación con otras armas más modernas, sigue siendo muy efectiva. Es un arma de calidad alta.
+Kit de afeitado alemán
+Se dejaron un montón de munición. No vamos a desaprovechar estos proyectiles sin utilizar.
+Lanzar piedras
+Lanzamiento de cuchillo I
+Lanzamiento de cuchillo II
+Lanzamiento de cuchillo III
+Esperemos que no logren atrapar al piloto y que sea capaz de llegar a una zona amistosa.
+Bastante difícil
+Vivir bajo ocupación
+El comisario de regimiento Efim Moiseevich Fomin se encontraba aturdido y parcialmente sepultado por los escombros después de que los alemanes volaran una de las habitaciones del barracón. El enemigo lo sacó de debajo de los escombros y lo tomó como prisionero; lo identificaron de inmediato como traidor y, luego, le dispararon en el muro de la fortaleza. Efim Fomin se enfrentó a su muerte con valor y dignidad.
+¡Cuidado: Minas!
+Botella
+Si dejas una botella en el suelo, el enemigo se acercará para comprobar su contenido.
+Las botellas que lance este partisano dejarán inconscientes durante 90 segundos a todos los enemigos que las huelan.
+El antiguo contable Sidorov es ahora un polizei. Vende de tapadillo la comida expropiada. Podríamos hacerle una visita nocturna y pedirle que comparta la comida.
+Petrov, el antiguo economista de la ciudad, se alistó en la Polizei. Está acosando a una chica llamada Avdotya. Debemos protegerla.
+¡Si fuese un poco más joven, les daría una lección!
+carregar registro salvo rápido
+Salvar registro rápido
+Salvo rápido 1<cf>{time}
+Salvo rápido 2<cf>{time}
+Salvo rápido 3<cf>{time}
+Mão-rápida
+Registro salvo rápido
+E
+A LUTAR!
+RECUERDA ESTO CUANTO COMBATAS CONTRA UN TANQUE:
+AÚN NO HAY INFORMACIÓN DISPONIBLE.
+AL CAMPAMENTO
+Los destacamentos partisanos de la región de Leningrado están llevando a cabo operaciones de combate intensivas, castigando sin compasión a las tropas de Hitler. Durante la segunda mitad de agosto en Luga y solamente en Luga, los partisanos acabaron con al menos 800 soldados y oficiales fascistas; inhabilitaron 14 tanques, 7 vehículos blindados, 17 cañones y 22 ametralladoras; destruyeron 47 camiones y 62 motos; quemaron 18 camiones de combustible y se apropiaron de grandes cantidades de munición, equipo de combate e ingeniería y suministros.
+DISPONIBLE
+NUEVOS LUCHADORES QUIEREN UNIRSE A NUESTRO ESCUADRÓN
+JANELA
+JANELA CHEIA

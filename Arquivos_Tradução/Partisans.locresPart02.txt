@@ -1,0 +1,99 @@
+Hito
+Llave
+MG 34 estática
+MP – 35
+Medicinal
+Militar
+Modelo 38
+Cruce
+NOME
+NOME DO EVENTO
+Nome
+Nova atividade:
+Proximo
+Não!
+OBJETIVOS
+A54CC5414B02B127EDA949B651C506AA
+Vigilância I
+Vigilância II
+Vigilância III
+Vigilância IV
+Ganzúa
+Linha defensiva
+Pressione um botão para vincular.
+NOME DA MISSÃO SECUNDÁRIA
+VOLTAR À SELEÇÃO
+Botão direito do mouse
+Recursos Adicionados
+Vila queimada
+Shift + 1, 2, 3: Adicionar personagem ao esquadrão
+Estática
+Chave do armazém
+Obrigado por jogar Partisans 1941!
+Prisão
+Versão:
+NOME DA ARMA
+Tempo de jogo:
+Arma
+Has cumplido la petición de la anciana y le has devuelto su icono. Ella te dio una granada que se encontró su nieto y te ayudará a salir de la aldea.
+Aumenta la velocidad al transportar cuerpos.
+Hacienda
+Fábrica
+[¿Qué?]
+[¡Pobre saco de pulgas!]
+[¡Cuidado!]
+[Mira qué bien, ideal para entretenerme.]
+[¡Atacad!]
+[¡Apartaos!]
+[¡A cubierto!]
+[¡Poneos a cubierto! ¡Ya!]
+[Qué mala suerte. Es agua.]
+[¡Descanso!]
+[¡Aquí está nuestro objetivo principal!]
+[¡Ahora sí que me estoy empezando a enfadar!]
+[¡Mierda!]
+[¡El enemigo está en la zona!]
+[¡Cuidado! ¡El enemigo está en la zona!]
+[¡Poneos todos en marcha!]
+[¡Prestad todos atención!]
+[Está todo muy tranquilo.]
+[¡En marcha!]
+[Ni siquiera lo he notado.]
+[¡Cambio de posición!]
+[Como no encontremos a nadie, me aseguraré de que hagas turnos de guardia extra.]
+[Otra muesca en el cinturón.]
+[¡Defended la posición!]
+[Vergissmeinnicht...]
+[¡Voy al rescate!]
+[¡Buscad!]
+[¡Preparaos para el combate!]
+[¡A combatir!]
+[¡Apenas una picadura de mosquito!]
+[¿Quién anda ahí?]
+[¿Quién mató al perro?]
+[¡Toma esto!]
+[¡Necesito un médico!]
+[Estoy cambiando el cargador.]
+[¡Cambiando de posición! ¡Cubridme!]
+[¡Cambiando de objetivo!]
+[¿Es cosa mía o...?]
+[Ya podemos relajarnos.]
+[Basura.]
+[¡Podemos ganar!]
+[¡Lo vengaremos!]
+[Espero que no sea Heinrich.]
+[Espero de todo corazón que duela.]
+[Espero que sea otro simulacro.]
+[¡Encontrad al responsable de esto!]
+[¡Encontrad a esos malnacidos!]
+[¡No puedo salir!]
+[El entrenamiento ha merecido la pena.]
+[¡No era nada!]
+[¡No hay tiempo para relajarse!]
+[No es nada.]
+[¡Registrad la zona!]
+[Otro día cualquiera en el frente.]
+[¿Sigue con vida?]
+[¡Arma preparada!]
+[Echad un vistazo a los alrededores.]
+[¡Apagad las luces!]
