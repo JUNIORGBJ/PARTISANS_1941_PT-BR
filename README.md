@@ -1,5 +1,5 @@
-# PARTISANS-_1941_PT-BR
-Tradução do Jogos Partisans 1941 PC
+# PARTISANS 1941 PT-BR
+
 [![Discord](https://img.shields.io/discord/721047801957580821?color=blueviolet&label=Discord)](https://discord.gg/HESMuU2)
 [![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-blue?style=flat&logo=Windows&logoColor=white)](https://github.com/JUNIORGBJ)
 
