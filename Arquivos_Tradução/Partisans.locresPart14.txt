@@ -1,0 +1,99 @@
+Rumores locales
+Yegor, un parásito de la Polizei local, va a celebrar una boda por todo lo alto. Deberíamos hacerle una visita.
+Tienes espacio limitado en tu inventario. Para hacer sitio, selecciona un objeto con tu ratón y, luego, arrástralo y suéltalo encima del retrato de tu personaje partisano para dárselo. También puedes hacer clic con el botón derecho del ratón, seleccionar «Entregar» y escoger al partisano al que quieres entregarle el objeto.
+Aquí se pueden tratar las heridas.
+Un lugar en el que tus partisanos se pueden reunir para debatir temas importantes.
+Natrium metamizole
+Mina
+Las minas infligen daño de área, pero es difícil situarlas eficazmente.
+Una mina montada en el campo de batalla. No tiene tanta potencia, pero puedes fabricarla con los materiales que tengas a mano.
+Artificiero
+Minas y trampas de cable
+Las minas y las trampas de cable son una gran forma de librarse de las patrullas y de las formaciones numerosas de enemigos. Funcionan mejor si se colocan en zonas estrechas.
+Misiones
+Mikhailovo
+Tengo que ir al médico.
+Las botas de oficial no están mal, supongo.
+Me sería muy útil tener a un perro con buen olfato.
+Quiero dulces, aunque sea un pedacito...
+No puedo hablar con desconocidos.
+¡Tengo miedo!
+Hay varias misiones secundarias adicionales disponibles.
+Muchos recursos de base.
+Modificadores
+Deslizador modificado
+Se pueden pedir refuerzos.
+Puede que lo logremos
+Podría ser útil
+Puede que tenga suerte si logro huir hacia el bosque.
+Es posible que los partisanos aún puedan salvarnos.
+Está claro que lo mío no es tener la conciencia limpia.
+Se puede hervir en vez de hojas de té.
+¿Puedo disparar?
+Solo se puede usar con aquellos que estén «Al borde de la muerte». Reanima al personaje.
+Ya podemos relajarnos.
+¿Puedo unirme?
+Mientras mi marido no regresa, ¡seré yo quien porte la bandera!
+Mi hogar es mi templo.
+Mi papá es un héroe. Va a salvarnos a todos.
+Bam. Has muerto.
+¡Buen trabajo!
+¡Buen trabajo, partisanos! Además, habéis matado a ese malnacido.
+Entonces, ¿no hablas?
+Moral
+Aumento de la moral:
+Aumentará la moral del escuadrón.
+Se reducirá la moral del escuadrón.
+Moral reducida:
+Morozov
+Grigory Stepanovich Morozov 
+Morozov, Grigory Stepanovich. Edad: 33. Se crió en una familia disfuncional de Moguilov, en la República Socialista Soviética de Bielorrusia. Es alcohólico, tiene una extensa carrera criminal y fue detenido varias veces. El crimen rige su vida. Cuando empezó la guerra, estaba en una prisión local. Lo asignaron a un equipo de construcción de elementos defensivos y huyó durante un bombardeo alemán.
+Morozov estuvo toda la noche fuera. Apareció por la mañana con una herida profunda y una bolsa llena de suministros.
+Puente
+El motociclista chocará contra el cable y perderá el equilibrio. Cuando caiga, puedes matarlo o tomarlo como prisionero.
+¡Acabad con ellos!
+Mi marido está en el ejército, huyendo.
+Mi marido se fue a la guerra.
+Ahora podremos relajarnos.
+Valentina Alievna Mukhambetova
+Mukhambetova, Valentina Alievna. Edad: 21. Hija de padre kazajo y de madre rusa. Nació en la aldea de Leninsky, en la República Autónoma Socialista Soviética de Kazajistán. Miembro de la Komsomol. Antigua estudiante de Pediatría en la escuela de medicina de Almá-Atá. Fue a la guerra junto con sus compañeros de clase y la asignaron a un batallón médico como enfermera.
+Síguenos en:
+Le fallamos a todo el mundo.
+Cogimos la comida. La necesitábamos para luchar y el dueño del alijo podría estar ya muerto.
+Hemos capturado a un polizei, pero no conseguimos sacarle información. Parece haber alguien a quien teme más que a nosotros.
+Conseguimos fabricar una granada casera con lo que teníamos a mano.
+Hemos logrado fabricar una mina casera con lo que teníamos a mano.
+Encontramos al piloto y lo llevamos junto a los amigos de Vasily Gavrilovich.
+Decidimos no ayudar a los refugiados con su campamento. Necesitamos todas nuestras fuerzas para el combate.
+¡No os hemos hecho nada!
+Les explicamos las bases de las operaciones partisanas a los lugareños.
+Les contamos a los lugareños los éxitos que habíamos obtenido enfrentándonos a los invasores, para que supiesen que el gasto de comida y suministros no era en vano.
+Preparasteis unas raciones deliciosas.
+Preparamos una bolsa médica con todo lo que podrían necesitar los heridos.
+Los ratones se han estado comiendo nuestra comida.
+Las picadoras de carne de la marca Kasli se hicieron famosas no solo en su país natal, sino en muchos países de todo el mundo.
+Miel
+EN UNA ACTIVIDAD
+A LA MISIÓN
+LA HABILIDAD ESTARÁ DISPONIBLE MÁS TARDE.
+HABILIDADES
+RECOMPENSA
+VOLTAR
+PARA ALIMENTAR A LOS PARTISANOS
+PARA ALIMENTAR A TODO EL MUNDO
+OPÇÕES
+NACIONALIDADE
+NO TIENES SUFICIENTES PUNTOS DE HABILIDAD.
+NEUTRAL
+ENTREGA BLOQUEADA
+NO HAY MODIFICADORES DISPONIBLES.
+SEM RECURSOS
+BAJA
+IR AL ALMACÉN
+¡A Berlín!
+A los partisanos se les pueden encomendar tareas de todo tipo en el campamento. Por ejemplo, para construir una tienda médica, tienes que asignarle a un partisano tareas de construcción.
+Por un pelo
+Açao
+Al mapa general
+Los fascistas redujeron una aldea a cenizas hace un tiempo. Los aldeanos lograron huir para esconderse en el bosque. Todo el mundo sobrevivió, pero ahora no tienen adónde regresar. ¿Deberíamos ayudar a los refugiados a construir refugios temporales?
+Los alemanes están construyendo unos barracones cerca de la estación de tren. Vayamos a estropear su trabajo.

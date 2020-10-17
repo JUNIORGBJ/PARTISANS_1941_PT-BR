@@ -1,0 +1,99 @@
+[¡Disparad!]
+[Increíble.]
+[¡Al suelo!]
+[No puedo acertarles desde aquí.]
+[Me he quedado sin balas. Cubridme.]
+[Huele a agua.]
+[La situación se está volviendo confusa...]
+[¡Recargando!]
+[¡Me disparan! ¡Cubridme!]
+[¡Me están disparando!]
+[Tu aspecto es sospechoso.]
+[Voy a vomitar...]
+[Ahora, descansad.]
+[Seguramente no sea nada.]
+[Afirmativo. Nos ponemos en marcha.]
+[¡Lárgate!]
+[¡Cubridme! Estoy recargando.]
+[No me obligues a dispararte.]
+[¡Fijaos en eso!]
+[Ha sido muy fácil.]
+[¡Dispersaos!]
+[La medicina no puede hacer nada.]
+[¡Cabrón!]
+[¡No te muevas o disparo!]
+[¡Alto!]
+[¡Alto! ¡Es una orden!]
+[¡Disparad en cuanto estéis listos!]
+[No puedes estar aquí.]
+[Esto es lo que os voy a hacer a todos.]
+[Ahora, un poco a la izquierda.]
+[¿Tú quién cojones eres?]
+[¡Tenemos bajas!]
+[Tienen bajas.]
+[¡Matadlos!]
+[¡Matad a los rusos!]
+[Como te vea borracho de servicio, te pego un tiro.]
+[¡Calma!]
+[¡Buen tiro!]
+[Era un buen perro.]
+[Buen tiro.]
+[¡Malditos partisanos!]
+[¡Puñeteros eslavos!]
+[¿Qué es ese ruido?]
+[¿Qué es?]
+[¿Qué ha sido eso?]
+[¡Eh!]
+[Está chupado.]
+[Esta es una zona restringida.]
+[¿Qué es? ¿Schnapps?]
+[¡Espera, Jürgen!]
+[¿Lo conozco de algo?]
+[Debería contactar con su familia.]
+[¡Me han dado!]
+[No me suena tu cara.]
+[Voy a poner este sitio patas arriba.]
+[Creo que veo algo...]
+[He oído algo.]
+abandonar
+I
+minutos
+algo
+especialidad
+coger todo
+¡A Biermeier le encanta beber! ¡Ese es mi hombre!
+¿Y si nos atacan?
+Detuvieron a Kolya por andar repartiendo folletos.
+¿Y si todavía siguen aquí?
+¿Está el comandante Zorin con vosotros?
+¿Me darán un premio?
+¡Piérdete!
+A los partisanos les da igual todo.
+Los partisanos lo están haciendo genial enfrentándose a los fascistas.
+Entonces, los alemanes comenzaron a llevarse a gente para trabajar en Alemania. A algunos los persuadían y a otros simplemente los forzaban. Yo me las ingenié para esconderme en el ático, pero se llevaron a mi hermana.
+¿Qué es esto?...
+¿Quiénes son los partisanos?
+¿Eh?
+¿Eh? ¿Qué pasa?
+AVS – 36
+AGENTES
+Lugar del accidente
+Avdotya es la chica que protegimos del acoso de Petrov. Nos ha preparado un poco de pan. ¿Deberíamos ir a por él?
+Bolsa de hilo con verduras
+Guardado automático
+Convoy
+Operario de ametralladora
+Operario de ametralladora de las SS
+Fácil
+Agente 47
+Agente herido.
+Agente muerto:
+Los agentes de Nikitin nos informan de que los alemanes reforzaron las patrullas en torno a la estación de Krasnoselskaya. Eso no es bueno.
+-
+Propagandista
+Enemigo agresivo
+¡Duele!
+Tras seguir con mucho cuidado las huellas del uapití, lo encontramos y lo matamos.
+Activa la acción de la base
+Tarea
+No tienes misiones secundarias activas.

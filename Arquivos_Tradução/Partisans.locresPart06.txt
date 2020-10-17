@@ -1,0 +1,99 @@
+Contrapesos Beranger
+Vechernyaya Moskva n.º 154
+Vechernyaya Moskva n.º 155
+Vechernyaya Moskva n.º 206
+Vechernyaya Moskva n.º 213, parte 1
+Vechernyaya Moskva n.º 213, parte 2
+Vechernyaya Moskva n.º 224
+Vechernyaya Moskva n.º 236
+Vechernyaya Moskva n.º 254
+Vechernyaya Moskva n.º 270
+Vechernyaya Moskva n.º 270, parte 1
+Vechernyaya Moskva n.º 270, parte 2
+Revienta el tanque durante la primera misión.
+Explota cuando el temporizador llega a cero. Puede destruir vehículos.
+Explosivo
+Carga explosiva temporizada
+Va a explotar. ¡Corred!
+¿Un partisano? ¿Con la cara azul y una soga al cuello?
+Vi de refilón la cara de Zobel. ¡Qué mal rollo da!
+Vi a un chaval cerca del campamento.
+Lo que daría por un poco de vino.
+Un poco de vino sería genial...
+Será Dios quien decida quién es culpable y quién no.
+Fusil Mosin
+Fusiles I
+Fusiles II
+Fusiles III
+Para pausar o continuar
+Sim
+Activar el modo Pasivo
+Activar el modo Vigilancia
+Activar el modo Táctico avanzado
+Dominio del fusil
+Dominio de la pistola
+Dominio de la metralleta
+Dominio de la escopeta
+Dominio de armas pesadas
+Encuentro repentino
+Al correr, se reduce notablemente la probabilidad de que te impacten.
+Al correr, se reduce la probabilidad de que te impacten.
+Un rayo cayó sobre un viejo pino en la linde del campamento. Debemos apagar el incendio antes de que se expanda a {0}.
+Hemos logrado apagar el fuego a tiempo. Todos los edificios están a salvo.
+Entrenamiento militar
+Alto secreto
+Recursos militares
+Posibles consecuencias
+¡Quiero unirme a los partisanos! ¡Llevadme!
+La guerra nunca cambia
+¡Esto es una guerra!
+Las Waffen-SS
+Una niebla impenetrable envuelve la zona 
+Volkovo
+Aldea Volkovo
+Un lobo atacó ayer a uno de los partisanos. Apenas pudo hacer frente al animal y acabó herido.
+Inspiração
+Inspiração I
+Inspiração II
+Recuperação da saúde
+Se tarda menos en usar medicinas.
+¡Cuando regrese el Ejército Rojo, pienso darles una lección!
+¡Pedazo de rata! ¡Te voy a disparar!
+Los partisanos no dudarán en robarnos en cuanto se les acabe el pan.
+Así que este es el futuro mejor que nos habían prometido.
+A paseo el poder soviético.
+En cuanto se acabe la guerra, pienso vivir como un rey.
+Cuando vuelva mi padre, pienso contárselo todo.
+Cuando aparezcan enemigos, deja que se acerquen tanto como puedas, a unos 10-20 metros, y, luego, sorpréndelos con tus fusiles, ametralladoras y granadas. Debes actuar con rapidez y abrumar al enemigo antes de que puedan siquiera apuntarte. Usa el combate cuerpo a cuerpo si es necesario. Atraviesa al enemigo con tu bayoneta, córtalo con tu pala, golpéalo con la culata de tu fusil y apuñálalo con tu cuchillo. Nunca dejes que tu oponente lleve la iniciativa.
+La vida mejorará mucho cuando hayamos acabado con los judíos y los comisarios.
+Les demostraré de lo que soy capaz.
+A paseo el invencible Ejército Rojo.
+Cómo detesto esta rutina.
+¡Parece que estoy de suerte!
+Enemigo
+Un peligroso oponente que maneja una ametralladora estática. Tus luchadores pueden tomar el control del arma y usarla contra los enemigos.
+Los enemigos no pueden verte mientras te mueves entre la maleza. Aprovecha la maleza para llegar al siguiente patio sin que te vean.
+Los enemigos están alerta o en combate. No se puede guardar.
+Los enemigos no pueden ver qué hay dentro de los arbustos hasta que se meten en ellos. Aprovecha esto para ocultarte.
+Enemigos excepcionalmente bien armados.
+Enemigos bien armados.
+Si los enemigos se percatan de que hay presencia partisana, es posible que hagan sonar la alarma o que pidan refuerzos por radio.
+Puedes lanzar piedras para distraer a tus enemigos o colocar botellas para incitarlos a acercarse. Ten en cuenta que no todos los enemigos reaccionarán a estas tácticas.
+Puedes neutralizar o distraer con mayor facilidad a los enemigos que viajan solos. La cosa se complica si te encuentras con un grupo de enemigos. Intenta que no te detecten.
+Granada del enemigo
+Un operador de radio enemigo con una radio portátil. Podría pedir refuerzos y eso te traería grandes problemas.
+Oficiales enemigos eliminados: {officers}/{maxofficers}
+El mejor modo de incapacitar a un motociclista rival es colocar un cable de un lado a otro de la carretera. Primero, encuentra un árbol robusto a un lado de la carretera y ata un extremo del cable, a un metro del suelo. Luego, estira el cable hasta el otro lado de la carretera y espera junto a un árbol que esté frente al primero.
+¡Eso de que tomaron Leningrado no es más que una sarta de mentiras!
+Prácticas médicas
+Girar la cámara a la izquierda
+Mover la cámara a la derecha
+Girar la cámara a la derecha
+Efecto temporal. Menor velocidad de movimiento. Menor probabilidad de impactar al enemigo.
+Tempo
+Tempo de missão: {h} h {m} m {s} s
+Tempo de missão: {m} m {s} s
+Aumenta la recarga de habilidades. Se reduce la visibilidad en la niebla de guerra.
+Tus agentes han recibido experiencia:
+Todas as tarefas
+Todas las tareas disponibles en estos momentos en el campamento.

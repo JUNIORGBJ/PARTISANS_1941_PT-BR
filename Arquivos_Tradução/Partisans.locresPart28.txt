@@ -1,0 +1,99 @@
+Usar solo por motivos médicos.
+Controle
+Controlar sua equipe pode ser um desafio. Use esconderijos para aumentar as chances de sobrevivência de seus personagens.
+Usar câmera
+Controle de esquadrão
+Controlar o personagem
+Viva! É o partisans!
+tormenta
+Nível de dificuldade
+Nível de dificuldade: {difficulty}
+Un partisano con heridas graves puede morir si no recibe tratamiento a tiempo. Se bloquea la opción de guardar partida durante las misiones. El modo Táctico no ralentiza el tiempo.
+La salud tanto del enemigo como de los partisanos es muy baja. Todo combate puede ser un problema. Los perros son muy peligrosos.
+Las cosechas se están pudriendo ahí fuera.
+Daño
+Cortijo
+Muelle reforzado
+¡Reforzad las patrullas!
+Mayor velocidad de movimiento con la habilidad Voltereta de esquiva.
+¿Tuvo mi familia alguna opción de evacuación?
+Hazlo antes de que llegue el escuadrón de las SS
+Éxito
+Fatiga
+Pon los explosivos
+Decidimos no tender una emboscada. Teníamos peces más grandes por pescar.
+Acaba con la brigada de la locomotora
+Le tendimos una emboscada al carro y recuperamos la comida. Esta noche, podremos cenar en condiciones.
+A la mañana siguiente, encontramos una liebre en la trampa del hoyo.
+A la mañana siguiente, vimos un rastro de uapití cerca de la base. Podríamos seguirlo.
+¡Arg! ¡Me cago en...!
+Me encanta el estofado de pescado.
+Cuidar el arma es lo que diferencia a una persona civilizada de un neandertal.
+Uf... ¡Fue una gran explosión!
+Contabilidad y control
+De no ser porque tengo que alimentar a mi familia, me iría al bosque y me uniría a los partisanos.
+De no ser porque tengo que alimentar a mis hijos, me iría al bosque y me uniría a los partisanos.
+Los fascistas han rodeado Sebastopol y la base principal de la Flota del Mar Negro. La ciudad está organizando una férrea defensa.
+Los fascistas descargan el grano en el molino local. Vasily Gavrilovich cree que el molinero es buena persona. Deberíamos hacerle una visita, a ver si puede guardarnos un poco de harina.
+Los fascistas están dando caza a los fugitivos.
+Los fascistas están obligando a los campesinos a cosechar lo poco que quede ahí fuera. Las cosechas se enviarán al frente. No podemos secuestrar el tren con la comida, pero sí que podemos envenenar las provisiones que estén preparadas para el envío.
+Los fascistas nos montaron una emboscada en la aldea. Los vimos a tiempo y logramos escapar, pero no obtuvimos información alguna.
+Los fascistas nos montaron una emboscada en la aldea. Logramos escapar por los pelos.
+Nos tratan como a esclavos.
+Los fascistas están buscando partisanos.
+Los fascistas han cerrado prácticamente todas las escuelas del distrito. Las que siguen abiertas, tan solo dan cuatro clases. Según los nuevos profesores, son todo lo que los rusos necesitan saber.
+Los fascistas están arreglando una vieja fortaleza que hace años fue una prisión. La gente dice que están obligando a los prisioneros de guerra a hacerlo, con lo que están construyendo sus futuras celdas.
+Los fascistas están usando cualquier excusa imaginable para llevar a cabo ejecuciones públicas. Matan a gente a diario.
+Fetisov
+Nikolay Alexandrovich Fetisov
+Fetisov, Nikolay Alexandrovich. Edad: 24. Nació en Leningrado, en el seno de una familia obrera. Decatlonista. Estudió en la Universidad Lesgaft de Educación Física y Salud. Se unió al ejército la primera semana de la guerra, con el reclutamiento del Komsomol. Fue sargento en la compañía del capitán Zorin.
+Fetisov se hizo daño en la mano mientras arreglaba el tejado. Así aprenderá a fijarse bien dónde da con el martillo.
+Fetisov dispara a todo el mundo que esté al alcance del cono de la habilidad. Se necesita una metralleta.
+Fomin
+Linterna alemana
+Cámara de vídeo alemana. Fabricadas por Voigtlander desde 1936.
+Cámara Voigtlander
+Una imagen de la prometida de Fetisov. En la parte de atrás, con una bella caligrafía, se puede leer: «Te estaré esperando. Nastya».
+Fotografía
+Fotografía: «PzKpfw IV»
+Fotografía: «Unidad de partisanos soviéticos»
+Fotografía: «El equipo reunido»
+Los fascistas están muy enfadados. No debería interponerme en su camino.
+Para los alemanes, estamos al nivel de los piojos.
+Los fascistas roban todo lo que se encuentran.
+Puaj, me ha reventado una ampolla.
+Biermeier está a cargo de los recolectores.
+Uf, no ha sido nada.
+Járkov, un importante centro industrial y ferroviario, ha caído en manos de los alemanes tras un mes de intensos combates. La mayoría de las fábricas han sido ya evacuadas y el resto fueron destruidas para que no cayeran en manos del enemigo.
+Kit de cirugía
+Pan
+Cloroformo I
+Cloroformo II
+Corren rumores de que el comandante Mellenberg pretende implementar medidas antipartisanos aún más drásticas. ¿Qué tendrá ese malnacido en mente?
+Creación y suministro
+Edificios de servicios que sirven para evitar que los partisanos se mueran de hambre.
+Casa 
+Está refrescando.
+Llenar las carreteras de minas puede dar buen resultado. Coloca minas en varios lugares diferentes y camúflalas lo mejor que puedas; luego, ponte a cubierto para que la explosión no te haga daño. Usa todo tu arsenal para acabar con los enemigos que queden en pie tras la explosión de una de tus minas. El mejor momento para llenar las carreteras de minas es por la noche, justo antes del amanecer.
+Doctor habilidoso
+Me alegro de que mi viejo no esté vivo para ver esto.
+Menos mal que no he sido yo.
+Espero que todo vaya bien.
+Le guste o no, acabará siendo mía.
+Dios te bendiga.
+Mantener fuera del alcance de los niños.
+¡Arg! ¡Puñeteros partisanos! Si tengo que estar aquí, es por su culpa.
+Puñeteros partisanos...
+Jútor
+Llevo todo el día aquí sin comer nada.
+Objetivo da missão
+Objetivo da missão pessoal
+Objetivo da missão secundária
+El Centro planea un ataque aéreo sobre la estación de Krasnoselskaya, con el objetivo de destruir el cañón conocido como Slender Berta. No obstante, primero debemos colarnos en la estación para llevar a cabo un pequeño sabotaje.
+Focar a câmera no partisans após o carregamento
+M-Malditas botas... ¡Tengo los pies llenos de ampollas!
+El té es ideal para calmar la sed... y, por lo general, también es bueno para la salud.
+Té indio de primera calidad
+Hora de la venganza
+Se ha estropeado parte de la comida debido a la elevada humedad que hemos tenido últimamente.
+Reloj de pulsera

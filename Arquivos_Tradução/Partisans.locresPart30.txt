@@ -1,0 +1,99 @@
+sair
+menu principal
+tratar
+tratar a todos
+completar
+aumentada
+Volume da voz
+Volume da música
+Volume do som
+Aldea Borovichí
+Aldea Grigorievka
+Aldea Ivanovka
+Aldea Mikhailovo
+Aldea Pogoreltsy
+Aldea Telegino
+rotación y movimiento de la cámara
+recursos encontrados:
+disponible
+outros jogos
+unidades de comida
+unidades de suministros
+diario de la misión secundaria
+reclutar
+completado
+actividades completadas
+terminar actividad
+carregar
+carregar partida
+diario
+cerrar actividad
+buena salud
+jogo
+De familia militar
+abierto
+Inventário
+infiltração
+ativar habilidades primárias e secundárias
+usar objeto slot ativo
+a la actividad
+Kazaja
+Capitão
+Capitão da NKVD
+mapa tático
+Empregado
+Agricultor
+cursor - movimento da câmera
+em tratamento
+aceitar
+opções
+Jogar
+novo jogo
+novas atividades
+nova construção
+volume geral
+qualidade geral
+Lago Ostrovnoe
+Sosnovoe l. 
+experiência
+principal
+recusar
+não
+abrir
+cancelar
+lançar
+partisano
+plantilla pasiva SÍ/NO
+reiniciar missão
+recarregar
+pistolas
+Metralletas
+destacar objetos interativos
+dicas
+jogador
+corte na mão
+Aceitar
+Comprar
+falhou
+continuar
+Bolshaya r.
+resolução da tela
+herido
+modo de controle
+escopetas
+Rusa
+reiniciar
+Restaurar padrões
+suave
+Sargento médico
+Velocidade de giro da câmera
+Velocidade de movimento da câmera
+Mudar de arma
+reducida
+criar
+salvar o jogo
+Especialista
+Médico experto
+botão do meio do mouse + cursor: girar câmera
+Est. Bogachevo
+Encargado

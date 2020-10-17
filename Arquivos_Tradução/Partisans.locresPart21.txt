@@ -1,0 +1,99 @@
+Abandona la ciudad antes del bombardeo
+Aldea Pokróvskoye
+Campo de batalla
+Refugio central
+Política de privacidade
+La Polizei
+Miembros del Ordnungspolizei y otras organizaciones a los que se conoce coloquialmente como la Polizei. Generalmente, son chaqueteros y renegados. Los alemanes suelen equiparlos con armamento inferior y los envía a mantener el orden en las aldeas. No son especialmente peligrosos.
+La Polizei comentó algo sobre un estandarte rojo que fue entregado en la sala de trofeos alemana de Pokróvskoye. Debemos ir allí y recuperar ese estandarte tan valioso.
+La Polizei estaba preparada para un ataque. Hemos fracasado.
+¡La Polizei está más cómoda que unos gusanos en el beicon!
+La Polizei está muy ocupada asaltando un distrito vecino. Podríamos hablarles a los aldeanos de todos los crímenes de los invasores.
+La Polizei nos vio. Tuvimos que retirarnos.
+Los polizei son mala gente.
+Polizei
+El polizei Yegor, al cual pusimos los puntos sobre las íes, nos contó que pasaría por el bosque una vagoneta con suministros. Podríamos hacernos con la comida.
+El polizei Petrov, a quien llamamos a responsabilidad civil, nos dijo que su jefe tenía un alijo de objetos confiscados. Quizás deberíamos ir a echar un vistazo.
+A un polizei se le escapó, hablando con Vasily Gavrilovich, que estaban posicionando las armas antiaéreas en torno a la estación de Bogachevo. Tiene pinta de que pronto llegará un cargamento importante.
+La Polizei ve partisanos por todas partes.
+La Polizei no es capaz de hacer nada.
+Coronel de la Wehrmacht
+Recluta a todos los partisanos para la causa.
+Una gran distracción
+Medias raciones.<cf>Las habilidades de los saboteadores se reducen significativamente.
+La mitad del distrito ha sido detenido.
+Tienes a un nuevo agente
+Objeto recibido:
+Heridas
+Recursos recibidos:
+¡Has recibido tu merecido, maldito fascista!
+Verduras.
+Recuerda que el bosque te protege. Usa los árboles y las cunetas como cobertura contra el fuego enemigo y para tender emboscadas. Válete de zarzos y verjas para ocultar tus movimientos y ábreles ranuras para las armas en donde consideres conveniente.
+¡Socorro!
+La ayudamos y todo el mundo está feliz, sano y saciado.
+La ayudamos y curó al soldado herido.
+Ayudar
+Ayuda a Trofim a repeler un ataque
+Ayuda
+Ayuda al médico
+Ayuda a los ciudadanos
+Cuando me muera, ¿quién me enterrará?
+Hemos pescado varios peces.
+Se esconden como ratas.
+Es hora de dominar mis habilidades.
+El grupo debilitado no pudo resistir frente al enemigo. Los partisanos fueron arrestados y colgados.
+Corte en la mano
+Pitillera OSOAVIAKhIM
+No hay nada que podamos hacer.
+Tras una serie de sabotajes ferroviarios, las patrullas alemanas emplean ahora perros de servicio capaces de detectar explosivos desde una distancia considerable.
+Hubo muchas detenciones desde la llegada de Zobel. Están encerrando a la gente por sospechas prácticamente infundadas.
+Último jogo salvo
+A última cena
+Consequências
+Para ver o cone
+Pongamos trampas. Quizás atrapemos a algún animal salvaje.
+Les disparamos a los lobos y lisiamos a uno. No volverán.
+Construir
+Construye la mesa de trabajo
+Pérdidas
+Envenenamos a los ratones. Nuestras reservas de comida están a salvo.
+Las reparaciones nos llevaron todo el día, pero ya parece estar todo en orden.
+Nuestros camaradas se metieron en problemas. Puede que la Polizei sepa lo que pasó en Volkovo. Deberíamos atrapar a uno para hacerle hablar.
+Arreglar arma
+Pravda n.º 172
+Trampa de cable
+Hay demasiados traidores.
+Objetos de misión
+Se recomienda el combate directo.
+Se recomienda el sigilo.
+Antes de que los cuelguen
+Escalada de verjas altas
+En manos hábiles, un cuchillo es un arma veloz que asegura la muerte del enemigo si consigues acercarte a él por la espalda sin que se percate.
+Los analgésicos ayudarán a tus personajes a ignorar el dolor y curarse de sus heridas.
+Un fusil silencioso desmontable te permitirá matar rápidamente a tu objetivo. Sin embargo, tu presa se resistirá por un tiempo y emitirá sonidos que podrían escuchar otros enemigos.
+Durante la retirada, el Ejército Rojo se dejó un tanque KV-1 en un pantano. Antes o después, los alemanes lo encontrarán y le darán uso. Debemos destruirlo.
+Al sufrir bastante daño, los partisanos pueden llegar a estar «al borde de la muerte». Para reanimar a ese personaje, haz clic en el icono de curación que tiene encima el partisano herido.
+Cuando los partisanos sufren daños, cabe la posibilidad de que sufran heridas y lesiones a largo plazo que afecten a sus capacidades. De ser el caso, usa analgésicos para minimizar temporalmente el efecto de las mismas y ganar tiempo para llegar a la base.
+Al borde de la muerte
+Encontré a una chica preciosa...
+Podemos asarla ahora y hacer un guiso con ella.
+Para cocinar
+Para preparar mucha comida
+Bloque de alimentación
+Estufa «Record-1»
+Para coger
+Recursos
+Ingresos
+¡Le pegaré un tiro a ese malnacido!
+O te largas o te pego un tiro.
+Unos polvos que detienen las hemorragias.
+Apuntar
+Tiros apuntados que obligan a los enemigos a ponerse a cubierto. Se necesita una metralleta.
+Tiro certero I
+Tiro certero II
+Tiro certero III
+Ábrete paso hasta la carretera
+Primer reconocimiento
+Cuélate en el cobertizo junto a la verja
+Logramos conectar con los ciudadanos y les hicimos llegar la información correcta.
+Explora la zona

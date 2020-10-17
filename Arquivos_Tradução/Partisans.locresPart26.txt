@@ -1,0 +1,99 @@
+HERIDAS
+CADÁVER DEL ENEMIGO
+TT
+Tabaco
+El tabaco puede bloquear el olfato de un perro durante un breve período de tiempo. El Ministerio de Sanidad advierte de que fumar mata.
+Pastillas
+Esta estrategia les da a los partisanos suficiente tiempo para descargar los suministros robados del camión o coche. Un tiroteo haría demasiado ruido y llamaría la atención de los fascistas, lo que provocaría que enviaran tropas motorizadas de inmediato para ayudar al convoy asaltado.
+¡Muy bien!
+Lo que daría por un poco de leche, pero me quitaron la vaca...
+Esto es indignante.
+Así aprenderán.
+Estos objetos no se almacenan en la mochila, sino que se usan automáticamente.
+Pausa táctica
+Modo Táctico
+El modo Táctico ralentiza el tiempo y te permite coordinar todas las acciones de tus personajes. Para activarlo o desactivarlo, pulsa la BARRA ESPACIADORA.
+¡Oigo disparos!
+Hemos reventado el tanque. Los alemanes ya no podrán utilizarlo. También hemos encontrado objetos que nos serán muy útiles.
+Operario de tanque
+Tarasov
+¡No me jodas!
+El agente recibió experiencia:
+Lo importarte ahora es no pisar las nuestras.
+¡Viviremos la vida europea!
+Nunca lograré limpiar mi alma de todo esto.
+La recientemente creada división de partisanos tuvo que montar una base en condiciones y buscar a voluntarios que quisieran unirse a una batalla perdida contra los invasores. Lo más importante era crear una unidad de combate efectiva.
+Ahora tienes un escuadrón de partisanos bajo tu control. Para seleccionar a todos los partisanos, pulsa [F1]. Para seleccionar partisanos concretos, pulsa los números del [1] al [3].
+Ahora, Yegor tiene un trabajo mejor: ofrecerles información útil a los partisanos.
+Ahora tenemos carne de pollo fresca.
+Paso sigiloso
+Movimiento sigiloso I
+Movimiento sigiloso II
+¡Quiero vivir!
+Espero que podamos esquivarlo...
+Espero que no haya ningún tiroteo.
+Afilalápices
+Podemos conseguirlo
+Menor probabilidad de impactar al enemigo. Mayor tiempo de recarga del arma.
+Órganos internos dañados
+La herida o lesión no estará activa hasta el final de la misión.
+Heridas y estados
+Requiere metralleta.
+Requiere fusil.
+Requiere cuchillo.
+Requiere pistola.
+Requiere escopeta.
+Se necesita:
+Alertas y alarmas, parte 1
+Alertas y alarmas, parte 2
+¡Alarma!
+Ya se habían cargado a nuestros tres compañeros.
+Isquiotibiales
+Trofeos
+Trofim
+Según Trofim, los fascistas están enviando a los prisioneros de guerra a trabajar en el aserradero local. Los están tratando fatal. Trofim sugiere que vayamos allí, los ayudemos a escapar y, ya de paso, detengamos la producción de madera.
+Según Trofim, los fascistas envían a los prisioneros de guerra a trabajar en el aserradero local. Los están tratando fatal. Trofim sugiere que vayamos allí, los ayudemos a escapar y, ya de paso, detengamos la producción de madera.
+Mientras cazaba en la oscuridad, Trofim se encontró la guarida de un oso. Logró huir, pero sufrió varias heridas.
+Trofim encontró un alijo con suministros y comida enlatada. Parece ser cosa de algún lugareño. ¿Deberíamos llevarnos la comida o intentamos dejársela y pasar sin ella?
+Trofim volvió del bosque con noticias. Los fascistas están obligando a los prisioneros de guerra a trabajar en sus aserraderos. ¡Eso es esclavitud!
+Trofim dispara perdigones, lo cual inflige daño a todo el que esté al alcance del cono de la habilidad. Se necesita una escopeta.
+¡Así aprenderán!
+Samovar de Tula
+Este chucho está muerto.
+¡Es un cadáver!
+motivo para el fracaso de la misión
+Esto es peligroso.
+Detesto este sitio. ¡Yo también quiero vivir en el bosque!
+Llegarás lejos, chico
+Miles de soldados soviéticos se vieron atrapados en calderas. Uno de ellos, el capitán Zorin, era un oficial al mando de una compañía de fusiles. Cuando intentó atravesar las filas del enemigo, lo hicieron prisionero y lo enviaron al Dulag más cercano (Durchgangslager).
+Uf, es agua.
+Arma pesada I
+Arma pesada II
+Arma pesada III
+Es dura la vida bajo un régimen fascista.
+Biermeier tiene una novia guapísima.
+¡Biermeier tiene el traje en las últimas!
+Mellenberg tiene cicatrices en la cara.
+Usted tiene cambios no guardados. ¿Quieres aplicarlos?
+Você não tem mais lutadores.
+Tu personaje tiene la moral muy alta. Aumenta la probabilidad de impactar al enemigo. El personaje puede correr durante más tiempo. Se reduce el tiempo de recarga de las habilidades.
+Tu personaje tiene la moral muy alta. Aumenta notablemente la probabilidad de impactar al enemigo. El personaje puede correr durante más tiempo. Se reduce el tiempo de recarga de las habilidades.
+El tío Fedor tiene un huerto de patatas en la colina. En el pasado, se escondió de los soviéticos y ahora espera a que se vayan los fascistas. Pidámosle un poco de comida.
+El capitán tenía que tomar una decisión: o intentaba cruzar el frente para reunirse con sus camaradas o permanecía en territorio alemán y organizaba un grupo de partisanos. La dura situación en las zonas ocupadas animó a Zorin a quedarse.
+El comandante Mellenberg tiene buen gusto. Montó su cuartel general en una antigua mansión de la realeza.
+Me duele una muela.
+No tengo el objeto que necesito.
+El jefe de la Polizei me produce urticaria.
+¡Tenemos un cadáver! ¡Alarma!
+No tienen el valor necesario para atacar.
+Las armas serán más o menos eficaces según su rango de alcance. Para conseguir una mayor efectividad, quizás tengas que acercarte más a tu enemigo y usar cobertura para disminuir las probabilidades de que te alcancen durante la batalla.
+El hijo de mi vecino ha desaparecido.
+Los fascistas se echan a temblar cuando oyen hablar de los partisanos.
+PARA REMOVER DO ESQUADRÃO
+EXCLUIR
+INIMIGOS ELIMINADOS
+SUCESSO!
+REMOVER:
+Convencimos a Petrov de que hay otras formas de ganarse el afecto de una mujer, así como de que debería hacer llegar la información a los partisanos.
+¡Me van a matar!
+Eliminaciones sigilosas

@@ -1,0 +1,99 @@
+Kuzmin, Alexander Ivanovich. Edad: 14. Lugareño. Antes de la guerra, estudiaba en casa. Miembro de la Organización de Pioneros. Los fascistas mataron a sus padres. Vive con Trofim en el bosque y sueña con vengar a su familia.
+Kulagin
+Unos conocidos de Kulagin le han dicho que todos los ciudadanos están obligados a trabajar para los ocupantes. Cualquier tipo de sabotaje supone la ejecución inmediata. La gente está huyendo y la población de la ciudad se ha reducido considerablemente.
+Fumar es malo para la salud. No fumes.
+Me apetece un pitillo.
+Gallinero
+Granada casera
+Mina casera
+Cocina
+LEYENDA
+PERSONAL
+Botón izquierdo del ratón: Iniciar acción (determina las acciones en la pausa táctica)
+Mayús + Botón izquierdo del ratón: Determinar la secuencia de acciones
+Lámpara de queroseno
+Lámpara que funciona con queroseno. Su uso está muy extendido.
+Explotación forestal
+Aserradero
+Aserradero 
+Curación
+Tratamiento
+Recuperándose de las heridas sufridas durante las misiones.
+Curación completada
+Tratar
+Falso partisano
+¡Mentira!
+¡Nos hemos librado de los panfletos alemanes llenos de mentiras! Ya no seguirán engañando a la gente.
+Lluvia, niebla, nieve
+Mata al propagandista
+Mata al oficial
+Deshazte del representante de la aldea
+Hemos sustituido los panfletos propagandísticos por los nuestros. Ahora, los ciudadanos saben que los partisanos andan cerca.
+Tan solo espero que no empiecen a disparar.
+Espero que mis hijos estén bien.
+Esquiva I
+Esquiva II
+¡Al suelo!
+Una pala es una gran herramienta para el combate cuerpo a cuerpo, de gran valor si el espacio es reducido. Puede protegerte de los golpes de tu enemigo y bloquear los ataques de bayonetas. Sus bordes afilados hacen de ella una gran arma cortante.
+Lago Losinoe
+Prefiero no salir.
+Cada oponente en el juego tiene un campo de visión. Para verlo, apunta con el cursor a un enemigo y pulsa el botón derecho del ratón. ¡Quédate fuera de su campo de visión y que no te detecten!
+Cueste lo que cueste
+¡Dejadlos en paz!
+M30 Luftwaffe
+SIN BALAS
+MG – 34
+REFUGIO MÉDICO
+MENU
+MES
+MISSÃO
+MISSÃO CUMPRIDA
+MISSÃO FRACASSADA
+MODIFICADORES
+MORAL Do ESQUADRÃO
+MP – 40
+Distancia máxima
+Moral ao máximo
+Aumenta drasticamente a quantidade de HP recuperada ao usar kit-Médico.
+Aumenta drasticamente a velocidade ao matar alguém furtivamente. Aumenta drasticamente a probabilidade de vencer lutas corpo a corpo.
+Aumenta drasticamente a chance de acertar o inimigo ao usar rifles.
+Aumenta drasticamente a chance de acertar o inimigo ao usar submetralhadoras.
+Aumenta drasticamente a chance de acertar o inimigo ao usar pistolas.
+Aumenta drasticamente a chance de acertar o inimigo ao usar metralhadoras pesadas e armas estáticas.
+Aumenta drasticamente a chance de acertar o inimigo ao usar espingardas.
+Bônus máximo para a defesa do personagem durante a corrida.
+Chance máxima de acertar o inimigo durante o modo Emboscada [Y].
+Dano máximo
+Mamá me dice que me quede en casa, pero yo quiero salir.
+Mamá no deja de llorar. Me da mucha pena.
+Mamá dice que la abuelita no va a volver.
+Mamá está trabajando. Da miedo quedarse a solas.
+Mami, tengo miedo.
+¡Mami!
+¡Ay, cielos!
+Mataron a mis padres.
+Disfraz
+Me he quedado sin munición.
+Taller  
+Taller 
+Taller
+Mauser 98K
+Mauser K96
+Médico
+Medicina
+Tienda médica
+Bolsa médica
+Tablilla médica
+Recursos médicos
+Medicina:
+Según los rumores, Mellenberg estaba en un tanque en llamas.
+Molino
+Menú del campamento
+Un polizei me pegó una paliza.
+Los lugareños agradecen la ayuda. Los enfermos se van recuperando poco a poco.
+Los aldeanos agradecen la ayuda. Por fin tienen alimento suficiente y no se morirán de hambre.
+Los lugareños agradecen tanto vuestra ayuda que se plantean montar su propia unidad de partisanos.
+Los lugareños os agradecen la ayuda. Podrán mantenerse calentitos gracias a leña de sus hogares.
+Los lugareños no os creen. Por lo visto, opinan que las historias de vuestras hazañas están demasiado adornadas.
+Las tropas españolas que se atrincheraron en la aldea no se parecen en nada a las alemanas. Les gusta beber y apostar. Deberíamos conseguir que abusen del aguardiente y alguna que otra baja pacífica.
+Se comenta en las calles que un ataque aéreo soviético destruyó un convoy de camiones en plena noche. Mientras los fascistas están ocupados haciendo frente a las consecuencias, tenemos una oportunidad de atacar y hacernos con el cargamento.

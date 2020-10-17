@@ -1,0 +1,99 @@
+Contiene todo lo que un soldado herido necesita para volver a estar listo para el combate. Restablece una gran cantidad de salud.
+Fabricar una trampa
+Fabricar una granada casera
+Fabricar una mina casera
+Fabricar una bolsa médica
+Preparar «analgésicos»
+Reduce el tiempo de recarga del arma en un 15 %.
+Se reduce la recarga de la habilidad.
+Se reduce el tiempo de recarga de la habilidad. Aumenta el número de usos de una habilidad durante la misión.
+Uso del entrono II
+Ocultar cadáveres II
+Soldado
+La guerra no se detiene cuando el soldado está dormido.
+El talismán de un soldado. Es una bala de su primer cargador y se supone que debe dispararla nada más volver a casa tras la guerra.
+Soldados de la Wehrmacht
+Soltsy
+Clasificar elementos
+Un vecino quiere que me una a él y me haga polizei.
+Los colegas del representante de la aldea se percataron de que algo iba mal. Nos vimos obligados a irnos.
+Comoção
+Salvando
+Debido a los ajustes de dificultad, no es posible guardar partida.
+Registro salvo concluído
+Jogos salvos
+Social
+Habilidade social.
+Bípode
+¡Corre por tu vida!
+¡Huid!
+Señor, mantennos a salvo.
+¡Gracias por todo lo que hacéis!
+Salva al prisionero
+Uf, qué sueño tengo.
+Entrenamiento especial
+Me duele la espalda.
+La lista de crímenes perpetrados por los ruines fascistas aumenta cada día. Tras un intento fallido de cruzar el río E., los alemanes reunieron a 50 mujeres y niños de las aldeas circundantes. Los pusieron en los botes y los usaron como cobertura mientras intentaban llegar a la otra orilla.
+Cerillas
+Una bolsa hecha con cuerdas trenzadas. Puede contener hasta 70 kilos de objetos.
+Te permite aturdir a los enemigos de alto rango (soldados de la Wehrmacht).
+A la carrera
+No podrán encontrarme si me oculto.
+Compañero partisano n.º 1
+Compañero partisano n.º 2
+Compañero partisano n.º 3
+Compañero partisano n.º 4
+Compañero partisano n.º 5
+Compañero partisano n.º 6
+Compañero partisano n.º 7
+Compañero partisano n.º 8
+Compañero partisano n.º 9
+Comparado
+Para comparar
+Probabilidad media de éxito
+Permite eliminar sigilosamente a un enemigo desprevenido.
+Voluntad de acero I
+Energía x2
+Estación de Bogachevo
+Estación de Krasnoselskaya
+En combate, busca siempre coberturas que te permitan minimizar los daños sufridos por tus guerreros.
+Premio militar
+Ya he enterrado a mi marido. No quiero enterrar también a mis hijos.
+Pantano de Staroselskaya
+Representante de la aldea
+El representante de la aldea de Zaborovka es uno de los traidores más entusiastas. Trabaja a destajo para identificar a los sospechosos y a la gente que no sea de confianza; sobre todo, entre aquella gente con la que tenía sus propias disputas personales.
+El representante de la aldea de al lado está celebrando su cumpleaños. Podría ser el último. Vayamos a hacerle una visita.
+Técnico superior, teniente Leonid Alexeevich Bykov de la aldea de Ostrova, en el distrito de Sebezh de la región de Peskov.
+El sargento ha sugerido que hagamos folletos que detallen los aspectos básicos de las operaciones partisanas y que los difundamos entre los lugareños. ¡Me parece una gran idea!
+El jefe dice que han tomado Leningrado.
+Ametralladora estática
+Cristal
+Cantimplora de cristal
+Las cantimploras de cristal fueron muy famosas entre el Ejército Rojo antes de la guerra y durante sus primeras fases. El cristal acabaría extendiéndose aún más debido a la escasez de aluminio y al bloqueo de Leningrado, donde se producían la mayoría de cantimploras de aluminio.
+Hay demasiados huérfanos suplicando comida en las aldeas.
+Cuánta muerte...
+El guardia Yefim se ha hecho polizei y está desbocado. ¡Los aldeanos no pueden con él! Abusa de ellos y les roba de todo. Vamos a tener que darle un toque.
+¡Qué mal rollo!
+Temo por mi familia.
+Rapidez
+Rapidez I
+Rapidez II
+Rapidez III
+Me encuentro bastante mal.
+Da cierto mal rollo.
+Recursos de construcción
+Recursos de construcción:
+Construcción
+Construcción completada
+Slender Berta
+Studenovo
+Hierbas secas
+Hemos conseguido el pan de Avdotya. ¡Es el pan más crujiente y sabroso que haya probado en mi vida!
+Es un buen alijo, con un montón de objetos útiles.
+Bala de la suerte
+Una gran moneda de la suerte. Uno de sus lados fue aplanado y afilado. La usa para robar.
+Tengo el estómago lleno, estoy borracho y no tengo que trabajar... ¡Esto es vida!
+¡Aquí!
+TÁCTICAS PARTISANAS
+TÁCTICAS PARTISANAS. El objetivo principal de las actividades partisanas es acabar con las tropas fascistas y su material bélico. Salir con éxito de esta guerra depende de lo siguiente:
+MORALIDAD ACTUAL DEL EQUIPO
