@@ -1,7 +1,7 @@
 / d
 semanas
 "Vocês foram honrados com esta grande missão de libertação. Prove o seu valor! Que nossa vitória sobre essa escória invasora seja absoluta! Morte aos invasores fascistas! Viva a nossa gloriosa Pátria, assim como a sua liberdade e independência!."
-Dulag es la abreviatura del término alemán «Durchgangslager». Básicamente, se trata de un campamento temporal en el que se metía a los prisioneros de guerra hasta que eran transferidos a campamentos permanentes en Alemania o en territorios ocupados por los alemanes.
+Dulag é a abreviatura do termo alemão 'Durchgangslager'. Basicamente, é um campo temporário onde os prisioneiros de guerra foram mantidos até serem transferidos para campos permanentes na Alemanha ou em territórios ocupados pelos alemães.
 Moeda especial
 Colônia "Triple". Triplique a fragrância de outras marcas importantes!
 not for loc
@@ -81,7 +81,7 @@ DIA
 Predeterminado
 Vila
 Elevador
-Enemigos eliminados
+Inimigos eliminados
 Inglés
 FPS: 
 Granja
