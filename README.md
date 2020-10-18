@@ -18,7 +18,7 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## Instalação
 
-Em construção...
+[![](http://img.youtube.com/vi/KJG-e4X9b_k/0.jpg)](http://www.youtube.com/watch?v=KJG-e4X9b_k "")
 
 
 ## Ferramentas Ultilizadas
