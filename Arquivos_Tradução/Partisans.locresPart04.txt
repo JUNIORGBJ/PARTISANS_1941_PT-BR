@@ -25,7 +25,7 @@ Belozerova corre na direção escolhida. Os inimigos não podem atingir o guerri
 Belozerova mata todos os inimigos em uma pequena área ao redor do guerrilheiro. Você precisa de uma arma.
 Olga Mikhailovna Belozerova
 Belozerova, Olga Mikhailovna. Idade: 27. Ele nasceu em Novosibirsk (mais tarde Novonikolayevsk). Ela foi criada por seu pai, que era um coronel do exército. Ela é formada em direito pela Universidade Estadual de Moscow e trabalhou como pesquisadora na Milícia de Moscow. Especialista em tiro esportivo. Ele ingressou no Exército Vermelho depois que seu pai foi enviado para o front.
-Beloretskeya Swamp
+Pantâno Beloretskeya.
 Cuidado! Granada!
 Cuidado! Uma granada está chegando!
 Berta
@@ -50,50 +50,50 @@ Houve uma tragédia na frente. Kiev, a capital da Ucrânia soviética, foi conqu
 Não pode mais ser usado.
 Os bolcheviques fecharam todas as igrejas. Não podemos mais nos voltar para Deus em busca de proteção.
 Carne
-¡Es una bomba!
-Bonificación por cobertura
-Bonificación de precisión
-El borsch sabe igualito que el de mi abuela.
-Mi hermano también es partisano.
-¡Cubridme!
-¡Me han dado, hermanos!
-No está bien eso de coger cosas que no te pertenecen.
+É uma bomba!
+Bônus de cobertura
+Bônus de precisão
+O borsch tem o mesmo gosto do da minha avó.
+Meu irmão também é partisans.
+Me proteja!
+Eles me deram, irmãos!
+Não é bom pegar coisas que não pertencem a você.
 Tronco
-La caída de Moscú no es más que otra mentira de los alemanes. ¡Nuestra capital resiste con uñas y dientes!
-Una ametralladora ligera Lewis de origen británico, adaptada al calibre 7,62. Aunque es un poco basta en comparación con otras armas más modernas, sigue siendo muy efectiva. Esta arma parece estar ajada por el uso.
-Una ametralladora ligera Lewis de origen británico, adaptada al calibre 7,62. Aunque es un poco basta en comparación con otras armas más modernas, sigue siendo muy efectiva. Es un arma de calidad media.
-Una ametralladora ligera Lewis de origen británico, adaptada al calibre 7,62. Aunque es un poco basta en comparación con otras armas más modernas, sigue siendo muy efectiva. Es un arma de calidad alta.
-Kit de afeitado alemán
-Se dejaron un montón de munición. No vamos a desaprovechar estos proyectiles sin utilizar.
-Lanzar piedras
-Lanzamiento de cuchillo I
-Lanzamiento de cuchillo II
-Lanzamiento de cuchillo III
-Esperemos que no logren atrapar al piloto y que sea capaz de llegar a una zona amistosa.
-Bastante difícil
-Vivir bajo ocupación
-El comisario de regimiento Efim Moiseevich Fomin se encontraba aturdido y parcialmente sepultado por los escombros después de que los alemanes volaran una de las habitaciones del barracón. El enemigo lo sacó de debajo de los escombros y lo tomó como prisionero; lo identificaron de inmediato como traidor y, luego, le dispararon en el muro de la fortaleza. Efim Fomin se enfrentó a su muerte con valor y dignidad.
-¡Cuidado: Minas!
-Botella
-Si dejas una botella en el suelo, el enemigo se acercará para comprobar su contenido.
-Las botellas que lance este partisano dejarán inconscientes durante 90 segundos a todos los enemigos que las huelan.
-El antiguo contable Sidorov es ahora un polizei. Vende de tapadillo la comida expropiada. Podríamos hacerle una visita nocturna y pedirle que comparta la comida.
-Petrov, el antiguo economista de la ciudad, se alistó en la Polizei. Está acosando a una chica llamada Avdotya. Debemos protegerla.
-¡Si fuese un poco más joven, les daría una lección!
-carregar registro salvo rápido
+A queda de Moscow é apenas mais uma mentira dos alemães. Nossa capital resiste com unhas e dentes!
+Uma metralhadora leve Lewis de origem britânica, adaptada para o calibre 7,62. Embora seja um pouco áspera em comparação com outras armas mais modernas, ainda é muito eficaz. Esta arma parece estar gasta pelo uso.
+Uma metralhadora leve Lewis de origem britânica, adaptada para o calibre 7,62. Embora seja um pouco áspera em comparação com outras armas mais modernas, ainda é muito eficaz. É uma arma de qualidade média.
+Uma metralhadora leve Lewis de origem britânica, adaptada para o calibre 7,62. Embora seja um pouco áspera em comparação com outras armas mais modernas, ainda é muito eficaz. É uma arma de alta qualidade.
+Kit de barbear alemão
+Muita munição foi deixada. Não vamos desperdiçar esses projéteis não utilizados.
+Atirar pedras
+Lançamento de faca I
+Lançamento de faca II
+Lançamento de faca III
+Esperemos que não alcancem o piloto e que ele consiga chegar a uma zona amiga.
+Bem difícil
+Viver sob ocupação
+O comissário regimental, Efim Moiseevich Fomin, ficou atordoado e parcialmente enterrado pelos destroços depois que os alemães explodiram uma das salas do quartel. O inimigo o tirou dos escombros e o fez prisioneiro; Eles imediatamente o identificaram como um traidor e atiraram nele contra a muralha da fortaleza. Efim Fomin enfrentou sua morte com coragem e dignidade.
+Cuidado: Minas!
+Garrafa
+Se você deixar uma garrafa no chão, o inimigo se aproxima para verificar seu conteúdo.
+Garrafas deixadas por este partisans nocautearão todos os inimigos que as cheirem por 90 segundos.
+O ex-contador, Sidorov agora é um polizei. Ele vende a comida desapropriada sob o capô. Poderíamos fazer uma visita noturna a ele e pedir-lhe para compartilhar a comida.
+Petrov, o ex-economista da cidade, juntou-se ao Polizei. Ele está perseguindo uma garota chamada Avdotya. Devemos protegê-lo.
+Se eu fosse um pouco mais jovem, daria uma lição para eles!
+carregar registro salvar rápido
 Salvar registro rápido
 Salvo rápido 1<cf>{time}
 Salvo rápido 2<cf>{time}
 Salvo rápido 3<cf>{time}
 Mão-rápida
-Registro salvo rápido
+Registro salvo rápido.
 E
-A LUTAR!
-RECUERDA ESTO CUANTO COMBATAS CONTRA UN TANQUE:
-AÚN NO HAY INFORMACIÓN DISPONIBLE.
-AL CAMPAMENTO
-Los destacamentos partisanos de la región de Leningrado están llevando a cabo operaciones de combate intensivas, castigando sin compasión a las tropas de Hitler. Durante la segunda mitad de agosto en Luga y solamente en Luga, los partisanos acabaron con al menos 800 soldados y oficiales fascistas; inhabilitaron 14 tanques, 7 vehículos blindados, 17 cañones y 22 ametralladoras; destruyeron 47 camiones y 62 motos; quemaron 18 camiones de combustible y se apropiaron de grandes cantidades de munición, equipo de combate e ingeniería y suministros.
-DISPONIBLE
-NUEVOS LUCHADORES QUIEREN UNIRSE A NUESTRO ESCUADRÓN
+LUTAR!
+LEMBRE-SE DE ISSO QUANDO VOCÊ LUTAR CONTRA UM TANQUE:
+AINDA NÃO HÁ INFORMAÇÕES DISPONÍVEIS.
+PARA O ACAMPAMENTO
+Destacamentos partisans na região de Leningrado estão realizando intensas operações de combate, punindo impiedosamente as tropas de Hitler. Durante a segunda metade de agosto em Luga e apenas em Luga, os partisans mataram pelo menos 800 soldados e oficiais fascistas; eles desativaram 14 tanques, 7 veículos blindados, 17 canhões e 22 metralhadoras; eles destruíram 47 caminhões e 62 motocicletas; eles queimaram 18 caminhões de combustível e apreenderam grandes quantidades de munição, equipamentos e suprimentos de combate e engenharia.
+ACESSÍVEL
+NOVOS LUTADORES QUEREM SE JUNTAR A NOSSA EQUIPE
 JANELA
 JANELA CHEIA
