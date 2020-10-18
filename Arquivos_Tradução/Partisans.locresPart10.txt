@@ -1,99 +1,99 @@
-Pusieron precio a las cabezas de los partisanos.
-Disparan a las familias por no desvelar a los fugitivos.
-Deberían pagar un extra por esto.
-¿Me merezco esto a mis años?
-¿Acaso nos merecemos algo así?
-Decidimos no visitar a Avdotya. No merecía la pena el riesgo.
-Matad a esa ave.
-Aldea Zabrovka
+Eles colocaram um preço nas cabeças dos guerrilheiros.
+Famílias são baleadas por não revelarem os fugitivos.
+Eles deveriam pagar a mais por isso.
+Eu mereço isso na minha idade?
+Nós merecemos algo assim?
+Decidimos não visitar Avdotya. Não valia o risco.
+Mate aquele pássaro.
+Vila Zabrovka
 Zaborovka
-Zaborovka es una pequeña aldea en la que se ha asentado una guarnición del enemigo. Gente de confianza te ha avisado de que un camión, que transportaba un arma antiaérea, se ha estropeado de camino a la aldea. Los partisanos han decidido aprovechar la situación para destruir el arma antes de que se arregle el camión. Para tal fin, tendrás que conseguir explosivos en el almacén de la guarnición, llevarlos hasta el arma antiaérea y activarlos.
-Consigue veneno en la colmena
-Si mato a uno, me recompensarán.
-Mañana tiene que comparecer todo el mundo para trabajos forzados.
-Tienes madera.
-Ahora tenemos un buen suministro de madera de calidad.
-Equipo de adquisiciones
-Recolectores
-Cargar partida
-Cargando
-Carga completada. Pulsa cualquier tecla.
-¡Dadles a los fascistas su propia medicina!
-¡Misión cumplida!
-Para determinar la secuencia de acciones
-Tares
-Cúbrete. Si estás a cubierto, es menos probable que te alcancen.
-Ahumar la comida
-Cerrar
-сerrar
-cerrar
-Estoy hasta las narices de estos registros.
-Qué cansancio...
-Me estoy helando. Me duele la garganta al tragar.
-Artículo «Jóvenes héroes», parte 1
-Artículo «Jóvenes héroes», parte 2
-Mina el arma de 88 mm
-Regiones lejanas
-¡Poneos a cubierto y preparaos!
-Quema los archivos de la prisión
-Nos estamos quedando sin comida. Muy pronto, ya no tendremos nada. Debemos encontrar más comida.
-Nota de aldeano, parte 1
-Nota de aldeano, parte 2
-¡Cerrad las puertas!
+Zaborovka é uma pequena vila onde se instalou uma guarnição inimiga. Pessoas de confiança avisaram que um caminhão carregando uma arma antiaérea quebrou no caminho para a aldeia. Os guerrilheiros decidiram aproveitar a situação para destruir a arma antes que o caminhão seja consertado. Para isso, você terá que pegar explosivos no armazém da guarnição, levá-los até a arma antiaérea e ativá-los.
+Obtenha veneno na colmeia
+Se eu matar um, eles me recompensarão.
+Amanhã todos terão que comparecer para trabalhos forçados.
+Você tem madeira.
+Agora temos um bom estoque de madeira de qualidade.
+Equipe de compras
+Colecionadores
+Carregar jogo
+Carregando
+Carregamento concluído. Pressione qualquer tecla.
+Dê aos fascistas seu próprio remédio!
+Missão cumprida!
+Para determinar a sequência de ações
+Tarefas
+Seja coberto. Se você estiver coberto, é menos provável que eles o ataquem.
+Comida para fumar
+Fechar
+perto
+fechar
+Estou farto desses discos.
+Que cansaço...
+Estou congelando. Minha garganta dói quando engulo.
+Artigo "Jovens heróis", parte 1
+Artigo "Jovens heróis", parte 2
+Mine a arma de 88mm
+Regiões distantes
+Protejam-se e preparem-se!
+Queime os arquivos da prisão
+Estamos ficando sem comida. Muito em breve, não teremos nada. Precisamos encontrar mais comida.
+Nota do aldeão, parte 1
+Nota do aldeão, parte 2
+Feche as portas!
 Emboscada
 Emboscada I
 Emboscada II
 Emboscada III
 Emboscada IV
-Captura
-Los invasores han puesto puntos de control en las carreteras. Uno de ellos está cerca de aquí. El equipo está compuesto por varios polizei. Podemos eliminarlos.
-Los invasores han puesto puntos de control en las carreteras. Uno de ellos está cerca de aquí. El equipo está compuesto por soldados de la Wehrmacht. Debemos tener cuidado.
-Los invasores han puesto puntos de control en las carreteras. Uno de ellos está cerca de aquí. Desconocemos la composición del equipo o la cantidad de ellos que habrá.
-Los invasores han puesto puntos de control en las carreteras. Uno de ellos está cerca de aquí. El equipo está compuesto por tropas de las SS. Debemos prepararnos.
-Los invasores se abrieron paso a la fuerza, arrasando las ciudades soviéticas y reduciendo a cenizas las aldeas que se encontraban a su paso. Cayeron Minsk, Smolensk y Nóvgorod. Las tropas aéreas alemanas bombardearon Kiev y Sebastopol. Moscú y Leningrado se veían amenazadas.
-¿Por qué nos hacen daño?
-Despeja el punto de control
-Asegura el almacén de la Polizei
-Asegura el almacén de las armas
-Los tiros llamaron la atención de invitados no deseados. Tuvimos que irnos con las manos vacías.
-Todas las familias sufren.
-Aquí no me encontrarán.
-¡Han llegado los escuadrones de la muerte!
-¡Aquí hay alguien!
-Aquí se pueden fabricar explosivos básicos y medicamentos de campo.
-Aquí se pueden mejorar las armas.
-¡Aquí no hay partisanos!
-Aquí se almacena todo el equipo de la unidad.
-Se acerca el invierno.
-Estandarte del regimiento
-Conocimiento de coberturas
-Conocimiento de coberturas I
-Conocimiento de coberturas II
-Aumenta notablemente la bonificación de defensa del personaje al estar a cubierto.
-Aumenta notablemente el alcance del lanzamiento de granadas. Reduce el tiempo para la explosión.
-Aumenta notablemente la cantidad de PS recuperados al usar botiquines.
-Aumenta notablemente la velocidad al correr.
-Aumenta notablemente la probabilidad de impactar al enemigo al usar fusiles.
-Aumenta notablemente la probabilidad de impactar al enemigo al usar metralletas.
-Aumenta notablemente la probabilidad de impactar al enemigo al usar pistolas.
-Aumenta notablemente la probabilidad de impactar al enemigo al usar ametralladoras pesadas y armas estáticas.
-Aumenta notablemente la probabilidad de impactar al enemigo al usar escopetas.
-Mayor bonificación a la defensa del personaje mientras corre.
-Mayor probabilidad de impactar al enemigo durante el modo Emboscada [Y].
-Reduce notablemente el coste de energía que supone correr en combate.
-Tengo fiebre.
-Un anillo de oro. Su madre se lo dio cuando se fue a estudiar a Almá-Atá.
-Anillo de oro
+Capturar
+Os invasores colocaram postos de controle nas estradas. Um deles está perto daqui. A equipe é formada por vários polizei. Podemos eliminá-los.
+Os invasores colocaram postos de controle nas estradas. Um deles está perto daqui. A equipe é formada por soldados da Wehrmacht. Nós devemos ser cuidadosos.
+Os invasores colocaram postos de controle nas estradas. Um deles está perto daqui. Não sabemos a composição da equipe nem quantos serão.
+Os invasores colocaram postos de controle nas estradas. Um deles está perto daqui. A equipe é formada por tropas SS. Devemos nos preparar.
+Os invasores irromperam à força, arrasando cidades soviéticas e reduzindo a cinzas as aldeias em seu caminho. Minsk, Smolensk e Novgorod caíram. As tropas aéreas alemãs bombardearam Kiev e Sebastopol. Moscou e Leningrado foram ameaçados.
+Por que eles nos machucam?
+Limpe o posto de controle
+Proteja o armazém da Polizei
+Proteja o armazém de armas
+Os disparos chamaram a atenção de convidados indesejados. Tivemos que sair de mãos vazias.
+Todas as famílias sofrem.
+Eles não vão me encontrar aqui.
+Os esquadrões da morte chegaram!
+Aqui está alguém!
+Aqui você pode fazer explosivos básicos e drogas de campo.
+As armas podem ser atualizadas aqui.
+Não há partisans aqui!
+Todos os equipamentos da unidade são armazenados aqui.
+O inverno se aproxima.
+Bandeira do regimento
+Conhecimento de cobertura
+Conhecimento de cobertura I
+Conhecimento de cobertura II
+Aumenta significativamente o bônus de defesa do personagem enquanto estiver coberto.
+Aumenta visivelmente o alcance do lançamento da granada. Reduz o tempo para a explosão.
+Aumenta significativamente a quantidade de HP recuperada ao usar kits-Médicos.
+Aumenta drasticamente a velocidade de corrida.
+Aumenta significativamente a chance de acertar o inimigo ao usar rifles.
+Aumenta significativamente a chance de acertar o inimigo ao usar metralhadoras.
+Aumenta significativamente a chance de acertar o inimigo ao usar pistolas.
+Aumenta significativamente a chance de acertar o inimigo ao usar metralhadoras pesadas e armas estáticas.
+Aumenta significativamente a chance de acertar o inimigo ao usar espingardas.
+Aumento do bônus de defesa do personagem durante a corrida.
+Maior chance de acertar o inimigo durante o modo Emboscada [Y].
+Reduz significativamente o custo de energia para correr em combate.
+Estou com febre.
+Um anel de ouro. A mãe o deu quando ele foi estudar em Almá-Atá.
+Anel de ouro
 Alexey Yurievich Zorin
-Zorin, Alexey Yurievich. Edad: 29. Nació en el seno de una familia de granjeros de la aldea de Verkhovino, en la región de Kalinin. Oficial de carrera. Participó en la Guerra de Invierno que enfrentó a la Unión Soviética y Finlandia. Cuando comenzó la Gran Guerra Patriótica, ya había logrado el rango de capitán. La compañía que lideraba fue enviada al frente durante los primeros días de la guerra. Es un luchador hábil con el cuchillo.
-No tendría que haberte denunciado.
-Zoom de la cámara
-Incluso podríamos ahumar un poco de pescado.
-Tenemos suficientes para encurtirlos.
-Junto con objetos de la misión secundaria:
+Zorin, Alexey Yurievich. Idade: 29 anos. Ele nasceu em uma família de agricultores no vilarejo de Verkhovino, na região de Kalinin. Oficial de corrida. Ele participou da Guerra de Inverno que enfrentou a União Soviética e a Finlândia. Quando começou a Grande Guerra Patriótica, ele já havia alcançado o posto de capitão. A companhia que ele liderou foi enviada para a frente durante os primeiros dias da guerra. Ele é um lutador habilidoso com faca.
+Eu não deveria ter denunciado você.
+Zoom da câmera
+Podemos até fumar um pouco de peixe.
+Temos o suficiente para incriminá-los.
+Junto com itens da missão secundária:
 JOGO SALVO
-IZhB – 36
-IZh – 5
-INVENTARIO
-NO HAY ESPACIO SUFICIENTE
-USA LOS OBJETOS DISPONIBLES
+IZhB - 36
+IZh - 5
+INVENTÁRIO
+ESPAÇO NÃO É SUFICIENTE
+USE ITENS DISPONÍVEIS
