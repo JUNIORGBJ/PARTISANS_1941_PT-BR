@@ -1,6 +1,6 @@
 Saia da cidade antes do bombardeio
 Vila Pokróvskoye
-Campo de batalla
+Campo de batalha
 Refugio central
 Política de privacidade
 O Polizei
@@ -23,9 +23,9 @@ Uma ótima distração
 Meias Rações.<cf>As habilidades dos Sabotadores são significativamente reduzidas.
 Metade do distrito foi presa.
 Você tem um novo agente
-Objeto recibido:
+Objeto recebido:
 Feridas
-Recursos recibidos:
+Recursos recebidos:
 Você tem o que merece, seu fascista de merda!
 Legumes.
 Lembre-se de que a floresta protege você. Use as árvores e sarjetas como cobertura contra o fogo inimigo e arme emboscadas. Use vaso de wattles e portões para esconder seus movimentos e abrir slots para armas onde achar necessário.
@@ -51,7 +51,7 @@ Muitas prisões ocorreram desde a chegada de Zobel. Eles estão prendendo pessoa
 Última refeição
 Consequências
 Para ver o cone
-Vamos montar armadilhas. Talvez pegemos algum animal selvagem.
+Vamos montar armadilhas. Talvez pegamos algum animal selvagem.
 Atiramos nos lobos e em um aleijado. Eles não vão voltar.
 Construir
 Construir a bancada
