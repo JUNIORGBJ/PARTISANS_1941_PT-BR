@@ -1,11 +1,11 @@
-Hito
-Llave
+Marco histórico
+Chave
 MG 34 estática
 MP – 35
 Medicinal
 Militar
 Modelo 38
-Cruce
+Cruzando
 NOME
 NOME DO EVENTO
 Nome
@@ -18,7 +18,7 @@ Vigilância I
 Vigilância II
 Vigilância III
 Vigilância IV
-Ganzúa
+Gazua
 Linha defensiva
 Pressione um botão para vincular.
 NOME DA MISSÃO SECUNDÁRIA
@@ -35,65 +35,65 @@ Versão:
 NOME DA ARMA
 Tempo de jogo:
 Arma
-Has cumplido la petición de la anciana y le has devuelto su icono. Ella te dio una granada que se encontró su nieto y te ayudará a salir de la aldea.
-Aumenta la velocidad al transportar cuerpos.
-Hacienda
+Você atendeu ao pedido da velha e devolveu o ícone dela. Ela deu a você uma granada que seu neto encontrou e irá ajudar você a sair da aldeia.
+Aumenta a velocidade ao carregar corpos.
+Propriedade
 Fábrica
-[¿Qué?]
-[¡Pobre saco de pulgas!]
-[¡Cuidado!]
-[Mira qué bien, ideal para entretenerme.]
-[¡Atacad!]
-[¡Apartaos!]
-[¡A cubierto!]
-[¡Poneos a cubierto! ¡Ya!]
-[Qué mala suerte. Es agua.]
-[¡Descanso!]
-[¡Aquí está nuestro objetivo principal!]
-[¡Ahora sí que me estoy empezando a enfadar!]
-[¡Mierda!]
-[¡El enemigo está en la zona!]
-[¡Cuidado! ¡El enemigo está en la zona!]
-[¡Poneos todos en marcha!]
-[¡Prestad todos atención!]
-[Está todo muy tranquilo.]
-[¡En marcha!]
-[Ni siquiera lo he notado.]
-[¡Cambio de posición!]
-[Como no encontremos a nadie, me aseguraré de que hagas turnos de guardia extra.]
-[Otra muesca en el cinturón.]
-[¡Defended la posición!]
-[Vergissmeinnicht...]
-[¡Voy al rescate!]
-[¡Buscad!]
-[¡Preparaos para el combate!]
-[¡A combatir!]
-[¡Apenas una picadura de mosquito!]
-[¿Quién anda ahí?]
-[¿Quién mató al perro?]
-[¡Toma esto!]
-[¡Necesito un médico!]
-[Estoy cambiando el cargador.]
-[¡Cambiando de posición! ¡Cubridme!]
-[¡Cambiando de objetivo!]
-[¿Es cosa mía o...?]
-[Ya podemos relajarnos.]
-[Basura.]
-[¡Podemos ganar!]
-[¡Lo vengaremos!]
-[Espero que no sea Heinrich.]
-[Espero de todo corazón que duela.]
-[Espero que sea otro simulacro.]
-[¡Encontrad al responsable de esto!]
-[¡Encontrad a esos malnacidos!]
-[¡No puedo salir!]
-[El entrenamiento ha merecido la pena.]
-[¡No era nada!]
-[¡No hay tiempo para relajarse!]
-[No es nada.]
-[¡Registrad la zona!]
-[Otro día cualquiera en el frente.]
-[¿Sigue con vida?]
-[¡Arma preparada!]
-[Echad un vistazo a los alrededores.]
-[¡Apagad las luces!]
+[O que?]
+[Pobre saco de pulgas!]
+[Cuidado!]
+[Olha que legal, ideal para me entreter.]
+[Ataque!]
+[Afaste-se!]
+[Proteja-se!]
+[Proteja-se! Já!]
+[Que má sorte. É água.]
+[Descanso!]
+[Aqui está nosso objetivo principal!]
+[Agora estou começando a ficar com raiva!]
+[Merda!]
+[O inimigo está na zona!]
+[Cuidado! O inimigo está na zona!]
+[Em marcha, todo mundo!]
+[Todos prestem atenção!]
+[Tudo está muito quieto.]
+[Em marcha!]
+[Eu nem percebi.]
+[Mudança de posição!]
+[Já que não podemos encontrar ninguém, vou garantir que você faça mudanças extras de guarda.]
+[Outro entalhe no cinto.]
+[Defenda a posição!]
+[Vergissmeinnicht ...]
+[Eu estou indo ao resgate!]
+[Veja!]
+[Prepare-se para o combate!]
+[Luta!]
+[Apenas uma picada de mosquito!]
+[Quem anda ai?]
+[Quem matou o cachorro?]
+[Toma isto!]
+[Eu preciso de um doutor!]
+[Estou trocando a munição.]
+[Mudando de posição! Me proteja!]
+[Mudando alvos!]
+[É coisa minha ou ...?]
+[Podemos relaxar agora.]
+[Lixo.]
+[Nós podemos ganhar!]
+[Nós vingaremos isso!]
+[Espero que não seja Heinrich.]
+[Espero, com todo meu coração, que doa.]
+[Espero que seja outra simulação.]
+[Encontre o responsável por isso!]
+[Encontre esses bastardos!]
+[Não posso sair!]
+[O treinamento valeu a pena.]
+[Não foi nada!]
+[Sem tempo para relaxar!]
+[Não é nada.]
+[Registre a área!]
+[Qualquer outro dia na frente.]
+[Continua vivo?]
+[Arma pronta!]
+[Dê uma olhada ao redor.]
+[Apague as luzes!]
