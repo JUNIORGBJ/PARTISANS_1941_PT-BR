@@ -1,61 +1,61 @@
-Abandona la ciudad antes del bombardeo
-Aldea Pokróvskoye
+Saia da cidade antes do bombardeio
+Vila Pokróvskoye
 Campo de batalla
 Refugio central
 Política de privacidade
-La Polizei
-Miembros del Ordnungspolizei y otras organizaciones a los que se conoce coloquialmente como la Polizei. Generalmente, son chaqueteros y renegados. Los alemanes suelen equiparlos con armamento inferior y los envía a mantener el orden en las aldeas. No son especialmente peligrosos.
-La Polizei comentó algo sobre un estandarte rojo que fue entregado en la sala de trofeos alemana de Pokróvskoye. Debemos ir allí y recuperar ese estandarte tan valioso.
-La Polizei estaba preparada para un ataque. Hemos fracasado.
-¡La Polizei está más cómoda que unos gusanos en el beicon!
-La Polizei está muy ocupada asaltando un distrito vecino. Podríamos hablarles a los aldeanos de todos los crímenes de los invasores.
-La Polizei nos vio. Tuvimos que retirarnos.
-Los polizei son mala gente.
 Polizei
-El polizei Yegor, al cual pusimos los puntos sobre las íes, nos contó que pasaría por el bosque una vagoneta con suministros. Podríamos hacernos con la comida.
-El polizei Petrov, a quien llamamos a responsabilidad civil, nos dijo que su jefe tenía un alijo de objetos confiscados. Quizás deberíamos ir a echar un vistazo.
-A un polizei se le escapó, hablando con Vasily Gavrilovich, que estaban posicionando las armas antiaéreas en torno a la estación de Bogachevo. Tiene pinta de que pronto llegará un cargamento importante.
-La Polizei ve partisanos por todas partes.
-La Polizei no es capaz de hacer nada.
-Coronel de la Wehrmacht
-Recluta a todos los partisanos para la causa.
-Una gran distracción
-Medias raciones.<cf>Las habilidades de los saboteadores se reducen significativamente.
-La mitad del distrito ha sido detenido.
-Tienes a un nuevo agente
+Membros do Ordnungspolizei e de outras organizações conhecidas coloquialmente como Polizei. Geralmente, eles são traidores e renegados. Os alemães geralmente os equipam com armamento inferior e os enviam para manter a ordem nas vilas. Eles não são especialmente perigosos.
+Polizei comentou sobre um banner vermelho que foi apresentado na sala de troféus alemã em Pokróvskoye. Devemos ir lá e recuperar aquele estandarte valioso.
+Polizei estava preparado para um ataque. Nós falhamos.
+Polizei é mais confortável do que minhocas com bacon!
+Polizei está muito ocupado invadindo um distrito vizinho. Poderíamos contar aos aldeões sobre todos os crimes dos invasores.
+Polizei nos viu. Tivemos que nos retirar.
+Polizei são pessoas más.
+Polizei
+Polizei Yegor, a quem colocamos os pontos nos is, nos disse que uma carroça com suprimentos passaria pela floresta. Podemos pegar a comida.
+Polizei Petrov, a quem chamamos de responsabilidade civil, disse-nos que seu chefe tinha um esconderijo de objetos apreendidos. Talvez devêssemos dar uma olhada.
+Um polizei escapou, falando com Vasily Gavrilovich, que posicionava armas antiaéreas ao redor da estação de Bogachevo. Parece que um grande carregamento chegará em breve.
+Polizei vê partisans em todos os lugares.
+Polizei não pode fazer nada.
+Coronel da Wehrmacht
+Recrute todos os partisans para a causa.
+Uma ótima distração
+Meias Rações.<cf>As habilidades dos Sabotadores são significativamente reduzidas.
+Metade do distrito foi presa.
+Você tem um novo agente
 Objeto recibido:
-Heridas
+Feridas
 Recursos recibidos:
-¡Has recibido tu merecido, maldito fascista!
-Verduras.
-Recuerda que el bosque te protege. Usa los árboles y las cunetas como cobertura contra el fuego enemigo y para tender emboscadas. Válete de zarzos y verjas para ocultar tus movimientos y ábreles ranuras para las armas en donde consideres conveniente.
-¡Socorro!
-La ayudamos y todo el mundo está feliz, sano y saciado.
-La ayudamos y curó al soldado herido.
-Ayudar
-Ayuda a Trofim a repeler un ataque
-Ayuda
-Ayuda al médico
-Ayuda a los ciudadanos
-Cuando me muera, ¿quién me enterrará?
-Hemos pescado varios peces.
-Se esconden como ratas.
-Es hora de dominar mis habilidades.
-El grupo debilitado no pudo resistir frente al enemigo. Los partisanos fueron arrestados y colgados.
-Corte en la mano
-Pitillera OSOAVIAKhIM
-No hay nada que podamos hacer.
-Tras una serie de sabotajes ferroviarios, las patrullas alemanas emplean ahora perros de servicio capaces de detectar explosivos desde una distancia considerable.
-Hubo muchas detenciones desde la llegada de Zobel. Están encerrando a la gente por sospechas prácticamente infundadas.
+Você tem o que merece, seu fascista de merda!
+Legumes.
+Lembre-se de que a floresta protege você. Use as árvores e sarjetas como cobertura contra o fogo inimigo e arme emboscadas. Use vaso de wattles e portões para esconder seus movimentos e abrir slots para armas onde achar necessário.
+Socorro!
+Nós a ajudamos. Todos estão felizes, saudáveis ​​e satisfeitos.
+Nós a ajudamos. Ela curou o soldado ferido.
+Socorro
+Ajude Trofim lutar contra um ataque
+Ajuda
+Ajuda o medico
+Ajudar os cidadãos
+Quando eu morrer, quem vai me enterrar?
+Pegamos vários peixes.
+Eles se escondem como ratos.
+É hora de dominar minhas habilidades.
+O grupo enfraquecido não conseguiu resistir ao inimigo. Os guerrilheiros foram presos e enforcados.
+Corte na mão
+Cigarreira OSOAVIAKhIM
+Não há nada que possamos fazer.
+Após uma série de sabotagens ferroviárias, as patrulhas alemãs agora empregam cães de serviço capazes de detectar explosivos a uma distância considerável.
+Muitas prisões ocorreram desde a chegada de Zobel. Eles estão prendendo pessoas por suspeitas praticamente infundadas.
 Último jogo salvo
-A última cena
+Última refeição
 Consequências
 Para ver o cone
-Pongamos trampas. Quizás atrapemos a algún animal salvaje.
-Les disparamos a los lobos y lisiamos a uno. No volverán.
+Vamos montar armadilhas. Talvez pegemos algum animal selvagem.
+Atiramos nos lobos e em um aleijado. Eles não vão voltar.
 Construir
-Construye la mesa de trabajo
-Pérdidas
+Construir a bancada
+Perdas
 Envenenamos a los ratones. Nuestras reservas de comida están a salvo.
 Las reparaciones nos llevaron todo el día, pero ya parece estar todo en orden.
 Nuestros camaradas se metieron en problemas. Puede que la Polizei sepa lo que pasó en Volkovo. Deberíamos atrapar a uno para hacerle hablar.
@@ -92,8 +92,8 @@ Tiros apuntados que obligan a los enemigos a ponerse a cubierto. Se necesita una
 Tiro certero I
 Tiro certero II
 Tiro certero III
-Ábrete paso hasta la carretera
-Primer reconocimiento
-Cuélate en el cobertizo junto a la verja
-Logramos conectar con los ciudadanos y les hicimos llegar la información correcta.
-Explora la zona
+Faça o seu caminho para a estrada
+Primeiro reconhecimento
+Entre discretamente no galpão perto do portão
+Conseguimos nos conectar com os cidadãos e lhes enviamos as informações corretas.
+Explore a área
