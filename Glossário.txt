@@ -1,3 +1,4 @@
 Glossário
 ====================
 partisanos=partisans
+Aldea=vila
