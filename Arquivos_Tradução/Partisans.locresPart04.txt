@@ -1,54 +1,54 @@
-Kit de primeros auxilios
-Archivos
-¡Cuidado!
-¡Mierda!
-BASE DE CONOCIMIENTO
-La abuela dice que mamá y papá están en el cielo.
-Las chicas de hoy en día son muy agresivas.
-Afilalápices de mesa de baquelita. Se suele usar en barracones y colegios.
-Esos bandidos que se hacen llamar «partisanos» no son nuestros camaradas. Hemos localizado su campamento y lo hemos destruido.
-Las bandas de Biermeier siguen asaltando las aldeas y los graneros de las granjas.
-Pan.
-¡Alabado sea el señor!
-Me duele la cabeza.
-¡Corred por vuestra vida!
-Dimos de comer a los fugitivos y los guiamos por el bosque hacia un lugar seguro.
-Ahuyentamos a los fugitivos. Esperemos que puedan sobrevivir en el bosque por sí solos.
-El nuevo grupo no tenía munición suficiente y fue derrotado. Los fascistas arrestaron y colgaron a los partisanos.
-Manos desnudas
-No puedo salir sin el permiso del representante de la aldea.
-Sin una buena pala, no se puede excavar un buen refugio subterráneo en el bosque.
-No puedes iniciar la misión sin este partisano
-¡Matad a los comisarios!
+Kit de primeiros socorros
+arquivos
+Cuidado!
+Merda!
+BASE DE CONHECIMENTO
+Vovó disse que mamãe e papai estão no céu.
+As meninas de hoje são muito agressivas.
+Apontador de mesa de baquelite. É frequentemente usado em quartéis e escolas.
+Esses bandidos que se dizem «partisans» não são nossos camaradas. Localizamos o acampamento e o destruímos.
+As gangues de Biermeier continuam a invadir vilas e celeiros de fazendas.
+Pão.
+Glória ao senhor!
+Me dói a cabeça.
+Corra por sua vida!
+Alimentamos os fugitivos e os conduzimos pela floresta em segurança.
+Nós expulsamos os fugitivos. Com sorte, eles podem sobreviver na floresta por conta própria.
+O novo grupo não tinha munição suficiente e foi derrotado. Os fascistas prenderam e enforcaram os guerrilheiros.
+Mãos nuas
+Não posso sair sem a permissão do representante da aldeia.
+Sem uma boa pá, você não pode cavar um bom abrigo subterrâneo na floresta.
+Você não pode começar a missão sem este partisans.
+Mate os comissários!
 Belozerova
-Belozerova corre en la dirección elegida. Los enemigos no pueden acertar a la partisana mientras corre.
-Belozerova mata a todos los enemigos que se encuentren en una pequeña zona alrededor de la partisana. Se necesita una pistola.
+Belozerova corre na direção escolhida. Os inimigos não podem atingir o guerrilheiro durante a corrida.
+Belozerova mata todos os inimigos em uma pequena área ao redor do guerrilheiro. Você precisa de uma arma.
 Olga Mikhailovna Belozerova
-Belozerova, Olga Mikhailovna. Edad: 27. Nació en Novosibirsk (posteriormente, Novonikolayevsk). Fue criada por su padre, que era coronel en el ejército. Es licenciada en Derecho por la Universidad Estatal de Moscú y trabajó como investigadora en la Milítsiya de Moscú. Experta en los deporte de tiro. Se unió al Ejército Rojo después de que enviaran a su padre al frente.
-Pantano de Beloretskeya
-¡Cuidado! ¡Granada!
-¡Cuidado! ¡Viene una granada!
+Belozerova, Olga Mikhailovna. Idade: 27. Ele nasceu em Novosibirsk (mais tarde Novonikolayevsk). Ela foi criada por seu pai, que era um coronel do exército. Ela é formada em direito pela Universidade Estadual de Moscow e trabalhou como pesquisadora na Milícia de Moscow. Especialista em tiro esportivo. Ele ingressou no Exército Vermelho depois que seu pai foi enviado para o front.
+Beloretskeya Swamp
+Cuidado! Granada!
+Cuidado! Uma granada está chegando!
 Berta
-Cuánta maldad.
-Venda
-Biermeier ha vuelto a enviar a su banda.
-Biermeier ha ordenado aumentar el trabajo en las labores agrícolas. Las mujeres y los niños están trabajando duro en los campos de la mañana a la noche.
-¡Biermeier le quitaría hasta un mendrugo de pan a un bebé!
-Biermeier organizó la cosecha de maravilla.
-Cuerpo a cuerpo I
-Cuerpo a cuerpo II
-Cuerpo a cuerpo III
-Qué mal rollo.
-Misión de combate
-Brest: Informe de batalla
-Tareas y misiones de combate
-Los soldados de las SS son muy peligrosos, puesto que son guerreros muy hábiles que están volcados con su ideología. Pueden equiparse con ametralladoras.
-Soldados alemanes con el equipo más moderno y una importante experiencia en combate. Son muy peligrosos. Los francotiradores y los operarios de ametralladoras son especialmente letales.
+Quanta maldade.
+Curativo
+Biermeier enviou sua gangue novamente.
+Biermeier organizou trabalho de colheita adicional. Mulheres e crianças estão labutando nos campos do nascer ao pôr do sol.
+Biermeier tiraria uma casca de pão de um bebê!
+Biermeier organizou a colheita muito bem.
+Corpo a corpo I
+Corpo a corpo II
+Corpo a corpo III
+Esse rolo ruim.
+Missão de combate
+Brest: Relatório de Batalha
+Tarefas e missões de combate
+Os soldados SS são muito perigosos, pois são guerreiros muito habilidosos e comprometidos com sua ideologia. Eles podem ser equipados com metralhadoras.
+Soldados alemães com os equipamentos mais modernos e significativa experiência de combate. Eles são muito perigosos. Atiradores de elite e operadores de metralhadoras são especialmente mortais.
 Hospital
-La Gran Berta
-Hubo una tragedia en el frente. Kiev, la capital de la Ucrania soviética, ha sido tomada por los fascistas.
-Ya no se puede usar.
-Los bolcheviques cerraron todas las iglesias. Ya ni siquiera podemos acudir a Dios para que nos proteja.
+A grande Berta
+Houve uma tragédia na frente. Kiev, a capital da Ucrânia soviética, foi conquistada pelos fascistas.
+Não pode mais ser usado.
+Os bolcheviques fecharam todas as igrejas. Não podemos mais nos voltar para Deus em busca de proteção.
 Carne
 ¡Es una bomba!
 Bonificación por cobertura
