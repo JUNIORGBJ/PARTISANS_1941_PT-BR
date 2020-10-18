@@ -1,99 +1,99 @@
-[¡Disparad!]
-[Increíble.]
-[¡Al suelo!]
-[No puedo acertarles desde aquí.]
-[Me he quedado sin balas. Cubridme.]
-[Huele a agua.]
-[La situación se está volviendo confusa...]
-[¡Recargando!]
-[¡Me disparan! ¡Cubridme!]
-[¡Me están disparando!]
-[Tu aspecto es sospechoso.]
-[Voy a vomitar...]
-[Ahora, descansad.]
-[Seguramente no sea nada.]
-[Afirmativo. Nos ponemos en marcha.]
-[¡Lárgate!]
-[¡Cubridme! Estoy recargando.]
-[No me obligues a dispararte.]
-[¡Fijaos en eso!]
-[Ha sido muy fácil.]
-[¡Dispersaos!]
-[La medicina no puede hacer nada.]
-[¡Cabrón!]
-[¡No te muevas o disparo!]
-[¡Alto!]
-[¡Alto! ¡Es una orden!]
-[¡Disparad en cuanto estéis listos!]
-[No puedes estar aquí.]
-[Esto es lo que os voy a hacer a todos.]
-[Ahora, un poco a la izquierda.]
-[¿Tú quién cojones eres?]
-[¡Tenemos bajas!]
-[Tienen bajas.]
-[¡Matadlos!]
-[¡Matad a los rusos!]
-[Como te vea borracho de servicio, te pego un tiro.]
-[¡Calma!]
-[¡Buen tiro!]
-[Era un buen perro.]
-[Buen tiro.]
-[¡Malditos partisanos!]
-[¡Puñeteros eslavos!]
-[¿Qué es ese ruido?]
-[¿Qué es?]
-[¿Qué ha sido eso?]
-[¡Eh!]
-[Está chupado.]
-[Esta es una zona restringida.]
-[¿Qué es? ¿Schnapps?]
-[¡Espera, Jürgen!]
-[¿Lo conozco de algo?]
-[Debería contactar con su familia.]
-[¡Me han dado!]
-[No me suena tu cara.]
-[Voy a poner este sitio patas arriba.]
-[Creo que veo algo...]
-[He oído algo.]
-abandonar
+[Atire!]
+[Incrível.]
+[Ao solo!]
+[Eu não posso acertá-los daqui.]
+[Eu fiquei sem balas. Me proteja.]
+[Cheire a água.]
+[A situação está ficando confusa...]
+[Recarregando!]
+[Eles atiraram em mim! Me proteja!]
+[Eles estão atirando em mim!]
+[Sua aparência é suspeita.]
+[Vou vomitar...]
+[Agora descanse.]
+[Provavelmente nada.]
+[Afirmativo. Vamos indo.]
+[Saia!]
+[Me proteja! Estou recarregando.]
+[Não me faça atirar em você.]
+[Olhe para isso!]
+[Foi muito fácil.]
+[Espalhar!]
+[O medicamento não pode fazer nada.]
+[Idiota!]
+[Não se mova ou eu atiro!]
+[Alto!]
+[Alto! É uma ordem!]
+[Fotografe assim que estiver pronto!]
+[Você não pode estar aqui.]
+[Isso é o que vou fazer com todos vocês.]
+[Agora um pouco para a esquerda.]
+[Quem diabos é você?]
+[Temos vítimas!]
+[Eles têm baixas.]
+[Mate eles!]
+[Mate os russos!]
+[Como vejo você bêbado de plantão, vou atirar em você.]
+[Calma!]
+[Bom tiro!]
+[Ele era um bom cachorro.]
+[Bom tiro.]
+[Malditos partisans]
+[Malditos eslavos!]
+[O que é esse barulho?]
+[O que é?]
+[O que é que foi isso?]
+[Ei!]
+[Ele é horrível.]
+[Esta é uma área restrita.]
+[O que é? Schnapps?]
+[Espere, Jürgen!]
+[Eu o conheço de algum lugar?]
+[Você deve entrar em contato com sua família.]
+[Eles me pegaram!]
+[Seu rosto não me lembra nada.]
+[Vou virar este local de cabeça para baixo.]
+[Acho que vejo algo...]
+[Eu ouvi algo.]
+Sair
 I
 minutos
 algo
-especialidad
-coger todo
-¡A Biermeier le encanta beber! ¡Ese es mi hombre!
-¿Y si nos atacan?
-Detuvieron a Kolya por andar repartiendo folletos.
-¿Y si todavía siguen aquí?
-¿Está el comandante Zorin con vosotros?
-¿Me darán un premio?
-¡Piérdete!
-A los partisanos les da igual todo.
-Los partisanos lo están haciendo genial enfrentándose a los fascistas.
-Entonces, los alemanes comenzaron a llevarse a gente para trabajar en Alemania. A algunos los persuadían y a otros simplemente los forzaban. Yo me las ingenié para esconderme en el ático, pero se llevaron a mi hermana.
-¿Qué es esto?...
-¿Quiénes son los partisanos?
-¿Eh?
-¿Eh? ¿Qué pasa?
+especialidade
+pegar tudo
+Biermeier adora beber! Esse é meu homem!
+E se eles nos atacarem?
+Kolya foi preso por distribuir panfletos.
+E se eles ainda estiverem aqui?
+O Comandante Zorin está com você?
+Eles vão me dar um prêmio?
+Dá o fora!
+Os partisans não se importam.
+Os partisans estão se saindo muito bem contra os fascistas.
+Assim, os alemães começaram a levar pessoas para trabalhar na Alemanha. Alguns foram persuadidos e outros simplesmente forçados. Consegui me esconder no sótão, mas levaram minha irmã.
+O que é isso?...
+Quem são os partisans?
+Ei?
+Ei? O que há?
 AVS – 36
 AGENTES
-Lugar del accidente
-Avdotya es la chica que protegimos del acoso de Petrov. Nos ha preparado un poco de pan. ¿Deberíamos ir a por él?
-Bolsa de hilo con verduras
-Guardado automático
-Convoy
-Operario de ametralladora
-Operario de ametralladora de las SS
+Local do acidente
+Avdotya é a garota que protegemos do assédio de Petrov. Ela fez pão para nós. Devemos ir atrás dele?
+Saco de barbante com vegetais
+Salvamento automático
+Comboio
+Operador de metralhadora
+Operador de metralhadora SS
 Fácil
 Agente 47
-Agente herido.
-Agente muerto:
-Los agentes de Nikitin nos informan de que los alemanes reforzaron las patrullas en torno a la estación de Krasnoselskaya. Eso no es bueno.
+Agente ferido.
+Agente morto:
+Agentes Nikitin nos informam que os alemães reforçaram as patrulhas ao redor da estação Krasnoselskaya. Isso não é bom.
 -
 Propagandista
-Enemigo agresivo
-¡Duele!
-Tras seguir con mucho cuidado las huellas del uapití, lo encontramos y lo matamos.
-Activa la acción de la base
-Tarea
-No tienes misiones secundarias activas.
+Inimigo agressivo
+Isso machuca!
+Depois de seguir cuidadosamente as pegadas do alce, nós o encontramos e o matamos.
+Ativa a ação da base
+Tarefa
+Você não tem missões secundárias ativas.
