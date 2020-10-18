@@ -3,20 +3,20 @@ Vila Pokróvskoye
 Campo de batalla
 Refugio central
 Política de privacidade
-Polizei
+O Polizei
 Membros do Ordnungspolizei e de outras organizações conhecidas coloquialmente como Polizei. Geralmente, eles são traidores e renegados. Os alemães geralmente os equipam com armamento inferior e os enviam para manter a ordem nas vilas. Eles não são especialmente perigosos.
-Polizei comentou sobre um banner vermelho que foi apresentado na sala de troféus alemã em Pokróvskoye. Devemos ir lá e recuperar aquele estandarte valioso.
-Polizei estava preparado para um ataque. Nós falhamos.
-Polizei é mais confortável do que minhocas com bacon!
-Polizei está muito ocupado invadindo um distrito vizinho. Poderíamos contar aos aldeões sobre todos os crimes dos invasores.
-Polizei nos viu. Tivemos que nos retirar.
+O Polizei comentou sobre um banner vermelho que foi apresentado na sala de troféus alemã em Pokróvskoye. Devemos ir lá e recuperar aquele estandarte valioso.
+O Polizei estava preparado para um ataque. Nós falhamos.
+O Polizei é mais confortável do que minhocas com bacon!
+O Polizei está muito ocupado invadindo um distrito vizinho. Poderíamos contar aos aldeões sobre todos os crimes dos invasores.
+O Polizei nos viu. Tivemos que nos retirar.
 Polizei são pessoas más.
-Polizei
-Polizei Yegor, a quem colocamos os pontos nos is, nos disse que uma carroça com suprimentos passaria pela floresta. Podemos pegar a comida.
-Polizei Petrov, a quem chamamos de responsabilidade civil, disse-nos que seu chefe tinha um esconderijo de objetos apreendidos. Talvez devêssemos dar uma olhada.
+O Polizei
+O Polizei Yegor, a quem colocamos os pontos nos is, nos disse que uma carroça com suprimentos passaria pela floresta. Podemos pegar a comida.
+O Polizei Petrov, a quem chamamos de responsabilidade civil, disse-nos que seu chefe tinha um esconderijo de objetos apreendidos. Talvez devêssemos dar uma olhada.
 Um polizei escapou, falando com Vasily Gavrilovich, que posicionava armas antiaéreas ao redor da estação de Bogachevo. Parece que um grande carregamento chegará em breve.
 Polizei vê partisans em todos os lugares.
-Polizei não pode fazer nada.
+O Polizei não pode fazer nada.
 Coronel da Wehrmacht
 Recrute todos os partisans para a causa.
 Uma ótima distração
@@ -56,42 +56,42 @@ Atiramos nos lobos e em um aleijado. Eles não vão voltar.
 Construir
 Construir a bancada
 Perdas
-Envenenamos a los ratones. Nuestras reservas de comida están a salvo.
-Las reparaciones nos llevaron todo el día, pero ya parece estar todo en orden.
-Nuestros camaradas se metieron en problemas. Puede que la Polizei sepa lo que pasó en Volkovo. Deberíamos atrapar a uno para hacerle hablar.
-Arreglar arma
+Nós envenenamos ratos. Nossas reservas de alimentos estão seguras.
+Os reparos demoraram o dia todo, mas agora tudo parece estar em ordem.
+Nossos camaradas tiveram problemas. O Polizei pode saber o que aconteceu em Volkovo. Devíamos pegar um para fazê-lo falar.
+Reparar arma
 Pravda n.º 172
-Trampa de cable
-Hay demasiados traidores.
-Objetos de misión
-Se recomienda el combate directo.
-Se recomienda el sigilo.
-Antes de que los cuelguen
-Escalada de verjas altas
-En manos hábiles, un cuchillo es un arma veloz que asegura la muerte del enemigo si consigues acercarte a él por la espalda sin que se percate.
-Los analgésicos ayudarán a tus personajes a ignorar el dolor y curarse de sus heridas.
-Un fusil silencioso desmontable te permitirá matar rápidamente a tu objetivo. Sin embargo, tu presa se resistirá por un tiempo y emitirá sonidos que podrían escuchar otros enemigos.
-Durante la retirada, el Ejército Rojo se dejó un tanque KV-1 en un pantano. Antes o después, los alemanes lo encontrarán y le darán uso. Debemos destruirlo.
-Al sufrir bastante daño, los partisanos pueden llegar a estar «al borde de la muerte». Para reanimar a ese personaje, haz clic en el icono de curación que tiene encima el partisano herido.
-Cuando los partisanos sufren daños, cabe la posibilidad de que sufran heridas y lesiones a largo plazo que afecten a sus capacidades. De ser el caso, usa analgésicos para minimizar temporalmente el efecto de las mismas y ganar tiempo para llegar a la base.
-Al borde de la muerte
-Encontré a una chica preciosa...
-Podemos asarla ahora y hacer un guiso con ella.
-Para cocinar
-Para preparar mucha comida
-Bloque de alimentación
-Estufa «Record-1»
-Para coger
+Armadilha por cabo
+Existem muitos traidores.
+Itens de missão
+O combate direto é recomendado.
+Sigilo é recomendado.
+Antes de enforcá-los
+Escalando portões altos
+Em mãos habilidosas, a faca é uma arma rápida que garante a morte do inimigo se você conseguir se aproximar dele por trás sem que ele perceba.
+Os analgésicos ajudarão seus personagens a ignorar a dor e curar suas feridas.
+Um rifle silencioso destacável permitirá que você mate rapidamente o seu alvo. No entanto, sua presa vai resistir por um tempo e fazer sons que outros inimigos podem ouvir.
+Durante a retirada, o Exército Vermelho deixou um tanque KV-1 em um pântano. Mais cedo ou mais tarde, os alemães o encontrarão e o colocarão em uso. Devemos destruí-lo.
+Sofrendo danos consideráveis, os guerrilheiros podem se tornar "à beira da morte". Para reviver aquele personagem, clique no ícone de cura acima do guerrilheiro ferido.
+Quando os guerrilheiros são prejudicados, existe o potencial de lesões e lesões de longo prazo que afetam suas capacidades. Se for esse o caso, use analgésicos para minimizar temporariamente seu efeito e ganhar tempo para chegar à base.
+À beira da morte
+Encontrei uma menina linda ...
+Podemos assá-lo agora e fazer um ensopado com ele.
+Para cozinhar
+Para preparar muita comida
+Bloco de energia
+Fogão "Record-1"
+Pegar
 Recursos
-Ingresos
-¡Le pegaré un tiro a ese malnacido!
-O te largas o te pego un tiro.
-Unos polvos que detienen las hemorragias.
-Apuntar
-Tiros apuntados que obligan a los enemigos a ponerse a cubierto. Se necesita una metralleta.
-Tiro certero I
-Tiro certero II
-Tiro certero III
+Renda
+Vou atirar naquele desgraçado!
+Ou você vai embora ou eu atiro em você.
+Um pó que para de sangrar.
+Alvejando
+Tiros direcionados que forçam os inimigos a se protegerem. Você precisa de uma metralhadora.
+Tiro preciso I
+Tiro preciso II
+Tiro preciso III
 Faça o seu caminho para a estrada
 Primeiro reconhecimento
 Entre discretamente no galpão perto do portão
