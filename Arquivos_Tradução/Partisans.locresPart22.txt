@@ -1,99 +1,99 @@
-No queda comida. Estamos a punto de morirnos de hambre. Debemos encontrar comida inmediatamente.
-Provocación I
-Provocación II
+Não sobrou comida. Estamos prestes a morrer de fome. Devemos encontrar comida imediatamente.
+Provocação I
+Provocação II
 Continuar
-Creación
-Evento de campamento
+Criação
+Evento de acampamento
 Incidentes
-Completa la misión sin hacer saltar ninguna alarma.
-Completa la misión Cortijo.
-Completa la misión en menos de {N} minutos.
-Completa la misión sin usar granadas
-Completa la misión sin usar granadas.
-Completa la misión sin usar el cuchillo.
-Completa la misión sin usar el cuchillo
-Completa la misión sin usar armas de fuego
-Completa la misión sin usar armas de fuego.
-Completa la misión sin usar ametralladoras ligeras
-Completa la misión sin usar ametralladoras ligeras.
-Completa la misión de la ciudad sin hacer saltar ninguna alarma.
-Completa la misión de la estación de Bogachevo sin hacer saltar ninguna alarma.
-Ábrete paso a través de la aldea
-Pulmón perforado
+Complete a missão sem disparar nenhum alarme.
+Complete a missão Cortijo.
+Complete a missão em menos de {N} minutos.
+Complete a missão sem usar granadas
+Complete a missão sem usar granadas.
+Complete a missão sem usar a faca.
+Complete a missão sem usar a faca
+Complete a missão sem usar armas de fogo
+Complete a missão sem usar armas de fogo.
+Complete a missão sem usar metralhadoras leves
+Complete a missão sem usar metralhadoras leves.
+Complete a missão da cidade sem disparar nenhum alarme.
+Complete a missão da Estação Bogachevo sem disparar nenhum alarme.
+Faça o seu caminho pela aldeia
+Pulmão perfurado
 Propaganda
-Permiso
-El portador de este pase no tiene intención alguna de participar en la ridícula matanza en nombre de los judíos y comisarios y, por tanto, abandona al Ejército Rojo derrotado y se une al ejército alemán. Los oficiales alemanes ofrecen comida, alojamiento y trabajo. No es necesario el pase para unirse al ejército alemán, sino que se ofrecerá una cálida bienvenida en cualquier caso.
-Un tronco normal y corriente.
-Los enemigos pueden pedir refuerzos a través de sistemas especiales de alarma. Haz lo que esté en tus manos para impedirlo.
-Una lluvia intensa dañó el tejado. Debemos reparar el siguiente tejado: {0}.
-¡Dejad que me vaya, por favor!
-¡Escondeos!
-Los pájaros están a punto de migrar, pero aún podríamos ir de caza. No obstante, no queremos que unos disparos llamen la atención del enemigo.
-Ametralladora
-Las ametralladoras son armas extremadamente efectivas, pero necesitan grandes cantidades de munición.
+Permissão
+O portador deste passe não tem intenção de participar do massacre ridículo em nome dos judeus e comissários e, portanto, deixa o Exército Vermelho derrotado e se junta ao Exército Alemão. Oficiais alemães oferecem comida, acomodação e trabalho. O passe não é necessário para ingressar no Exército Alemão, mas uma recepção calorosa será oferecida em qualquer caso.
+Um registro comum.
+Os inimigos podem chamar reforços por meio de sistemas de alarme especiais. Faça o que puder para evitá-lo.
+A chuva forte danificou o telhado. Devemos reparar o seguinte telhado: {0}.
+Deixe-me ir, por favor!
+Ocultar!
+Os pássaros estão prestes a migrar, mas ainda podemos ir caçar. No entanto, não queremos alguns tiros para atrair a atenção do inimigo.
+Metralhadora
+Metralhadoras são armas extremamente eficazes, mas requerem grandes quantidades de munição.
 Lewis
-Ametralladora Lewis
-Dejad que vengan si es que tienen valor para hacerlo.
-Es culpa de los partisanos.
-¡Dejad que vengan, dejad!
-Grrr...
+Metralhadora lewis
+Deixe-os vir se tiverem coragem para isso.
+É culpa dos partidários.
+Deixe-os vir, deixe-os vir!
+Grrr ...
 DIVIDIR
-DISOLVER
+DISSOLVER
 CONSUMO
-CONSUMO DE COMIDA AL DÍA
-LA PALA EN COMBATE
-Emisora de radio
-Radios del enemigo
-Si los alemanes pueden, nosotros también.
-¡Corred!
-¡Dividíos en grupos y buscad partisanos!
-Ahora, ya nadie los encontrará.
-Ahora ya nadie los encontrará.
-Exploración
+CONSUMO DE ALIMENTOS POR DIA
+A PÁ EM COMBATE
+Emissora de rádio
+Rádios inimigos
+Se os alemães podem, nós também podemos.
+Corre!
+Divida em grupos e encontre partidários!
+Agora, ninguém os encontrará mais.
+Agora ninguém os encontrará.
+Exploração
 Dividir
-Brazo roto
-Diferentes objetos mecánicos.
-Tamaño del cargador
-Posiciona a todos tus personajes en el área especificada para salir de la ubicación.
+Braço quebrado
+Diferentes objetos mecânicos.
+Tamanho do carregador
+Posicione todos os seus personagens na área especificada para sair do local.
 Desmontar
-Encuentra al representante de la aldea
-Ruptura del tendón
-Descargar
-Región disponible para explorar
-Los rangos del enemigo
-Los rangos del enemigo reflejan su nivel de peligrosidad. Para ver el rango, mantén pulsada la tecla ALT y pasa el cursor del ratón sobre el enemigo.
-Tendríamos que haber empezado a luchar antes.
-Antaño éramos el azote de los alemanes. Ahora, son ellos nuestro azote.
-Ya los vencimos en el pasado y podemos volver a hacerlo.
-Encontramos el alijo. Gavrilovich nos ayudó a devolver los objetos de valor a sus propietarios y nosotros nos quedamos con el resto.
-Horario de trenes
-Reparto del botín
-Mina de cable
-Las trampas de cable infligen daño de área y pueden ser muy útiles a la hora de tender emboscadas.
+Encontre o representante da aldeia
+Ruptura de tendão
+baixar
+Região disponível para explorar
+As fileiras do inimigo
+As fileiras do inimigo refletem seu nível de perigo. Para ver o alcance, mantenha pressionada a tecla ALT e passe o mouse sobre o inimigo.
+Devíamos ter começado a lutar mais cedo.
+Uma vez fomos o flagelo dos alemães. Agora, eles são nosso flagelo.
+Já os vencemos no passado e podemos fazer de novo.
+Encontramos o esconderijo. Gavrilovich ajudou-nos a devolver os objetos de valor aos donos e nós levamos o resto.
+Horário do trem
+Distribuição do saque
+Mina de cabo
+Armadilhas de cabo causam dano de área e podem ser muito úteis ao preparar emboscadas.
 Consumo
-cargador de gran tamaño
-Kit de resurrección
-Reanima a un partisano.
-La niña se perdió en el bosque. Esperemos que pueda sobrevivir por sí sola.
-Un revólver de la Primera Guerra Mundial reconvertido al calibre 7,62. Es un modelo de acción simple. Compensa su baja cadencia de tiro con un daño elevado y un elevado bloqueo de aire. Esta arma parece estar ajada por el uso.
-Un revólver de la Primera Guerra Mundial reconvertido al calibre 7,62. Es un modelo de acción simple. Compensa su baja cadencia de tiro con un daño elevado y un elevado bloqueo de aire. Es un arma de calidad media.
-Un revólver de la Primera Guerra Mundial reconvertido al calibre 7,62. Es un modelo de acción simple. Compensa su baja cadencia de tiro con un daño elevado y un elevado bloqueo de aire. Es un arma de calidad alta.
-Modo de visualização
-Modo Sigilo
-Masacre I
+carregador grande
+Kit de ressurreição
+Reviva um partisans.
+A garota se perdeu na floresta. Esperançosamente, ele pode sobreviver por conta própria.
+Um revólver da Primeira Guerra Mundial convertido para o calibre 7,62. É um modelo de ação simples. Ele compensa sua baixa taxa de fogo com alto dano e alto bloqueio de ar. Esta arma parece estar gasta pelo uso.
+Um revólver da Primeira Guerra Mundial convertido para o calibre 7,62. É um modelo de ação simples. Ele compensa sua baixa taxa de fogo com alto dano e alto bloqueio de ar. É uma arma de qualidade média.
+Um revólver da Primeira Guerra Mundial convertido para o calibre 7,62. É um modelo de ação simples. Ele compensa sua baixa taxa de fogo com alto dano e alto bloqueio de ar. É uma arma de alta qualidade.
+Modo de exibição
+Modo Silencioso
+Massacre I
 Resultado
-La dificultad recomendada para la primera partida.
-Guerra ferroviaria
-Fuera de servicio
-De vital importancia para que la unidad funcione. Sin comida, los partisanos se morirán de hambre.
-Se usa para construir nuevas armas y mejorar las ya existentes. En ocasiones, se necesita para eventos del mapa de la campaña.
+A dificuldade recomendada para o primeiro jogo.
+Guerra ferroviária
+Fora de serviço
+De vital importância para o funcionamento da unidade. Sem comida, os guerrilheiros morrerão de fome.
+É usado para construir novas armas e melhorar as existentes. Às vezes necessário para eventos no mapa da campanha.
 Recursos encontrados:
-Recompensa: {food} de comida, {grocery} de recursos.
-Recompensa: {food} de comida.
+Recompensa: {food}  de comida, {grocery} de recursos.
+Recompensa: {food}  de comida.
 Recompensa: {grocery} de recursos.
-Recursos de la base
-Nuestro discurso no sonó muy convincente. Los ciudadanos nos echaron a patadas.
-La batalla decisiva
-Decidimos no perder el tiempo con el alijo. Consideramos que sería raro que la Polizei tuviera algo de valor y decidimos que no necesitábamos relojes o pendientes.
+Recursos essenciais
+Nosso discurso não soou muito convincente. Os cidadãos nos expulsaram.
+A batalha decisiva
+Decidimos não perder tempo com o estoque. Sentimos que seria raro se o Polizei tivesse algo de valor e decidíssemos que não precisávamos de relógios ou brincos.
 Honda I
 Honda II
