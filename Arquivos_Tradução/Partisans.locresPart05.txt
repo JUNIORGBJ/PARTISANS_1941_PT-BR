@@ -34,31 +34,31 @@ Os alemães aumentaram a segurança nos trilhos do trem. Eles cortaram árvores 
 Vovó Marpha esconde um soldado ferido do Exército Vermelho na aldeia. Você precisa de remédios e comida.
 A avó Uliana está se escondendo da família de uma trabalhadora da aldeia. Você precisa de remédios e comida.
 Encontramos uma lebre em uma das armadilhas.
-Los aldeanos han enfermado, pero no hay ningún médico que los ayude. Si tuviésemos suficientes medicinas, podríamos ofrecernos a compartirlas.
-Podríamos distribuir unos folletos en la aldea de al lado. Eso sí, tendremos que tener cuidado de que no nos vean.
-El representante de la aldea está en la aldea de al lado. La Polizei se ha ido de entrenamiento militar. Debemos hablar con los lugareños y difundir el rumor de que el Ejército Rojo ha sido derrotado.
-El representante de la aldea está en la aldea de al lado. La Polizei se ha ido de entrenamiento militar. Debemos hablar con los lugareños y difundir el rumor de que el enemigo ha tomado Leningrado y Moscú.
-Hay una guarnición del enemigo asentada en la aldea de al lado. Es un grupo compuesto por soldados de la Wehrmacht bien armados. Debemos tener cuidado.
-Hay una guarnición del enemigo asentada en la aldea de al lado. Es un grupo compuesto por tropas de las SS. Debemos planificar con sumo cuidado la operación.
-Hay una guarnición del enemigo asentada en la aldea de al lado. Son pocos, por lo que podríamos cogerlos desprevenidos.
-Hay una guarnición del enemigo asentada en la aldea de al lado. Desconocemos la composición del grupo.
-Los fascistas se han llevado toda la comida de la aldea y la gente se muere de hambre. Podríamos ayudarlos si tuviésemos comida de sobra.
-Los agentes clandestinos de la ciudad de al lado necesitan armas y munición. Podríamos usar a un mensajero para enviarles recursos.
-Oímos llamadas de apareamiento de urogallos en los bosques. ¡Podemos ir de caza! No obstante, no queremos que unos disparos llamen la atención del enemigo.
-Hay muchos peces en el lago que hay aquí cerca. Podemos intentar pescar algo antes de que lleguen las heladas.
-Hay muchos peces en el lago que hay aquí cerca. Podemos usar un cebo vivo para intentar pescar un lucio.
-Hay muchos peces en el lago que hay aquí cerca. Podemos usar una hogaza de pan como cebo para pescar besugos y carpas.
-Se está formando un nuevo grupo de partisanos en el distrito de al lado. Si tuviésemos suficiente munición, podríamos ayudarlos.
-La disputa entre los «aliados» fascistas no tiene fin. Los alemanes no pueden esconder su desdén por los rumanos; los insultan y maltratan. «Las órdenes especiales del 11.º Ejército alemán» son un claro ejemplo de ello. La orden expone: «Últimamente, ha habido muchas quejas por parte de las autoridades militares rumanas de que los soldados alemanes están tomando por la fuerza el ganado de su ejército. Hubo un caso en el que un suboficial alemán tomó el ganado de un batallón entero. Esto supuso múltiples enfrentamientos entre los solados y oficiales alemanes y sus homólogos rumanos». Los alemanes están robando a los destacamentos rumanos; se llevan su pan y su ganado, lo que provoca que estos pasen hambre a menudo. La orden también menciona que «los soldados y suboficiales alemanes han insultado en varias ocasiones al ejército rumano y que se dirigen a los oficiales rumanos constantemente de forma irrespetuosa».
-Hace poco, hubo un enfrentamiento en la zona fortificada donde antaño se encontraba la línea de defensa soviética. Los lugareños dicen que no se trataba de una escaramuza normal y corriente, sino de una batalla feroz, similar a un ataque nazi. Podría ser buena idea registrar el campo de batalla en busca de armas y otros objetos útiles.
-¡Poneos a cubierto! ¡Ya!
-La maleza es demasiado densa. No hemos podido encontrar el tanque, pero tampoco lo encontrarán los alemanes.
-La maleza es demasiado densa. No hemos podido encontrar el alijo.
-¡Los enemigos te están buscando!
-TU RECURSO
-DESHACER TODO
+Os aldeões adoeceram, mas não há médico para ajudá-los. Se tivéssemos remédios suficientes, poderíamos nos oferecer para compartilhá-los.
+Poderíamos distribuir algumas brochuras na próxima aldeia. Claro, teremos que ter cuidado para que eles não nos vejam.
+O representante da aldeia está na próxima aldeia. O Polizei partiu para treinamento militar. Precisamos falar com os habitantes locais e espalhar o boato de que o Exército Vermelho foi derrotado.
+O representante da aldeia está na próxima aldeia. O Polizei partiu para treinamento militar. Precisamos conversar com os habitantes locais e espalhar o boato de que o inimigo tomou Leningrado e Moscou.
+Há uma guarnição inimiga baseada na próxima aldeia. É um grupo formado por soldados da Wehrmacht bem armados. Nós devemos ser cuidadosos.
+Há uma guarnição inimiga baseada na próxima aldeia. É um grupo formado por tropas SS. Devemos planejar cuidadosamente a operação.
+Há uma guarnição inimiga baseada na próxima aldeia. Eles são poucos, então podemos pegá-los desprevenidos.
+Há uma guarnição inimiga baseada na próxima aldeia. Não sabemos a composição do grupo.
+Os fascistas levaram toda a comida da aldeia e as pessoas estão morrendo de fome. Poderíamos ajudá-los se tivéssemos comida de sobra.
+Os agentes clandestinos da cidade vizinha precisam de armas e munições. Podemos usar um mensageiro para enviar recursos a você.
+Ouvimos gritos de acasalamento de perdizes na floresta. Podemos ir caçar! No entanto, não queremos alguns tiros para atrair a atenção do inimigo.
+Há muitos peixes no lago perto daqui. Podemos tentar pegar algo antes que a geada chegue.
+Há muitos peixes no lago perto daqui. Podemos usar iscas vivas para tentar pegar um lúcio.
+Há muitos peixes no lago perto daqui. Podemos usar um pão como isca para apanhar sargos e carpas.
+Um novo grupo de partisans está se formando no próximo distrito. Se tivéssemos munição suficiente, poderíamos ajudá-los.
+A disputa entre os "aliados" fascistas não tem fim. Os alemães não conseguem esconder seu desdém pelos romenos; eles os insultam e maltratam. "As ordens especiais do 11º Exército alemão" são um exemplo claro disso. A ordem declara: “Ultimamente, tem havido muitas reclamações das autoridades militares romenas de que os soldados alemães estão tirando o gado de seu exército à força. Houve um caso em que um suboficial alemão levou o gado de um batalhão inteiro. Isso envolveu vários confrontos entre soldados e oficiais alemães e seus colegas romenos. ' Os alemães estão roubando os destacamentos romenos; seu pão e gado são levados embora, fazendo com que passem fome com freqüência. A ordem também menciona que "soldados e sargentos alemães insultaram repetidamente o exército romeno e que constantemente se dirigem aos oficiais romenos de maneira desrespeitosa".
+Recentemente, houve um confronto na área fortificada, onde ficava a linha de defesa soviética. Os moradores locais dizem que não foi uma escaramuça normal, mas uma batalha feroz, semelhante a um ataque nazista. Pode ser uma boa ideia procurar no campo de batalha por armas e outros itens úteis.
+Proteja-se! Já!
+A vegetação rasteira é muito densa. Não conseguimos encontrar o tanque e nem os alemães.
+A vegetação rasteira é muito densa. Não conseguimos encontrar o esconderijo.
+Os inimigos estão procurando por você!
+SEU RECURSO
+DESFAZER TUDO
 MOCHILA
-COGER TODO
+PEGAR TUDO
 TEMPO
 HORA / DATA
 ESCOLHER AGENTE
@@ -67,33 +67,33 @@ DAR RAÇÃO
 COMPRAR
 TRATAR
 COMPLETAR
-AUMENTADA
+AUMENTOU
 ALTA
-SALIR
-Valentina ha oído que hay un brote de fiebre tifoidea en la ciudad que visitamos en nuestra última misión. Tendremos que destruir parte de nuestras reservas de comida.
-Valentina apunta lentamente y mata a un enemigo con un tiro a la cabeza muy preciso. Se necesita un fusil.
-¡Matadlo!
-¡A por ellos!
+SAIR
+Valentina soube que há um surto de febre tifóide na cidade que visitamos em nossa última missão. Teremos que destruir parte de nossas reservas alimentares.
+Valentina mira lentamente e mata um inimigo com um tiro na cabeça muito preciso. Você precisa de um rifle.
+Mate ele!
+Pegue eles!
 Valya
-Tienes que aprender más habilidades
-La mermelada está deliciosa.
-Te han encontrado.
-Te han llevado a un Dulag cercano junto con Fetisov, el sargento de la compañía. Se trata de un campamento de prisioneros de guerra temporal en el que separan a los oficiales de los soldados de a pie para, posteriormente, meterlos en trenes y enviarlos a campos de concentración. Empiezas a planear la fuga nada más llegar, pero los alemanes descubren tus planes a pesar de todas tus precauciones.
-Vasily Gavrilovich dice que hay nuevos partisanos en la zona. Aunque se hacen llamar así, lo cierto es que se comportan como bandidos comunes. Deberíamos vigilarlos y esclarecer un poco sus planes.
-Vasily Gavrilovich nos informa de que hubo un accidente en el cruce de vías. Un tren se estrelló contra un coche parado. Debemos darnos prisa si queremos descubrir qué transportaba ese tren.
-Vasily Gavrilovich nos informa de que entregaron un tanque dañado al taller del cruce. Es una buena oportunidad para acercarnos hasta allí y destruir ese vehículo blindado antes de que lo reparen y vuelva al campo de batalla.
-Tu partisano ya no puede sufrir daños en combate.
-Tu partisano ha muerto.
-Tu personaje está en estado normal.
-Tu personaje está deprimido. Se reduce la probabilidad de impactar al enemigo. Aumenta el tiempo de recarga de las habilidades.
-Tu personaje ha subido de nivel y ha ganado un punto de habilidad. Puedes usarlo en el árbol de habilidades. Pulsa «I» y, luego, selecciona «Habilidades».
-Tu personaje está muy deprimido. Se reduce la probabilidad de impactar al enemigo. Aumenta el tiempo de recarga de las habilidades.
-Tu respuesta
-Tus partisanos se mueren de hambre.
-Tus personajes hacen ruido al correr. ¡Tenlo en cuenta!
-De repente, un bombardero enemigo apareció en el horizonte. El Fritz iba directo a nuestro aeródromo; claramente, dispuesto a atacar los aviones que acababan de aterrizar. Ivanov alzó el vuelo y, con las últimas gotas de combustible y sin tener siquiera una ametralladora funcional, decidió embestir al enemigo. Lo embistió con todo el peso de su avión. El bombardero fascista explotó en pedacitos y, mientras ardía, cayó a tierra.
-Disparos en abanico
-Voltereta de esquiva II
-Regresa a la hoguera
+Você tem que aprender mais habilidades
+A geléia está deliciosa.
+Eles encontraram você.
+Você foi levado para um Dulag próximo com Fetisov, o sargento da companhia. É um campo de prisioneiros de guerra temporário no qual os oficiais são separados dos soldados de infantaria e depois colocados em trens e enviados para campos de concentração. Você começa a planejar sua fuga assim que chega, mas os alemães descobrem seus planos apesar de todas as suas precauções.
+Vasily Gavrilovich diz que há novos partisans na área. Embora se chamem assim, a verdade é que se comportam como bandidos comuns. Devemos ficar de olho neles e esclarecer um pouco seus planos.
+Vasily Gavrilovich nos informa que houve um acidente no cruzamento da ferrovia. Um trem bateu em um carro parado. Precisamos nos apressar se quisermos descobrir o que aquele trem estava carregando.
+Vasily Gavrilovich nos informa que um tanque danificado foi entregue na oficina. É uma boa chance de chegar lá e destruir aquele veículo blindado antes que eles o consertem e voltem ao campo de batalha.
+Seu partisans não pode mais sofrer danos em combate.
+Seu partisans está morto.
+Seu personagem está em estado normal.
+Seu personagem está deprimido. A chance de acertar o inimigo é reduzida. O tempo de espera da habilidade aumentou.
+Seu personagem subiu de nível e ganhou um ponto de habilidade. Você pode usá-lo na árvore de habilidade. Pressione 'I' e selecione 'Habilidades'.
+Seu personagem está muito deprimido. A chance de acertar o inimigo é reduzida. O tempo de espera da habilidade aumentou.
+Sua resposta
+Seus partisans estão morrendo de fome.
+Seus personagens fazem barulho ao correr. Tenha isso em mente!
+De repente, um bombardeiro inimigo apareceu no horizonte. O Fritz estava indo direto para o nosso campo de aviação; claramente pronto para atacar os aviões que acabaram de pousar. Ivanov alçou voo e, com as últimas gotas de combustível e sem nem mesmo ter uma metralhadora funcionando, decidiu bater no inimigo. Ele bateu nele com todo o peso de seu avião. O bombardeiro fascista explodiu em pequenos pedaços e, enquanto queimava, caiu no chão.
+Disparos em leque
+Teste de evasão II
+Voltar para a fogueira
 Mais tarde
 Sincronização vertical
