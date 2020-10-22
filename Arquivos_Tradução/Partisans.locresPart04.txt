@@ -81,12 +81,12 @@ O ex-contador, Sidorov agora é um polizei. Ele vende a comida desapropriada sob
 Petrov, o ex-economista da cidade, juntou-se ao Polizei. Ele está perseguindo uma garota chamada Avdotya. Devemos protegê-lo.
 Se eu fosse um pouco mais jovem, daria uma lição para eles!
 carregar registro rápido
-Salvar rápido
-Slot salvo 1<cf>{time}
-Slot salvo 2<cf>{time}
-Slot salvo 3<cf>{time}
+Salvar registro rápido
+Registro 1<cf>{time}
+Resgistro 2<cf>{time}
+Registro 3<cf>{time}
 Mão-rápida
-Salvo rápido.
+Registro Salvo rápido.
 E
 LUTAR!
 LEMBRE-SE DE ISSO QUANDO VOCÊ LUTAR CONTRA UM TANQUE:
