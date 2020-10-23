@@ -4,4 +4,5 @@ partisanos=partisans
 Cuartel general central=Quartel-general central
 Campo natural=Campo selvagem
 al molino=o moinho
-Un alijo oculto=Um esconderijo de contrabando.
+Un alijo oculto=Um esconderijo de contrabando
+aldea=aldeia

@@ -7,36 +7,36 @@ aumentada
 Volume da voz
 Volume da música
 Volume do som
-Aldea Borovichí
-Aldea Grigorievka
-Aldea Ivanovka
-Aldea Mikhailovo
-Aldea Pogoreltsy
-Aldea Telegino
-rotación y movimiento de la cámara
+Aldeia Borovichí
+Aldeia Grigorievka
+Aldeia Ivanovka
+Aldeia Mikhailovo
+Aldeia Pogoreltsy
+Aldeia Telegino
+Giro e movimento da câmera
 recursos encontrados:
-disponible
+disponível
 outros jogos
 unidades de comida
-unidades de suministros
-diario de la misión secundaria
-reclutar
-completado
-actividades completadas
-terminar actividad
+unidades de suprimentos
+diário de missão secundaria
+recrutar
+concluído
+atividades concluídas
+terminar atividade
 carregar
 carregar partida
-diario
-cerrar actividad
-buena salud
+diário
+fechar atividade
+boa saúde
 jogo
 De familia militar
-abierto
+aberto
 Inventário
 infiltração
 ativar habilidades primárias e secundárias
-usar objeto slot ativo
-a la actividad
+usar o item do slot ativo
+para a atividade
 Kazaja
 Capitão
 Capitão da NKVD
@@ -53,7 +53,7 @@ novas atividades
 nova construção
 volume geral
 qualidade geral
-Lago Ostrovnoe
+Ostrovnoe l.
 Sosnovoe l. 
 experiência
 principal
@@ -62,12 +62,12 @@ não
 abrir
 cancelar
 lançar
-partisano
-plantilla pasiva SÍ/NO
+partisans
+modelo passivo SIM/NÃO
 reiniciar missão
 recarregar
 pistolas
-Metralletas
+Metralhadoras
 destacar objetos interativos
 dicas
 jogador
@@ -78,7 +78,7 @@ falhou
 continuar
 Bolshaya r.
 resolução da tela
-herido
+ferido
 modo de controle
 escopetas
 Rusa
@@ -89,9 +89,9 @@ Sargento médico
 Velocidade de giro da câmera
 Velocidade de movimento da câmera
 Mudar de arma
-reducida
+reduzido
 criar
-salvar o jogo
+salvar jogo
 Especialista
 Médico experto
 botão do meio do mouse + cursor: girar câmera
