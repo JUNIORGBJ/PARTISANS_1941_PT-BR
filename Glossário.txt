@@ -1,3 +1,5 @@
 Glossário
 ====================
 partisanos=partisans
+Cuartel general central=Quartel-general central
+Campo natural=Campo selvagem
