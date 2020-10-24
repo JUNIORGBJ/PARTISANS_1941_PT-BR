@@ -1,17 +1,17 @@
-en construcción
-pausa táctica
-tipo de suavizado
-ametralladoras pesadas
+em construção
+pausa tática
+tipo de alisamento
+metralhadoras pesadas
 melhorar
-Espía
-um.
-enciclopedia
+Espião
+hum.
+enciclopédia
 — 1, 2, 3
 —  ESC
 —  G
 —  Q, E
 — Shift + 1, 2, 3
-— Barra de espaco 
+— Barra de espaço 
 — W, A, S, D
 —  Z, X, C
 — Roda do mouse
@@ -21,79 +21,79 @@ enciclopedia
 —  Botão direito do mouse em um inimigo
 usado para destacar novas informações em uma categoria ou item de menu.
 Pense nas crianças!
-... Se graduó en la Academia militar de Saratov de Fuerzas Acorazadas y combatió en el frente desde los primeros días de la guerra. En 1941, defendió Naro-Fominsk como parte del 39.º Regimiento Independiente de Tanques.
-... Las unidades de partisanos deben crearse en territorios ocupados. Hay que organizar grupos de asalto para hostigar al enemigo por doquier. Hay que destruir los puentes, cortar las líneas telefónicas y telegráficas, prender fuego a los almacenes y líneas de suministros. Tenemos que hacer que el enemigo y su séquito se enfrenten a condiciones inhumanas. Debemos asediarlos y destruirlos a la mínima oportunidad, así como frustrar cada uno de sus movimientos.
-... Un transporte blindado que estaba flanqueando consiguió alcanzar el vehículo de Belyaev con tres disparos de cañón. El conductor murió al instante mientras que Belyaev, gravemente herido, perdió el conocimiento. Un olor punzante lo despertó. Su vehículo blindado estaba ardiendo, pero su ametralladora aún estaba operativa, así que el héroe, sangrante, siguió luchando desde el vehículo en llamas. Sus ráfagas largas prendieron fuego a uno de los transportes blindados y dañaron otro. Los camaradas de Belyaev corrieron hacia el coche y lo sacaron de allí, con quemaduras y de nuevo inconsciente. Poco tiempo después, el héroe sucumbió a sus heridas sin haber recuperado el conocimiento. Sacrificó su vida por la victoria contra los fascistas en la aldea de Somry.
-... El combustible se estaba agotando y ya no había más munición para las ametralladoras. El teniente primero Ivan Ivanovich Ivanov se dirigió al aeródromo con su caza. Los dos primeros aviones aterrizaron e Ivanov comenzó a descender mientras vigilaba el cielo sobre el aeródromo.
-... Por su coraje, entereza y valentía en batalla, le otorgaron la «Medalla al Valor».
-... Nuestra causa es honesta. Derrotaremos al enemigo. ¡La victoria será nuestra!
-... Hace no mucho tiempo, los fascistas dispararon y mataron a tres jóvenes que volvían del bosque con leña. El viejo granjero Fedulov y la aldeana Tikhonova rogaron a los alemanes que les perdonaran la vida a los jóvenes, pero solo consiguieron que les golpearan brutalmente y los metieran en un gélido cobertizo sin ropa. Al caer la tarde, los soldados ebrios pusieron paja alrededor del cobertizo y le prendieron fuego. Mientras tanto en la aldea, un oficial fascista llamado Ivanovka reunió a los aldeanos y les exigió que abastecieran al ejército de Hitler de 30 toneladas de patatas, cinco vacas y 20 ovejas.
-... Ahora que el ataque a la Unión Soviética se ha llevado a cabo, el gobierno soviético ha ordenado a nuestras tropas repeler el ataque predatorio y expulsar a las tropas alemanas del territorio de nuestro país.
-... Durante la batalla por la ciudad de Dolitza, cerca del río Donets, la instructora médica de combate V. O. Gnarovskaya puso a salvo a 47 soldados heridos y oficiales junto con sus armas. Ella misma acabó con la vida de 28 soldados y oficiales alemanes. Durante la batalla en la aldea de Ivanenkovo, dos tanques Tiger enemigos atravesaron las líneas y avanzaron hasta el cuartel general de regimiento. En este momento crítico, cuando los tanques se encontraban ya a 60-70 metros del cuartel general, Gnarovskaya, tras coger unas cuantas granadas, salió de la trinchera y cargó contra el vehículo que se aproximaba. Entregó su vida, pero inutilizó el tanque enemigo.
-... Se nos ha forzado a entrar en esta guerra y los responsables no han sido el pueblo ni la clase trabajadora ni los campesinos e intelectuales alemanes, cuyo sufrimiento entendemos, sino esos despiadados gobernantes fascistas de Alemania que han esclavizado a franceses, checos, polacos, serbios, noruegos, belgas, daneses, holandeses, griegos y gente de otras naciones...
-Chino
-«El mundo os mira con esperanza. Tenéis el poder para derrotar a las hordas invasoras de esos malvados alemanes».
-Aspira a lo mejor, pero prepárate para lo peor.
-«Ven a Alemania y ayuda con las tareas del hogar». ¡Así llaman ahora a la esclavitud!
-«¡Camaradas del Ejército Rojo y de la Flota Roja! ¡Comandantes, oficiales y partisanos!».
-«Schlanke Berta»... Mierda, debo informar de inmediato.
-(ulular)    
-(grito)
-(gruñido amenazador)
-(silba en alto)
-(estornudo fuerte) Perdón.
-(sonido de sorpresa)
-(gemidos de dolor)
-(gemido de desesperación)
-(grito de angustia)
-(escupitajo)
-(silbido de advertencia)
-(gruñido)
-(grito fuerte)
-(jadeo)
-(quejido)
-(estornudo silencioso)
-(sorbe con cuidado)
-(resuello)
-(sonidos de disputa)
-(hipo)
+...Ele se formou na Academia Militar das Forças Blindadas de Saratov e lutou na linha de frente desde os primeiros dias da guerra. Em 1941, defendeu Naro-Fominsk como parte do 39º Regimento de Tanques Independente.
+...Unidades partisans devem ser criadas em territórios ocupados. Os grupos de ataque devem ser organizados para perseguir o inimigo em todos os lugares. Pontes devem ser destruídas, linhas telefônicas e telegráficas cortadas, armazéns e linhas de abastecimento incendiados. Temos que fazer com que o inimigo e sua comitiva enfrentem condições desumanas. Devemos sitiá-los e destruí-los na menor oportunidade, bem como impedir todos os seus movimentos.
+...Um porta-aviões blindado de flanco conseguiu atingir o veículo de Belyaev com três tiros de canhão. O motorista morreu instantaneamente enquanto Belyaev, gravemente ferido, perdia a consciência. Um cheiro forte o acordou. Seu carro blindado estava pegando fogo, mas sua metralhadora ainda estava operacional, então o herói sangrando continuou a lutar do veículo em chamas. Suas longas explosões incendiaram um dos transportes blindados e danificaram outro. Os camaradas de Belyaev correram até o carro e o arrastaram para fora, queimado e inconsciente novamente. Pouco tempo depois, o herói sucumbiu aos ferimentos sem recuperar a consciência. Ele sacrificou sua vida pela vitória contra os fascistas na aldeia de Somry.
+...O combustível estava acabando e não havia mais munição para as metralhadoras. O primeiro-tenente Ivan Ivanovich Ivanov dirigiu-se ao campo de aviação com seu lutador. Os dois primeiros aviões pousaram e Ivanov começou a descer, mantendo um olho no céu sobre o campo de aviação.
+...Pela sua coragem, valor e bravura na batalha, foi premiado com a 'Medalha da Coragem'.
+...Nossa causa é honesta. Vamos derrotar o inimigo. A vitória será nossa!
+...Não faz muito tempo, os fascistas atiraram e mataram três jovens que voltavam da floresta com lenha. O velho fazendeiro Fedulov e o aldeão Tikhonova imploraram aos alemães que poupassem os jovens, mas apenas conseguiram que fossem brutalmente espancados e jogados em um galpão frio sem roupas. Ao cair da noite, os soldados bêbados colocaram palha ao redor do galpão e atearam fogo. Enquanto isso, na aldeia, um oficial fascista chamado Ivanovka reuniu os aldeões e exigiu que eles abastecessem o exército de Hitler com 30 toneladas de batatas, cinco vacas e 20 ovelhas.
+...Agora que o ataque à União Soviética foi realizado, o governo soviético ordenou que nossas tropas repelissem o ataque predatório e expulsassem as tropas alemãs do território de nosso país.
+...Durante a batalha pela cidade de Dolitza, perto do rio Donets, a instrutora médica de combate V. O. Gnarovskaya salvou 47 soldados e oficiais feridos junto com suas armas. Ela mesma matou 28 soldados e oficiais alemães. Durante a batalha na aldeia de Ivanenkovo, dois tanques Tiger inimigos romperam as linhas e avançaram para o quartel-general do regimento. Nesse momento crítico, quando os tanques já estavam a 60-70 metros do quartel-general, Gnarovskaya, após pegar algumas granadas, saiu da trincheira e atacou o veículo que se aproximava. Ela desistiu de sua vida, mas desativou o tanque inimigo.
+...Fomos forçados a esta guerra e os responsáveis ​​não foram o povo ou a classe trabalhadora ou os camponeses e intelectuais alemães, cujo sofrimento entendemos, mas aqueles impiedosos governantes fascistas da Alemanha que escravizaram franceses, tchecos, Polacos, sérvios, noruegueses, belgas, dinamarqueses, holandeses, gregos e pessoas de outras nações...
+chinês
+"O mundo olha para você com esperança. Você tem o poder de derrotar as hordas invasoras desses malvados alemães."
+"Espere o melhor, mas prepare-se para o pior."
+"Venha para a Alemanha e ajude nas tarefas domésticas. Isso é o que eles agora chamam de escravidão!"
+Camaradas do Exército Vermelho e da Frota Vermelha! Comandantes, oficiais e partisans! '
+"Schlanke Berta" ... Merda, devo informar imediatamente.
+(pios)    
+(gritos)
+(rosnado ameaçador)
+(assobia alto)
+(espirro alto) Desculpe.
+(som de surpresa)
+(gemidos de dor)
+(gemido de desespero)
+(grito de angústia)
+(saliva)
+(apito de alerta)
+(rosna)
+(grito alto)
+(ofegante)
+(gemido)
+(espirro silencioso)
+(funga com cuidado)
+(respiração ofegante)
+(sons de luta)
+(soluço)
 (suspiro cansado)
-... de que ha incitado a los prisioneros a amotinarse. ¿Qué es lo que pretende?
-El 7 de noviembre, se celebró un desfile militar en la Plaza Roja de Moscú. Justo después del desfile, los soldados fueron enviados al frente.
+...que voçe incitou os prisioneiros à revolta. O que você quer?
+Em 7 de novembro, um desfile militar foi realizado na Praça Vermelha de Moscou. Logo após o desfile, os soldados foram mandados para a linah de frente.
  
-[¡Me muero de hambre! ¡Qué ganas tengo de que llegue la hora de comer!]
-[Sí, Herr oficial.]
-[¡Dalo por hecho, Herr Kommandant!]
-[¡Qué estúpido eres, Ivan!]
-[¡Arriba! ¡A trabajar!]
-[¡Que te pongas en pie, te digo!]
-[No bajéis la guardia.]
-[¡Te aseguro que es una belleza! ¡Por algo lo llaman Slender Berta, que significa «esbelta»!]
-[¡El cañón mide 21 metros de largo! ¡Tiene un calibre de 28 centímetros y un alcance de 86 kilómetros!]
-[Nos costó bastante atrapar a estos dos en el bosque, Herr Kommandant.]
-[¡Capitán Zorin! Me han informado...]
-[¿Cómo te llamas? ¿Dónde están tus padres?]
-[¡Mayor, me voy a tener que celar y todo!]
-[Encontrad a los fugitivos y matadlos. No se nos puede escapar nadie.]
-[¡Nos atacan! ¡Enviad refuerzos! ¡Enviad a todo el mundo!]
-[Se ocultarán en las trincheras, como las ratas que son.]
-[¡Trae otro bidón de gasolina!]
-[Siempre gritan un montón...]
-[¡Menuda estupidez! Llevadlo fuera y que el pelotón de fusilamiento se ocupe de él.]
-[Puede que los partisanos sigan por aquí.]
-[Separaos y registrad tanto la aldea como el bosque.]
-[¡Afirmativo! ¡Soldados, venid conmigo!]
-[O te largas o te pego un tiro.]
-[Lárgate.]
-[¡Ay, qué va, querida! ¡Tú no eres ni un ápice menos esbelta y encantadora! ]
-[¿Son ellos? ¿Por qué van vestidos con esas pintas?]
-Mi padre fue un borracho a tiempo completo hasta que murió con 40 años. Tendría tu edad por aquel entonces.
-Los fugitivos se esconderán en el bosque y se unirán a los partisanos.
-¿Es una estación muy grande?
-En vez de eso, simplemente tiraron las armas allí.
-En segundo lugar, que tenga antecedentes no quiere decir que no podamos confiar en él.
-Es una buena persona. Solía organizar grupos de deporte para jóvenes pioneros.
-Mi mamá me dice que chivarse está mal.
-¡Supongo que estarías con los ojos cerrados!
-La unidad de partisanos de Anisimov acabó con varios tanques usando simplemente un puñado de palancas.
-¿Dónde está el enemigo?
+[Estou morrendo de fome! Estou ansioso para almoçar!]
+[Sim, oficial Herr.]
+[Não se preocupe, Herr Kommandant!]
+[Como você é estúpido, Ivan!]
+[Levante-se e trabalhe!]
+[Eu disse, de pé!]
+[Não baixe a guarda.]
+[Garanto que é uma beleza! Por uma razão, eles o chamam de Slender Berta, que significa "magro"!]
+[O canhão tem 21 metros de comprimento! Tem calibre de 28 centímetros e alcance de 86 quilômetros!]
+[Foi difícil pegar esses dois na floresta, Herr Kommandant.]
+[Capitão Zorin! Fui informado...]
+[Qual é o seu nome? Onde estão seus pais?]
+[Major, estou prestes a ficar com ciúmes!]
+[Encontre os fugitivos e mate-os. Ninguém pode escapar de nós.]
+[Estamos sob ataque! Envie reforços! Envie para todos!]
+[Escondendo-se em trincheiras, como ratos.]
+[Traga outra lata de gasolina!]
+[Eles sempre gritam muito...]
+[Que estupidez! Leve-o para fora e deixe o pelotão de fuzilamento lidar com ele.]
+[Os partisans ainda podem estar por aí.]
+[Separem! e procure na aldeia e na floresta.]
+[Afirmativo! Soldados, venham comigo!]
+[Ou você vai embora ou eu atiro em você.]
+[Saia.]
+[Oh não, querida! Você não é nem um pouco menos encantadora e charmosa! ]
+[São eles? Por que eles estão vestidos com essas cores?]
+Meu pai estava bêbado em tempo integral até morrer aos 40 anos. Eu tinha mais ou menos a sua idade.
+Os fugitivos vão se esconder na floresta e se juntar aos partisans.
+É uma estação muito grande?
+Em vez disso, eles simplesmente largaram suas armas lá.
+Em segundo lugar, só porque ele tem um registro criminal, não significa que não podemos confiar nele.
+É uma boa pessoa. Ele costumava organizar grupos esportivos para jovens pioneiros.
+Minha mãe me disse que dedurar é errado.
+Suponho que você estaria de olhos fechados!
+A unidade partisans de Anisimov derrubou vários tanques usando apenas um punhado de alavancas.
+Onde está o inimigo?
