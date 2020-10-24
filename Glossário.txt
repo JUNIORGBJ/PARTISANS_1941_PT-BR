@@ -6,3 +6,4 @@ Campo natural=Campo selvagem
 al molino=o moinho
 Un alijo oculto=Um esconderijo de contrabando
 aldea=aldeia
+Slender Berta=Slender Bertha (é o nome deu um canhão)
