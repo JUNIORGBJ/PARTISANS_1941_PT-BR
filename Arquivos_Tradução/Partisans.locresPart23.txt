@@ -1,31 +1,31 @@
-¡La Madre Patria os llama!
-Cartucho de escopeta
-Escopetas I
-Escopetas II
-Escopetas III
-Ruso
-Taladro
-Batidora
-Las batidoras son útiles para batir huevos y preparar cócteles.
+A pátria chama você!
+Cartucho de espingarda
+Espingardas I
+Espingardas II
+Espingardas III
+russo
+Broca
+Mixer
+As batedeiras são úteis para bater os ovos e preparar coquetéis.
 De pesca
-Sitio de pesca
-¡Está empezando una pelea! ¡Escondeos!
-Los alemanes minaron los alrededores de la aldea, justo al pie del bosque. Debemos cortar los cables.
+Local de pesca
+Uma luta está começando! Esconda-se!
+Os alemães minaram os arredores da vila, bem no sopé da floresta. Devemos cortar os cabos.
 N
-CABLE CONTRA MOTOCICLISTAS
-La cosa empeora a cada día que pasa.
-No les queda nada.
-Después de que la Gran Guerra Patriótica estallara, Zoya Kosmodemyanskaya se unió al ejército como voluntaria en octubre de 1941. La asignaron a una unidad de sabotaje que operaba en los alrededores de Mozhaisk bajo las órdenes del cuartel general del Frente Occidental. La enviaron dos veces tras las líneas enemigas. Durante una operación de combate hacia finales de noviembre de 1941, capturaron a Kosmodemyanskaya en la aldea de Petrischevo, en el distrito de Ruza de la región de Moscú.
-Un mismo pase puede ser usado por un número ilimitado de oficiales y soldados del Ejército Rojo y de la Flota Roja. El decreto de represalias de Stalin contra las familias de los desertores es inviable. El mando alemán no publica los nombres de los prisioneros a no ser que ellos mismos lo pidan. Que la postura de Stalin no te intimide.
-No consigo contactar con mi familia.
-Llevamos desde el primer día un registro de las operaciones exitosas que hemos llevado a cabo contra nuestros enemigos. Va siendo hora de hacer pública esta información, de que la gente sepa de los logros de la unidad.
-Llevo por aquí desde primera hora de la mañana.
-Circulan unos rumores horribles sobre la prisión local desde que Zobel se hizo cargo de ella.
-Llevo sin comer nada desde esta mañana.
-Listo.
-MONTAR ESCUADRÓN
-VACANTE
-YA ESTÁ EN EL ESCUADRÓN
+CABO CONTRA MOTOCICLISTAS
+As coisas pioram a cada dia que passa.
+Eles não têm mais nada.
+Depois que a Grande Guerra Patriótica estourou, Zoya Kosmodemyanskaya juntou-se ao exército como voluntária em outubro de 1941. Ela foi designada para uma unidade de sabotagem que operava em Mozhaisk e ao redor dela sob as ordens do quartel-general da Frente Ocidental. Eles a enviaram duas vezes atrás das linhas inimigas. Durante uma operação de combate no final de novembro de 1941, Kosmodemyanskaya foi capturado na aldeia de Petrischevo, no distrito de Ruza, na região de Moscou.
+Um único passe pode ser usado por um número ilimitado de oficiais e soldados do Exército Vermelho e da Frota Vermelha. O decreto de retaliação de Stalin contra as famílias dos desertores é impraticável. O comando alemão não publica os nomes dos prisioneiros, a menos que eles próprios solicitem. Não deixe a posição de Stalin intimidá-lo.
+Não consigo entrar em contato com minha família.
+Desde o primeiro dia, mantemos um registro das operações bem-sucedidas que realizamos contra nossos inimigos. É hora de divulgar essas informações para que as pessoas conheçam as conquistas da unidade.
+Estou por aí desde a primeira hora da manhã.
+Boatos horríveis têm circulado sobre a prisão local desde que Zobel assumiu.
+Não comi nada desde esta manhã.
+Pronto.
+MONTAR ESQUADRÃO
+VAGO
+JÁ ESTÁ NO ESQUADRÃO
 ARMAZÉM
 DIFICULDADE
 REDUZIDO
@@ -35,65 +35,65 @@ SALVAR JOGO
 DICA
 PARCEIRO
 NORMAL
-SECUNDARIA
+SECUNDÁRIA
 OBRA
 PRINCIPAL
-Una máquina de coser «Podolsk 2M» muy famosa. Se suele usar de forma manual.
-Es todo culpa suya.
-Un samovar para hervir agua. Se calienta quemando madera o carbón. Si hay mucha humedad, se puede usar una bota para avivar el fuego.
-Alcohol de baja calidad
-Bastó con el aguardiente para enviar a la mitad de las tropas de vuelta a España para que se rehabiliten.
-Trabajo altruista en los campos, cosechas excelentes y un cumplimiento temprano de las obligaciones del gobierno. Así es como el colectivo granjero ayuda al Ejército Rojo a acabar con los fascistas. En la estación de máquinas y tractores del distrito de Qumrán (República Autónoma Socialista Soviética de Crimea), todos los cosechadores están aún trabajando duro en el campo; como los operarios se fueron a luchar contra los fascistas, las mujeres ocuparon sus puestos en las máquinas. Mientras tanto, las mujeres del koljós Kolos, en el distrito de Chkalovsk de la región de Chkalovsk, que sustituyeron a los conductores de tractores que fueron a la guerra, están excediendo con seguridad sus cuotas de trabajo.
-Sanek se encontró un campamento abandonado en el bosque y se trajo todo lo que pudo encontrar de valor.
-Sanek intentó usar una ametralladora en el campo de tiro y se hizo daño en la mano.
+Uma máquina de costura «Podolsk 2M»  muito famosa. Geralmente é usada manualmente.
+É tudo culpa dele.
+Um samovar para ferver água. É aquecido pela queima de lenha ou carvão. Se a umidade for alta, uma bota pode ser usada para atiçar o fogo.
+Álcool de baixa qualidade
+O conhaque foi suficiente para enviar metade das tropas de volta à Espanha para reabilitação.
+Trabalho altruísta no campo, excelentes colheitas e cumprimento antecipado de obrigações governamentais. É assim que o Coletivo de Fazendeiros ajuda o Exército Vermelho a derrubar os fascistas. Na estação de máquinas e tratores no distrito de Qumran (República Socialista Soviética Autônoma da Crimeia), todas as colheitadeiras ainda estão trabalhando arduamente nos campos; enquanto os trabalhadores partiam para lutar contra os fascistas, as mulheres ocupavam seus lugares nas máquinas. Enquanto isso, as mulheres do Kolos kolkhoz no distrito de Chkalovsk, na região de Chkalovsk, que substituíram os motoristas de trator que foram para a guerra, estão excedendo com segurança suas cotas de trabalho.
+Sanek encontrou um acampamento abandonado na floresta e trouxe tudo que pôde encontrar de valor.
+Sanek tentou usar uma metralhadora no campo de tiro e feriu a mão.
 Sanek
-Sanek está ansioso. Papá Trofim se fue de caza, pero aún no ha regresado. El lago está cerca de una carretera que suelen usar los fascistas, así que quién sabe qué habrá podido pasar. Puede que el anciano necesite nuestra ayuda, así que vamos a ir al lago a buscarlo.
-Sanek está preocupado por la desaparición de Papá Trofim. En teoría, estaba cazando cerca del lago, en la zona en la que se estrelló el avión. Debemos desplegarnos y encontrar al anciano. Esperemos que esté sano y salvo.
-Sanek vio a un bombardero enemigo atravesando el cielo nocturno envuelto en llamas y estrellándose en el interior del bosque. Deseó que la guerra se acabase antes del invierno.
-Desactivación de minas I
-Desactivación de minas II
-¡Son codiciosos como langostas!
-Azúcar
-¿Y si no podemos encontrarlos y se unen a los partisanos?
-Obtención de información
-Consigue información sobre el número de tropas en la zona y sus movimientos.
-Monta el escuadrón
-Una cuchilla de baquelita portátil con cuchillas adicionales.
-Soltar cadáver ao começar uma luta
+Sanek está ansioso. Papa Trofim foi caçar, mas ainda não voltou. O lago fica perto de uma estrada que os fascistas costumam usar, então quem sabe o que pode ter acontecido. O velho pode precisar de nossa ajuda, então vamos ao lago para encontrá-lo.
+Sanek está preocupado com o desaparecimento de Papa Trofim. Em teoria, ele estava caçando perto do lago, na área onde o avião caiu. Devemos nos espalhar e encontrar o velho. Esperançosamente, ele está são e salvo.
+Sanek viu um bombardeiro inimigo cruzando o céu noturno em chamas e colidindo com a floresta. Ele esperava que a guerra terminasse antes do inverno.
+Desativação de minas I
+Desativação de minas II
+Eles são gananciosos como lagostas!
+Açúcar
+E se não pudermos encontrá-los e eles se juntarem aos partisans?
+Obtendo informações
+Obtenha informações sobre o número de tropas na área e seus movimentos.
+Reúna o esquadrão
+Uma lâmina portátil de baquelite com lâminas adicionais.
+Largue o cadáver ao começar uma luta
 Cancelar
-Reiniciar tarea
-Podemos hacer mermelada de bayas.
-Podemos preparar una buena sopa de pescado.
-Estrangulador
-Rincón agradable
-Sin testigos
-Silbido I
-Silbido II
-Disponible
-Informe
-No abandonamos a los nuestros
-La gente debería meterse más en sus asuntos y menos en las vidas de los demás.
-Hemos cortado los cables. Los alemanes tienen un problema.
-Comunicación entre ciudadanos locales
-¡Esquiva como puedas!
-La hemos asado y la hemos guisado.
-Durante las festividades de Año Nuevo, todos los árboles estaban adornados con un Ded Moroz hecho de algodón y papel maché.
-Una férrea aleación de níquel y plata. Es muy resistente.
-Los fascistas van a ejecutar hoy a los partisanos de Zaborovka. Deberíamos ir allí y evitar las ejecuciones. No obstante, puede que no sea tarea sencilla. Según Vasily Gavrilovich, ayer estuvieron registrando la aldea. Los alemanes siguen allí.
-Hizo tanto frío por la noche que nadie pudo dormir. Tendremos que usar lo que tengamos a mano para intentar aislar el refugio.
-Quiero unas patatas con mantequilla.
-¡Va a explotar!
-Es temporada de champiñones. Puede que encontremos chantarelas en la arboleda de abetos.
-¡Te va a doler aún más!
-Ahora no. ¡Los enemigos están alerta!
-Imposible ahora.
-Aquí pasa algo.
+Reiniciar tarefa
+Podemos fazer geléia de frutas vermelhas.
+Podemos fazer uma boa sopa de peixe.
+Acelerador
+Espaço agradável 
+Sem testemunhas
+Assobio I
+Assobio II
+Disponível
+Relatório
+Não abandonamos os nossos.
+As pessoas deveriam se intrometer mais em seus assuntos e menos na vida dos outros.
+Cortamos os cabos. Os alemães têm um problema.
+Comunicação entre os cidadãos locais
+Dodge como você pode!
+Nós o assamos e o cozinhamos.
+Durante as festividades de Ano Novo, todas as árvores eram enfeitadas com um Ded Moroz feito de algodão e papel machê.
+Uma liga de ferro de níquel e prata. É muito difícil.
+Os fascistas vão executar os partidários de Zaborovka hoje. Devíamos ir lá e evitar execuções. No entanto, pode não ser uma tarefa fácil. De acordo com Vasily Gavrilovich, ontem eles estavam revistando a aldeia. Os alemães ainda estão lá.
+Estava tão frio à noite que ninguém conseguia dormir. Teremos que usar o que temos em mãos para tentar isolar o abrigo.
+Eu quero algumas batatas com manteiga.
+Vai explodir!
+É época dos cogumelos. Podemos encontrar chanterelles no bosque de abetos.
+Vai doer ainda mais!
+Agora não. Os inimigos estão em alerta!
+Impossível agora.
+Aqui está acontecendo algo.
 Documentos secretos
-El ingrediente secreto
-Aldea Monastyrskoe
-Septiembre de 1941
-Sidorov estaba tan asustado que no solo compartió la comida, sino que también prometió que nos tendría informados sobre las acciones del enemigo en la región. Esperemos noticias.
-Sidorov pidió ayuda a los demás polizei. Tuvimos que irnos.
-No puedo continuar.
-Fuerza
-Qué cansancio tengo...
+O ingrediente secreto
+Aldeia Monastyrskoe
+Setembro de 1941
+Sidorov ficou com tanto medo que não apenas compartilhou a comida, mas também prometeu que nos manteria informados sobre as ações do inimigo na região. Vamos aguardar novidades.
+Sidorov pediu ajuda ao outro polizei. Precisávamos ir.
+Eu não posso continuar.
+Força
+Como estou cansado...
