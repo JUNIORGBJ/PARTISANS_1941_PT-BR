@@ -1,59 +1,59 @@
-Kuzmin, Alexander Ivanovich. Edad: 14. Lugareño. Antes de la guerra, estudiaba en casa. Miembro de la Organización de Pioneros. Los fascistas mataron a sus padres. Vive con Trofim en el bosque y sueña con vengar a su familia.
+Kuzmin, Alexander Ivanovich. Idade: 14. Local. Antes da guerra, eu estudava em casa. Membro da Organização dos Pioneiros. Os fascistas mataram seus pais. Ele vive com Trofim na floresta e sonha em vingar sua família.
 Kulagin
-Unos conocidos de Kulagin le han dicho que todos los ciudadanos están obligados a trabajar para los ocupantes. Cualquier tipo de sabotaje supone la ejecución inmediata. La gente está huyendo y la población de la ciudad se ha reducido considerablemente.
-Fumar es malo para la salud. No fumes.
-Me apetece un pitillo.
-Gallinero
-Granada casera
-Mina casera
-Cocina
-LEYENDA
-PERSONAL
-Botón izquierdo del ratón: Iniciar acción (determina las acciones en la pausa táctica)
-Mayús + Botón izquierdo del ratón: Determinar la secuencia de acciones
-Lámpara de queroseno
-Lámpara que funciona con queroseno. Su uso está muy extendido.
-Explotación forestal
-Aserradero
-Aserradero 
-Curación
-Tratamiento
-Recuperándose de las heridas sufridas durante las misiones.
-Curación completada
-Tratar
-Falso partisano
-¡Mentira!
-¡Nos hemos librado de los panfletos alemanes llenos de mentiras! Ya no seguirán engañando a la gente.
-Lluvia, niebla, nieve
-Mata al propagandista
-Mata al oficial
-Deshazte del representante de la aldea
-Hemos sustituido los panfletos propagandísticos por los nuestros. Ahora, los ciudadanos saben que los partisanos andan cerca.
-Tan solo espero que no empiecen a disparar.
-Espero que mis hijos estén bien.
+Os conhecidos de Kulagin disseram a ele que todos os cidadãos são obrigados a trabalhar para os ocupantes. Qualquer tipo de sabotagem implica execução imediata. As pessoas estão fugindo e a população da cidade diminuiu consideravelmente.
+Fumar é ruim para sua saúde. Não fume.
+Eu gosto de um cigarro.
+Galinheiro
+Granada caseira
+Mina caseira
+Cozinha
+LENDA
+PESSOAL
+Botão esquerdo do mouse: Iniciar ação (determina as ações na pausa tática)
+Shift + Botão esquerdo do mouse: Determine a sequência de ações
+Lâmpada de querosene
+Lâmpada que funciona com querosene. Seu uso é generalizado.
+Exploração florestal
+Serraria
+Serraria
+Cura
+Tratamento
+Recuperando-se de ferimentos sofridos durante as missões.
+Cura completa
+Tentar
+Partisans falso
+Mentira!
+Nos livramos dos panfletos alemães cheios de mentiras! Eles não irão mais enganar as pessoas.
+Chuva, nevoeiro, neve
+Mate o propagandista
+Mate o oficial
+Livre-se do representante da aldeia
+Substituímos os panfletos de propaganda pelos nossos. Agora, os cidadãos sabem que os partisans estão por perto.
+Só espero que não comecem a atirar.
+Espero que meus filhos estejam bem.
 Esquiva I
 Esquiva II
-¡Al suelo!
-Una pala es una gran herramienta para el combate cuerpo a cuerpo, de gran valor si el espacio es reducido. Puede protegerte de los golpes de tu enemigo y bloquear los ataques de bayonetas. Sus bordes afilados hacen de ella una gran arma cortante.
-Lago Losinoe
-Prefiero no salir.
-Cada oponente en el juego tiene un campo de visión. Para verlo, apunta con el cursor a un enemigo y pulsa el botón derecho del ratón. ¡Quédate fuera de su campo de visión y que no te detecten!
-Cueste lo que cueste
-¡Dejadlos en paz!
+Ao solo!
+Uma pá é uma ótima ferramenta para combate corpo a corpo, de grande valor se o espaço for limitado. Ela pode protegê-lo dos golpes do inimigo e bloquear os ataques de baioneta. Suas bordas afiadas o tornam uma grande arma de corte.
+Losinoe Lake
+Prefiro não sair.
+Cada oponente no jogo tem um campo de visão. Para vê-lo, aponte o cursor para um inimigo e pressione o botão direito do mouse. Fique fora do campo de visão deles e não seja detectado!
+Custe o que custar
+Deixe-os em paz!
 M30 Luftwaffe
-SIN BALAS
+SEM BALAS
 MG – 34
-REFUGIO MÉDICO
+ABRIGO MÉDICO
 MENU
-MES
+MÊS
 MISSÃO
-MISSÃO CUMPRIDA
+MISSÃO CONCLUÍDA
 MISSÃO FRACASSADA
 MODIFICADORES
-MORAL Do ESQUADRÃO
+MORAL DO ESQUADRÃO
 MP – 40
 Distancia máxima
-Moral ao máximo
+Moral máximo
 Aumenta drasticamente a quantidade de HP recuperada ao usar kit-Médico.
 Aumenta drasticamente a velocidade ao matar alguém furtivamente. Aumenta drasticamente a probabilidade de vencer lutas corpo a corpo.
 Aumenta drasticamente a chance de acertar o inimigo ao usar rifles.
@@ -64,36 +64,36 @@ Aumenta drasticamente a chance de acertar o inimigo ao usar espingardas.
 Bônus máximo para a defesa do personagem durante a corrida.
 Chance máxima de acertar o inimigo durante o modo Emboscada [Y].
 Dano máximo
-Mamá me dice que me quede en casa, pero yo quiero salir.
-Mamá no deja de llorar. Me da mucha pena.
-Mamá dice que la abuelita no va a volver.
-Mamá está trabajando. Da miedo quedarse a solas.
-Mami, tengo miedo.
-¡Mami!
-¡Ay, cielos!
-Mataron a mis padres.
-Disfraz
-Me he quedado sin munición.
-Taller  
-Taller 
-Taller
+Mamãe me diz para ficar em casa, mas eu quero sair.
+Mamãe não para de chorar. Me dá muita pena.
+Mamãe diz que a vovó não vai voltar.
+Mamãe está trabalhando. É assustador ficar sozinho.
+Mamãe, estou com medo.
+Mamãe!
+Oh céus!
+Eles mataram meus pais.
+Disfarce
+Fiquei sem munição.
+Oficina
+Oficina
+Oficina
 Mauser 98K
 Mauser K96
 Médico
 Medicina
-Tienda médica
+Tenda médica
 Bolsa médica
-Tablilla médica
+Prancheta médica
 Recursos médicos
-Medicina:
-Según los rumores, Mellenberg estaba en un tanque en llamas.
-Molino
-Menú del campamento
-Un polizei me pegó una paliza.
-Los lugareños agradecen la ayuda. Los enfermos se van recuperando poco a poco.
-Los aldeanos agradecen la ayuda. Por fin tienen alimento suficiente y no se morirán de hambre.
-Los lugareños agradecen tanto vuestra ayuda que se plantean montar su propia unidad de partisanos.
-Los lugareños os agradecen la ayuda. Podrán mantenerse calentitos gracias a leña de sus hogares.
-Los lugareños no os creen. Por lo visto, opinan que las historias de vuestras hazañas están demasiado adornadas.
-Las tropas españolas que se atrincheraron en la aldea no se parecen en nada a las alemanas. Les gusta beber y apostar. Deberíamos conseguir que abusen del aguardiente y alguna que otra baja pacífica.
-Se comenta en las calles que un ataque aéreo soviético destruyó un convoy de camiones en plena noche. Mientras los fascistas están ocupados haciendo frente a las consecuencias, tenemos una oportunidad de atacar y hacernos con el cargamento.
+Medicamentos:
+De acordo com rumores, Mellenberg estava em um tanque em chamas.
+Moinho de vento
+Menu de acampamento
+Um polizei me bateu.
+Os habitantes locais agradecem a ajuda. Os doentes vão se recuperando aos poucos.
+Os habitantes agradecem a ajuda. Eles finalmente têm comida suficiente e não morrerão de fome.
+Os habitantes locais apreciam tanto sua ajuda que estão pensando em montar sua própria unidade partisans.
+Os habitantes locais agradecem a sua ajuda. Eles podem se manter aquecidos graças à lenha de suas casas.
+Os locais não acreditam em você. Aparentemente, eles acham que as histórias de suas façanhas são muito ornamentadas.
+As tropas espanholas que se barricaram na aldeia não se parecem em nada com os alemães. Eles gostam de beber e jogar. Devíamos fazer com que abusassem do conhaque e da descarga pacífica ocasional.
+A notícia nas ruas que um ataque aéreo soviético destruiu um comboio de caminhões no meio da noite. Enquanto os fascistas estão ocupados lidando com as consequências, temos a chance de atacar e apreender a carga.
