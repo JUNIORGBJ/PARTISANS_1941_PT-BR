@@ -1,0 +1,99 @@
+Ele contém tudo que um soldado ferido precisa para estar pronto para o combate novamente. Restaura uma grande quantidade de vida.
+Elaborando uma armadilha
+Construindo uma granada improvisada
+Construindo uma mina improvisada
+Elaborando uma maleta médica
+Crie "analgésicos"
+Reduz o tempo de recarga da arma em 15%.
+Tempo de resfriamento diminuído.
+Tempo de resfriamento diminuído. Maior número de usos de habilidades durante a missão.
+Usando o ambiente II
+Escondendo cadáveres II
+Soldado
+A guerra não para quando o soldado está dormindo.
+O talismã de um soldado. É uma bala da sua primeira revista e você deve dispará-la logo depois de voltar da guerra.
+Soldados da Wehrmacht
+Soltsy
+Classificar itens
+Um vizinho quer que eu me junte a ele torne um polizei.
+Os amigos do representante da aldeia perceberam que algo estava errado. Fomos forçados a sair.
+Comoção
+Salvando
+Devido às configurações de dificuldade, não é possível salvar o jogo.
+Registro salvo concluído
+Jogos salvos
+Social
+Habilidade social.
+Bipé
+Corra pela sua vida!
+Fugir!
+Senhor, mantenha-nos seguros.
+Obrigado por tudo que você faz!
+Salve o prisioneiro
+Ugh, estou com sono.
+Treino especial
+Minhas costas doem.
+A lista de crimes perpetrados pelos vis fascistas aumenta a cada dia. Depois de uma tentativa malsucedida de cruzar o rio E, os alemães reuniram 50 mulheres e crianças das aldeias vizinhas. Eles os colocaram nos barcos e os usaram como cobertura enquanto tentavam chegar à outra margem.
+Partidas
+Uma bolsa feita de cordas trançadas. Ela pode conter até 70 quilos de objetos.
+Permite que você atordoe inimigos de alto escalão (soldados da Wehrmacht).
+Corrida
+Eles não serão capazes de me encontrar se eu me esconder.
+Companheiro Partisans No. 1
+Companheiro Partisans No. 2
+Companheiro Partisans No. 3
+Companheiro Partisans No. 4
+Companheiro Partisans No. 5
+Companheiro Partisans No. 6
+Companheiro Partisans No. 7
+Companheiro Partisans No. 8
+Companheiro Partisans No. 9
+Comparado
+Comparar
+Probabilidade média de sucesso
+Permite que você elimine discretamente um inimigo desavisado.
+Vontade de Aço I
+Energia x2
+Estação Bogachevo
+Estação Krasnoselskaya
+Em combate, sempre procure uma cobertura que permita minimizar os danos sofridos por seus lutadores.
+Prêmio militar
+Já enterrei meu marido. Não quero enterrar meus filhos também.
+Pântano Staroselskaya
+Representante da Aldeia
+O representante da aldeia de Zaborovka é um dos traidores mais entusiastas. Trabalha muito para identificar suspeitos e pessoas não confiáveis; especialmente entre aquelas pessoas com quem ele tinha suas próprias disputas pessoais.
+O representante da próxima aldeia está comemorando seu aniversário. Pode ser o último. Vamos fazer uma visita a ele.
+Tenente Técnico Sênior Leonid Alexeevich Bykov da aldeia de Ostrova no distrito de Sebezh na região de Peskov.
+O sargento sugeriu que preparássemos brochuras detalhando os fundamentos das operações partisans e as divulgássemos aos moradores locais. Eu acho que é uma ótima idéia!
+O chefe diz que eles tomaram Leningrado.
+Metralhadora estacionária
+Vidro
+Cantina de vidro
+As cantinas de vidro eram muito famosas entre o Exército Vermelho antes da guerra e durante seus estágios iniciais. O vidro acabaria por se espalhar ainda mais devido à escassez de alumínio e ao bloqueio de Leningrado, onde a maioria dos cantis de alumínio eram produzidos.
+Há muitos órfãos implorando por comida nas aldeias.
+Quanta morte...
+O guarda Yefim se tornou um polizei e está fora de controle. Os moradores não podem vencê-lo! Ele abusa deles e os rouba cegamente. Teremos que derruba-lo.
+É assustador!
+Temo por minha família.
+Rapidez
+Rapidez I
+Rapidez II
+Rapidez III
+Eu me sinto muito mal.
+Isso dá algumas vibrações ruins.
+Recursos de construção
+Recursos de construção:
+Construção
+Construção concluída
+Slender Bertha
+Studenovo
+Ervas secas
+Pegamos o pão Avdotya. É o pão mais crocante e saboroso que já provei!
+É um bom estoque, com muitos itens úteis.
+Bala da sorte
+Uma grande moeda da sorte. Um de seus lados foi achatado e afiado. Ele usa para roubar.
+Estou com a barriga cheia, estou bêbado e não tenho que trabalhar... Isto é a vida!
+Aqui!
+TÁTICAS PARTISANS
+TÁTICAS PARTISANS. O objetivo principal das atividades partisans é destruir as tropas fascistas e seu material de guerra. A saída bem-sucedida desta guerra depende do seguinte:
+MORALIDADE ATUAL DA EQUIPE
