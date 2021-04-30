@@ -1,5 +1,3 @@
-# Tradução em pausa devido a problemas na reimportação dos arquivos. Até o momento, sem solução para o problema.
-
 [![Discord](https://img.shields.io/discord/721047801957580821?color=blueviolet&label=Discord)](https://discord.gg/HESMuU2)
 [![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-blue?style=flat&logo=Windows&logoColor=white)](https://github.com/JUNIORGBJ)
 
