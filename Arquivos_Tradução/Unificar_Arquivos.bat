@@ -1,1 +1,0 @@
-copy *.txt Partisans.locres.txt
