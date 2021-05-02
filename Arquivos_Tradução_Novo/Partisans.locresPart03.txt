@@ -1,0 +1,102 @@
+[Calm down!]
+[Nice hit!]
+[He was a good dog.]
+[Good shooting.]
+[Crap!]
+[Damned partisans!]
+[Damned Slavs!]
+[What is that sound?]
+[What is it?]
+[What was that?]
+[Hey!]
+[Easy-peasy.]
+[This is a restricted area.]
+[What is it? Schnapps?]
+[Hold on, Jürgen!]
+[Did I know him?]
+[I should get in touch with his family.]
+[I'm hurt!]
+[I haven't seen you before.]
+[I'm gonna turn this place upside down.]
+[I can see something...]
+[I hear something.]
+-
+leave
+I
+minutes
+Name
+specialty
+Biermeier loves to drink! That's my man!
+What if they attack?
+Kolya got arrested for putting up leaflets.
+What if they're still here? 
+Is Commander Zorin with you?
+Will I get a reward?
+Get lost!
+The partisans just don't care.
+The partisans are doing a great job fighting the Fascists.
+Then the Germans began hauling people off to work in Germany. Some were persuaded, some were simply forced. My sister was taken, while I managed to hide in the attic.
+What is this...
+Who are the partisans?
+Huh?
+Huh? Wazzup?
+AVS – 36
+AGENTS
+Avdotya is the girl we protected from Petrov's harassment. She baked some bread for us. Shall we go get it?
+String bag with groceries
+Auto save
+Convoy
+Mechanic
+Machine gunner
+SS machine gunner
+Easy
+Agent 47
+Agent injured.
+Agent killed:
+Nikitin's agents report that the Germans reinforced the patrols around Krasnoselskaya station. That's not good.
+Agents killed:
+Propagandist
+Aggressive enemy
+It hurts!
+Carefully following the elk's hoofprints, we tracked the animal down and killed it.
+Activate base action
+Tasks involving crafting various items.
+Task
+You have no active quests
+First aid kit
+Document archives
+Enemy attacks repelled: 
+Watch out!
+Crap!
+KNOWLEDGE BASE
+Granny says that mom and dad are in heaven.
+Chicks are so aggressive now.
+Bakelite tabletop pencil sharpener. Often used in barracks and schools.
+The bandits who call themselves partisans are no comrades of ours. We located their camp and destroyed it.
+Biermeier's gangs are continuing to raid the farm granaries and villages.
+Bread.
+Goodness gracious!
+I've got a headache.
+Run for your lives!
+We fed the fugitives and showed them the forest path to safety.
+We chased the fugitives away. Let's hope they can survive in the woods on their own.
+The group didn't have enough supplies and couldn't fight for long. Its members were captured and hanged by the Fascists.
+Barehanded
+Can't go out without the village head's permission.
+No saving
+Without a good shovel, a dugout in a forest cannot be dug.
+You cannot begin the mission without this partisan
+Kill the commissars!
+Belozerova
+Belozerova dashes in the chosen direction. Enemies can't hit your partisan during dash.
+Belozerova kills enemies in a small area around the partisan. Requires a pistol.
+Olga Mikhailovna Belozerova
+Belozerova, Olga Mikhailovna. Age: 27. Born in Novosibirsk (then Novonikolayevsk). Graduated from Moscow State University majoring in law; worked as an investigator of the Moscow Militsiya. Master of shooting sports. Joined the Red Army after her father was shipped to the front lines.
+Beloretskeya  marsh
+Watch out, grenade!
+Watch out! Incoming grenade!
+Bertha
+That's evil.
+Bandage
+Biermeier sent his gang again.
+Biermeier has organized additional harvesting work. Women and children are toiling in the fields from sunrise till sundown.

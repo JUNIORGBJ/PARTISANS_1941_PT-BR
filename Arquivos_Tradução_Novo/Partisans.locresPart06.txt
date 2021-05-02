@@ -1,0 +1,102 @@
+Turn on overwatch mode
+Turn on advanced tactical mode
+Rifle mastery
+Pistol mastery
+SMG mastery
+Shotgun mastery
+Heavy weapon mastery
+Sudden Meeting
+Look out! 
+While sprinting, the chance of being hit is greatly decreased.
+While sprinting, the chance of being hit is decreased.
+A lightning bolt struck an old pine tree at the edge of the camp. We must put out the fire before it ignites the {0}.
+You cannot save during the mission.
+We managed to put out the fire in time. All buildings are safe.
+Military training
+Top secret
+Military resources
+Aerial photographer
+Possible consequences
+I want to be a partisan! Take me!
+War Never Changes
+This is a war!
+Waffen-SS
+An impenetrable fog surrounds the area 
+Volkovo
+Volkovo v.
+Wave: {currentWave}
+A wolf attacked one of the partisans yesterday. He could barely fight off the animal. He was hurt.
+Inspiration
+Inspiration I
+Inspiration II
+Health recovery
+Using medicine requires less time.
+When the Red Army returns, it'll show them!
+You rat! I'll shoot you! 
+The partisans are going to rob us as soon as they run out of bread.
+So this is the better future we were promised.
+So much for the Soviet power.
+I'll live like a king when the war is over.
+I'll tell dad everything when he returns.
+When the enemies shows up, let them approach as close as 10-20 meters, then surprise them with your rifles, your machine guns and your grenades. You must be swift and overwhelm the enemies before they can even point their firearms at you. Use melee combat if needed: Pierce with your bayonet, cut with your shovel, smash with your rifle butt, stab with your knife. Never let the enemy take initiative.
+Life will be great after we do away with the Jews and commissars.
+I'll show 'em what I'm capable of.
+So much for the invincible Red Army.
+What a hateful routine.
+Damn! 
+I guess I'm lucky!
+Enemy
+A very dangerous enemy operating a stationary machine gun. The gun can be commandeered by your fighters and used against the enemies.
+Enemies can't see you while you are moving through bushes. Sneak into the next yard using bushes.
+Enemies are alarmed or in battle. Saving is not possible.
+The enemies on the map are more dangerous.
+Enemies can't see a corpse in the bushes unless they walk into it. Use this to avoid being caught.
+Exceptionally well-armed enemies
+Well-armed enemies
+If enemies become aware of the partisan presence, they may sound an alarm or call for reinforcements using the radio.
+You can throw stones to distract your enemies or leave bottles to lure them close. However, not every enemy will react to this.
+Enemies traveling alone can be easily neutralized or distracted. It's much harder if you meet a group of enemies. Try not to let them see you.
+Enemy grenade
+An enemy radioman with a portable radio. Can call in reinforcements, creating considerable problems for you.
+Enemy officers killed: {officers}/{maxofficers}
+The best way to disable an enemy motorcyclist is by stretching a wire across the road. Find a sturdy tree by the forest road and tie one end of the wire to it at 1 meter above the ground. Then pull the wire to the other side of the road and position yourself by another tree on the opposite side of the path.
+It's just a bunch of lies that they took Leningrad!
+Medical practice
+Camera rotate left
+Camera rotate right
+Temporary effect. Decreased movement speed. Decreased hit chance.
+Time
+Mission time: {h}h {m}m {s}s
+Mission time: {m}m {s}s
+Abilities cooldown increased. Fog of war vision is decreased.
+Time: {m} m {s} sec
+Time: {s} sec
+Your agents received experience:
+All tasks
+All tasks currently available in the camp.
+They burned down all sheds.
+The Red got us all in trouble.
+The Gang's All Here
+They took everything. We'll be forced to eat tree bark or starve to death!
+Woe is me! My eyes are dry from crying!
+All townsfolk must survive
+All ours are dead.
+Bandages, meds and herbs for restoring your fighters' health in the medical tent.
+Grist to the Mill
+These heels are worn down.
+Agents got injuries
+Agents were killed
+All available buildings for the camp. Some buildings have special requirements or become available during the story, so they may be currently locked.
+Everything's gone as planned. It'll take them a while to repair the water tower.
+Everything's gone as planned. Let's wait for the news.
+Everything's gone as planned. The water pump is beyond repair.
+I have blisters on my fingers.
+They took our overcoats.
+Disaster always starts with a single step...
+Enemies killed: {enemies}/{maxenemies}
+Move your partisans to BTR
+They executed all prisoners that couldn't escape during the riot.
+You haven't played through the main campaign's introductory missions yet. Continue?
+I'm out of wild tobacco.
+All kinds of filth have come out lately.
+Information about different aspects of the game can be found in the encyclopedia. To open it, press the "I" button and open the "Encyclopedia" tab. There you can find all the hints.

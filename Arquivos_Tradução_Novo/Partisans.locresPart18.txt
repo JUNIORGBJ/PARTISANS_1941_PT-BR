@@ -1,0 +1,102 @@
+Tutorial stealth mission
+Coming around!
+Object
+The object will be locked. It will become available after repairs.
+Container looting
+Search Biermeier's office
+Common
+A regular handkerchief. Sanek's mom put it in his pocket the last time he saw her.
+Vegetables
+Clothes
+Clothes make you feel warm and look pretty.
+Spray cologne
+Odessa has been holding against the Fascist hordes for more than a month now. The city is being rapidly evacuated.
+One of the lists
+One down! 
+Ambush is one of the most important tools of the partisan struggle. Small groups of 6-10 fighters take positions along the enemy route using trees, ditches and bushes for cover. Camouflage your position well: The enemy must not detect you. Find a place that allows you a wide arc of fire.
+I'm mom's only helper.
+One of our main goals is to disrupt the enemy's supply chain by sabotaging the railway. A bridge collapse will delay railroad traffic and make a real contribution to our victory.
+I've only got one chicken left.
+Partisans are our only hope.
+Forest lake
+Yikes!
+I'm so scared!
+Yikes! A dead man.
+Uh-oh! What's this?
+There go some strangers
+There go some strangers.
+The occupants are actively spreading their propaganda, besmirching the Soviet government and using lies to attract people to their cause.
+Olga was teaching Valentina some hand-to-hand combat, which resulted in a minor injury to the pupil.
+He didn't die his own death. 
+They shot all the Germans!
+They should be around.
+They're searching for us!
+They have no mercy.
+Whoa, what's that? 
+Danger! 
+Quick reaction
+Operational HQ
+It didn't go as planned. The enemy fought back. We had to retreat into the woods.
+The operation was successful. We took the enemy by surprise.
+Description
+"Eiserne Ration" field rations description
+Listen to the voice of reason! Stop the senseless bloodshed! Stick your bayonets into the ground!
+Experience
+Partisans experience +300
+Experience: 
+Experienced partisan
+Experienced Strategist
+Experienced surgeons can sew severed limbs. The most experienced can even sew them on the right places.
+They'll be hanging people again.
+There's war again...
+Bad guys are fighting again.
+Not crawling under bushes again!
+Weapon workshop
+Gun oil
+Melee weapon. Used for stealth kills.
+Rescue Belozerova
+Rescue Comrade Zorin
+Rescue Comrade Fetisov
+Liberate the first khutor
+Rescue the townsfolk
+Liberate the second khutor
+Liberate the third khutor
+Studying the basics of partisan warfare increases your chances of success in missions and allows other inhabitants of the camp to take part in them.
+Heavy autumn rain washed out some roads. A German truck with food taken from the townsfolk has stalled in the mud. It looks like easy prey.
+Heavy autumn rain washed out some roads. A German truck with medical equipment has stalled in the mud. It looks like easy prey.
+Heavy autumn rain washed out some roads. A German truck carrying weapons from a captured detachment has stalled in the mud. It looks like easy prey.
+In the fall of 1941, 10 year old Valya Kotyk performed his first feat.
+It's easy to catch a cold in the forest in autumn, but medicine is hard to come by. We need to find some medicinal herbs.
+Stewed sturgeon
+Weaker partisans.
+Looting corpses
+Reach the medical dugout
+Reach the store
+Reach the headquarters
+I'll look around.
+Resource +100
+Special control areas
+Special conditions
+We smoked the rest of it for later.
+We'll smoke what's left and store it for later.
+Spice It Up
+The disease took the lives of many. The village is almost empty now.
+From the hospital door
+Many locals starved to death. The survivors left for the town.
+From each according to his ability, to each according to his needs, hehe.
+Can't hide from us.
+The partisans are causing enough damage!
+A brave artillery officer, who had already distinguished himself along with his division during earlier engagements, chose good positions for his guns. As soon as enemy tanks showed up, the guns opened fire; Captain Khigrin's gun was particularly successful in battering the enemy. Fascist tanks went up in flames one by one, yet still the enemy pressed on, ignoring the losses. All crew members perished under enemy fire. Captain Khigrin assumed the role of a gunner and personally destroyed four enemy tanks; he kept firing until a fragment of an enemy shell cut him down. The enemy advance was halted.
+Diversionary Tactics
+Distraction I
+Distraction II
+To start action (set up sequence of actions in tactical pause)
+I need a rest.
+Calibrated aiming mechanism
+Off
+Unlocks facility tasks for obtaining food.
+Unlocks facility task for obtaining construction supplies.
+Unlocks hunting-related facility actions.
+Unlocks fishing-related facility tasks.
+New region explored
+Open all cells with prisoners
