@@ -1,0 +1,102 @@
+Whistling I
+Whistling II
+Available
+Partisans available
+Report
+No man left behind
+Everyone should care about their own lives.
+We cut the wires. The Germans have a problem.
+Local citizens communication
+Do a Barrel Roll!
+We cooked roast and stew.
+During the New Year festivities, every New Year tree featured a Grandfather Frost made from cotton wool and papier-mâché. 
+A strong nickel-silver alloy. Can take a beating.
+The Fascists are going to execute partisans in Zaborovka today. We should go there and prevent the executions. However, this could be difficult: According to Vasily Gavrilovich, there was a manhunt in the village the day before. The Germans are still there.
+The night was so cold that nobody could sleep. We'll need to insulate our dugout using whatever we have in store.
+I want some buttered potatoes.
+It's going to blow!
+Mushrooms are in season. We could find some chanterelles in the fir grove.
+It's gonna hurt more! 
+Not now. Enemies are alarmed!
+I can't do it right now!
+Impossible now.
+Something is up.
+Secret documents
+Secret ingredient
+Monastyrskoe v.
+September 1941
+Seriously challenging.
+Sidorov was so intimidated that he not only shared the food, he also promised to keep us informed about the enemy's actions in the region. Let's wait for the news.
+Sidorov called the other Polizei for help. We had to leave.
+I can't go on.
+Strength
+I'm exhausted.
+Reduced weapon reload time. 
+Tough enemies.
+A strong wind tore down dead wood. A falling tree damaged the roof of the {0}.
+The smells of food attract hungry animals. We had to build a fence encircling the camp.
+We warmed up the orphan and took her to Mother Marfa in the village.
+Storage
+Loot Warehouse
+How many people are in your group?
+First Aid
+I just want this to end.
+Firerate
+Firerate 
+Movement speed is decreased. Rifles, shotguns, SMG and MG can't be used by this partisan.
+Movement speed reduced. Sprinting is impossible.
+Hide indication of interactive objects
+Hide interfaces
+Boring...
+I’m so bored... I wish someone would show up.
+Here you can see a character's skill tree and skill list with their current ability mastery. Choose any skill to learn more about it.
+The elk's hoofprints led us into a thicket. What a waste of time!
+Keep an eye on the morale of your unit. Inspired fighters perform their duty better. 
+Got you, punk! 
+Got you, punk!
+Much harder to hit the target
+Much harder to hit the target, enemy vision is worse
+Difficulty:
+Broken arm.
+Broken weapon
+Broken weapons can be taken apart.
+Gear slot
+You can cook food using provisions obtained during your missions.
+News from the front lines
+I hear Zobel tortures the prisoners in person.
+We've heard about you. You're doing a great job.
+Craft the grenade
+Intelligence
+Intelligence I
+Intelligence II
+Intelligence III
+Death to the Oppressor!
+Fascists' death has come.
+Betrayers Should be Dead
+The hand of death reaches toward you! Think about your family! Surrender now!
+A mixture of gasoline and kerosene in an elegant glass bottle. Burn before usage.
+Smolensk has been captured by the enemy, despite desperate resistance of our armies. Hitler's hordes are beginning their rush for Moscow.
+The bitches just fled!
+Sniper
+Equipment 
+You can equip your soldiers at the warehouse. Keep in mind that each item you select has a certain cost, and you have a limited number of warehouse points.
+You need to equip your team for each mission by spending warehouse points.
+At first the Germans weren't particularly cruel. They hired us for odd jobs. I was sent with some other villagers to dig anti-tank ditches. A German soldier was sent to guard us, but we ended up guarding him. He explained to us that he didn't care whether we worked or not; he had never wanted to go to war and had family waiting for him back home. So we had to do our best to keep the Germans from replacing him with someone more strict.
+Partisans are always followed by death squads.
+Back into battle
+They came to rob us again.
+They're trashing the house again.
+They're going to make us watch the execution again.
+Sleeping pill
+I wouldn’t quarrel with me if I were you.
+Dog
+They should die like pigs.
+Dogs
+Enemy dogs can detect your partisans in the bushes or in other cover; if it comes to combat, they will instantly attack. Sources of strong smells, like tobacco, can throw the dogs off your trail. 
+Get together and fight!
+Gathering
+We found a sack of good root crops and veggies.
+We found some slightly rotten root crops and veggies.
+We gathered some berries.
+We picked several baskets of berries.
+We gathered the eggs.

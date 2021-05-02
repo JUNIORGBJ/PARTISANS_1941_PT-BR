@@ -1,0 +1,102 @@
+Through the mill
+We'll find them all anyway.
+Everything's quiet.
+Included in every soldier's gear. Restores a small amount of HP.
+Two partisans—girls—were hanged yesterday.
+We strung up more partisans yesterday.
+Got my salary yesterday. Time to party!
+You manage to escape, but Sergeant Fetisov is wounded. Sanek, a local boy, takes you to the village to see one Vasily Gavrilovich, a man he trusts. The old man is reluctant to take in escaped prisoners, but he still offers shelter and helps you clean and dress the sergeant's wound.
+You manage to escape, but Sergeant Fetisov is wounded. Sanek, a local boy, takes you to the village to one Vasily Gavrilovich, a man he trusts. The old man is reluctant to take in escaped prisoners, but he still offers shelter and helps you clean and dress the Sergeant’s wound.
+Partisans' ability uses restored to maximum
+You lasted for as long as you could!
+You walk through the forest for hours, the trees around you growing denser and more somber with each mile. Swamps and fallen trees block your way time and again. Finally you stumble upon a clearing with a dugout shelter in the middle. Its owner, "Pops" Trofim, isn't there, so you start a fire and sit down to rest.
+You must protect me!
+Some doors may be locked. You'll need to find and use the appropriate keys to open them.
+You can change game settings (such as showing exact hit chance numbers) in the game's main menu, in the "Game settings" tab.
+You can change settings in the "settings" tab in the game's main menu.
+You can use certain objects in your environment to hide from enemies. Use the cellar by clicking it with the LMB to escape the patrolling enemy's gaze. Click the RMB to exit the cellar.
+You can loot enemy corpses to find some equipment after killing them.
+You can send any partisans on missions. There are no squad requirements.
+You can change behavior mode during combat. If "Defensive Mode" is turned on, partisans won't shoot until an order is given. During "Defensive Mode," partisans' chance to be hit is decreased. You can activate this mode by pressing the [T] button. 
+You can cook more food using provisions obtained during your missions.
+You can hide enemy corpses using environmental objects to keep them from being found.
+Will you help us?
+You did not select any modifier.
+No assigned partisans.
+Time is up
+This is your partisan camp management screen. The tabs to the right allow you to assign tasks to members of your unit.
+You're stubborn.
+Will you beat the bad guys?
+You have reached the Sortie Mode screen. Here you can select the partisans you will send on a mission, as well as difficulty modifiers.
+Have you finished planning actions for today?
+Are you sure you want to complete the mission?
+Are you sure you want to leave the mission?
+Are you sure you're done planning your daily activities?
+Are you sure you want to return to the menu?
+Are you sure you want to overwrite the current save?
+Are you sure you want to restart the mission?
+Are you sure you want to reset the selected skills?
+Are you sure you want to reset your current settings?
+Are you sure you want to change the language? The game will be restarted.
+Are you sure you want to change your current settings?
+Are you sure you want to change the complexity level? This action will reload the mission.
+Are you sure you want to delete the current save?
+Would you like to take the same squad to the mission?
+If you replace this soldier, all their items will be returned to the warehouse. Are you sure?
+Choose the complexity level
+To select the character
+To select all Characters
+To select all characters
+Select the second Character
+Select the first Character
+Select the fifth Character
+Select the third Character
+Select the fourth Character
+Get out of the battlefield alive
+Discard
+Wait {0} days
+The air strike called in by the partisans completely leveled the station. A direct hit destroyed the enemy's Bertha-class siege gun that threatend to Leningrad. The partisan group had successfully completed Moscow's mission.
+Menu
+Call for an air raid
+Debug menu
+Reach the swamp
+Exit through the abandoned village
+Turn off the lights everywhere
+The attack on Bogachevo station lit the blue touch paper. The Hilfspolizei commander Zobel led the partisan hunt himself. On his command, dozens of innocent townsfolk were taken to prison for interrogation and torture.
+The underground agents have failed their mission. The Fascists arrested and hung them.
+Operations
+Missões
+To treat for 
+Constitution
+Constitution I
+Constitution II
+Recently completed tasks and events.
+Completed
+You can unlock difficult achievements by satisfying various conditions. To do this, you'll need to work out the perfect strategy, approach, and squad.
+Upon completion of this task your squad will receive
+Complete the first mission in under 10 minutes
+Have we raised them to be traitors?
+I'll avenge my mom and dad when I grow up.
+Let's dig a couple of wolf traps. We could trap a wild animal.
+High morale
+High fence
+You can climb over high fences only in certain places.
+ High chance of success
+Allows you to stun enemies of low rank (Polizei).
+Radio address of the State Defense Committee Chairman J.V. STALIN.
+Sair do Jogo
+Location exit
+One by One
+CITIZENS OF THE SOVIET UNION!
+GRAPHICS
+Woof!
+Gavrilovich says that Zobel uses threats, blackmail and bribery to make locals spy and report on one another.
+Gavrilovich says that the Germans are appointing village heads and recruiting "reliable" people into the Polizei. For many, this work is just an excuse to steal from others.
+Gavrilovich found out that one of the neighboring villages is housing the Germans' divisional communications center.
+Gavrilovich learned that the Fascists had set up machine gun nests by the railroad bridge. The bastards are getting nervous!
+I wonder where I can get more vodka.
+Where's our army? What's keeping them?
+Where's mommy?
+Where is your base?
+What made Mellenberg so pretty?
+They're crawling into their holes.

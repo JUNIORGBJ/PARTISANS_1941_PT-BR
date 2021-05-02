@@ -1,0 +1,102 @@
+Allows you to ignore effects from light injuries till the end of the mission.
+Allows you to notice enemy mines and traps. Time needed to plant mines, tripwires and other explosives is greatly decreased.
+Allows you to notice enemy mines and traps. After you detect a mine you can highlight it using ALT. Radius of detection: 700.
+A trap to be placed for an enemy. Explodes when someone crosses the wire.
+Allows you to distract Polizei and Wermacht soldiers. Enemy will be watching you while talking.
+Allows you to distract Polizei. Enemy will be watching you while talking.
+Allows you to move near an enemy without drawing enemy attention. Ability stops when you do anything suspicious, such as using weapons or abilities. Cooldown - 10 seconds. Unavailable during combat.
+Allows you to climb over high fences.
+Allows you to make a short dash to an enemy and deal fatal damage with a knife. Must have a knife to use this ability." 
+Allows you to kill low-rank enemies faster when in stealth. Win chance during melee fighting is increased.
+Allows you to kill Wehrmacht soldiers and policemen faster when in stealth. Win chance during melee fighting is strongly increased.
+Allows you to put every enemy to sleep from behind.
+The search
+I'd better take it somewhere else.
+I'd rather be on my way...
+The Fascists will shoot you if they catch you outside at night.
+Until They Came...
+To leave camp
+Leave the village
+Leave the town before bombardment
+Pokrovskoe v.
+Headquarters dugout
+Privacy Policy
+The Polizei
+Members of the Ordnungsdienst and other organizations, colloquially known as the Polizei—turncoats and renegades. The Germans usually arm them with inferior weaponry and send them to maintain order in the villages. Not particularly dangerous.
+The Polizei blabbed that the Germans have a stolen red banner at their loot warehouse. We need to get there and get our flag back at any cost.
+The Polizei blabbered about a red banner delivered to the German trophy room in Pokrovskoye village. We must go there and reclaim the precious banner.
+The Polizei were prepared for an attack. We failed.
+The Polizei feel as comfortable as maggots in bacon!
+The Polizei are busy raiding a neighboring district. We could tell the townsfolk all about the invaders' crimes.
+The Polizei spotted us. We were forced to retreat.
+The Polizei are bad.
+Polizei
+Polizei Yegor, whom we set straight, told us that a supply cart would be crossing through the forest. We could capture the food.
+Polizei Petrov, whom we called to civil responsibility, told us about the chief's stash of looted goods. Maybe we should check it out.
+A Polizei accidentally told Vasily Gavrilovich that anti-aircraft guns were being positioned around the station in Bogachevo. Some important cargo must be arriving soon.
+The Polizei are seeing partisans everywhere.
+The Polizei can get away with anything.
+Wehrmacht colonel
+Recruit every partisan to your cause
+Great Diversion
+Half rations.<cf>Saboteurs' skills are significantly decreased.
+Defensive Position
+Half the district is under arrest.
+New agent is with you
+Item received:
+Injured
+The supplies you get from looting corpses have become more predictable. For example, you always get the same ammo the enemy was using.
+Resources received:
+You got what you deserved, you damned Fascist!
+Vegetables.
+Remember: The forest is your protection. Use trees and roadside ditches as cover against enemy gunfire and for setting up ambushes. Use wattlings and fences to mask your movements. Make gun ports in them, where needed.
+Help!
+We helped her out. Everyone is happy, healthy, and sated.
+We helped her out. She healed the wounded soldier.
+Help out
+Help Trofim fight off an attack
+Help out the hospital personnel
+Help 
+Help citizens
+When I die, who's going to bury me?
+We caught several fish.
+They're hiding like rats.
+It's time to master my skills.
+The weakened group couldn't resist the enemy. The partisans were arrested and hung.
+Hand cut
+OSOAVIAKhIM cigarette case
+There's nothing we can do now.
+After a series of railway sabotages the German patrols now employ service dogs capable of detecting the explosives from a considerable distance.
+Multiple people have been arrested since Zobel's arrival. People are being thrown behind bars based on the vaguest suspicions.
+Last save
+Last Meal
+?onsequences
+See the visibility cone
+Let's set up some snares. We could trap a wild animal.
+We shot at the wolves, crippling one of them. They won't come back.
+Build
+Build the workbench
+Losses
+We poisoned the mice. The food storage is safe now.
+Repairs took a whole day, but now it looks good.
+Play Point Capture mode.
+Play Defense Mode.
+Our comrades got into trouble. The Polizei might know what happened in Volkovo. We should get one of them to talk.
+Fix weapon
+Pravda #172
+Tripwire
+There's just too many traitors.
+Quest items
+Direct battle approach recommended
+Stealth approach recommended
+Before They Hang Them
+High fence climbing
+A knife in skilled hands is a swift and certain death for any enemy, if you can sneak upon your prey from behind.
+Painkillers can help your characters to heal from injuries while ignoring the pain.
+Stealthy takedown allows you to quickly kill your target. However, your prey will resist for a short while, producing noise that could be heard by other enemies. 
+While retreating, the Red Army left behind a KB-1 tank in a swamp. Sooner or later, the Germans will find it and make good use of it. We should blow it up. 
+After taking significant damage partisans can become "near death". To revive your fighter, click on the heal icon above the injured partisan. 
+When your partisans take damage, there is a chance of a long-term injury, which will sap their strength. Use painkillers to temporarily lessen the effect of and buy enough time to reach the base.
+If you change this modifier, your partisan's items will be returned to the warehouse. Continue?
+If you select this modifier, the partisans' skills will be reset. Continue?
+Near death

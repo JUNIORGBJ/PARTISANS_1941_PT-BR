@@ -1,0 +1,102 @@
+Zabrovka v.
+Zaborovka
+Zaborovka is a small village with an enemy garrison located within it. Reliable people have reported that a hauler transporting an AA gun has broken down on the way out of the village. The partisans have decided to take advantage of the situation and destroy the gun before the truck is fixed. In order to do this you will need to find explosives in the garrison warehouse, bring them to the AA gun, and set them off.
+Take poison from the beehive
+I'll be rewarded if I kill one.
+Everyone must show up for forced labor tomorrow.
+You got some wood
+We have some good lumber now.
+Foragers
+Carregar Jogo
+Loading
+Loading completed. Press any key.
+Let the Fascists have it!
+Mission complete!
+Set up sequence of actions
+Tasks
+Hide in cover. When you're in cover you're much less likely to be hit.
+Smoke some food
+Close
+close
+I'm sick of manhunts.
+I'm tired.
+I'm freezing. My throat hurts when I swallow.
+Article "Young heroes," pt. 1
+Article "Young heroes," pt. 2
+Mine the 88mm gun
+Far regions
+Take cover and get ready!
+Burn prison archives
+We're running out of food. Soon, there'll be nothing left. We need to find more food.
+Local villager's note, pt. 1
+Local villager's note, pt. 2
+Lock the gates!
+Ambush
+Ambush I
+Ambush II
+Ambush III
+Ambush IV
+It's quiet.
+Seizure
+Hold position
+Capture the Flag
+The invaders set up checkpoints along the roads. One of them is located nearby. The crew consists of several Polizei. We can eliminate them.
+The invaders set up checkpoints along the roads. One of them is located nearby. The crew consists of Wehrmacht soldiers. We must be careful.
+The invaders set up checkpoints along the roads. One of them is located nearby. The crew composition and numbers remain unknown.
+The invaders set up checkpoints along the roads. One of them is located nearby. The crew consists of SS troops. We must prepare ourselves.
+The invaders stormed their way forward, razing Soviet cities to the ground and burning down villages along the way. Minsk, Smolensk, and Novgorod fell. The German air force bombed Kiev and Sevastopol. Threat loomed over Moscow and Leningrad.
+Why are they hurting us?
+Mop up the checkpoint
+Secure the Polizei warehouse
+Secure the weapon warehouse
+The gunfire attracted unwanted attention. We had to leave empty-handed.
+Every family is in pain.
+They can't reach me here.
+Death squads are here!
+There's someone here!
+You can make basic explosives and field meds here.
+You can upgrade your weapons here.
+We don't have partisans in here!
+All of the unit's equipment is stored here.
+Winter is coming.
+Standard-Bearer
+Regiment banner
+Cover knowledge
+Cover knowledge I
+Cover knowledge II
+Greatly increases character defense bonus while in cover.
+Greatly increases grenade throwing range. Decreases time before explosion.
+Greatly increases the amount of HP recovered when using medkits.
+Greatly increased sprint. 
+Greatly increased chance to hit using rifles.
+Greatly increased chance to hit using SMGs.
+Greatly increased chance to hit using pistols.
+Greatly increased chance to hit using heavy machine guns and stationary weapons.
+Greatly increased chance to hit using shotguns.
+Greater character defense bonus while sprinting.
+Greater chance to hit during ambush mode [Y].
+Significantly lowers the stamina cost of running while in combat.
+I have a fever.
+A golden ring. Her mother gave it to her when she was leaving to study in Alma-Ata.
+Golden ring
+Alexey Yurievich Zorin
+Zorin, Alexey Yurievich. Age: 29. Born in Verkhovino village in the Kalinin region to a farmers' family. Career officer. Participated in the Soviet-Finnish War. By the outbreak of the Great Patriotic War reached the rank of captain. The company he commanded was transported to the front lines in the early days of the war. Skilled knife fighter.
+I shouldn't have spoken against you.
+Camera zoom
+We could even smoke some fish.
+We've got enough to pickle.
+Along with quest items:
+GAME SAVED
+IZhB – 36
+IZh – 5
+NAME
+INVENTORY
+NOT ENOUGH SPACE
+USE AVAILABLE ITEMS
+HISTORY
+TOTAL PER DAY
+Game settings
+Christmas toy
+It's raining
+It's snowing
+From rags to riches.

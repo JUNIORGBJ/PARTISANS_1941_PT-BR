@@ -1,0 +1,102 @@
+Tripwire deals area damage and can be very good for making abushes.
+Consumption
+large clip size
+Revival kit
+Revive a partisan
+The child got lost in the forest. Let's hope she can make it to safety on her own.
+Inspector General
+A World War I revolver, converted to 7.62 caliber. This is a single-action model. Low firerate is compensated by high damage and a large stopping effect. This weapon looks worn from battle.
+A World War I revolver, converted to 7.62 caliber. This is a single-action model. Low firerate is compensated by high damage and a large stopping effect. This is a medium-quality weapon.
+A World War I revolver, converted to 7.62 caliber. This is a single-action model. Low firerate is compensated by high damage and a large stopping effect. This is a high-quality weapon.
+Rare
+Missions Mode
+Window Mode
+tactical pause
+Stealth mode
+Massacre I
+Result
+Recommended difficulty level for the first playthrough
+Railroad war
+Out of Commission
+Critical for your unit to function. Without food your partisans will starve.
+Used for building new weapons and upgrading existing ones. Occasionally required for campaign map events.
+Resources found:
+Reward: {food} food {grocery} resources.
+Reward: {food} food.
+Reward: {grocery} resources.
+Base resources
+Our speech didn't sound very convincing. The townsfolk booted us out.
+Decisive battle
+We decided not to bother with the stash. We didn't think that the Polizei could have anything of value, and we don't need any wristwatches or earrings.
+Slingshot I
+Slingshot II
+The Motherland Calls!
+Shotgun shell
+Shotguns I
+Shotguns II
+Shotguns III
+Russian
+Hand drill
+Hand mixer
+Hand mixers are handy for whipping up eggs and making cocktails.
+Fishing 
+Fish spot
+A battle's breaking out! Hide!
+The Germans laid a landline along the village border near the woods. We must cut the wires.
+N
+WIRE AGAINST A MOTORCYCLIST
+It's getting worse by the day.
+They've got nothing left.
+After the Great Patriotic War had broken out, Zoya Kosmodemyanskaya joined the Army as a volunteer in October 1941. She was assigned to a sabotage unit operating around Mozhaysk under orders from Western Front HQ. Twice she was sent behind the enemy lines. During a combat operation in late November 1941, Kosmodemyanskaya was captured in the village of Petrischevo, in the Ruza district of the Moscow region.
+One pass can be used by an unlimited number of Red Army and Red Navy officers and soldiers. Stalin's decree ordering reprisals against the families of the deserters is unenforceable. German command does not publish the names of the prisoners, unless they demand this themselves. Do not be intimidated by Stalin's posturing.
+Can't get in touch with my family.
+Since the first days we've been keeping track of successful operations against enemies. It's time to make this information public—inform the populace of the unit's achievements.
+I've been around since early morning.
+Horrible rumors have been circulating about the local prison ever since Zobel took over.
+I haven't eaten since morning.
+This is done.
+ASSEMBLE SQUAD
+reset all skills
+VACANT
+ALREADY IN THE SQUAD
+STORAGE
+DIFFICULTY
+DECREASED
+EVENTS
+SAVE
+SAVE GAME
+HINT
+COMPANION
+MEDIUM
+SIDE
+BUILDING SITE
+MAIN
+Very popular sewing machine "Podolsk 2M." Usually hand-operated.
+It's their own fault.
+A samovar for boiling water. Heated by burning wood or coal. A boot can be used on the pipe to blow on the fire in damp conditions.
+Hootch
+The hooch was good enough to send half of the troops back to Spain for rehab.
+Selfless work in the fields, excellent harvests and early fulfillment of obligations to the government: This is how the collective farmers assist the Red Army in defeating the Fascist hordes. At Qurman district's machine tractor station (Crimean Autonomous Soviet Socialist Republic), all harvesters are still toiling in the field; as the operators went to fight the Fascists, the women took their places at the machines. Meanwhile, women of the kolkhoz Kolos (in the Chkalovsk district of the Chkalovsk region), having replaced the tractor drivers who went to war, are confidently exceeding their work quotas.
+Sanek stumbled upon a deserted forest camp and brought back everything of value he could find.
+Sanek tried to shoot a machine gun at the range and injured his hand in the process.
+Sanek
+Sanek is anxious: Pops went hunting near the lake and still hasn't returned. The lake is close to a road often used by the Fascists. Who knows what may have happened. The old-timer may need our help: We're moving out to the lake to search for him.
+Sanek is worried: Pops has gone missing. He was supposed to go hunting near the lake, where the plane crashed. We must move out and search for the old man. Let's hope he's safe and sound.
+Sanek saw an enemy bomber burn through the night sky and crash inside the forest. He made a wish for the war to end before the winter.
+Demining I
+Demining II
+They're greedy like locusts!
+Sugar
+What if we can't find them and they join the partisans?
+?ollection of information 
+Collect information about the number of troops in the area and their movements.
+Assemble your squad
+A portable bakelite safety razor and extra blades. 
+Drop a corpse at the beginning of the battle
+Cancel
+Reset task
+We can make berry jam.
+We can cook some hearty fish soup.
+Drilling of "Chalk-Bor"
+Cozy nook
+No Witness

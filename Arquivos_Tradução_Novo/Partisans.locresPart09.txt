@@ -1,0 +1,102 @@
+To get more information about your weapon's hit chance, hover your cursor over your target. The higher the chance to hit, the more filled in the target's marker will be.
+Your characters can jump over low fences to take shortcuts.
+To fire your weapon, you need to equip it and have ammunition. Press "R" to reload your weapon. Bullets are stored in your character's backpack.
+We need a supply of lumber for construction and repairs. Good thing we have a pine grove nearby.
+To learn higher-level skills, you need to learn three skills from the previous tier. You can see the number of skills needed to the right of your skilltree.
+In order for the partisans to start carrying out their assigned tasks, you need to click 'next day.'
+Any wooden structure—a barn or a shed—can be used for protection from enemy bullets. Dig a foxhole inside near the wall and use the earth to reinforce the wall from the outside.
+Use ambush tactics to destroy patrolling enemies. Take cover to gain an advantage. There's a suitable place in front of you now.
+Wehrmacht soldiers have 10 grams of sugar daily.
+Time remaining:
+add or remove selected characters
+Reach the village
+Reach the partisan base
+Reach the execution site in 25 minutes
+Take the documents
+Obtain the intelligence data
+Resource searching
+Reach the mill
+Doctor Zaytsev
+Commandant Biermeier's documents
+How long do I have to stay here?
+Chances are high
+Community Center
+Donbass, the industrial heart of the USSR, is in the hands of the Fascists.
+Additional information
+Side Quest 
+They've really had it.
+The Road
+Plank
+Available agents
+Available partisans
+File: "Y.D. Belyaev"
+File: "V.O. Gnarovskaya"
+File: "E.I. Zelenko"
+File: "I.I. Ivanov"
+File: "V.P. Kislyakov"
+File: "Z.A. Kosmodemyanskaya," pt. 1
+File: "Z.A. Kosmodemyanskaya," pt. 2
+File: "V.A. Kotyk"
+File: "V.A. Kotyk "
+File: "A.V. Petrova"
+File: "E.M. Fomin"
+File: "B.L. Khigrin"
+There are rumors circulating that the Fascists are conducting mass executions in occupied Kiev. Reportedly, thousands of people have been killed.
+Dulag
+Lock, Stock
+FOOD SUPPLIES:
+ENOUGH FOOD
+Food
+Food is ready
+Take an Ax If You Go to the Forest
+If the can is swelled, recommended to slip it to your enemy.
+If you are not in combat, you can hide in cover and enemies will not be able to see you. Use this to set up an ambush.
+If by evil intent I should violate this, my solemn oath, then let the severe punishment of Soviet law and the total hatred and contempt of the working classes befall me.
+Death? Not today.
+Let them come. We'll give them a warm greeting.
+If the partisans aren't stupid, they won't dare to come out of the woods.
+No one will notice if something goes missing.
+Alarm can be triggered in the enemy territory
+Additional quests present
+Do you have a contact with the army?
+Wehrmacht officers present
+A hidden cache
+Is someone there?
+Bullseye!
+There was no way to correct his behavior. We had to take drastic action.
+Another week is over. Another raid is behind us. We need to catch our breath and get everything ready for the next raid.
+Another village is burned down.
+They won't think I did it, will they?
+What if they order us to comb the forest?
+There's another dead body.
+Ability can be used at much higher distances. Increased number of ability uses during mission.
+Rail Bridge
+Rail Crossing
+Railroad Bridge
+I feel sorry for Praskovya. She was the prettiest girl in the village.
+Gendarme
+Iron body
+I have a pretty wife, and I'm scared for her.
+Go home now!
+Body shield
+My stomach aches.
+Hungry.
+Eat lead, you scum!
+W
+BLOCKED
+RECRUIT AGENT
+CARREGAR
+TASKS
+CLOSE
+KILL ALL ENEMIES AT THE VILLAGE
+RANK
+SOUND
+will receive {0} additional exp
+Zorin's worth more living than dead.
+They put a price on partisans' heads.
+They shoot families for not telling on the fugitives.
+Should pay extra for this.
+Do I deserve this at my age?
+How did we deserve this?
+We decided not to visit Avdotya. It wasn't worth the risk.
+Kill the fowl.

@@ -1,0 +1,102 @@
+Trofim found a cache with some supplies and canned food, seemingly left here by someone from the local population. Should we take the food, or should we make do without it?
+Trofim returns from the forest with the news: The Fascists are forcing the prisoners of war to work on their lumber mills. That's slavery!
+Trofim shoots with buckshot, dealing damage to everyone in range of the ability cone. Requires a shotgun.
+Serves them right!
+Samovar from Tula
+The Mutt's dead.
+It's a dead body!
+mission failure reason
+This is dangerous.
+I hate this place. I wanna live in the forest, too!
+You're Gonna Go Far, Kid
+Thousands of Soviet soldiers were surrounded, trapped in salients. One of them was a commanding officer of a rifle company, Captain Zorin. During an attempt to break out of the encirclement, he was taken prisoner and shipped to the nearest Dulag (Durchgangslager — German concentration camp).
+Phew, it's water.
+Difficult
+Heavy weapon I
+Heavy weapon II
+Heavy weapon III
+Life under the Fascists is hard...
+Biermeier's got a hot girlfriend.
+Biermeier's suit is falling apart!
+Mellenberg's got a scarred mug.
+You have unsaved changes. Do you want to apply them?
+You have no fighters left.
+Your characters have very high morale. Hit chance is increased. Character can sprint longer. Ability cooldowns are decreased by 1.5 times.
+Your characters have very high morale. Hit chance is greatly increased. Character can sprint longer. Ability cooldowns are decreased by 2 times.
+Uncle Fedor has a potato patch by the hill. He once hid from the Soviet rule; now he's waiting the Fascists out. Let's ask him to share some food. 
+The captain had to make a choice: attempt to cross the front line to rejoin his comrades, or remain behind the German lines and organize a partisan group. The dire situation in the occupied areas lead Zorin to stay.
+Commandant Mellenberg's got some taste. He set up his HQ in an old royal manor home.
+I have a toothache.
+I don't have the item I need.
+The Polizei chief makes my skin crawl.
+Here is the courpse! Alarm!
+They don't have the guts to attack.
+Different weapons are effective at different ranges. To reach maximum efficiency you may need to get closer to your enemy and use cover to decrease the chance of being hit during combat.
+My neighbor's kid went missing.
+The Fascists are shaking in their boots when they hear about partisans.
+TO REMOVE FROM THE SQUAD
+DELETE
+ENEMIES KILLED
+SUCCESS!
+REMOVE:
+We persuaded Petrov that there are other ways to earn a woman's affection. And that he should deliver information to the partisans, too.
+I'm getting killed!
+Stealth killing
+Kill 100 enemies
+Kill 2 enemies during a single use of Fan fire skill
+Kill the two Polizeis
+Kill 3 enemies using environmetal objects
+Kill 3 enemies during a single use of Long burst skill
+Kill 3 enemies during a single use of Buckshot skill
+Kill 3 enemies with one hand grenade
+Kill 3 enemies with one landmine
+Kill 4 enemies during a single use of Fan fire skill
+Kill N enemies with grenades
+Kill N enemies with mines and tripwires
+Kill N enemies with skills
+Kill N enemies with environmental objects
+Stab Biermeier in the back without raising an alarm
+Kill all enemies
+Kill every enemy during the Zaborovka mission
+Kill all Nazi officers on the map
+Kill the scumbags!
+Kill the punisher commander
+Eliminate the commandant 
+Kill SS commander with a knife
+Kill the head of the camp
+Kill Nazi officers while they're fishing
+Remove from the squad
+"Long burst" radius and distance is increased.
+Increased ability distance and decreased ability cooldown. Increased number of ability uses during mission.
+Increased ability radius and decreased ability cooldown.
+Increased ability damage and decreased ability cooldown.
+Increased backpack I
+Increased backpack II
+Increased backpack III
+Increases character defense bonus while in cover.
+Increases grenade throwing range. Decreases time before explosion.
+Increased throwing distance and decreased ability cooldown.
+Increases experience gained by 10%.
+Increases experience gained by 25%.
+Increases experience gained by 40%.
+Increases amount of HP recovery while using medkits.
+Increases the daily limit for missions. Your partisans will be better informed about the events in the area.
+Increased number of knives that can be thrown at an enemy. Greatly decreased ability cooldown.
+Increases backpack slots.
+Increased ability radius and decreased cooldown.
+Increases clip size to 12
+Increases clip size to 20
+Increases clip size to 40
+Increases clip size to 97
+Increased carrying bodies speed.
+Increases damage by 20%
+Increases something.
+Increases critical damage chance by 10%
+Increases hit chance by 10%
+Increases hit chance by 8%
+Increased chance to hit using rifles.
+Increased chance to hit using SMGs.
+Increased chance to hit using pistols.
+Increased chance to hit using heavy machine guns and stationary weapons.
+Increased chance to hit using shotguns.
+Increases character defense bonus while sprinting.

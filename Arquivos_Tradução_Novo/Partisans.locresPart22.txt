@@ -1,0 +1,102 @@
+I found me a beautiful girl here...
+We can roast it now and cook stew.
+To cook food 
+To cook a lot of food 
+Feed block
+"Record-1" stove
+To take
+Resources
+Income
+I'll shoot the bastard!
+Beat it, or I'll shoot you.
+A powder that stops bleeding.
+Targeting
+Targeted shooting forces enemies into cover. Requires SMG.
+Aim shot I
+Aim shot II
+Aim shot III
+Make your way to the road
+First reconnaissance
+Test sortie
+Sneak to the shed along the fence
+We reached out to the townsfolk and delivered the right information.
+Explore the area
+There's no food left. We're on the verge of starvation. We must find some food immediately.
+Provocation I
+Provocation II
+Withstand N enemy waves in Defense Mode.
+RESUME
+Continuar
+Craft
+Camp event
+Incidents
+Complete all Sorties with all modifiers.
+Complete the Community Center mission in Missions Mode with all modifiers.
+Complete the Defensive Position mission in Missions Mode with all modifiers.
+Complete the Loot Warehouse mission in Missions Mode with all modifiers.
+Complete the Comm Station mission in Missions Mode with all modifiers.
+Complete any mission in Sortie Mode with at least one modified enabled.
+Complete any mission in Operations Mode.
+Complete the mission with no alarms
+Complete the mission  Farmstead
+Complete the mission Farmstead
+Complete the mission within {N} minutes.
+Complete the mission without using grenades
+Complete the mission without using the knife
+Complete the mission without using firearms
+Complete the mission without using light machine guns
+Complete the town mission without raising an alarm
+Complete the Bogachevo st. mission with no alarms
+Make your way through the village
+Punctured lung
+Propaganda
+Permit
+The bearer of this pass, having no wish to participate in senseless bloodshed on behalf of the Jews and the Commissars, abandons the defeated Red Army and joins the side of the German Armed Forces. German officers will provide food, shelter and work. You don't need the pass to join the German Forces: You are guaranteed a warm welcome in any case.
+Just a log.
+The enemies can call in reinforcements using special alarm systems. Do your best to prevent this.
+The enemy has us outnumbered and surrounded. We're going to fight to the death. Take as many Fascists with you as you can!
+A heavy rain damaged the roof. We must repair the roof of the  {0}.
+Please, let me go!
+Hide!
+The birds are about to migrate, but we still have a chance to hunt. However, we don't want to attract unwanted attention with gunfire.
+Machine Gun
+Machine guns are highly effective weapons, but they need large amounts of ammunition. 
+Lewis
+Lewis machine gun
+Let them come if they have the guts.
+The partisans are to blame.
+Just let them set foot here!
+Gr-r-r...
+SPLIT
+DISBAND
+CONSUMPTION
+FOOD CONSUMPTIONS PER DAY
+SHOVEL IN COMBAT
+Radio Station
+Enemy Radios
+If the Germans can do it, we can do it too.
+Run!
+Divide into groups and look for partisans!
+No one can find them now.
+Exploration
+Scout
+Split
+Broken arm
+Different mechanical items.
+UI Scale
+Clip size
+Place all your characters in the specified area to exit the location.
+Take apart
+Find the village head
+Tendon rupture
+Unload
+Region available for exploring
+Enemy Ranks
+Enemy ranks reflect their danger level. To see the rank, hold ALT or hover your mouse pointer over the enemy. 
+We should have fought earlier.
+We used to beat the Germans, and now they beat us.
+We beat them before, we can beat them now!
+We found the stash. Gavrilovich helped us return the valuables to their owners, and we got to keep the rest.
+Train schedule
+Loot spreading
+Tripwire mine
