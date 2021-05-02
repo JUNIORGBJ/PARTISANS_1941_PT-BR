@@ -36,16 +36,14 @@ On the 12th of September 1941, Ekaterina Zelenko was returning from a reconnaiss
 150g canned vegetables
 06/16/1927
 11/19/1905
-1941. World War II.<cf><cf>Nazi Germany attacks the Soviet Union without declaring war. The Red Army suffers catastrophic casualties in battle, and thousands of soldiers find themselves surrounded. The invaders are moving deeper and deeper into the country, leaving ruined cities and burned villages in their wake. Leningrad and Moscow are in danger.<cf><cf>Soviet citizens in captured territories are forced to leave their native villages. They are made to build military objects and cruelly punished for even the slightest infraction by the occupying regime. The invaders drive away farm animals and empty barns, dooming entire villages to famine and death.<cf><cf>You are Red Army Major Alexey Zorin. Your company was surrounded and wiped out. Thanks to random chance, you and sergeant-major Nikolai Fetisov managed to survive. A local fellow named Sanek took you to your refuge, an earth hut in the forest, where you regained your strength and considered your situation.<cf><cf>Your duty demands that you join the local 
-partisans and continue fighting the invaders. To test your abilities, you are sent to a workshop where, according to the locals, a tank is undergoing repairs. You are planning to destroy it. It doesn't seem like much of a feat, but great things always start with small beginnings.
-1941. World War II.<cf><cf>Nazi Germany attacks the Soviet Union without declaring war. The Red Army suffers catastrophic casualties in battle, and thousands of soldiers find themselves surrounded. The invaders are moving deeper and deeper into the country, leaving ruined cities and burned villages in their wake. Leningrad and Moscow are in danger.<cf><cf>Soviet citizens in captured territories are forced to leave their native villages. They are made to build military objects and cruelly punished for the slightest infraction by the occupying regime. The invaders drive away farm animals and empty barns, dooming entire villages to famine and death.<cf><cf>You are Red Army Major Alexey Zorin. Your company was surrounded and wiped out. Thanks to random chance, you and sergeant-major Nikolai Fetisov manage to survive. A local fellow named Sanek took you to your refuge, an earth hut in the forest, where you regained your strength and considered your situation.<cf><cf>Your duty demands that you join the local Partis
-ans and continue fighting the invaders. To test your abilities, you are sent to a workshop where, according to the locals, a tank is undergoing repairs. You are planning to destroy it. It doesn’t seem like much of a feat, but great things always start with small beginnings.
+1941. World War II.<cf><cf>Nazi Germany attacks the Soviet Union without declaring war. The Red Army suffers catastrophic casualties in battle, and thousands of soldiers find themselves surrounded. The invaders are moving deeper and deeper into the country, leaving ruined cities and burned villages in their wake. Leningrad and Moscow are in danger.<cf><cf>Soviet citizens in captured territories are forced to leave their native villages. They are made to build military objects and cruelly punished for even the slightest infraction by the occupying regime. The invaders drive away farm animals and empty barns, dooming entire villages to famine and death.<cf><cf>You are Red Army Major Alexey Zorin. Your company was surrounded and wiped out. Thanks to random chance, you and sergeant-major Nikolai Fetisov managed to survive. A local fellow named Sanek took you to your refuge, an earth hut in the forest, where you regained your strength and considered your situation.<cf><cf>Your duty demands that you join the local partisans and continue fighting the invaders. To test your abilities, you are sent to a workshop where, according to the locals, a tank is undergoing repairs. You are planning to destroy it. It doesn't seem like much of a feat, but great things always start with small beginnings.
+1941. World War II.<cf><cf>Nazi Germany attacks the Soviet Union without declaring war. The Red Army suffers catastrophic casualties in battle, and thousands of soldiers find themselves surrounded. The invaders are moving deeper and deeper into the country, leaving ruined cities and burned villages in their wake. Leningrad and Moscow are in danger.<cf><cf>Soviet citizens in captured territories are forced to leave their native villages. They are made to build military objects and cruelly punished for the slightest infraction by the occupying regime. The invaders drive away farm animals and empty barns, dooming entire villages to famine and death.<cf><cf>You are Red Army Major Alexey Zorin. Your company was surrounded and wiped out. Thanks to random chance, you and sergeant-major Nikolai Fetisov manage to survive. A local fellow named Sanek took you to your refuge, an earth hut in the forest, where you regained your strength and considered your situation.<cf><cf>Your duty demands that you join the local Partisans and continue fighting the invaders. To test your abilities, you are sent to a workshop where, according to the locals, a tank is undergoing repairs. You are planning to destroy it. It doesnï¿½t seem like much of a feat, but great things always start with small beginnings.
 1h
 1
 2 days
 2. The tank engine is cooled by air coming inside through special apertures. All hatches, joints and couplings are also sources of potential openings. You can set the tank on fire by pouring flammable liquid in through those openings.
 2. Stay calm, but determined. Learn to let the enemy approach as close as 20 or even 10 meters.
-2. The tank needs a working engine to move. Disable the engine—and the vehicle is stuck.
+2. The tank needs a working engine to move. Disable the engineï¿½and the vehicle is stuck.
 07/20/1876
 200g of tinned meat
 At 4AM on June 22, 1941, the armed forces of Germany launched a surprise attack against the Soviet Union. The Great Patriotic War of the Soviet people against the Fascist invaders began.
@@ -60,7 +58,7 @@ June 29th. Planes dropped many 500kg bombs on their positions. No notable effect
 3. Tank crews use observation slots and vision equipment. Cover them with mud and disable them using small-arms fire.
 3. The engine needs fuel to run. Cut the fuel supply, and the tank will stand idle.
 3. Bravery bordering on recklessness is the partisan's main weapon.
-June 30th. Planes resumed dropping 500kg bombs this afternoon. A 1800kg bomb was dropped as well. It hit a corner of the wall; the explosion shook the whole city of Brest…
+June 30th. Planes resumed dropping 500kg bombs this afternoon. A 1800kg bomb was dropped as well. It hit a corner of the wall; the explosion shook the whole city of Brestï¿½
 4. If the tank has any fuel left, try to set it on fire. If the fuel catches fire, the whole tank will soon follow.
 4. Keep inventing new methods to deal with the enemy. A partisan can't afford to be predictable.
 12/05/1911
@@ -92,7 +90,7 @@ Railroad crossing
 Landmark
 Key
 MG 34 stationary
-MP – 35
+MP ï¿½ 35
 Crossing
 Lockpick
 Defense line
