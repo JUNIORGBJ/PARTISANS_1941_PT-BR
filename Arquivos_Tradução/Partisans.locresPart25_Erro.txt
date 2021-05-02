@@ -7,8 +7,8 @@ Crie "analgésicos"
 Reduz o tempo de recarga da arma em 15%.
 Tempo de resfriamento diminuído.
 Tempo de resfriamento diminuído. Maior número de usos de habilidades durante a missão.
-Usando o ambiente II
-Escondendo cadáveres II
+Uso do ambiente II
+Ocultar cadáveres II
 Soldado
 A guerra não para quando o soldado está dormindo.
 O talismã de um soldado. É uma bala da sua primeira revista e você deve dispará-la logo depois de voltar da guerra.
@@ -51,7 +51,7 @@ Companheiro Partisans No. 9
 Comparado
 Comparar
 Probabilidade média de sucesso
-Permite que você elimine discretamente um inimigo desavisado.
+Permite eliminar discretamente um inimigo desavisado.
 Vontade de Aço I
 Energia x2
 Estação Bogachevo
