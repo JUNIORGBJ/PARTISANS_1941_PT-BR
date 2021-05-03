@@ -9,3 +9,5 @@ Mosin rifle = Rifle Mosin = Tipo de rifle usado pela União soviética
 overwatch = vigia/modo vigilante = ??? (precisa ser revisado in-game)
 SMG = SMG = submetralhadora
 Shotgun = espingarda = tipo de arma usada na guerra
+stationary machine gun = Metralhadora estacionária = arma de defesa/ataque sem mobilidade
+radioman = operador de rádio = pessoa responsável por passar mensagens
