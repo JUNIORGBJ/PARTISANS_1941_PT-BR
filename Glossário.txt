@@ -3,3 +3,9 @@ Glossário
 TERMO ORIGINAL   =   TRADUÇÃO      =	SIGNIFICADO		
 
 Partisans = Partisans = membro de uma tropa irregular formada para se opor à ocupação e ao controle estrangeiro de uma determinada área.
+mastery = domínio = ser capaz de dominar algo com grande habilidade
+Waffen-SS = Waffen-SS = Ramo militar do partido Nazista
+Mosin rifle = Rifle Mosin = Tipo de rifle usado pela União soviética
+overwatch = vigia/modo vigilante = ??? (precisa ser revisado in-game)
+SMG = SMG = submetralhadora
+Shotgun = espingarda = tipo de arma usada na guerra
