@@ -1,10 +1,5 @@
 Glossário
 ====================
-partisanos=partisans
-Cuartel general central=Quartel-general central
-Campo natural=Campo selvagem
-al molino=o moinho
-Un alijo oculto=Um esconderijo de contrabando
-aldea=aldeia
-Slender Berta=Slender Bertha (é o nome deu um canhão)
-Alabado sea el señor! = Glórias ao senhor!
+TERMO ORIGINAL   =   TRADUÇÃO      =	SIGNIFICADO		
+
+Partisans = Partisans = membro de uma tropa irregular formada para se opor à ocupação e ao controle estrangeiro de uma determinada área.
