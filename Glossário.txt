@@ -11,5 +11,4 @@ SMG = SMG = submetralhadora
 Shotgun = espingarda = tipo de arma usada na guerra
 stationary machine gun = Metralhadora estacionária = arma de defesa/ataque sem mobilidade
 radioman = operador de rádio = pessoa responsável por passar mensagens
-
-Texto
+RATION = Ração = forma como os soldados chamavam a comida durante a guerra
