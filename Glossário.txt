@@ -2,13 +2,32 @@ Glossário
 ====================
 TERMO ORIGINAL   =   TRADUÇÃO      =	SIGNIFICADO		
 
-Partisans = Partisans = membro de uma tropa irregular formada para se opor à ocupação e ao controle estrangeiro de uma determinada área.
-mastery = domínio = ser capaz de dominar algo com grande habilidade
-Waffen-SS = Waffen-SS = Ramo militar do partido Nazista
+Mastery = domínio = ser capaz de dominar algo com grande habilidade
+
+Meds = medicamentos = itens usados para cura (remédios)
+
 Mosin rifle = Rifle Mosin = Tipo de rifle usado pela União soviética
-overwatch = vigia/modo vigilante = ??? (precisa ser revisado in-game)
-SMG = SMG = submetralhadora
-Shotgun = espingarda = tipo de arma usada na guerra
-stationary machine gun = Metralhadora estacionária = arma de defesa/ataque sem mobilidade
-radioman = operador de rádio = pessoa responsável por passar mensagens
+
+
+Overwatch = vigia/modo vigilante = ??? (precisa ser revisado in-game)
+
+Partisans = Partisans = membro de uma tropa irregular formada para se opor à ocupação e ao controle estrangeiro de uma determinada área.
+party worker's = Partido dos Trabalhadores
+
+Polizei = Polícia
+
+Radioman = operador de rádio = pessoa responsável por passar mensagens
+
 RATION = Ração = forma como os soldados chamavam a comida durante a guerra
+
+Shotgun = espingarda = tipo de arma usada na guerra
+
+SMG = SMG = submetralhadora
+
+Stationary machine gun = Metralhadora estacionária = arma de defesa/ataque sem mobilidade
+
+SS troops = tropas SS = era o ramo militar da organização Schutzstaffel (SS) do Partido Nazista
+
+Vechernyaya Moskva = Vechernyaya Moskva = Jornal Russo
+
+Wehrmacht = Wehrmacht = nome das forças armadas da Alemanha Nazista 
