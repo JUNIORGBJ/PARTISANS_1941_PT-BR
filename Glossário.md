@@ -14,7 +14,7 @@ Glossário
 |  RATION |  Ração | forma como os soldados chamavam a comida durante a guerra |
 |  Shotgun |  espingarda | tipo de arma usada na guerra |
 |  SMG |  SMG | submetralhadora |
-|  Stationary machine gun |  Metralhadora estacionária | arma de defesa/ataque sem mobilidade |
+|  Stationary machine gun |  Metralhadora fixa | arma de defesa/ataque sem mobilidade |
 |  SS troops |  Tropas SS | era o ramo militar da organização Schutzstaffel (SS) do Partido Nazista |
 |  Vechernyaya Moskva |  Vechernyaya Moskva | Jornal Russo |
 |  Wehrmacht |  Wehrmacht | nome das forças armadas da Alemanha Nazista |
