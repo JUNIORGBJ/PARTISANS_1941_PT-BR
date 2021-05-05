@@ -2,6 +2,7 @@ Glossário
 ====================
 | TERMO ORIGINAL  |  TRADUÇÃO  | SIGNIFICADO  |
 | ------------------- | ------------------- |------------------- |
+|  cooldowns |  recarregar | Tempo para recarregar uma habilidade |
 |  Mastery |  domínio | ser capaz de dominar algo com grande habilidade |
 |  Meds |  medicamentos | itens usados para cura (remédios) |
 |  Mosin rifle |  Rifle Mosin | Tipo de rifle usado pela União soviética |
