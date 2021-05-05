@@ -2,7 +2,8 @@ Glossário
 ====================
 | TERMO ORIGINAL  |  TRADUÇÃO  | SIGNIFICADO  |
 | ------------------- | ------------------- |------------------- |
-|  Mastery |  domínio | itens usados para cura (remédios) |
+|  Mastery |  domínio | ser capaz de dominar algo com grande habilidade |
+|  Meds |  medicamentos | itens usados para cura (remédios) |
 |  Mosin rifle |  Rifle Mosin | Tipo de rifle usado pela União soviética |
 |  Overwatch |  vigia/modo vigilante | ??? (precisa ser revisado in-game) |
 |  Partisans |  Partisans | membro de uma tropa irregular formada para se opor à ocupação e ao controle estrangeiro de uma determinada área. |
