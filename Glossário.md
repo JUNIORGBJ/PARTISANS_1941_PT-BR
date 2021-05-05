@@ -19,3 +19,4 @@ Glossário
 |  Vechernyaya Moskva |  Vechernyaya Moskva | Jornal Russo |
 |  Wehrmacht |  Wehrmacht | nome das forças armadas da Alemanha Nazista |
 |  Company |  Companhia | Uma companhia é um tipo de unidade militar, composta por entre 60 e 250 militares e tradicionalmente comandada por um capitão. (Wikipedia) |
+|  teste |  Companhia | Uma companhia é um tipo de unidade militar, composta por entre 60 e 250 militares e tradicionalmente comandada por um capitão. (Wikipedia) |
