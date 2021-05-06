@@ -24,4 +24,5 @@ Glossário
 |  village |  Vila | povoação de categoria inferior a uma cidade, mas superior a uma aldeia. |
 |  Wehrmacht |  Wehrmacht | nome das forças armadas da Alemanha Nazista |
 | Zaborovka | Zaborovka | Uma cidade da Russia |
-
+| Barrel (recipiente) | Barril | Barril, recipiente de madeira ou metal |
+| Barrel (armas de fogo) | Cano | Cano de armas de fogo leves e pesadas por onde o prjétil é disparado |
