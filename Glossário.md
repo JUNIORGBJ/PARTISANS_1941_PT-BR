@@ -21,3 +21,4 @@ Glossário
 |  Company |  Companhia | Uma companhia é um tipo de unidade militar, composta por entre 60 e 250 militares e tradicionalmente comandada por um capitão. (Wikipedia) |
 |  snipers |  Atiradores de elite | Sniper significa um atirador de elite, e é um termo oriundo do inglês. |
 |  village |  Vila | povoação de categoria inferior a uma cidade, mas superior a uma aldeia. |
+| Zaborovka | Zaborovka | Uma cidade da Russia |
