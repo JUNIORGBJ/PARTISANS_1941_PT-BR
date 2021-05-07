@@ -1,14 +1,14 @@
 ﻿menu
 sair
-main menu
+menu principal
 missões
-treat
-treat everyone
-complete
-increased
-Voice volume
-Music volume
-Effects volume
+tratar
+tratar todos
+completo
+aumentou
+Volume da voz
+Volume da música
+Volume dos efeitos
 d
 Borovitchy v.
 Grigorievka v.
@@ -16,85 +16,85 @@ Ivanovka v.
 Mikhailovo v.
 Pogoreltsy v.
 Telegino v.
-yes
-camera movement and rotation
-resources found:
-available
+sim
+movimento e rotação da câmera
+recursos encontrados:
+disponível
 outros jogos
-units of food
-units of supplies
-quest log
-recruit
-completed
-tasks completed
-finish activity
+unidades de comida
+unidades de suprimentos
+registro de missões
+recrutar
+completado
+tarefas concluídas
+terminar a atividade
 carregar
 carregar jogo
-journal
-close task
-healthy
-game
- from a military family
-opened
-inventory
-infiltration
-activate the first and the second ability
-use item from active slot
-to activity
-Kazakh
-captain
-Senior Battalion Commissar
-tactical map
-worker
-peasant
-cursor - camera movement
-on treatment
-apply
+Diário
+tarefa encerrada
+saudável
+jogos
+ de uma família militar
+aberto
+inventário
+infiltração
+ative a primeira e a segunda habilidade
+usar o item do slot ativo
+para a atividade
+Cazaques
+capitão
+Comissário Sênior do Batalhão 
+mapa tático
+trabalhador
+camponês
+cursor - movimento da câmera
+em tratamento
+Aplique
 configurações
-Play
+Jogar
 novo jogo
-new tasks
-new building
-Master Volume
-Graphics Quality
+novas tarefas
+nova construção
+Volume principal
+Qualidade grafica
 Ostrovnoe l.
-Sosnovoe l. 
-experience
-default
-deny
-refuse
-off
-open
-dismiss
+Sosnovoe l.
+experiência
+padrão
+negar
+recusar
+desligar
+abrir
+liberar
 partisan
-passive template ON/OFF
-restart mission
-reload
-pistols
+modelo passivo ATIVADO/DESATIVADO
+reiniciar missão
+recarregar
+pistolas
 SMG
-highlight interactive objects
-hints
-custom
-help
-hand cut
-Ok
-failed
+destacar objetos interativos
+dicas
+customizar
+ajuda
+corte de mão
+OK
+fracassado
 continuar
 Bolshaya r.
-screen resolution
-wounded
-control mode
-image sharpness
-shotguns
-private
-Monastyrskoe v. 
-reset
-Reset settings
-smooth
-medical sergeant
-Camera rotation speed
-Camera movement speed
-change weapon
-decreased
-craft
-save game
+resolução da tela
+ferido
+modo de controle
+nitidez da imagem
+espingardas
+privado
+Monastyrskoe v.
+Redefinir
+Redefinir as configurações
+suave
+sargento médico
+Velocidade de rotação da câmera
+Velocidade de movimento da câmera
+mudar de arma
+diminuído
+construir
+salvar o jogo
