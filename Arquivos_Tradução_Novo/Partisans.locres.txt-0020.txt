@@ -1,100 +1,100 @@
-﻿Cigarettes
+﻿Cigarros
 Partisan
-Partisan throws a knife and silently kills an enemy. Thrown knife can be picked up and used again.
-Nikitin takes an enemy as a body shield and can no longer receive damage. Requires a loaded pistol.
-They're going to execute partisans.
-The partisans are nowhere to be seen.
-I can’t see any partisans. They must be lying low.
-They're nowhere to be seen. They must be hiding.
-Partisan draws attention from enemies, preventing them from attacking allies.
-Partisan will begin the mission!
-Allows the partisan to deal with medium difficulty missions on the global map.
-Allows the partisan to deal with easy difficulty missions on the global map.
-Allows the partisan to deal with very hard difficulty missions on the global map.
-Allows the partisan to deal with hard difficulty missions on the global map.
-Partisan whistles, drawing enemy attention.
-Partisan's camp
-Partisan School
-Partisan detachments are harassing the combined German-Finnish forces occupying several regions of the Karelo-Finnish Republic. The Fascist command sent numerous soldiers to deal with the partisans, reinforced security units guarding the roads, bridges and warehouses, and still the fearless partisans are managing to find weak points and deal heavy blows to the enemy. A small Finnish garrison had set up in the village K. A partisan unit commanded by Comrade L. surrounded the village under the cover of darkness and ambushed the Finns. The partisans killed 20 enemy soldiers, destroyed a warehouse full of supplies and captured two machine guns and several dozen rifles.
-A partisan unit organized by the prisoners we freed at the lumber mill successfully blew up the officer's Kübelwagen. Here's to a good start!
-Partisan Chest
-I hear the partisan commander's name is Zorin. It derives from "the dawn," the morning star.
+Os partisans joga uma faca e furtivamente matam um inimigo. A faca lançada pode ser recolhida e reutilizada.
+Nikitin usa um inimigo como escudo corporal e não pode mais receber danos. Você precisa de uma arma.
+Eles vão executar partisans.
+Não há sinal dos partisans.
+Eu não vejo nenhum partisans. Eles devem estar bem escondidos.
+Não há sinal deles. Eles devem estar se escondendo.
+Os partisans chamam a atenção dos inimigos, impedindo-os de atacar os aliados.
+Os partisans começarão a missão!
+Permite ao partisan lidar com missões de dificuldade média no mapa global.
+Permite ao partisan lidar com missões de dificuldade fácil no mapa global.
+Permite ao partisan lidar com missões de dificuldade muito difíceis no mapa global.
+Permite ao partisan lidar com missões de dificuldade difícil no mapa global.
+O partisan assobia para atrair a atenção do inimigo.
+Acampamento do partisan
+Escola Partisan
+Destacamentos de Partisans estão perseguindo as forças finlandesas-alemãs ocupando várias regiões da República Carelo-Finlandesa. O comando fascista enviou inúmeros soldados para lidar com os Partisans, reforçou as unidades de segurança que guardavam as estradas, pontes e armazéns, e ainda os intrépidos partisans conseguiram encontrar pontos fracos e desferir fortes golpes no inimigo. Uma pequena guarnição de finlandeses havia se estabelecido na vila K, então a unidade partisan liderada pelo camarada L. cercou a vila aproveitando a escuridão e os emboscou. Os partisans mataram 20 soldados, destruíram um depósito cheio de suprimentos e obtiveram duas metralhadoras e várias dezenas de rifles.
+Uma unidade partisan, que foi organizada pelos prisioneiros que libertamos na serraria, conseguiu carregar o Kübelwagen do oficial. É um bom começo!
+Baú partisan
+Dizem que o comandante dos guerrilheiros se chama Zorin. Isso significa algo como "o amanhecer", a estrela da manhã.
 Partisans 1941
-The partisan group appreciates your help. They were able to heal their comrades' wounds, and now they can get back out there and keep fighting.
-The Partisans are getting too cocky!
-In the meantime, the partisan group was preparing their next operation: a series of railroad sabotages. Collapsed bridges and derailed trains carrying men and supplies would significantly disrupt the enemy's ability to fight a war.
-Partisans are going to avenge us.
-Character is busy. Saving is not possible.
-Partisans don't waste any time, do they?
-The partisans attack the Fascists where they least expect it. In the afternoon hours of the 29th of August, a squad led by a former land planner W. eliminated 30 German motorcyclists at the motorway near Toroshkovichi. Partisans had set up an ambush at the clearing by the road. When Germans approached, the partisans let loose several pigs and hens in the clearing; the soldiers, leaving their motorcycles behind, immediately went to chase their prey. Partisans fired several volleys and then rushed the Fascists, killing everyone.
-The partisans take no prisoners.
-The partisans were exceptionally happy to receive extra supplies.
-Partisans will begin their mission! Are you sure?
-Partisans don't spare Polizei lives.
-The partisans are here!
-The partisans won't care why I joined the Polizei.
-All they can do is hide away in the woods!
-Partisans are vicious!
-Partisans here are ruthless. Crazy beasts!
-If the partisans kill a single German, the rest of them could burn down the whole village.
-Partisans! Shoot them!  
-Partisans! Shoot them! 
-Partisans! You're our only hope!
-Partisans! Oh dear! You've come for help!
-Partisans? Phew!
-It's cloudy, but there's no precipitation
-Ammo and reloading
-Pause between shots increased. Movement speed reduced. Stamina reduced. Stealth killing is impossible; must melee instead. 
-Beat it, kid.
-First aid
-First aid I
-First aid II
-First aid III
-My first encounter with the partisans wasn't particularly joyful. They came in the middle of the night and, having found nothing else of value, took my wedding dress. "I'll give that to my Marusja, that'll cheer her up," said one of the bandits.
-The first military semi-automatic pistol, adopted in 1934. The TT pistol has simple construction and low production cost, and it's easy to maintain. Its powerful cartridge provides an unusually high penetrating power, but has a reduced stopping effect. This weapon looks worn from battle.
-The first military semi-automatic pistol, adopted in 1934. The TT pistol has simple construction and low production cost, and it's easy to maintain. Its powerful cartridge provides an unusually high penetrating power, but has a reduced stopping effect. This is a medium-quality weapon.
-The first military semi-automatic pistol, adopted in 1934. The TT pistol has simple construction and low production cost, and it's easy to maintain. Its powerful cartridge provides an unusually high penetrating power, but has a reduced stopping effect. This is a high-quality weapon.
-Eliminate the attackers
-Get to the other bank
-We recommend mastering the game's core mechanics before playing this mode.
-Hand over
-To hand over
-Moving through bushes creates noise that can cause nearby enemies to become suspicious. If your plan was to remain undetected, wait for their suspicion level to decrease before carrying on.
-Partisan makes much less noise while moving.
-Partisan makes less noise while moving.
-To reload weapon
-Weapon reloading
-Reloading!
-Evasion roll I
-Roll call
-Switch weapons to firearms at the beginning of the battle
-Move everything to the storage
-Jumping over fences
-Transit camp
-Your characters can sustain a variety of different injuries, which can have various effects on gameplay. Characters can also be placed into different states. Your partisan Fetisov is in a "Stabilized" state and not able to act.
-We don't sing songs any more.
-Typewriter
+O grupo de partisans agradece a ajuda. Eles conseguiram curar as feridas de seus companheiros e agora podem continuar lutando.
+Os partisans estão ficando muito arrogantes!
+Enquanto isso, o grupo de partisans se preparava para a próxima operação: uma série de sabotagem ferroviária. Derrubar pontes e descarrilar trens de apoio seria um fardo pesado para o inimigo durante a guerra.
+Os partisans vão nos vingar.
+O personagem está ocupado. Não pode ser salvo.
+Os partisans não perdem tempo, hein?
+Os partisans atacam os fascistas onde menos esperam. Na tarde de 29 de agosto, um esquadrão liderado pelo ex-planejador urbano W. matou 30 motociclistas alemães na rodovia perto de Toroshkovichi. Os partisans haviam organizado uma emboscada em uma clareira na estrada. Quando os alemães se aproximaram, os partisans soltaram porcos e galinhas na clareira; os soldados abandonaram suas motocicletas e foram imediatamente atrás de suas presas. Os partisans responderam com várias chuvas de balas, depois atacaram os fascistas sem deixar um único soldado vivo.
+Os partisans não fazem prisioneiros.
+Os partisans ficaram maravilhados ao receber suprimentos extras.
+Os partisans estão indo em uma missão! Você acha que está tudo bem?
+Os partisans não poupam as vidas dos polizei.
+Os partisans chegaram!
+Os partisans não vão se importar por que entrei para o Polizei.
+A única coisa que eles podem fazer é se esconder na floresta!
+Os partisans são muito violentos!
+Os partisans por aqui são implacáveis. Que bestas!
+Se os partisans matarem pelo menos um alemão, o resto pode incendiar toda a vila.
+Atire neles! Partisans! 
+Atire neles! Partisans!
+Vocês são nossa única esperança! Partisans!
+Céus! Você veio ajudar! Partisans!
+Partisans? Ufa!
+Está nublado, mas não há precipitação
+Munição e recarga
+Aumente a pausa entre os disparos. Velocidade de movimento reduzida. A energia é reduzida. Você não pode matar furtivamente e precisa recorrer ao combate corpo-a-corpo.
+Cai fora, garoto.
+Primeiros socorros
+Primeiros socorros I
+Primeiros socorros II
+Primeiros socorros III
+Meu primeiro encontro com os partisans não foi exatamente divertido. Eles vieram no meio da noite e, não encontrando mais nada de valor, levaram meu vestido de noiva. "Darei à minha Marusja, isso vai agradá-la”, disse um dos bandidos.
+A primeira pistola semiautomática do tipo militar, que começou a ser utilizada em 1934. A pistola TT é de fácil fabricação e baixo custo de produção, além de fácil manutenção. Seu poderoso carregador oferece poder de fogo com grande capacidade de perfuração, embora tenha um baixo poder de parada. Esta arma parece estar gasta pelo uso.
+A primeira pistola semiautomática do tipo militar, que começou a ser utilizada em 1934. A pistola TT é de fácil fabricação e baixo custo de produção, além de fácil manutenção. Seu poderoso carregador oferece poder de fogo com grande capacidade de perfuração, embora tenha um baixo poder de parada. É uma arma de qualidade média.
+A primeira pistola semiautomática do tipo militar, que começou a ser utilizada em 1934. A pistola TT é de fácil fabricação e baixo custo de produção, além de fácil manutenção. Seu poderoso carregador oferece poder de fogo com grande capacidade de perfuração, embora tenha um baixo poder de parada. É uma arma de alta qualidade.
+Acabe com os invasores
+Vá para a outra margem
+Recomendamos que você domine a mecânica principal do jogo antes de jogar neste modo.
+Entregar
+Para entregar
+Mover-se pela vegetação rasteira faz barulho e pode levantar suspeitas entre os inimigos próximos. Se o seu plano for passar despercebido, espere que o nível de suspeita diminua antes de prosseguir.
+O partisan faz muito menos barulho ao se mover.
+O partisan faz menos barulho ao se mover.
+Para recarregar a arma
+Recarrega a arma
+Recarregando!
+Evasão I
+Chamada
+Trocar armas por armas de fogo no início da batalha
+Envie tudo para o armazém
+Pular cercas
+Acampamento de trânsito
+Seus personagens podem suportar vários tipos de lesões que, por sua vez, podem ter vários efeitos na dinâmica do jogo. Os personagens podem passar por diferentes estados. Seu Partisan Fetisov está em um estado "Estável" e não pode agir.
+Não cantamos mais como antes.
+Máquina de escrever
 Luger
-Pistols I
-Pistols II
-Pistols III
-SMG I
-SMG II
-SMG III
-I haven't received a single letter from my husband since August.
-Food:
-Operation plan
-Artillery plotter
-Unlike the kolkhoz administration, the Germans paid on time and liked to point that out. The bread they paid us with, however, often contained sawdust.
-They're hunting for partisans in villages.
-Several kilometers away from here, a small truck convoy is moving down the road. The composition and the escort remain unidentified.
-Several kilometers away from here, a small truck convoy escorted by an armored vehicle is moving down the road. This dangerous mission requires thorough planning.
-Several kilometers away from here, a small truck convoy escorted by a motorcade is moving down the road. We should carefully plan an ambush.
-Several kilometers away from here, a small truck convoy is moving down the road. We could set up an ambush.
-I'm under fire!
-Wolves have been howling near the camp at night. We should scare them away before they get too bold.
-On Biermeier's orders, Fascist looters (the so-called "procurement teams") are plundering villages. Right now, they're raiding the grain elevator where the entire kolkhoz's harvest is stored. Unless you defend the goods, when the winter comes, the townsfolk will starve. The mission is to eliminate the brigands at the elevator.
-There's a cart heading down the forest road. It carries food gathered by the villagers for the commandant. It's not well-guarded, so... should we try to capture it?
-There are five manhunts a week! I'm sick to death of it.
-The Commandant has ordered villagers from the occupied areas to harvest whatever crops are still left in the fields. Most of the harvest is then sent to the front; the rest is distributed among the local garrisons. The mission is to infiltrate the storage depot and poison the supplies ready for shipment.
-Villagers have reported seeing Germans near the mill. This is strange, because usually the Polizei take charge of grain delivery and flour collection. The miller lives there with his daughter. We have to visit the mill and see if they need assistance.
+Pistola I
+Pistola II
+Pistola III
+Metralhadora I
+Metralhadora II
+Metralhadora III
+Não recebo cartas do meu marido desde agosto.
+Comida:
+Plano de operação
+Plotter de artilharia
+Ao contrário da administração do kolkhoz, os alemães pagavam em dia e gostavam de trazê-lo à tona, embora o pão com que nos pagavam muitas vezes contivesse serragem.
+Eles estão procurando partisans nas vilas.
+Um pequeno comboio de caminhões está descendo a estrada. Eles estão a vários quilômetros daqui. Não sabemos a composição do comboio nem a escolta que possui.
+Um pequeno comboio de caminhões percorre a rodovia escoltado por um veículo blindado. Eles estão a vários quilômetros daqui. É uma missão perigosa que requer um planejamento cuidadoso.
+Um pequeno comboio de caminhões percorre a rodovia escoltado por uma caravana. Eles estão a vários quilômetros daqui. Devíamos planejar uma emboscada.
+Um pequeno comboio de caminhões está descendo a estrada. Eles estão a vários quilômetros daqui. Podemos emboscá-los.
+Estou sob fogo!
+Os lobos uivam perto do acampamento à noite. Devemos afugentá-los antes que fiquem muito encorajados.
+Sob as ordens de Biermeier, saqueadores fascistas (os chamados "times de aquisição") começaram a saquear vilas. No momento, eles estão saqueando o celeiro onde toda a colheita do kolkhoz está armazenada. A menos que você defenda a mercadoria, os cidadãos morrerão de fome quando o inverno chegar. A missão é eliminar os bandidos do celeiro.
+Há uma carroça se movendo ao longo da estrada da floresta. Transporte a comida que os aldeões deram para o comandante. Não está muito bem protegido, então... e se o capturarmos?
+Existem cinco caçadas por semana! Estou farto disso.
+O comandante ordenou aos moradores das áreas ocupadas que colham tudo o que resta nos campos. Grande parte dessa colheita é enviada para a frente, enquanto o restante é distribuído para as guarnições locais. A missão é se infiltrar no armazém e envenenar os suprimentos que são preparados para envio.
+Os moradores relataram ter visto alemães perto da fábrica. É estranho, já que geralmente é o Polizei quem cuida da entrega do grão e da coleta da farinha. O moleiro mora lá com sua filha. Vamos até a fábrica ver se precisam de ajuda.
