@@ -1,100 +1,100 @@
-﻿It's easy to catch a cold in the forest in autumn, but medicine is hard to come by. We need to find some medicinal herbs.
-Stewed sturgeon
-Weaker partisans.
-Looting corpses
-Reach the medical dugout
-Reach the store
-Reach the headquarters
-I'll look around.
-Resource +100
-Special control areas
-Special conditions
-We smoked the rest of it for later.
-We'll smoke what's left and store it for later.
-Spice It Up
-The disease took the lives of many. The village is almost empty now.
-From the hospital door
-Many locals starved to death. The survivors left for the town.
-From each according to his ability, to each according to his needs, hehe.
-Can't hide from us.
-The partisans are causing enough damage!
-A brave artillery officer, who had already distinguished himself along with his division during earlier engagements, chose good positions for his guns. As soon as enemy tanks showed up, the guns opened fire; Captain Khigrin's gun was particularly successful in battering the enemy. Fascist tanks went up in flames one by one, yet still the enemy pressed on, ignoring the losses. All crew members perished under enemy fire. Captain Khigrin assumed the role of a gunner and personally destroyed four enemy tanks; he kept firing until a fragment of an enemy shell cut him down. The enemy advance was halted.
-Diversionary Tactics
-Distraction I
-Distraction II
-To start action (set up sequence of actions in tactical pause)
-I need a rest.
-Calibrated aiming mechanism
-Off
-Unlocks facility tasks for obtaining food.
-Unlocks facility task for obtaining construction supplies.
-Unlocks hunting-related facility actions.
-Unlocks fishing-related facility tasks.
-New region explored
-Open all cells with prisoners
-Open the camp menu
-Great button
-Great place for a tripwire.
-To cancel action
-Reset the partisans' current task.
-Show FPS count
-Show hit chance in percents
-Avenge us!
-GO TO ACTIVITY
-Send out the train with the Germans
-Poison the provisions heading out to the front lines during the farm mission
-Poison food rations
-Repel all attacks
-Repel enemy attacks without using mines or tripwires
-A partisan group in the neighboring area is in a dangerous situation. Several members are severely wounded. They ask you to share some supplies.
-Officer 
-Officer  
-Gestapo officer 
-SD officer 
-Officers can make a roll call and raise the alarm if one of the soldiers is not on his watch.
-No enemy officers found
-For God's sake!
+﻿É muito fácil pegar um resfriado na floresta no outono, mas não é fácil encontrar remédio. Devemos procurar ervas medicinais.
+Esturjão estufado
+Partisans mais fracos.
+Saquear cadáveres
+Chegue ao abrigo médico
+Chegue a tenda
+Chegue ao quartel general
+Eu vou dar uma olhada.
++100 de recursos
+Áreas controle especiais
+Condições especiais
+Vamos fumar o resto e guardá-lo.
+Vamos fumar o que sobrar e guardar para depois.
+Cozinhar e enriquecer
+A doença tirou a vida de muitos. Agora a aldeia está quase vazia.
+Para a porta do hospital
+Muitos moradores morreram de fome. Os sobreviventes partiram para a cidade.
+Desde trabalhar de acordo com suas habilidades até trabalhar de acordo com suas necessidades, he he.
+Não pode se esconder de nós.
+Os partisans estão causando muitos estragos!
+Um bravo oficial de artilharia, que já havia se destacado ao lado de sua divisão em combates anteriores, escolheu boas posições para suas armas. Assim que os tanques inimigos apareceram, as armas abrirão fogo; A arma do capitão Khigrin foi excepcionalmente bem-sucedida em atingir o inimigo. Os tanques fascistas queimaram um após o outro, mas o inimigo perseverou apesar das perdas. Todos os membros da equipe morreram sob o fogo inimigo. O capitão Khigrin assumiu o trabalho de um artilheiro e ele mesmo destruiu quatro tanques inimigos; ele continuou atirando até que um fragmento de um cartucho inimigo o derrubou. O avanço do inimigo parou.
+Táticas de distração
+Distração I
+Distração II
+Para iniciar a ação (configure a sequência de ações na pausa tática)
+Eu preciso descansar.
+Mecanismo de mira calibrado
+Desativar
+Desbloqueia ações relacionadas à obtenção de alimentos.
+Desbloqueia ações relacionadas à obtenção de materiais de construção.
+Desbloqueia ações relacionadas à caça.
+Desbloqueia ações relacionadas à pesca.
+Nova região explorada
+Abra todas as celas com prisioneiros
+Abra o menu do acampamento
+Ótimo botão
+Ótimo lugar para uma armadilha de arame.
+Para cancelar a ação
+Reinicie os partisans para esta tarefa
+Mostrar FPS
+Mostrar porcentagens de probabilidade de acerto
+Vingue-nos!
+IR PARA A ATIVIDADE
+Pegue o trem para sair com os alemães
+Durante a missão da fazenda, envenene os suprimentos que são enviados para a linha de frente.
+Rações de comida envenenada
+Repele todos os ataques
+Repele os ataques inimigos sem usar minas ou armadilhas de arame
+Um grupo de partisans do próximo distrito está em apuros. Vários partisans estão gravemente feridos e nos pedem remédios.
+Oficial
+Oficial  
+Oficial da Gestapo
+Oficial da SD
+Os oficiais podem chamar e soar o alarme se virem que um de seus soldados não está fazendo sua ronda.
+Nenhum oficial inimigo foi encontrado.
+Pelo amor de Deus!
 Ugh!
-This can't be good.
-Ugh! My back!
-Where does this end?
-Hunting
-Hunter
-Hunting Tower
-The guards are watching.
-The guards missed it! Why is it our problem?
-The guards missed it! Why does it have to be our problem?
-We killed the guards and set the prisoners free.
-Very easy
-Very low morale
-Warning: high danger!
-Very tasty.
-Greatly increased chance to hit during ambush mode [Y].
-Very hard
-Skill points
+Isso não pode ser bom.
+Ai! Minhas costas!
+Onde isso acaba?
+Caçando
+Caçador
+Torre de caça
+Os guardas são muito atenciosos.
+Os guardas não perceberam! Por que o problema é nosso?
+Os guardas não perceberam! Por que o problema é nosso?
+Matamos os guardas e libertamos os prisioneiros.
+Muito fácil
+Moral muito baixa
+Aviso: grande perigo!
+Muito saboroso.
+Maior chance de acertar durante o modo emboscada [Y].
+Muito difícil
+Pontos de habilidade
 PARTISANS
-FIRST STRIKE
-CHANGE INVENTORY VIEW
-TO START UPGRADE PUT WEAPON IN WEAPON TABLE SLOT
-IT'S TOO FAR AWAY
-CHARACTER IS BUSY
-RMB - cancel action (cancel entire sequence of actions in tactical pause)
-RMB on enemy - see visibility cone
-FALLEN FIGHTERS
-ACTS OF VALOR
-DETAIL
-HINTS
-VALIDATE
-LEAVE MISSION
-FULLSCREEN
+PRIMEIRO ATAQUE
+ALTERAR VISÃO DO INVENTÁRIO
+PARA MELHORAR UMA ARMA, COLOQUE-A NO SLOT DE ARMA NA MESA
+ESTÁ MUITO LONGE
+O PERSONAGEM ESTÁ OCUPADO
+Botão direito do mouse: Cancelar ação (na pausa tática, cancele toda a sequência de ações)
+Botão direito do mouse sobre um inimigo: Veja seu cone
+LUTADORES CAÍDOS
+ATOS DE VALOR
+DETALHE
+DICAS
+VALIDAR
+ABANDONAR MISSÃO
+TELA CHEIA
 PPS
 PPSh – 41
-INCOME
-FOOD INCOME PER DAY
+RENDA
+RENDA DE ALIMENTOS POR DIA
 CONTINUAR
-ORIGIN
-ACCIDENT
-SKIP ALL (SPACEBAR)
-EMPTY
+ORIGEM
+ACIDENTE
+IGNORAR (ESPAÇO)
+VAZIO
 Pavel
-Perhaps shooting someone could cheer me up?
+Talvez atirar em alguém pudesse me animar?
