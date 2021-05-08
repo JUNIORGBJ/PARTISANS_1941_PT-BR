@@ -18,7 +18,9 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## Instalação
 
-[![](http://img.youtube.com/vi/KJG-e4X9b_k/0.jpg)](http://www.youtube.com/watch?v=KJG-e4X9b_k "")
+Será preciso copiar o arquivo ```Tradução.vX.X.Partisans-WindowsNoEditor_P``` para o caminho especificado abaixo:
+
+```Partisans 1941\Partisans\Content\Pak```
 
 
 ## Ferramentas Ultilizadas
