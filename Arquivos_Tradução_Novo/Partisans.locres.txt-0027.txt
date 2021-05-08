@@ -1,100 +1,100 @@
-﻿These items are not stored in the backpack; they are used automatically.
-Tactical Pause
-Tactical mode
-Tactical mode slows time and allows you to coordinate everything your characters do. To activate or deactivate tactical mode, press the SPACEBAR.
-I hear gunshots!
-We blew up the tank. The Germans can't have it now. We also found some useful items for ourselves.
-Tanker
+﻿Esses itens não são armazenados na mochila, mas são usados ​​automaticamente.
+Em pausa
+Modo tático
+O modo tático retarda o tempo e permite que você coordene todas as ações de seus personagens. Para ativá-lo ou desativá-lo, pressione a BARRA DE ESPAÇOS.
+Eu ouço tiros!
+Nós explodimos o tanque. Os alemães não poderão mais usá-lo. Também encontramos objetos que serão muito úteis para nós.
+Operador de tanque
 Tarasov
-Bloody hell!
-Text
-Text 
-Agent got experience:
-Now the main thing is not to step on our own.
-We'll live a European life!
-I can never wash this off my soul.
-The freshly created partisan division had to set up a proper base and find more volunteers to join a losing battle against the invaders. Creating an effective fighting unit was the first order of business.
-Now you have a squad of partisans under your control. To select every partisan, press [F1]. To select certain partisans, press numbers [1] to [3].
-Now Yegor has a better job to do: deliver useful information to the partisans.
-Now we have fresh chicken meat.
-Point capture
-Capture position
-Silent step
-Silent move I
-Silent move II
-I want to live!
-I hope we can dodge it...
-I hope there won't be gunfire.
-Pencil sharpener
-We can do this
-Decreased hit chance. Increased weapon reload time.
-Internal organs injury
-Injury is not active until the end of the mission
-Injuries
-Injuries and states
-SMG required.
-Rifle required.
-Knife required.
-Pistol required.
-Shotgun required.
-Need:
-Alerts and Alarms, pt. 1
-Alerts and Alarms, pt. 2
-Alarm!
-Our three people were already bumped off.
-Hamstring
-Three khutors
-Trophies
+Puta merda!
+Texto
+Texto 
+O agente recebeu experiência:
+O importante agora é não pisar nos nossos.
+Vamos viver a vida europeia!
+Nunca poderei limpar minha alma de tudo isso.
+A recém-criada divisão partisan teve que estabelecer uma base adequada e procurar voluntários que quisessem se juntar a uma batalha perdida contra os invasores. O mais importante era criar uma unidade de combate eficaz.
+Agora você tem um esquadrão de partisans sob seu controle. Para selecionar todos os partisans, pressione [F1]. Para selecionar partisans específicos, pressione os números de [1] a [3].
+Agora Yegor tem um trabalho melhor a fazer: entregar informações úteis aos partisans.
+Agora temos carne de frango fresca.
+Capturar ponto
+Capturar posição
+Passo furtivo
+Movimento furtivo I
+Movimento furtivo II
+Eu quero viver!
+Espero que possamos nos esquivar...
+Espero que não haja tiroteio.
+Apontador
+Nós podemos pegá-lo
+Menos chance de acertar o inimigo. Maior tempo de recarga da arma.
+Órgãos internos danificados
+A lesão não está ativa até o final da missão
+Lesões
+Lesões e estados
+Requer metralhadora.
+Requer rifle.
+Requer faca.
+Requer pistola.
+Requer espingarda.
+Necessidade:
+Alertas e alarmes, parte 1
+Alertas e alarmes, parte 2
+Alarme!
+Nossos três companheiros já haviam sido mortos.
+Músculo isquiotibiais
+Três khutors
+Troféus
 Trofim
-According to Trofim, the Fascists send the PoWs to work at the local sawmill. The treatment is terrible. Trofim suggests we go there, help them escape, and stop lumber production along the way.
-Hunting in the dark, Trofim stumbled upon the lair of a bear. He managed to get away, but not without some injuries.
-Trofim found a cache with some supplies and canned food, seemingly left here by someone from the local population. Should we take the food, or should we make do without it?
-Trofim returns from the forest with the news: The Fascists are forcing the prisoners of war to work on their lumber mills. That's slavery!
-Trofim shoots with buckshot, dealing damage to everyone in range of the ability cone. Requires a shotgun.
-Serves them right!
-Samovar from Tula
-The Mutt's dead.
-It's a dead body!
-mission failure reason
-This is dangerous.
-I hate this place. I wanna live in the forest, too!
-You're Gonna Go Far, Kid
-Thousands of Soviet soldiers were surrounded, trapped in salients. One of them was a commanding officer of a rifle company, Captain Zorin. During an attempt to break out of the encirclement, he was taken prisoner and shipped to the nearest Dulag (Durchgangslager — German concentration camp).
-Phew, it's water.
-Difficult
-Heavy weapon I
-Heavy weapon II
-Heavy weapon III
-Life under the Fascists is hard...
-Biermeier's got a hot girlfriend.
-Biermeier's suit is falling apart!
-Mellenberg's got a scarred mug.
-You have unsaved changes. Do you want to apply them?
-You have no fighters left.
-Your characters have very high morale. Hit chance is increased. Character can sprint longer. Ability cooldowns are decreased by 1.5 times.
-Your characters have very high morale. Hit chance is greatly increased. Character can sprint longer. Ability cooldowns are decreased by 2 times.
-Uncle Fedor has a potato patch by the hill. He once hid from the Soviet rule; now he's waiting the Fascists out. Let's ask him to share some food. 
-The captain had to make a choice: attempt to cross the front line to rejoin his comrades, or remain behind the German lines and organize a partisan group. The dire situation in the occupied areas lead Zorin to stay.
-Commandant Mellenberg's got some taste. He set up his HQ in an old royal manor home.
-I have a toothache.
-I don't have the item I need.
-The Polizei chief makes my skin crawl.
-Here is the courpse! Alarm!
-They don't have the guts to attack.
-Different weapons are effective at different ranges. To reach maximum efficiency you may need to get closer to your enemy and use cover to decrease the chance of being hit during combat.
-My neighbor's kid went missing.
-The Fascists are shaking in their boots when they hear about partisans.
-TO REMOVE FROM THE SQUAD
-DELETE
-ENEMIES KILLED
-SUCCESS!
-REMOVE:
-We persuaded Petrov that there are other ways to earn a woman's affection. And that he should deliver information to the partisans, too.
-I'm getting killed!
-Stealth killing
-Kill 100 enemies
-Kill 2 enemies during a single use of Fan fire skill
-Kill the two Polizeis
-Kill 3 enemies using environmetal objects
-Kill 3 enemies during a single use of Long burst skill
-Kill 3 enemies during a single use of Buckshot skill
+Segundo Trofim, os fascistas mandam os prisioneiros de guerra para trabalhar na serraria local. Eles os estão tratando mal. Trofim sugere que a gente vá até lá, ajude-os a escapar e pare a produção de madeira no caminho.
+Enquanto caçava no escuro, Trofim encontrou uma cova de urso. Ele conseguiu fugir, mas sofreu vários ferimentos.
+Trofim encontrou um esconderijo de suprimentos e comida enlatada. Parece ser uma espécie de local. Devemos levar a comida conosco ou tentamos deixá-la para ele e ficar sem ela?
+Trofim voltou da floresta com novidades. Os fascistas estão forçando os prisioneiros de guerra a trabalhar em suas serrarias. Isso é escravidão!
+Trofim atira com chumbo grosso, causando dano a qualquer um dentro do alcance do cone da habilidade. Você precisa de uma espingarda.
+É assim que eles vão aprender!
+Samovar de Tula
+Este vira-lata está morto.
+É um cadáver!
+razão para o fracasso da missão
+Isso é perigoso.
+Eu odeio este lugar. Eu também quero morar na floresta!
+Você vai longe, garoto
+Milhares de soldados soviéticos ficaram presos em caldeiras. Um deles, o capitão Zorin, era oficial no comando de uma empresa de rifles. Quando ele tentou romper o cerco do inimigo, ele foi feito prisioneiro e enviado ao Dulag (Durchgangslager) mais próximo.
+Ufa, é água.
+Difícil
+Arma pesada I
+Arma pesada II
+Arma pesada III
+A vida é difícil sob um regime fascista...
+Biermeier tem uma namorada linda.
+Biermeier está com as roupas acabadas!
+Mellenberg tem cicatrizes no rosto.
+Você tem alterações não salvas. Você quer aplicá-las?
+Você não tem mais lutadores.
+Seu personagem tem uma moral muito alta. Aumenta a chance de acertar o inimigo. O personagem pode correr por mais tempo. O tempo de recarga da habilidade é reduzida.
+Seu personagem tem uma moral muito alta. Aumenta significativamente a chance de acertar o inimigo. O personagem pode correr por mais tempo. O tempo de recarga da habilidade é reduzida.
+Uncle Fedor tem um canteiro de batatas na colina. No passado, ele se escondeu dos soviéticos e agora espera que os fascistas partam. Vamos pedir um pouco de comida a ele.
+O capitão tinha que tomar uma decisão: ou tentaria cruzar a linha de frente para se reunir aos companheiros ou permaneceria em território alemão e organizaria um grupo de partisans. A difícil situação nas áreas ocupadas encorajou Zorin a ficar.
+O comandante Mellenberg tem bom gosto. Ele estabeleceu seu quartel-general em uma antiga mansão real.
+Estou com dor de dente.
+Não tenho o item de que preciso.
+O chefe Polizei me dá arrepios.
+Temos um cadáver! Alarme!
+Eles não têm coragem de atacar.
+As armas serão mais ou menos eficazes dependendo de seu alcance. Para ser mais eficaz, você pode precisar se aproximar do inimigo e usar cobertura para diminuir as chances de ser atingido durante a batalha.
+O filho do meu vizinho desapareceu.
+Os fascistas tremem quando ouvem sobre os partisans.
+PARA REMOVER DO ESQUADRÃO
+EXCLUIR
+INIMIGOS ELIMINADOS
+SUCESSO!
+REMOVER:
+Persuadimos Petrov de que existem outras maneiras de ganhar o afeto de uma mulher. E que ele deveria entregar informações aos partisans.
+Estou sendo morto!
+Mortes furtivas
+Mate 100 inimigos
+Mate 2 inimigos durante um único uso da habilidade disparo em cone
+Mate os dois Polizeis
+Mate 3 inimigos usando objetos no ambiente
+Mate 3 inimigos durante um único uso da habilidade explosão longa
+Mate 3 inimigos em um único uso da habilidade de chumbo grosso.

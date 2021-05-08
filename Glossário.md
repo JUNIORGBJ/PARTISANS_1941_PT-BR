@@ -31,3 +31,6 @@ Glossário
 | punisher commander | comandante justiceiro | Melhor tradução que achei |
 | clip | Carregador | Carregador da arma |
 | Evasion roll | manobras evasivas | Melhor tradução que achei |
+| Long burst | Explosão longa | Melhor tradução que achei |
+| Buckshot | Chumbo grosso | Melhor tradução que achei |
+
