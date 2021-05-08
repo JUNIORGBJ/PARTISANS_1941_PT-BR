@@ -1,20 +1,20 @@
-﻿reset all skills
-VACANT
-ALREADY IN THE SQUAD
-STORAGE
-DIFFICULTY
-DECREASED
-EVENTS
-SAVE
-SAVE GAME
-HINT
-COMPANION
-MEDIUM
-SIDE
-BUILDING SITE
-MAIN
-Very popular sewing machine "Podolsk 2M." Usually hand-operated.
-It's their own fault.
+﻿redefinir todas as habilidades
+VAGO
+JÁ NO ESQUADRÃO
+ARMAZÉM
+DIFICULDADE
+REDUZIDO
+EVENTOS
+SALVAR
+SALVAR JOGO
+DICA
+COMPANHEIRO
+MÉDIO
+SECUNDÁRIO
+OBRA
+PRINCIPAL
+Uma máquina de costura "Podolsk 2M" muito famosa. Geralmente é usado manualmente.
+É tudo culpa dele.
 A samovar for boiling water. Heated by burning wood or coal. A boot can be used on the pipe to blow on the fire in damp conditions.
 Hootch
 The hooch was good enough to send half of the troops back to Spain for rehab.
