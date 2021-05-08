@@ -54,7 +54,7 @@ Rare
 Modo de Missões
 Modo janela
 pausa tática
-Modo silencioso
+Modo furtivo
 Massacre I
 Resultado
 A dificuldade recomendada para o primeiro jogo.
