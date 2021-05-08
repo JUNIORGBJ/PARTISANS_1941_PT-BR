@@ -1,97 +1,97 @@
-﻿Kill 3 enemies with one hand grenade
-Kill 3 enemies with one landmine
-Kill 4 enemies during a single use of Fan fire skill
-Kill N enemies with grenades
-Kill N enemies with mines and tripwires
-Kill N enemies with skills
-Kill N enemies with environmental objects
-Stab Biermeier in the back without raising an alarm
-Kill all enemies
-Kill every enemy during the Zaborovka mission
-Kill all Nazi officers on the map
-Kill the scumbags!
-Kill the punisher commander
-Eliminate the commandant 
-Kill SS commander with a knife
-Kill the head of the camp
-Kill Nazi officers while they're fishing
-Remove from the squad
-"Long burst" radius and distance is increased.
-Increased ability distance and decreased ability cooldown. Increased number of ability uses during mission.
-Increased ability radius and decreased ability cooldown.
-Increased ability damage and decreased ability cooldown.
-Increased backpack I
-Increased backpack II
-Increased backpack III
-Increases character defense bonus while in cover.
-Increases grenade throwing range. Decreases time before explosion.
-Increased throwing distance and decreased ability cooldown.
-Increases experience gained by 10%.
-Increases experience gained by 25%.
-Increases experience gained by 40%.
-Increases amount of HP recovery while using medkits.
-Increases the daily limit for missions. Your partisans will be better informed about the events in the area.
-Increased number of knives that can be thrown at an enemy. Greatly decreased ability cooldown.
-Increases backpack slots.
-Increased ability radius and decreased cooldown.
-Increases clip size to 12
-Increases clip size to 20
-Increases clip size to 40
-Increases clip size to 97
-Increased carrying bodies speed.
-Increases damage by 20%
-Increases something.
-Increases critical damage chance by 10%
-Increases hit chance by 10%
-Increases hit chance by 8%
-Increased chance to hit using rifles.
-Increased chance to hit using SMGs.
-Increased chance to hit using pistols.
-Increased chance to hit using heavy machine guns and stationary weapons.
-Increased chance to hit using shotguns.
-Increases character defense bonus while sprinting.
-Increased ability distance and decreased cooldown. Increased number of ability uses during mission.
-Increased number of ability uses during mission.
-Increased chance to hit during ambush mode [Y].
-Ugryumoye swamp
-Destroy item
-Good luck to you!
-Hold the city center
-Communication post
-Communication Post
-Comm Station
-Avoiding hits while using Evasion roll
-Reinforced area
-Covers
-Covers and shooting
-Get to safety
-I have no idea how to live through winter.
-I'm tired of running.
-Decreases cooldown between shots by 25%
-Decreases ability cooldown
-Decreases weapon noise radius by 60% 
-Lowers the stamina cost of running while in combat.
-Decreased "Inspiration "ability cooldown.
-Universal shotgun ammo. Suitable for: IZh – 5, IZhB – 36, M30 Luftwaffe.
-Destroy the bandits and everybody who assists them: You are harmed by their activities most of all!
-Kill Biermeier
-Eliminate Zobel
-Eliminate enemies on the square
-Destroy every Nazi tank
-Eliminate the group of punishers
-Destroy the railway gun
-Eliminate anti-aircraft gun
-Destroy the death squad in the ruined town block
-Eliminate Nazis across the river
-Eliminate the guards at the second logging area
-Destroy the convoy security
-Destroy the bridge security
-Eliminate the guards at the boat dock
-Elimine os guardas na primeira zona de extração
-Elimine o Polizei ao lado da casa
-Elimine soldados
+﻿Mate 3 inimigos com uma granada de mão
+Mate 3 inimigos com uma mina terrestre
+Mate 2 inimigos em um único uso da habilidade disparo em cone.
+Mate N inimigos com granadas
+Mate N inimigos com minas e armadilhas de arame.
+Mate N inimigos com habilidades
+Mate N inimigos usando o ambiente
+Esfaqueie Biermeier pelas costas sem disparar um alarme.
+Mate todos os inimigos
+Mate todos os inimigos durante a missão Zaborovka
+Mate todos os oficiais nazistas do mapa
+Mate os canalhas!
+Mate o comandante justiceiro
+Elimine o comandante
+Mate o comandante SS com uma faca
+Mate o chefe do acampamento
+Mate oficiais nazistas enquanto eles pescam
+Remover do esquadrão
+Aumente o raio de distância da "Explosão longa".
+A distância da habilidade é aumentada e seu tempo de recarga reduzido. Aumente o número de usos de uma habilidade durante a missão.
+O raio da habilidade é aumentada e seu tempo de recarga reduzido.
+O dano da habilidade é aumentado e seu tempo de recarga reduzido.
+Mochila nível I
+Mochila nível II
+Mochila nível III
+Aumenta o bônus de defesa do personagem enquanto estiver coberto.
+Aumenta o alcance de lançamento de granadas. Reduz o tempo para a explosão.
+Aumenta a distância de arremesso e o tempo de recarga da habilidade é reduzido.
+Aumenta a experiência ganha em 10%.
+Aumenta a experiência ganha em 25%.
+Aumenta a experiência ganha em 40%.
+Aumenta a quantidade de recuperação de HP ao usar kits médicos.
+Aumenta o limite de missão diária. Seus partisans ficarão mais bem informados sobre os acontecimentos na área.
+Aumenta o número de facas que podem ser atiradas contra um inimigo. A recarga de capacidade é visivelmente reduzida.
+Aumenta o espaço na mochila.
+Aumenta o raio da habilidade e diminue o tempo de espera.
+Aumenta o tamanho do carregador para 12.
+Aumenta o tamanho do carregador para 20.
+Aumenta o tamanho do carregador para 40.
+Aumenta o tamanho do carregador para 97.
+Aumenta a velocidade ao carregar corpos.
+Aumenta o dano em 20%
+Aumenta algo.
+Aumenta a chance de dano crítico em 10%
+Aumenta a chance de acerto em 10%
+Aumenta a chance de acerto em 8%
+Aumenta a chance de acertar usando rifles.
+Aumenta a chance de acertar usando Metralhadoras.
+Aumenta a chance de acertar usando pistolas.
+Aumenta a chance de acertar usando metralhadoras pesadas e armas fixas.
+Aumenta a chance de acertar usando espingardas.
+Aumenta o bônus de defesa do personagem enquanto corre.
+Aumenta a distância da habilidade e a recarga e reduzida. Aumenta o número de usos de uma habilidade durante a missão.
+Aumenta o número de usos de uma habilidade durante a missão.
+Aumenta a chance de acertar o inimigo durante o modo emboscada [Y].
+Pantano de Ugryumoye
+Destruir item
+Boa sorte para você!
+Defenda o centro da cidade.
+Posto de comunicação
+Posto de comunicação
+Estação Comm
+Evita impactos ao usar manobras evasivas.
+Área reforçada
+Coberturas
+Cobertura e tiroteios
+Fique a salvo
+Não tenho ideia de como sobreviver ao inverno.
+Cansei de correr.
+Reduz a recarga de disparos em 25%.
+Reduz a recarga da habilidade.
+Reduz o raio de ruído da arma em 60%.
+Reduz o custo de estamina ao correr em combate.
+Reduz o tempo de espera da habilidade "Inspiração".
+Munição de espingarda universal. Pode ser usado com: IZh – 5, IZhB – 36, M30 Luftwaffe.
+Destrua os bandidos e todos os que os auxiliam: As atividades deles machucam muito você!
+Mate Biermeier
+Mate Zobel
+Mate os inimigos da praça
+Destrua todos os tanques nazistas
+Mate o grupo de justiceiros
+Destrua a arma da ferrovia.
+Destrua as armas antiaéreas
+Destrua o esquadrão da morte no quarteirão em ruínas
+Mate os nazistas do outro lado do rio
+MAte os guardas na segunda área de exploração
+Destrua a segurança do comboio
+Destrua a segurança da ponte
+Mate os guardas do pier
+Mate os guardas na primeira área de exploração
+Mate o Polizei ao lado da casa
+Mate os soldados
 Destrua o tanque
-Elimine todos os grupos de inimigos ou os nazistas virão matar a filha do moleiro.
+Mate todos os grupos de inimigos ou os nazistas virão matar a filha do moleiro.
 Use-o apenas por razões médicas.
 Controle
 Controlar sua equipe pode ser um desafio. Use esconderijos para aumentar as chances de sobrevivência de seus personagens.

@@ -23,6 +23,11 @@ Glossário
 |  Vechernyaya Moskva |  Vechernyaya Moskva | Jornal Russo |
 |  village |  Vila | povoação de categoria inferior a uma cidade, mas superior a uma aldeia. |
 |  Wehrmacht |  Wehrmacht | nome das forças armadas da Alemanha Nazista |
-| Zaborovka | Zaborovka | Uma cidade da Russia |
+| Zaborovka | Zaborovka | Uma cidade da Rússia |
 | Barrel (recipiente) | Barril | Barril, recipiente de madeira ou metal |
-| Barrel (armas de fogo) | Cano | Cano de armas de fogo leves e pesadas por onde o prjétil é disparado |
+| Barrel (armas de fogo) | Cano | Cano de armas de fogo leves e pesadas por onde o projetil é disparado |
+| tripwires | armadilhas de arame | ?? |
+| Fan Shots | disparo em cone | Disparo de arma de fogo que atinge mais de um inimigo |
+| punisher commander | comandante justiceiro | Melhor tradução que achei |
+| clip | Carregador | Carregador da arma |
+| Evasion roll | manobras evasivas | Melhor tradução que achei |
