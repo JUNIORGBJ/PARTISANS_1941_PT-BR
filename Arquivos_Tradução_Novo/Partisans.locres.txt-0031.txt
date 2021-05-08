@@ -33,7 +33,7 @@ carregar jogo
 Diário
 tarefa encerrada
 saudável
-jogos
+jogo
  de uma família militar
 aberto
 inventário
