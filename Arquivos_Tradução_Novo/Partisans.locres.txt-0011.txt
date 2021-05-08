@@ -1,59 +1,59 @@
-﻿Camera zoom
-We could even smoke some fish.
-We've got enough to pickle.
-Along with quest items:
-GAME SAVED
+﻿Zoom da câmera
+Podemos até defumar um pouco de peixe.
+Temos o suficiente para a salmoura.
+Junto com itens de busca:
+JOGO SALVO
 IZhB – 36
 IZh – 5
-NAME
-INVENTORY
-NOT ENOUGH SPACE
-USE AVAILABLE ITEMS
-HISTORY
-TOTAL PER DAY
-Game settings
-Christmas toy
-It's raining
-It's snowing
-From rags to riches.
-Someone escaped the POW camp, and now they're searching for them.
-Out of the Frying Pan Into the Fire
-He was supposed to be transferred from the prisoner-of-war camp to an internment camp. Fully aware that this would be a one-way ticket for him and his comrades, Zorin began work on a breakout, but the Germans discovered his plans.
-You can use pistols, shotguns and submachine guns against distant targets, but the effect will be underwhelming. 
-You can make a whistle or a lighter out of a good shell.
-The Fascists are tightening the screws because of the partisans.
-Many locals have fallen ill because of the cold.
-Avoid civilian casualties
-Burnt Out
-Learning skills
-Icon
-Some of the locals must have helped them.
-They can never catch the partisans!
-There were multiple witnesses to Fomin's exceptional contribution to the defense as well as his personal valor and bravery.
-If you have this skill, your partisan will have high effect on global map activities success chances. 
-If you have this skill, your partisan will have huge effect on global map activities success chances.
-If you have this skill, your partisan will have low effect on global map activities success chances. 
-If you have this skill, your partisan will have medium effect on global map activities success chances. 
-Inventory
-You will encounter special areas, where enemies are able to notice Sanek while he uses his "disguise" ability. Try to move Sanek out of these areas as quickly as possible.
-The ability charges refill every once in a while.
-Tools
-Information
-Bottles
-Grenades
-Mines
-Using environment I
-Tripwires
-Abilities are blocked. Visibility in the fog of war is reduced.
-Use
-activate the second ability
-Activate the first ability
-Use item from the first slot
-Use item from the third slot
-Use item from the second slot
-Use item from slot
-activate the first ability
-activate the third ability
+NOME
+INVENTÁRIO
+ESPAÇO INSUFICIENTE
+USAR ITENS DISPONÍVEIS
+HISTÓRIA
+TOTAL POR DIA
+Configurações do jogo
+Brinquedo de natal
+Está chovendo
+Está nevando
+De trapos a riquezas.
+Alguém escapou do campo de prisioneiros de guerra e agora estão procurando por ele.
+Retire a frigideira do fogo
+Ele deveria ser transferido do campo de prisioneiros de guerra para um campo de internamento. Totalmente ciente de que esta seria uma passagem só de ida para ele e seus camaradas, Zorin começou a trabalhar em uma fuga, mas os alemães descobriram seus planos.
+Você pode usar pistolas, espingardas e metralhadoras contra alvos distantes, mas não será muito eficaz.
+Você pode fazer um apito ou um isqueiro com uma boa concha.
+Os fascistas estão apertando os parafusos por causa dos partisans.
+Muitos habitantes locais adoeceram por causa do frio.
+Evite vítimas civis
+Queimado
+Aprendendo habilidades
+Ícone
+Alguns dos habitantes locais devem tê-los ajudado.
+Eles não podem pegar os partisans!
+Houve várias testemunhas da contribuição de Fomin para a defesa, bem como de seu valor pessoal e bravura.
+Se você tiver essa habilidade, seu partisan terá um alto efeito nas chances de sucesso das atividades do mapa global.
+Se você tiver essa habilidade, seu partisan terá um imenso efeito nas chances de sucesso das atividades do mapa global.
+Se você tiver essa habilidade, seu partisan terá pouco efeito nas chances de sucesso das atividades do mapa global.
+Se você tiver essa habilidade, seu partisan terá um efeito médio nas chances de sucesso das atividades do mapa global.
+Inventário
+Você encontrará áreas especiais, onde os inimigos são capazes de notar Sanek enquanto ele usa sua habilidade de "disfarçar". Tente tirar Sanek dessas áreas o mais rápido possível.
+As habilidade são recarregadas de vez em quando.
+Ferramentas
+informação
+Garrafas
+Granadas
+Minas
+Usando o ambiente I
+Armadilhas
+As habilidades são bloqueadas. A visibilidade na névoa da guerra é reduzida.
+Usar
+Ativar a segunda habilidade
+Ativar a primeira habilidade
+Usar o item do primeiro slot
+Usar o item do terceiro slot
+Usar o item do segundo slot
+Usar item do slot
+Ativar a primeira habilidade
+Ativar a terceira habilidade
 Used to calculate artillery firing trajectories.
 Use LMB to choose your action or move your partisan. To cancel the chosen action or movement, click RMB.
 Use LMB to move your partisan or select an action. Click RMB to cancel a move or an action. 
