@@ -87,14 +87,14 @@ Eliminate the guards at the second logging area
 Destroy the convoy security
 Destroy the bridge security
 Eliminate the guards at the boat dock
-Eliminate the guards at the first logging area
-Eliminate the Polizei by the house
-Eliminate soldiers
-Destroy the tank
-Eliminate every group of enemies or Nazis will come kill the miller's daughter.
-Use it only for medical reasons.
-Control
-Controlling your group can be a challenge. Use hideouts to increase your characters' chances of survival.
-Using camera
-Squad control
-Controlling your character
+Elimine os guardas na primeira zona de extração
+Elimine o Polizei ao lado da casa
+Elimine soldados
+Destrua o tanque
+Elimine todos os grupos de inimigos ou os nazistas virão matar a filha do moleiro.
+Use-o apenas por razões médicas.
+Controle
+Controlar sua equipe pode ser um desafio. Use esconderijos para aumentar as chances de sobrevivência de seus personagens.
+Usar câmera
+Controlar o esquadrão
+Controlar o personagem
