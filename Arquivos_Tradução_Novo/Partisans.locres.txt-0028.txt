@@ -83,7 +83,7 @@ Destrua a arma da ferrovia.
 Destrua as armas antiaéreas
 Destrua o esquadrão da morte no quarteirão em ruínas
 Mate os nazistas do outro lado do rio
-MAte os guardas na segunda área de exploração
+Mate os guardas na segunda área de exploração
 Destrua a segurança do comboio
 Destrua a segurança da ponte
 Mate os guardas do pier
