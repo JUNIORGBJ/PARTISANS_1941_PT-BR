@@ -1,100 +1,100 @@
 ﻿Soltsy
-Sort items
-A neighbor wants me to join him and become a Polizei.
-The village head's buddies noticed that something was wrong. We were forced to leave.
-Concussion
-Saving
-Saving your game is unavailable due to the difficulty settings.
-Saving completed
-Saved Games
+Ordenar itens
+Um vizinho quer que eu me junte a ele e me torne um polizei.
+Os amigos do chefe da vila perceberam que algo estava errado. Fomos forçados a sair.
+Choque
+Salvando
+Devido às configurações de dificuldade, não é possível salvar o jogo.
+Salvamento concluído
+Jogos salvos
 Social
-Social ability.
-Bipods
-Run for your life!
+Habilidade social.
+Bipé
+Corra pela sua vida!
 Escape!
-Lord, keep us safe.
-Thank you for everything you do!
-Save the prisoner
-I feel sleepy.
-Special training
-My back aches.
-The list of crimes perpetrated by the Fascist blackguards is growing every day. After an unsuccessful attempt to cross the river E., the Germans gathered 50 women and children from the surrounding villages. They put them on the boats and used them as cover while they tried to reach the other bank.
-Matches
-A bag made from roughly braided strings. Can hold up to 70 kilograms of goods.
-Abilities
-Allows you to stun enemies of higher rank (Wehrmacht soldiers).
-Sprinter
-They can't find me if I hide.
-Partisan's Companion #1
-Partisan's Companion #2
-Partisan's Companion #3
-Partisan's Companion #4
-Partisan's Companion #5
-Partisan's Companion #6
-Partisan's Companion #7
-Partisan's Companion #8
-Partisan's Companion #9
-Compared
-To compare
-Medium
- Medium chance of success
-Allows you to silently eliminate a careless enemy.
-Steel will I
-Stamina x 2
-Bogachevo station
-Krasnoselskaya station
-Always seek cover in combat to minimize the damage to your fighters.
-Last for as long as you can.
-Military award
-I buried my husband. I don't want to bury my sons, too.
-Staroselskaya swamp
-Village head
-The village head of Zaborovka is one of the most zealous among the traitors. He works hard to identify the suspicious and the unreliable—especially among the people he has personal quarrels with.
-The head of the neighboring village is celebrating his anniversary. It could be his last one. Let's pay him a visit.
-Senior technician, Lieutenant Leonid Alexeevich Bykov from the village of Ostrova, in the Sebezh district of the Pskov region.
-Sergeant suggests making leaflets detailing the basics of the partisan operations and spreading them among the locals. Sounds like a good idea!
-The chief says they took Leningrad.
-Stationary machine gun
-Glass
-Glass canteen
-Glass canteens were popular in the Red Army before and during the early stages of the war. Soon, due to aluminum shortages and the blockade of Leningrad (where most aluminum canteens had been produced), glass became even more widespread.
-There are too many orphans begging for food in villages.
-There's so much death.
-The guard Yefim has become a Polizei, and he's running amok. He's more than the villagers can handle! He abuses them and robs them blind. Let's knock him down a peg—or rather, just knock him off.
-Strategist
-It's damn scary!
-I'm scared for my family.
-Swiftness
-Swiftness I
-Swiftness II
-Swiftness III
-I have a weird feeling.
-Kinda creepy.
-Building resources
-Building resources:
-Construction
-Construction complete
+Senhor, mantenha-nos seguros.
+Obrigado por tudo que você faz!
+Salve o prisioneiro
+Estou com sono.
+Treino especial
+Minhas costas doem.
+A lista de crimes perpetrados pelos vis fascistas aumenta a cada dia. Depois de uma tentativa malsucedida de cruzar o rio E, os alemães reuniram 50 mulheres e crianças das vilas vizinhas. Eles os colocaram nos barcos e os usaram como cobertura enquanto tentavam chegar à outra margem.
+Fósforos
+Uma bolsa feita de fios trançados rudemente. Pode conter até 70 quilos de mercadorias.
+Habilidades
+Permite que você atordoe inimigos de alto escalão (soldados da Wehrmacht).
+A corrida
+Eles não serão capazes de me encontrar se eu me esconder.
+Companheiro Partisan #1
+Companheiro Partisan #2
+Companheiro Partisan #3
+Companheiro Partisan #4
+Companheiro Partisan #5
+Companheiro Partisan #6
+Companheiro Partisan #7
+Companheiro Partisan #8
+Companheiro Partisan #9
+Comparado
+Comparar
+Médio
+ Probabilidade média de sucesso
+Permite que você elimine furtivamente um inimigo desavisado.
+Vontade de aço I
+Estamina x 2
+Estação Bogachevo
+Estação Krasnoselskaya
+Em combate, sempre procure uma cobertura que permita minimizar os danos sofridos por seus guerreiros.
+Segure o máximo que puder.
+Prêmio militar
+Já enterrei meu marido. Não quero enterrar meus filhos também.
+Pântano Staroselskaya
+Chefe da vila
+O representante da vila de Zaborovka é um dos traidores mais entusiastas. Trabalha muito para identificar suspeitos e pessoas não confiáveis; especialmente entre aquelas pessoas com quem ele tinha suas próprias disputas pessoais.
+O representante da vila vizinha está comemorando seu aniversário. Pode ser o último. Vamos visitá-lo.
+Tenente Técnico Sênior Leonid Alexeevich Bykov, da vila de Ostrova, no distrito de Sebezh, na região de Peskov.
+O sargento sugeriu que fizéssemos panfletos detalhando os fundamentos das operações partisans e as divulgássemos aos habitantes locais. Eu acho que é uma ótima idéia!
+O chefe disse que eles tomaram Leningrado.
+Metralhadora fixa
+Vidro
+Cantina de vidro
+As cantinas de vidro eram muito populares com o Exército Vermelho antes da guerra e durante seus estágios iniciais. O vidro acabaria por se espalhar ainda mais devido à escassez de alumínio e ao bloqueio de Leningrado, onde a maioria das cantinas de alumínio eram produzidas.
+Há muitos órfãos implorando por comida nas vilas.
+Quanta morte...
+O guarda Yefim se tornou um Polizei e está ficando louco. Os aldeões não podem vencê-lo! Ele abusa deles e os rouba cegamente. Vamos derrubá-lo - ou melhor, apenas derrubá-lo.
+Estrategista
+É assustador!
+Temo por minha família.
+Rapidez
+Rapidez I
+Rapidez II
+Rapidez III
+Eu me sinto muito mal.
+Meio assustador.
+Recursos de construção
+Recursos de construção:
+Construção
+Construção completa
 Slender Bertha
 Studenovo
-Dry herbs
-We collected Avdotya's bread. It's the crispiest and most delicious bread we've ever had!
-This is a good stash with a lot of useful items.
-Lucky bullet
-A lucky large coin with one edge hammered flat and sharpened. He uses it for pick-pocketing.
-I'm full, I'm drunk, I don't have to work... just living my dream!
-Here!
-PARTISAN TACTICS
-PARTISAN TACTICS. The main goal of the partisan activities is to eliminate the Fascists' troops and materiel. Success in this struggle depends on the following:
-CURRENT SQUAD MORALE
-INJURIES
-ENEMY CORPSE
+Ervas secas
+Recolhemos o pão de Avdotya. É o pão mais crocante e saboroso que já provei!
+É um bom estoque, com muitos itens úteis.
+Bala da sorte
+Uma moeda grande da sorte com uma das pontas achatada e afiada. Ele a usa para roubar.
+Estou com a barriga cheia, estou bêbada e não tenho que trabalhar... Isto é a vida!
+Aqui!
+TÁCTICAS PARTISANS
+TÁTICAS PARTISANS. O objetivo principal das atividades partisans é eliminar as tropas fascistas e o material de guerra. O sucesso nesta luta depende do seguinte:
+MORAL ATUAL DO ESQUADRÃO
+LESÕES
+CADÁVERES DO INIMIGO
 TT
-Tobacco
-Tobacco can block a dog's ability to smell for a short time. The Ministry of Health warns: Smoking kills!
-Pills
-This strategy gives the partisans enough time to unload the captured supplies from the truck or car. Loud gunfire, on the other hand, may attract the Fascists' attention—and they'll immediately send motorized troops to assist the assaulted convoy.
-All right!
-Wish I had some milk, but they took the cow.
-Their so-called "procurement teams" are nothing but robbers who steal supplies from the locals and leave them to starve. I saw a convoy of their trucks on the way to the grain elevator. We need to stop them.
-This is outrageous.
-That'll teach them.
+Tabaco
+O tabaco pode bloquear o cheiro de um cão por um curto período de tempo. O Ministério da Saúde adverte que fumar mata!
+Pílulas
+Essa estratégia dá aos partisans tempo suficiente para descarregar os suprimentos roubados do caminhão ou carro. Um tiroteio faria muito barulho e chamaria a atenção dos fascistas, levando-os a enviar tropas motorizadas imediatamente para ajudar o comboio atacado.
+Muito bem!
+O que eu daria por um pouco de leite, mas eles tiraram a vaca de mim...
+Suas chamadas "equipes de aquisição" nada mais são do que ladrões que roubam suprimentos dos moradores e os deixam morrer de fome. Eu vi um comboio de seus caminhões a caminho do elevador de grãos. Precisamos detê-los.
+Isso é ultrajante.
+Isso vai ensiná-los.
