@@ -15,86 +15,86 @@ OBRA
 PRINCIPAL
 Uma máquina de costura "Podolsk 2M" muito famosa. Geralmente é usado manualmente.
 É tudo culpa dele.
-A samovar for boiling water. Heated by burning wood or coal. A boot can be used on the pipe to blow on the fire in damp conditions.
-Hootch
-The hooch was good enough to send half of the troops back to Spain for rehab.
-Selfless work in the fields, excellent harvests and early fulfillment of obligations to the government: This is how the collective farmers assist the Red Army in defeating the Fascist hordes. At Qurman district's machine tractor station (Crimean Autonomous Soviet Socialist Republic), all harvesters are still toiling in the field; as the operators went to fight the Fascists, the women took their places at the machines. Meanwhile, women of the kolkhoz Kolos (in the Chkalovsk district of the Chkalovsk region), having replaced the tractor drivers who went to war, are confidently exceeding their work quotas.
-Sanek stumbled upon a deserted forest camp and brought back everything of value he could find.
-Sanek tried to shoot a machine gun at the range and injured his hand in the process.
+Um samovar para ferver água. É aquecido pela queima de lenha ou carvão. Se houver muita umidade, uma bota pode ser usada para soprar o fogo.
+Álcool de baixa qualidade
+O conhaque foi suficiente para enviar metade das tropas de volta à Espanha para reabilitação.
+Trabalho abnegado nos campos, excelentes colheitas e cumprimento antecipado das obrigações governamentais. É assim que o Coletivo de Fazendeiros ajuda o Exército Vermelho a derrubar os fascistas. Na estação de máquinas e tratores no distrito de Qumran (República Socialista Soviética Autônoma da Crimeia), todas as colheitadeiras ainda estão trabalhando arduamente nos campos; enquanto os trabalhadores partiam para lutar contra os fascistas, as mulheres ocupavam seus lugares nas máquinas. Enquanto isso, as mulheres do Kolos kolkhoz no distrito de Chkalovsk, na região de Chkalovsk, que substituíram os tratoristas que foram para a guerra, estão excedendo com segurança suas cotas de trabalho.
+Sanek encontrou um acampamento abandonado na floresta e trouxe tudo que pôde encontrar de valor.
+Sanek tentou usar uma metralhadora no campo de tiro e feriu a mão.
 Sanek
-Sanek is anxious: Pops went hunting near the lake and still hasn't returned. The lake is close to a road often used by the Fascists. Who knows what may have happened. The old-timer may need our help: We're moving out to the lake to search for him.
-Sanek is worried: Pops has gone missing. He was supposed to go hunting near the lake, where the plane crashed. We must move out and search for the old man. Let's hope he's safe and sound.
-Sanek saw an enemy bomber burn through the night sky and crash inside the forest. He made a wish for the war to end before the winter.
-Demining I
-Demining II
-They're greedy like locusts!
-Sugar
-What if we can't find them and they join the partisans?
-Сollection of information 
-Collect information about the number of troops in the area and their movements.
-Assemble your squad
-A portable bakelite safety razor and extra blades. 
-Drop a corpse at the beginning of the battle
-Cancel
-Reset task
-We can make berry jam.
-We can cook some hearty fish soup.
-Drilling of "Chalk-Bor"
-Cozy nook
-No Witness
-Whistling I
-Whistling II
-Available
-Partisans available
-Report
-No man left behind
-Everyone should care about their own lives.
-We cut the wires. The Germans have a problem.
-Local citizens communication
-Do a Barrel Roll!
-We cooked roast and stew.
-During the New Year festivities, every New Year tree featured a Grandfather Frost made from cotton wool and papier-mâché. 
-A strong nickel-silver alloy. Can take a beating.
-The Fascists are going to execute partisans in Zaborovka today. We should go there and prevent the executions. However, this could be difficult: According to Vasily Gavrilovich, there was a manhunt in the village the day before. The Germans are still there.
-The night was so cold that nobody could sleep. We'll need to insulate our dugout using whatever we have in store.
-I want some buttered potatoes.
-It's going to blow!
-Mushrooms are in season. We could find some chanterelles in the fir grove.
-It's gonna hurt more! 
-Not now. Enemies are alarmed!
-I can't do it right now!
-Impossible now.
-Something is up.
-Secret documents
-Secret ingredient
-Monastyrskoe v.
-September 1941
-Seriously challenging.
-Sidorov was so intimidated that he not only shared the food, he also promised to keep us informed about the enemy's actions in the region. Let's wait for the news.
-Sidorov called the other Polizei for help. We had to leave.
-I can't go on.
-Strength
-I'm exhausted.
-Reduced weapon reload time. 
-Tough enemies.
-A strong wind tore down dead wood. A falling tree damaged the roof of the {0}.
-The smells of food attract hungry animals. We had to build a fence encircling the camp.
-We warmed up the orphan and took her to Mother Marfa in the village.
-Storage
-Loot Warehouse
-How many people are in your group?
-First Aid
-I just want this to end.
-Firerate
-Firerate 
-Movement speed is decreased. Rifles, shotguns, SMG and MG can't be used by this partisan.
-Movement speed reduced. Sprinting is impossible.
-Hide indication of interactive objects
-Hide interfaces
-Boring...
-I’m so bored... I wish someone would show up.
-Here you can see a character's skill tree and skill list with their current ability mastery. Choose any skill to learn more about it.
-The elk's hoofprints led us into a thicket. What a waste of time!
-Keep an eye on the morale of your unit. Inspired fighters perform their duty better. 
-Got you, punk! 
-Got you, punk!
+Sanek está ansioso: Pops foi caçar perto do lago e ainda não voltou. O lago fica perto de uma estrada que os fascistas costumam usar, então quem sabe o que pode ter acontecido. O velho pode precisar de nossa ajuda, então vamos ao lago para encontrá-lo.
+Sanek está preocupado: Pops desapareceu. Em teoria, ele estava caçando perto do lago, na área onde o avião caiu. Devemos nos espalhar e encontrar o velho. Esperançosamente, ele está são e salvo.
+Sanek viu um bombardeiro inimigo cruzando o céu noturno em chamas e colidindo com a floresta. Ele gostaria que a guerra terminasse antes do inverno.
+Desminagem I
+Desminagem II
+Eles são gananciosos como gafanhotos!
+Açúcar
+E se não os encontrarmos e eles se juntarem aos partisans?
+Obtenção de informações
+Obtenha informações sobre o número de tropas na área e seus movimentos.
+Monte seu esquadrão
+Um barbeador portátil de baquelite e lâminas extras.
+Soltar cadáver ao começar uma luta
+Cancelar
+Reiniciar tarefa
+Podemos fazer geléia de frutas vermelhas.
+Podemos preparar uma boa sopa de peixe.
+Estrangulador
+Canto legal
+Sem testemunhas
+Assobio I
+Assobio II
+Disponível
+Partisans disponível
+Relatório
+Nenhum homem foi deixado para trás
+Todos devem se preocupar com suas próprias vidas.
+Cortamos os cabos. Os alemães têm um problema.
+Comunicação entre os cidadãos locais
+Faça um ioiô!
+Nós o assamos e cozinhamos.
+Durante as festividades de Ano Novo, todas as árvores eram adornadas com um papai noel feito de algodão e papel machê.
+Uma liga de ferro de níquel e prata. É muito resistente.
+Os fascistas vão executar os partisans de Zaborovka hoje. Devíamos ir lá e evitar execuções. No entanto, pode não ser uma tarefa fácil. De acordo com Vasily Gavrilovich, ontem eles estavam revistando a aldeia. Os alemães ainda estão lá.
+A noite estava tão fria que ninguém conseguia dormir. Precisamos isolar nosso abrigo usando tudo o que temos guardado.
+Eu quero algumas batatas com manteiga.
+Vai explodir!
+É temporada de cogumelos. Podemos encontrar chanterelles no bosque de abetos.
+Vai doer ainda mais!
+Agora não. Os inimigos estão em alerta!
+Agora, eu não posso fazer isso!
+Isso é impossível neste momento.
+Algo está acontecendo.
+Documentos secretos
+Ingrediente secreto
+Vila Monastyrskoe
+Setembro de 1941
+Muito desafiante.
+Sidorov ficou com tanto medo que não apenas compartilhou a comida, mas também prometeu que nos manteria informados sobre as ações do inimigo na região. Vamos esperar novidades.
+Sidorov pediu ajuda ao outro polizei. Precisávamos ir.
+Eu não posso continuar.
+Força
+Estou exausto.
+Tempo de recarga da arma reduzido.
+Inimigos difíceis.
+Um vento forte rasgou os troncos das árvores mortas. Um deles caiu no seguinte telhado: {0}.
+O cheiro da comida atrai animais famintos. Tivemos que cercar o acampamento.
+Ajudamos a órfã a se aquecer e levá-la para a vovó Marfa.
+Armazém
+Armazém de saque
+Quantas pessoas estão em seu grupo?
+Primeiros socorros
+Eu quero que isso acabe de uma vez.
+Cadencia de tiro
+Cadencia de tiro
+Velocidade de movimento reduzida. Este partisans não pode usar rifles, submetralhadoras ou metralhadoras.
+Velocidade de movimento reduzida. Você não pode correr.
+Ocultar indicação de objetos interativos
+Ocultar interfaces
+Entediante...
+Estou entediado... Gostaria que alguém aparecesse.
+Aqui você pode ver a árvore de habilidades de um personagem e a lista de habilidades que eles dominam perfeitamente. Escolha qualquer habilidade para aprender mais sobre ela.
+As pegadas de alces nos levaram a alguns arbustos. Que perda de tempo!
+Controle a moral da sua unidade. Um lutador inspirado faz melhor seu trabalho.
+Peguei você, punk!
+Peguei você, punk!
