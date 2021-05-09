@@ -54,47 +54,47 @@ Usar o item do segundo slot
 Usar item do slot
 Ativar a primeira habilidade
 Ativar a terceira habilidade
-Used to calculate artillery firing trajectories.
-Use LMB to choose your action or move your partisan. To cancel the chosen action or movement, click RMB.
-Use LMB to move your partisan or select an action. Click RMB to cancel a move or an action. 
-You can restore your HP with medicine, by placing your medkits in the item slot.
-Use grenades against groups of enemies. Keep in mind that they’re very loud and can attract even more enemies.
-Double-click LMB to sprint.
-Use WASD to move the camera. You can rotate your camera with the Q and E buttons. Use your mousewheel to change camera distance.
-Used for preserving food and upgrading the buildings.
-Exhaustion
+Usado para calcular as trajetórias de tiro da artilharia.
+Use o Botão Esquerdo do Mouse para escolher sua ação ou mover seu partisan. Para cancelar a ação ou movimento escolhido, clique com o Botão Direito do Mouse.
+Use o Botão Esquerdo do Mouse para mover seu partisans ou selecionar uma ação. Clique com o Botão Direito do Mouse para cancelar um movimento ou ação.
+Você pode restaurar sua vida com remédios, colocando seus kits médicos no espaço de itens.
+Use granadas contra grupos de inimigos. Lembre-se de que elas são muito barulhentas e podem atrair ainda mais inimigos.
+Clique duas vezes com o Botão Esquerdo do Mouse para correr.
+Use WASD para mover a câmera. Você pode girar sua câmera com os botões Q e E. Use a roda do mouse para diminuir ou aumentar o zoom da câmera.
+Usado para conservar alimentos e melhorar os edifícios.
+Exaustão
 Total
-They're long gone.
-Nobody's fault but theirs.
-We won't know where they're hiding.
-Even the cattle get better treatment than us!
-CATEGORY
-CONTAINER
-TROPHY CORNER
-KITCHEN
-I'd still be slaving away in the kolkhoz if it weren't for the war.
-If I only knew how it'd turn around...
-Every day trains full of German reinforcements are heading for the front lines. We should do everything in our power to ensure they don't reach their destination.
-Each modifier is unique and makes the mission more challenging.
-Punishment
-I hope they won't kill me.
-I want some German smokes.
-I should get documentation that says I have German blood.
-I wish I knew what happened to them...
-This could get messy.
-How do I make you talk?
-Just as Vasily Gavrilovich feared, the Fascists sent in a death squad after we blew up the bridge with the SS convoy in Volkovo. The Polizei chief Zobel will personally lead the mission. We must save the townsfolk and eliminate the Fascist punisher.
-How could we lose?
-What shall I put on the table?
-I wonder how my sweetheart is doing... is he dead? Is he hurt?
-As soon as you hear the enemy motorcyclist approaching, pull the wire tight, loop its end around the tree several times and find a hiding place.
-How?!
-What a ridiculous death...
-Some long text
-Caliber
-Rock
-Stone throwing is a very simple and effective way to draw enemy attention.
-Captain B.L. Khigrin was ordered to prevent German tanks from reaching a bridge on the Drut River.
-Trap
-The trap is set. Just waiting for a Nazi now.
-Traps are used for inflicting wounds and stunning your enemy for a very long time.
+Eles se foram há muito tempo.
+A culpa é apenas deles.
+Não saberemos onde eles estão se escondendo.
+Até mesmo o gado recebe um tratamento melhor que nós!
+CATEGORIA
+RECIPIENTE
+CANTO DOS TROFÉUS
+COZINHA
+Eu ainda estaria trabalhando como escravo no kolkhoz se não fosse pela guerra.
+Se eu soubesse como isso viraria...
+Todos os dias, trens cheios de reforços alemães dirigem-se às linhas de frente. Devemos fazer tudo ao nosso alcance para garantir que eles não cheguem ao seu destino.
+Cada modificador é único e torna a missão mais desafiadora.
+Punição
+Espero que eles não me matem.
+Eu quero alguns cigarros alemães.
+Devo obter a documentação que diz que tenho sangue alemão.
+Eu gostaria de saber o que aconteceu com eles...
+Isso pode ficar confuso.
+Como faço você falar?
+Exatamente como Vasily Gavrilovich temia, os fascistas enviaram um esquadrão da morte depois que explodimos a ponte com o comboio da SS em Volkovo. O chefe da Polizei, Zobel, chefiará pessoalmente a missão. Devemos salvar o povo da cidade e eliminar os fascistas.
+Como perdemos?
+O que devo colocar na mesa?
+Eu me pergunto como meu querido está indo... será que ele está morto? ferido?
+Assim que você ouvir o motociclista inimigo se aproximando, puxe o cabo com força, enrole sua extremidade ao redor da árvore várias vezes e encontre um esconderijo.
+Como?!
+Que morte ridícula...
+Algum texto longo
+Calibre
+Pedra
+Lançar pedras é uma forma muito simples e eficaz de chamar a atenção do inimigo.
+Capitão B.L. Khigrin recebeu ordens de impedir que tanques alemães chegassem a uma ponte no rio Drut.
+Armadilha
+A armadilha está armada. Só esperando por um nazista agora.
+As armadilhas são usadas para ferir e atordoar inimigos por um longo tempo.
