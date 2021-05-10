@@ -31,9 +31,9 @@ Missão completa!
 Configure a sequência de ações
 Tarefas
 Esconda-se. Quando você está coberto, a chance de ser atingido diminui.
-Fumar
+Defumar comida
 Fechar
-perto
+Fechar
 Estou farto de caçar homens.
 Estou cansado.
 Estou congelando. Minha garganta dói quando engulo.

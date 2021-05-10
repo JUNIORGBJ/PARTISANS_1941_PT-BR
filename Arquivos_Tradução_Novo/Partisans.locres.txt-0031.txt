@@ -49,7 +49,7 @@ trabalhador
 camponês
 cursor - movimento da câmera
 em tratamento
-Aplique
+Aplicar
 configurações
 Jogar
 novo jogo
@@ -71,7 +71,7 @@ modelo passivo ATIVADO/DESATIVADO
 reiniciar missão
 recarregar
 pistolas
-SMG
+Metralhadora
 destacar objetos interativos
 dicas
 customizar

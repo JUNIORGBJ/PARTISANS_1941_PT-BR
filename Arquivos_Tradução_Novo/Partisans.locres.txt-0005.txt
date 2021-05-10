@@ -31,14 +31,14 @@ Recentemente, houve uma luta na área fortificada onde estava a linha defensiva 
 Mergulhe para se proteger! Agora!
 O bosque é muito denso. Não conseguimos encontrar o tanque, muito menos os alemães.
 O bosque é muito denso. Não conseguimos encontrar o esconderijo.
-Inimigos estão procurando por você!
+Os inimigos estão procurando por você!
 Seus recursos
 RETORNAR TODOS
 MOCHILA
 PEGAR TUDO
 PEGAR TUDO (BARRA DE ESPAÇO)
 TEMPO
-ECONOMIZAR TEMPO
+DATA/HORA
 VOCÊ ESTÁ PRESTES A COMEÇAR UMA MISSÃO SEM QUALQUER EQUIPAMENTO!
 ESCOLHER AGENTE
 ESCOLHER AÇÃO

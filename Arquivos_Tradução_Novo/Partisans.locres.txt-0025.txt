@@ -1,100 +1,100 @@
-﻿Much harder to hit the target
-Much harder to hit the target, enemy vision is worse
-Difficulty:
-Broken arm.
-Broken weapon
-Broken weapons can be taken apart.
-Gear slot
-You can cook food using provisions obtained during your missions.
-News from the front lines
-I hear Zobel tortures the prisoners in person.
-We've heard about you. You're doing a great job.
-Craft the grenade
-Intelligence
-Intelligence I
-Intelligence II
-Intelligence III
-Death to the Oppressor!
-Fascists' death has come.
-Betrayers Should be Dead
-The hand of death reaches toward you! Think about your family! Surrender now!
-A mixture of gasoline and kerosene in an elegant glass bottle. Burn before usage.
-Smolensk has been captured by the enemy, despite desperate resistance of our armies. Hitler's hordes are beginning their rush for Moscow.
-The bitches just fled!
-Sniper
-Equipment 
-You can equip your soldiers at the warehouse. Keep in mind that each item you select has a certain cost, and you have a limited number of warehouse points.
-You need to equip your team for each mission by spending warehouse points.
-At first the Germans weren't particularly cruel. They hired us for odd jobs. I was sent with some other villagers to dig anti-tank ditches. A German soldier was sent to guard us, but we ended up guarding him. He explained to us that he didn't care whether we worked or not; he had never wanted to go to war and had family waiting for him back home. So we had to do our best to keep the Germans from replacing him with someone more strict.
-Partisans are always followed by death squads.
-Back into battle
-They came to rob us again.
-They're trashing the house again.
-They're going to make us watch the execution again.
-Sleeping pill
-I wouldn’t quarrel with me if I were you.
-Dog
-They should die like pigs.
-Dogs
-Enemy dogs can detect your partisans in the bushes or in other cover; if it comes to combat, they will instantly attack. Sources of strong smells, like tobacco, can throw the dogs off your trail. 
-Get together and fight!
-Gathering
-We found a sack of good root crops and veggies.
-We found some slightly rotten root crops and veggies.
-We gathered some berries.
-We picked several baskets of berries.
-We gathered the eggs.
-We'll pickle the mushrooms.
-Collect honey from every hive at the apiary
-Assemble squad
-Obtain intact explosives
-Gather eggs.
-Collect/defuse every mine in the fields
-Activity done
-Activity failed
-Events
-Perform 10 rolls
-Can't survive on a clear conscience alone!
-A clear conscience can't feed you when you're starving!
-A Soviet automatic rifle created by S. Simonov and adopted in 1936. It has a very high firerate and a burst mode that can be used in emergency situations. This weapon looks worn from battle.
-A Soviet automatic rifle created by S. Simonov and adopted in 1936. It has a very high firerate and a burst mode that can be used in emergency situations. This is a medium-quality weapon.
-A Soviet automatic rifle created by S. Simonov and adopted in 1936. It has a very high firerate and a burst mode that can be used in emergency situations. This is a high-quality weapon.
-Soviet Pamphlet #1
-Soviet Pamphlet #2
-Soviet Pamphlet #3
-A Soviet internal magazine-fed military rifle. It was adopted in 1891. The rifle has repeatedly proven its effectiveness and reliability in the most extreme conditions. This weapon looks worn from battle.
-A Soviet internal magazine-fed military rifle. It was adopted in 1891. The rifle has repeatedly proven its effectiveness and reliability in the most extreme conditions. This is a medium-quality weapon.
-A Soviet internal magazine-fed military rifle. It was adopted in 1891. The rifle has repeatedly proven its effectiveness and reliability in the most extreme conditions. This is a high-quality weapon.
-Soviet defensive grenade.
-Soviet rifle bullet. Suitable for: Mosin rifle, Lewis machine gun, AVS – 36, DP – 27.
-A Soviet submachine gun designed by G. Shpagin. It was adopted in December of 1940. High firerate, high consumption of ammunition and rapid overheating of the barrel—the necessary price for a high density of fire. This weapon looks worn from battle.
-A Soviet submachine gun designed by G. Shpagin. It was adopted in December of 1940. High firerate, high consumption of ammunition and rapid overheating of the barrel—the necessary price for a high density of fire. This is a medium-quality weapon.
-A Soviet submachine gun designed by G. Shpagin. It was adopted in December of 1940. High firerate, high consumption of ammunition and rapid overheating of the barrel—the necessary price for a high density of fire. This is a high-quality weapon.
-Soviet pistol ammo. Suitable for: Nagant, TT, PPSh – 41.
-A Soviet light machine gun. It was adopted in 1928 and used primarily as an infantry fire support weapon. This weapon looks worn from battle.
-A Soviet light machine gun. It was adopted in 1928 and used primarily as an infantry fire support weapon. This is a medium-quality weapon.
-A Soviet light machine gun. It was adopted in 1928 and used primarily as an infantry fire support weapon. This is a high-quality weapon.
-A Soviet double-barreled shotgun. "Solid, comfortable, reasonably built gun with a reliable curtain, good locks, a strong profile of barrels and a beautiful shape of the lodge." - S.A. Buturlin. This weapon looks worn from battle.
-A Soviet double-barreled shotgun. "Solid, comfortable, reasonably built gun with a reliable curtain, good locks, a strong profile of barrels and a beautiful shape of the lodge." - S.A. Buturlin. This is a medium-quality weapon.
-A Soviet double-barreled shotgun. "Solid, comfortable, reasonably built gun with a reliable curtain, good locks, a strong profile of barrels and a beautiful shape of the lodge." - S.A. Buturlin. This is a high-quality weapon.
-A Soviet single-barrel external rifle developed in 1924. It is modified from the American "Iver Johnson" model. This weapon looks worn from battle.
-A Soviet single-barrel external rifle developed in 1924. It is modified from the American "Iver Johnson" model. This is a high-quality weapon.
-A Soviet single-barrel external rifle developed in 1924. It is modified from the American "Iver Johnson" model. This is a medium-quality weapon.
-The Soviet Government and its head, Comrade Stalin, have authorized me to make the following statement: Today at 4 o'clock AM, without any claims having been presented to the Soviet Union, without a declaration of war, German troops attacked our country, attacked our borders at many points and bombed from their airplanes our cities Zhitomir, Kiev, Sevastopol, Kaunas and some others, killing and wounding over two-hundred persons. There were also enemy air raids and artillery shelling from Romanian and Finnish territory...
-The contents of the bottle may be interesting to enemies.
-Has anything you'd need to help a wounded fighter. Recovers a huge amount of HP.
-Contains everything a wounded soldier needs to become combat-ready again. Restores a large amount of health.
-Crafting a trap
-Crafting a makeshift grenade
-Crafting a makeshift mine
-Crafting a medical bag
-Craft "Painkillers"
-Reduce weapon reload time by 15%.
-Decreased ability cooldown.
-Decreased ability cooldown. Increased number of ability uses during mission.
-Using environment II
-Hiding corpses II
-Soldier
-The war goes on even when the soldier is asleep.
-A soldier's talisman. A bullet from the first clip, which is supposed to be shot right after the soldier returns from the war.
-Wehrmacht Soldiers
+﻿Muito mais difícil de acertar o alvo
+Muito mais difícil de acertar o alvo, a visão do inimigo é ruim
+Dificuldade:
+Braço quebrado.
+Arma quebrada
+Armas quebradas podem ser desmontadas.
+Slot de equipamento
+Aqui você pode cozinhar usando os suprimentos obtidos durante as missões.
+Notícias da linha de frente
+Ouvi dizer que Zobel tortura os prisioneiros pessoalmente.
+Nós ouvimos falar de você. Você está indo muito bem.
+Criar granada
+Inteligência
+Inteligência I
+Inteligência II
+Inteligência III
+Morte ao opressor!
+Chegou a hora dos fascistas.
+Traidores devem morrer
+A morte está sobre você! Pense em suas famílias! Renda-se agora!
+Uma mistura de gasolina e querosene em uma elegante garrafa de vidro. Deve ser ligado antes do uso.
+Smolensk foi assumido pelo inimigo, apesar da resistência desesperada de nossos exércitos. As tropas de Hitler iniciam a marcha em direção a Moscou.
+Esses desgraçados fugiram!
+Atiradores de elite
+Equipamento
+Você pode equipar seus soldados no armazém. Lembre-se de que cada item selecionado tem um custo específico e um número limitado de pontos de armazenamento.
+Você tem que gastar pontos de armazém para equipar sua equipe para cada missão.
+No início, os alemães não foram tão cruéis; eles nos deram empregos estranhos. Fui enviado junto com outros moradores para cavar trincheiras anti-tanque. Mandaram um soldado alemão para ficar de olho em nós e no final, acabamos ajudando-o. Ele nos explicou que não se importava se trabalhássemos. Ele nunca quis ir para a guerra e tinha uma família em casa esperando por ele, então tivemos que fazer todo o possível para que os alemães não o substituíssem por alguém mais severo.
+Os partisans são sempre perseguidos por esquadrões da morte.
+De volta à batalha
+Eles vieram para nos roubar novamente.
+Eles já estão virando tudo de cabeça para baixo novamente.
+Eles vão nos forçar a assistir a execução novamente.
+Sonífero
+Eu não recomendo que você me enfrente.
+Cão
+Eles deveriam morrer como porcos.
+Cães
+Os cães inimigos podem detectar partisans, mesmo quando eles estão no mato ou sob cobertura. Em combate, eles atacam instantaneamente. Uma boa maneira de enganar os cães é distraí-los com cheiros fortes, como tabaco.
+Reúnam-se e lutem!
+Recolher
+Enchemos um saco inteiro com raízes e vegetais.
+Encontramos tubérculos e vegetais ligeiramente podres.
+Colhemos frutas silvestres.
+Recolhemos vários cestos de bagas.
+Pegamos os ovos.
+Vamos conservar os cogumelos.
+Colete mel de cada colmeia no apiário
+Montar esquadrão
+Obtenha explosivos intactos
+Recolher os ovos.
+Colete/desarme todas as minas nos campos
+Atividade concluída
+Atividade falida
+Eventos
+Realize 10 esquivas.
+Você não pode sobreviver apenas com a consciência limpa!
+Uma consciência limpa não pode alimentá-lo quando você está morrendo de fome!
+Um rifle automático soviético que foi criado por S. Simonov e começou a ser usado em 1936. Possui uma cadência de tiro muito alta e um modo de disparo que pode ser usado em situações de emergência. Esta arma parece estar gasta pelo uso.
+Um rifle automático soviético que foi criado por S. Simonov e começou a ser usado em 1936. Possui uma cadência de tiro muito alta e um modo de disparo que pode ser usado em situações de emergência. É uma arma de qualidade média.
+Um rifle automático soviético que foi criado por S. Simonov e começou a ser usado em 1936. Possui uma cadência de tiro muito alta e um modo de disparo que pode ser usado em situações de emergência. É uma arma de alta qualidade.
+Panfleto soviético #1
+Panfleto soviético #2
+Panfleto soviético #3
+Um rifle militar soviético com carregador interno, que começou a ser usado em 1891. Este rifle provou sua eficácia e confiabilidade inúmeras vezes nas condições mais extremas. Esta arma parece estar gasta pelo uso.
+Um rifle militar soviético com um carregador interno que começou a ser usado em 1891. Este rifle provou sua eficácia e confiabilidade nas condições mais extremas inúmeras vezes. É uma arma de qualidade média.
+Um rifle militar soviético com carregador interno, que começou a ser usado em 1891. Este rifle provou sua eficácia e confiabilidade inúmeras vezes nas condições mais extremas. É uma arma de alta qualidade.
+Granada defensiva soviética.
+Munição para rifle soviético. Pode ser usado com: Mosin Rifle, Lewis Gun, AVS - 36 e DP - 27.
+Uma submetralhadora soviética projetada por G. Shpagin. Começou a ser utilizado em dezembro de 1940. Possui um alto índice de tiro, um alto consumo de munições e o cano superaquece rapidamente, embora seja o preço a pagar por tamanha densidade de tiros. Esta arma parece estar gasta pelo uso.
+Uma submetralhadora soviética projetada por G. Shpagin. Começou a ser utilizado em dezembro de 1940. Possui um alto índice de tiro, um alto consumo de munições e o cano superaquece rapidamente, embora seja o preço a pagar por tamanha densidade de tiros. É uma arma de qualidade média.
+Uma submetralhadora soviética projetada por G. Shpagin. Começou a ser utilizado em dezembro de 1940. Possui um alto índice de tiro, um alto consumo de munições e o cano superaquece rapidamente, embora seja o preço a pagar por tamanha densidade de tiros. É uma arma de alta qualidade.
+Munição de pistola soviética. Pode ser usada com Nagant, TT e PPSh - 41.
+Uma metralhadora leve soviética. Foi adotado em 1928 e é usado principalmente como uma arma de fogo de cobertura para a infantaria. Esta arma parece estar gasta pelo uso.
+Uma metralhadora leve soviética. Foi adotado em 1928 e é usado principalmente como uma arma de fogo de cobertura para a infantaria. É uma arma de qualidade média.
+Uma metralhadora leve soviética. Foi adotado em 1928 e é usado principalmente como uma arma de fogo de cobertura para a infantaria. É uma arma de alta qualidade.
+Uma espingarda soviética de cano duplo. "Uma arma robusta, confortável e bem construída, com uma cortina confiável, bons gatilhos, canos robustos e um formato bonito." S. A. Buturlin. Esta arma parece estar gasta pelo uso.
+Uma espingarda soviética de cano duplo. "Uma arma robusta, confortável e bem construída, com uma cortina confiável, bons gatilhos, canos robustos e um formato bonito." S. A. Buturlin. É uma arma de qualidade média.
+Uma espingarda soviética de cano duplo. "Uma arma robusta, confortável e bem construída, com uma cortina confiável, bons gatilhos, canos robustos e um formato bonito." S. A. Buturlin. É uma arma de alta qualidade.
+Um rifle soviético com um único cano externo que foi desenvolvido em 1924. É uma modificação do modelo americano "Iver Johnson". Esta arma parece estar gasta pelo uso.
+Um rifle soviético com um único cano externo que foi desenvolvido em 1924. É uma modificação do modelo americano "Iver Johnson". É uma arma de alta qualidade.
+Um rifle soviético com um único cano externo que foi desenvolvido em 1924. É uma modificação do modelo americano "Iver Johnson". É uma arma de qualidade média.
+O governo soviético e seu chefe, Comrade Stalin, autorizaram-me a declarar o seguinte: hoje às 4 horas da manhã, sem qualquer exigência sendo apresentada à União Soviética, sem uma declaração de guerra, tropas alemãs atacaram nosso país. Eles atacaram muitos pontos em nossas fronteiras e bombardearam com seus aviões as cidades de Yitomir, Kiev, Sebastopol e Kaunas, entre outras, matando e ferindo mais de duzentos pessoas. Houve também ataques aéreos e bombardeios de artilharia do território romeno e finlandês...
+O conteúdo da garrafa pode ser interessante para os inimigos.
+Tem tudo que você precisa para ajudar um lutador ferido. Recupera uma grande quantidade de HP.
+Ele contém tudo que um soldado ferido precisa para se preparar para o combate novamente. Restaura uma grande quantidade de saúde.
+Construir uma armadilha
+Construir uma granada improvisada
+Construir uma mina improvisada
+Construir um kit médico
+Construir um "analgésicos"
+Reduz o tempo de recarga da arma em 15%.
+Tempo de recarga de habilidade reduzido
+Tempo de recarga de habilidade reduzido. Aumente o número de usos de uma habilidade durante a missão.
+Uso do ambiente II
+Ocultar cadáveres II
+Soldado
+A guerra não para quando o soldado está dormindo.
+O talismã de um soldado. É uma bala de seu primeiro cartucho e você deve dispará-la logo depois de voltar da guerra.
+Soldados da Wehrmacht
