@@ -39,7 +39,7 @@ Cães
 Os cães inimigos podem detectar partisans, mesmo quando eles estão no mato ou sob cobertura. Em combate, eles atacam instantaneamente. Uma boa maneira de enganar os cães é distraí-los com cheiros fortes, como tabaco.
 Reúnam-se e lutem!
 Recolher
-WEnchemos um saco inteiro com raízes e vegetais.
+Enchemos um saco inteiro com raízes e vegetais.
 Encontramos tubérculos e vegetais ligeiramente podres.
 Colhemos frutas silvestres.
 Recolhemos vários cestos de bagas.
