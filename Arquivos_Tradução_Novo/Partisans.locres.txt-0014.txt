@@ -1,100 +1,100 @@
-﻿Workshop
+﻿Oficina
 Mauser 98K
 Mauser K96
-Medic
-Medicine
-Medical Tent
-Medical bag
-Medical splint
-Medical resources
-Medicine:
-Rumor has it that Mellenberg was in a burning tank.
-Mill
-Fewer warehouse points.
-Camp menu
-A Polizei beat me up.
-The locals appreciate your help. The sick people are getting better.
-The villagers appreciate your help. They have enough to eat now and won't starve to death.
-The locals appreciate your help so much they consider establishing their own partisan unit.
-The locals appreciate your help. Firewood for their hearths will keep them warm.
-The locals don't trust your words. It seems they consider the tales of your feats to be considerably embellished.
-The Spanish troops quartered in the village aren't anything like the Germans. They're fond of drinking and gambling. We should mess with their hooch: Some peaceful casualties will come in handy.
-Word on the street is that a Soviet airstrike destroyed a convoy of trucks in the middle of the night. While the Fascists are busy dealing with the consequences, we have a chance to attack and capture the cargo.
-Local rumors
-The local Polizei freeloader Yegor is having a huge wedding celebration. We must pay him a visit.
-You have limited space in your inventory. To make room, select an item with your mouse, then drag-and-drop it to another partisan's character portrait to give it to them. Or, you can click the RMB, select "Hand over," and choose the partisan you want to give the item to.
-Crash Site
-Injuries can be treated here.
-A place for your partisans to gather and discuss important topics.
-Natrium metamizole
-Mine
-Mines deal area damage, but it's difficult to place them effectively.
-A mine assembled in the field. It's not as destructive, but you can put it together with whatever materials you have at hand.
+Médico
+Medicamento
+Tenda Médica
+Maleta médica
+Tala médica
+Recursos médicos
+Medicamento:
+Rumores dizem que Mellenberg estava em um tanque em chamas.
+Moinho
+Menos pontos de armazéns.
+Menu do acampamento
+Um Polizei me bateu.
+Os moradores locais agradecem a sua ajuda. Os doentes estão melhorando.
+Os aldeões agradecem sua ajuda. Eles têm o suficiente para comer agora e não morrerão de fome.
+Os moradores locais gostaram tanto sua ajuda que consideram estabelecer sua própria unidade partisan.
+Os moradores locais agradecem a sua ajuda. A lenha para suas lareiras os manterá aquecidos.
+Os moradores locais não confiam em suas palavras. Parece que eles acham que seus feitos são todos muito mentirosos.
+As tropas espanholas aquarteladas na aldeia não se parecem em nada com os alemães. Eles gostam de beber e jogar. Devíamos fazer uma baguncinha com sua bebida: Algumas vítimas pacíficas serão úteis.
+A notícia na rua é que um ataque aéreo soviético destruiu um comboio de caminhões no meio da noite. Enquanto os fascistas estão ocupados lidando com as consequências, temos a chance de atacar e capturar a carga.
+Rumores locais
+Yegor, o sanguessuga local da Polizei, está dando uma grande festa de casamento. Devemos fazer uma visita a ele.
+Você tem limite de espaço em seu inventário. Para abrir espaço, selecione um item com o mouse e, em seguida, arraste e solte-o na foto do personagem escolhido para entregar o item a ele. Ou você pode clicar com o Botão Esquerdo do Mouse, selecionar "Entregar" e escolher o partisan para o qual deseja doar o item.
+Local do acidente
+Ferimentos podem ser tratados aqui.
+Um lugar para seus partisans se reunirem e discutirem assuntos importantes.
+Natrium metamizol
+Mina
+As minas causam dano de área, mas é difícil posicioná-las com eficácia.
+Uma mina montada no campo. Não é causa muita destruição, mas você pode colocá-la junto com qualquer material que tenha em mãos.
 Bomberman
-Mines and Tripwires
-Mines and tripwire explosives are a good way to get rid of patrols and large enemy formations. Performs best when placed in narrow passages.
+Minas e armadilhas
+Minas e armadilhas explosivas são uma boa maneira de se livrar de patrulhas e grandes formações inimigas. ÉSão melhores quando colocadas em passagens estreitas.
 Mikhailovo
-I need to see a doctor.
-The officer boots are fine, I guess.
-A dog with a good nose could come in handy.
-I want candy... even just a little bit.
-Can't talk to strangers.
-I'm scared!
-Multiple additional quests present
-Many base resources
-Modifiers
-Modified slide
-Reinforcements can be called in
-We might make it
-Could come in handy
-I might get lucky if I flee into the woods.
-Partisans still might save us.
-A clear conscience isn't my thing, obviously.
-Can be brewed instead of tea leaves.
-Can I shoot?
-Can only be used on those who are "Near death." Will revive your character.
-It's okay to relax now.
-May I join you?
-While my rookie husband falls back, I'm the one carrying the flag here!
-My home is my temple.
-My dad is a hero. He's going to save us all.
-Bam, you're dead.
-Well done!
-Well done, partisans! You killed the bastard, too.
-So you're silent?
-Morale
-Morale increased:
-Squad morale
-Squad  morale
-Squad morale will increase
-Squad morale will decrease
-Morale decreased:
+Eu preciso ver um médico.
+Eu acho que as botas do oficial estão boas.
+Um cachorro com um bom nariz pode ser útil.
+Eu quero doce... mesmo que só um pouquinho.
+Não posso falar com estranhos.
+Eu estou assustado!
+Várias missões adicionais presentes
+Muitos recursos básicos
+Modificadores
+Lâmina modificada
+Os reforços podem ser chamados em
+Podemos fazer isso
+Pode vir a calhar
+Posso ter sorte se fugir para a floresta.
+Os Partisans ainda podem nos salvar.
+Uma consciência limpa não é minha praia, obviamente.
+Pode ser fabricado em vez de folhas de chá.
+Posso atirar?
+Só pode ser usado em pessoas que estão "perto da morte". Irá reviver seu personagem.
+Tudo bem para relaxar agora.
+Posso me juntar a você?
+Enquanto meu marido novato cai para trás, sou eu que carrego a bandeira aqui!
+Minha casa é meu templo.
+Meu pai é um herói. Ele vai salvar todos nós.
+Bam, você está morto.
+Bem feito!
+Muito bem, Partisans! Vocês mataram o bastardo também.
+Então você está em silêncio?
+Moral
+Moral aumentada:
+Moral do esquadrão
+Moral do esquadrão
+A moral do esquadrão vai aumentar
+A moral do esquadrão vai diminuir
+Moral diminuiu:
 Morozov
 Grigory Stepanovich Morozov 
-Morozov, Grigory Stepanovich. Age: 33. Grew up in a troubled family in Mogilev, Byelorussian Soviet Socialist Republic. Career criminal and alcoholic with multiple convictions. Lives by the criminal code. Was serving time in a local prison when the war broke out. Assigned to a defensive construction crew; escaped during a German air strike.
-Morozov was absent all night. He showed up in the morning with a deep cut and a bag full of supplies.
-Bridge
-The motorcyclist will drive into the wire and lose balance. When he falls, you can either kill him or take him prisoner.
-Finish them off!
-My husband's in the army now, running away.
-My husband is at war.
-We can relax now.
+Morozov, Grigory Stepanovich. Idade: 33. Cresceu em uma família problemática em Mogilev, República Socialista Soviética da Bielo-Rússia. Criminoso de carreira e alcoólatra com múltiplas condenações. Vive pelo código penal. Estava cumprindo pena em uma prisão local quando a guerra estourou. Atribuído a uma equipe de construção defensiva; escapou durante um ataque aéreo alemão.
+Morozov esteve ausente a noite toda. Ele apareceu de manhã com um corte profundo e uma sacola cheia de suprimentos.
+Ponte
+O motociclista irá bater no arame e perderá o equilíbrio. Quando ele cair, você pode matá-lo ou levá-lo como prisioneiro.
+Acabe com eles!
+Meu marido está no exército agora, fugindo.
+Meu marido está em guerra.
+Podemos relaxar agora.
 Valentina Alievna Mukhambetova
-Mukhambetova, Valentina Alievna. Age: 21. Born to a Kazakh father and a Russian mother in Leninsky village, Kazakh Autonomous Socialist Soviet Republic. A member of Komsomol. Former student of pediatrics in Alma-Ata medical college. Went off to war together with her fellow students and was assigned to a medical battalion as a nurse.
-Follow us on:
-We let everyone down.
-We took the food. We needed it to fight, and the owner of the stash may well have been long dead.
-We captured a Polizei, but couldn't get any information from him. He seems to be scared of someone else more than us.
-We managed to build a makeshift grenade from whatever was available.
-We managed to build a makeshift landmine from whatever was available.
-Wishlist us now on Steam!
-We recommend you complete the tutorial before starting the operations. Are you sure you want to select this game mode?
-We found the pilot and took him to Vasily Gavrilovich's friends.
-We decided not to help the refugees with their camp: We needed our strength for combat.
-We've done nothing to you!
-We were searching a fortified area defended by our troops when the Germans suddenly showed up. Looks like somebody spotted us and reported back to the garrison. We need to get out of here before more of them come after us.
-We explained the basics of the partisan operations to the locals.
-We told the locals of our successes in the fight against the occupants. Let them know we're not wasting food and supplies on nothing.
-You cooked delicious rations.
-We put together a medical bag with everything the wounded would need.
-The mice have been at the food.
+Mukhambetova, Valentina Alievna. Idade: 21 anos. Filha de pai cazaque e mãe russa na vila de Leninsky, República Socialista Soviética  Autônoma do Cazaquistão. Um membro do Komsomol. Ex-estudante de pediatria na faculdade de medicina de Alma-Ata. Foi para a guerra junto com seus colegas estudantes e foi designada para um batalhão médico como enfermeira.
+Siga-nos em:
+Nós decepcionamos todo mundo.
+Pegamos a comida. Precisávamos disso para lutar, o dono do esconderijo pode estar morto.
+Capturamos um Polizei, mas não conseguimos nenhuma informação dele. Ele está se cagando de medo, mas não de nós.
+Conseguimos construir uma granada improvisada com o que estava disponível.
+Conseguimos construir uma mina terrestre improvisada com o que estava disponível.
+Adicione a sua lista de desejos na Steam!
+Recomendamos que você conclua o tutorial antes de iniciar as operações. Tem certeza que deseja selecionar este modo de jogo?
+Encontramos o piloto e o levamos aos amigos de Vasily Gavrilovich.
+Decidimos não ajudar os refugiados com seu acampamento: precisávamos de toda força disponível para o combate.
+Não fizemos nada para você!
+Estávamos vasculhando uma área fortificada defendida por nossas tropas quando os alemães apareceram de repente. Parece que alguém nos viu e informou a guarnição. Precisamos sair daqui antes que eles venham atrás de nós.
+Explicamos os fundamentos das operações partisans aos habitantes locais.
+Contamos aos habitantes locais o nosso sucesso na luta contra os ocupantes. Deixe-os saber que não estamos desperdiçando comida e suprimentos com nada.
+Você cozinhou rações deliciosas.
+Montamos uma maleta médica com tudo o que os feridos precisariam.
+Os ratos estavam na comida.
