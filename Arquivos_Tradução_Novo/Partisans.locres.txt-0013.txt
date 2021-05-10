@@ -1,100 +1,100 @@
-﻿There's so much blood!
-Haemostatic powder
-Goddamned bloodsuckers! They're taking what little we have left.
-Some locations may be equipped with sirens: If activated, a siren will raise an alarm in a large area.
-The Crimea is completely under Fascist control. Or so the Fascists think: The peninsula is a perfect environment for partisan activities.
-Who is your contact?
-Those who permit the brigands to act, are no better than brigands themselves!
-Who threw this?
-No one has yet returned after being arrested and taken to prison.
-Who's there? 
-Who's so cheeky?
-They think they got themselves a full pardon?
-Where are all the pretty gals?
-Alexander Ivanovich Kuzmin  
-Kuzmin, Alexander Ivanovich. Age: 14. Local. Before the war, studied at school. Member of the Pioneer organization. Lost both parents to the Fascists. He lives in the forest with Trofim and dreams about avenging his family.
+﻿Há muito sangue!
+Pó hemostático
+Malditos sanguessugas! Eles estão roubando o pouco que nos resta.
+Alguns locais podem estar equipados com sirenes: Se ativada, uma sirene irá soar um alarme em uma grande área.
+A Crimeia está totalmente sob controle fascista. Ou assim pensam os fascistas: a península é um ambiente perfeito para atividades partisans.
+Quem é seu contato?
+Aqueles que permitem que os bandidos ajam não são melhores do que os próprios bandidos!
+Quem jogou isso?
+Ninguém volta depois de ser levado para a prisão.
+Quem está aí?
+Quem é tão atrevido?
+Eles acham que conseguiram um perdão total?
+Onde estão todas as garotas bonitas?
+Alexander Ivanovich Kuzmin
+Kuzmin, Alexander Ivanovich. Idade: 14. Local. Antes da guerra, estudava na escola. Membro da organização Pioneira. Perdeu os pais para os fascistas. Ele mora na floresta com Trofim e sonha em vingar sua família.
 Kulagin
-Kulagin has heard from his acquaintances that every person in town is forced to work for the occupants. Any kinds of sabotage lead to immediate execution. The people are fleeing; the town's population has shrunk considerably.
-A Little Culture
-Smoking is very bad for your health. Don't smoke.
-I want a smoke.
-Henhouse
-Makeshift grenade
-Makeshift mine
-Kitchen
-I'm hungry.
-LEGEND
-PERSONAL
-LMB - start action (set up actions in tactical pause)
-LMB+Shift - set up a sequence of actions
-Kerosene lamp
-Lamp that works on kerosene. They're used everywhere.
-Legendary
-Logging site
-Sawmill
-Sawmill 
-Healing
-Treatment
-Recovering from injuries received during missions.
-Healing complete
-Treat
-False partisan
-Liar!
-The lying German leaflets are down! They won't mislead people any longer.
-Rain, fog, snowfall
-Kill the propagandist
-Eliminate mayor
-Eliminate all village heads
-Kill the officer
-Eliminate the village head
-We replaced the propagandists' leaflets with our own. The townsfolk now know that the partisans are close by.
-I just hope they won't start shooting.
-I just hope my kids will be okay.
-Dodger I
-Dodger II
-Down!
-Reduce Max Range
-A shovel is a great tool for close combat. It can protect you against your enemy's blows; it can deflect bayonet attacks; and its sharp edges make it a serious cutting weapon. A shovel is especially valuable during melee in tight spaces.
-Losinoe lake
-I'd rather stay inside.
-Every enemy in the game has a cone of vision. Move your cursor to an enemy and press RMB to see it. Keep out of the cone and don't be caught!
-No matter what
-Leave them folks be!
+Kulagin ouviu de seus conhecidos que todas as pessoas na cidade são forçadas a trabalhar para os ocupantes. Qualquer tipo de sabotagem leva à execução imediata. As pessoas estão fugindo; a população da cidade diminuiu consideravelmente.
+Um pouco de cultura
+Fumar faz muito mal à saúde. Não fume.
+Eu queria fumar.
+Galinheiro
+Granada improvisada
+Mina improvisada
+Cozinha
+Eu estou com fome.
+LENDA
+PESSOAL
+Botão Esquerdo do Mouse - iniciar ação (configurar ações em pausa tática)
+Botão Esquerdo do Mouse + Shift - configurar uma sequência de ações
+Lâmpada de querosene
+Lâmpada que funciona com querosene. Eles são usados em todos os lugares.
+Lendário
+Local de registro
+Serraria
+Serraria
+Curando
+Tratamento
+Recuperando-se de ferimentos recebidos durante as missões.
+Recuperação completa
+Tratar
+Partisan falso
+Mentiroso!
+Os panfletos mentirosos alemães caíram! Eles não vão mais enganar as pessoas.
+Chuva, neblina, neve
+Mate o panfletista
+Elimine o prefeito
+Elimine todos os chefes de aldeia
+Mate o oficial
+Elimine o chefe da aldeia
+Substituímos os panfletos dos inimigos pelos nossos. Os habitantes da cidade agora sabem que os partisans estão por perto.
+Só espero que eles não comecem a atirar.
+Só espero que meus filhos estejam bem.
+Trapaceiro I
+Trapaceiro II
+Abaixe!
+Reduzir intervalo máximo
+Uma pá é uma ótima ferramenta para combate corpo a corpo. Pode protegê-lo contra os golpes do inimigo; pode desviar ataques de baioneta; e suas pontas afiadas a tornam uma arma de corte. Uma pá é especialmente valiosa durante combates corpo a corpo em espaços apertados.
+Lago Losinoe
+Prefiro ficar dentro de casa.
+Cada inimigo no jogo tem um cone de visão. Mova o cursor para um inimigo e pressione o Botão Direito do Mouse para vê-lo. Fique fora do cone e não seja pego!
+Não importa o que
+Deixe-os em paz!
 M30 Luftwaffe
-OUT OF BULLETS
-MG – 34
-MEDICAL DUGOUT
-MENU
-MONTH
-MISSION
-MISSION COMPLETED
-MISSION FAILED
-MODIFIERS
-SQUAD MORALE
-MP – 40
-Max distance
-Max. distance
-Maximum morale
-Vastly increases the amount of HP recovered when using medkits.
-Greatly increased speed of killing any enemy while in stealth. Greatly increased chance of winning melee fights.
-Vastly increased chance to hit using rifles.
-Vastly increased chance to hit using SMGs.
-Vastly increased chance to hit using pistols.
-Vastly increased chance to hit using heavy machine guns and stationary weapons.
-Vastly increased chance to hit using shotguns.
-Maximum character defense bonus while sprinting.
-Maximum chance to hit during ambush mode [Y].
-A squad can have 1-4 partisans based on the selected mission.
-Max Damage
-Mom tells me to stay home, but I want to go out.
-Mom is always crying. I feel sorry for her.
-Mom says granny will never come back.
-Mommy is at work. It's scary to be alone.
-Mommy, I'm scared.
-Mommy!
-Oh dear!
-They killed my mom and dad.
-Disguise
-I'm out of slugs.
-Workshop  
-Workshop 
+SEM BALAS
+MG - 34
+ABRIGO MÉDICO
+CARDÁPIO
+MÊS
+MISSÃO
+MISSÃO COMPLETADA
+MISSÃO FRACASSADA
+MODIFICADORES
+MORAL DO ESQUADRÃO
+MP - 40
+Distância máxima
+Máx. distância
+Moral máxima
+Aumenta a quantidade de Vida recuperada ao usar kits médicos.
+Velocidade aumentada ao matar inimigos em modo furtivo. Maior chance de ganhar lutas corpo a corpo.
+Maior chance de acerto com rifles.
+Maior chance de acerto usando SMGs.
+Maior chance de acerto com pistolas.
+Maior chance de acerto usando metralhadoras pesadas e armas fixas.
+Maior chance de acerto com espingardas.
+Bônus máximo de defesa do personagem durante a corrida.
+Chance máxima de acerto durante o modo de emboscada [Y].
+Um esquadrão pode ter de 1 a 4 partisans com base na missão selecionada.
+Dano máximo
+Mamãe me diz para ficar em casa, mas eu quero sair.
+Mamãe está sempre chorando. Eu sinto muito por ela.
+Mamãe diz que a vovó nunca vai voltar.
+A mamãe está trabalhando. É assustador ficar sozinho.
+Mamãe, estou com medo.
+Mamãe!
+Oh céus!
+Eles mataram minha mãe e meu pai.
+Disfarce
+Já não tenho balas.
+Oficina
+Oficina
