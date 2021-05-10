@@ -30,7 +30,7 @@ Glossário
 | Fan Shots | disparo em cone | Disparo de arma de fogo que atinge mais de um inimigo |
 | punisher commander | comandante justiceiro | Melhor tradução que achei |
 | clip | Carregador | Carregador da arma |
-| Evasion roll | manobras evasivas | Melhor tradução que achei |
+| Evasion roll | manobrar de esquiva | Melhor tradução que achei |
 | Long burst | Explosão longa | Melhor tradução que achei |
 | Buckshot | Chumbo grosso | Melhor tradução que achei |
 

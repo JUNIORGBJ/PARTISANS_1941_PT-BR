@@ -1,100 +1,100 @@
-﻿Hurray! It's the partisans!
-storm
-Complexity level
-Complexity level: {difficulty}
-Wounded partisans can die if they don't get treatment in time. Saving during missions is blocked. Tactical mode doesn't slow time.
-Enemy and partisan health is very low. Every combat is a serious challenge. Dogs are very dangerous.
-The harvest is rotting out there.
-Damage
-Farmstead
-Reinforced spring
-Reinforce the patrols!
-Moves faster while using the Evasion roll ability
-Did my family have a chance to evacuate?
-Make it before the SS squad arrives
-Success
-Fatigue
-Plant explosives
-We chose not to set up an ambush. We had bigger fish to fry.
-Eliminate locomotive brigade
-We ambushed the cart and liberated the food. We can have a hearty meal tonight.
-The next morning, we found a hare in the trap hole.
-The next morning, we found elk traces near the base. We could try to track it down.
-Ugh, blasted scum!
-The fish stew is very good.
-Taking care of your personal weapon is what distinguishes a civilized person from a Neanderthal.
-Oof... It was a big bang!
-Accounting and Control
-I'd walk off into the woods and join the partisans if I didn't have to feed my family.
-I'd walk off into the woods and join the partisans if I didn't have to feed my kids.
-The Fascists have surrounded Sevastopol and the main base of the Black Sea Fleet. The city is mounting a valiant defense.
-The Fascists unload their grain at the local mill. Vasily Gavrilovich thinks that the miller is a good person. We should visit the mill and see if he can store some flour for us.
-The Fascists are hunting down the fugitives.
-The Fascists are using P.O.W.'s at the sawmill. The locals say they treat them brutally. We need to help them escape—and sabotage their equipment while we're at it.
-The Fascists are forcing people into the fields to harvest whatever is left out there. The crops will be sent to the front. We can't hijack the food train, but we can poison the provisions ready for shipment.
-The Fascists set an ambush in the village. We spotted it in time and managed to escape. We didn't get any information.
-The Fascists set an ambush in the village. We barely escaped.
-They treat us like slaves.
-The Fascists are looking for partisans.
-Fascists have shut down almost every school in the district. The ones remaining are teaching just four classes—as much as the Russian people need to know, according to their "new masters".
-The Fascists are fixing an old fortress that used to be a prison long ago. People are saying they are forcing the prisoners of war to do this—building their own future holding cells.
-The Fascists are conducting public executions, using every excuse imaginable. Every day someone gets killed.
+﻿Viva! São os partisans!
+tempestade
+Nível de dificuldade
+Nível de dificuldade: {difficulty}
+Um Partisan gravemente ferido pode morrer se não receber tratamento a tempo. A opção de salvar o jogo durante as missões está bloqueada. O modo tático não diminui o tempo.
+A saúde do inimigo e dos partisans estão muito baixa. Todo combate pode ser um problema. Os cães são muito perigosos.
+As colheitas estão apodrecendo lá fora.
+Dano
+Casa de campo
+Mola reforçada
+Reforce as patrulhas!
+Move-se mais rápido ao usar a habilidade manobrar de esquiva
+Minha família teve a chance de evacuar?
+Faça isso antes que o esquadrão SS chegue
+Éxito
+Fadiga
+Coloque os explosivos
+Decidimos não fazer uma emboscada. Tínhamos peixes maiores para pescar.
+Elimine a brigada de locomotivas
+Emboscamos o carro e recuperamos a comida. Hoje à noite, podemos jantar adequadamente.
+Na manhã seguinte, encontramos uma lebre na armadilha do fosso.
+Na manhã seguinte, vimos uma trilha de alces perto da base. Nós poderíamos segui-lo.
+Ugh, maldita escória!
+A caldeirada é muito boa.
+Cuidar de sua arma pessoal é o que distingue uma pessoa civilizada de um Neandertal.
+Uf... Foi uma grande explosão!
+Contabilidade e Controle
+Se não fosse pelo fato de ter que alimentar minha família, eu iria para a floresta e me juntaria aos partisans.
+Se não fosse pelo fato de ter que alimentar meus filhos, eu iria para a floresta e me juntaria aos partisans.
+Os fascistas cercaram Sebastopol e a base principal da Frota do Mar Negro. A cidade está organizando uma defesa feroz.
+Os fascistas descarregam os grãos no moinho local. Vasily Gavrilovich acredita que o moleiro é uma boa pessoa. Devíamos fazer uma visita a ele, ver se ele pode nos economizar um pouco de farinha.
+Os fascistas estão caçando os fugitivos.
+Os fascistas estão usando prisioneiros de guerra na serraria. Os locais dizem que são brutalizados. Temos que ajudá-los a escapar e sabotar a equipe dos fascistas.
+Os fascistas estão forçando os camponeses a colher o pouco que resta lá fora. As colheitas serão enviadas para a frente. Não podemos sequestrar o trem com comida, mas podemos envenenar os suprimentos que estão prontos para envio.
+Os fascistas nos emboscaram na vila. Nós os vimos a tempo e conseguimos escapar, mas não obtivemos nenhuma informação.
+Os fascistas nos emboscaram na vila. Por pouco conseguimos escapar.
+Eles nos tratam como escravos.
+Os fascistas procuram partisans.
+Os fascistas fecharam praticamente todas as escolas do distrito. As que ainda estão abertas dão apenas quatro aulas. De acordo com os novos professores, eles são tudo o que os russos precisam saber.
+Os fascistas estão consertando uma velha fortaleza que anos atrás era uma prisão. As pessoas dizem que estão forçando os prisioneiros de guerra a fazer isso, construindo assim suas células futuras.
+Os fascistas estão usando todas as desculpas imagináveis ​​para realizar execuções públicas. Eles matam pessoas todos os dias.
 Fetisov
 Nikolay Alexandrovich Fetisov
-Fetisov, Nikolay Alexandrovich. Age: 24. Born in Leningrad into a worker's family. Decathlete. Student of Lesgaft University of Sport and Health. Joined the army under the Komsomol draft call in the first week of war. He was a sergeant in Captain Zorin's company.
-Fetisov managed to hurt his hand while fixing the roof. It'll show him to watch where the hammer falls.
-Fetisov shoots everyone within range of the ability cone. Requires an SMG.
+Fetisov, Nikolay Alexandrovich. Idade: 24. Ele nasceu em Leningrado, em uma família de classe trabalhadora. Decathlonist. Ele estudou na Universidade de Educação Física e Saúde de Lesgaft. Ele ingressou no exército na primeira semana da guerra, com o recrutamento do Komsomol. Ele era um sargento na companhia do capitão Zorin.
+Fetisov machucou a mão ao consertar o telhado. Desta forma, você aprenderá a olhar de perto onde bate o martelo.
+Fetisov atira em todos dentro do alcance do cone de habilidade. Requer uma metralhadora.
 Fomin
-German flashlight
-German film camera. Manufactured by Voigtlander since 1936.
-Voigtlander camera
-A picture of Fetisov's fiancée. The words "I'll wait for you. Nastya" are written in neat handwriting on the back.
-Photograph
-Photograph: "PzKpfw IV"
-Photograph: "Soviet Partisan Unit"
-Photograph: "The Crew at Muster"
-Film
-The Fascists are really annoyed. I shouldn't get in their way.
-We're the same as lice to the Germans.
-The Fascists steal everything they can get.
-Ew, one of my blisters burst.
-Biermeier is in charge of the foragers.
-Whew, that was nothing.
-Kharkiv, an important industrial center and railway hub, has fallen to the Germans after a month of intense battles. Most large factories were already evacuated, and the rest were destroyed, so they wouldn't fall into the enemy's hands.
-Surgeon kit
-Bread
-Chloroform I
-Chloroform II
-There are rumors that Commandant Mellenberg is planning to implement even more brutal counter-partisan measures. What does that bastard have in mind?
-Craft and Supply
-Utility buildings that will help the partisans avoid starvation.
-Household
-It's getting cold.
-Mining the roads can also give good results. Place mines at several different spots and camouflage them as best as you can, then hide so that you won't be harmed by the explosion yourself. Use every weapon in your arsenal to deal with whatever enemies remain after an encounter with your mines. Road mining is best performed during the night hours, just before dawn.
-Skilled doctor
-I'm glad my old man isn't alive to see this.
-Glad it wasn't me.
-Let everything be fine.
-Whether she likes it or not, she will be mine.
-God bless you.
-Keep it out of reach of children.
-Ugh, bloody partisans! I have to stick around because of them.
-Bloody partisans.
+Lanterna alemã
+Câmera de vídeo alemã. Fabricada pela Voigtlander desde 1936.
+Câmera Voigtlander
+Uma imagem da noiva de Fetisov. No verso, com uma bela caligrafia, está escrito: "Estarei à sua espera. Nastya".
+Fotografia
+Fotografia: "PzKpfw IV"
+Fotografia: "Unidade Partisans Soviética"
+Fotografia: "A equipe montada"
+Filme
+Os fascistas estão muito zangados. Eu não deveria atrapalhar.
+Para os alemães, estamos no nível dos piolhos.
+Os fascistas roubam tudo que podem encontrar.
+Eca, uma das minhas bolhas estourou.
+Biermeier está encarregado dos colecionadores.
+Ugh, não foi nada.
+Kharkiv, um importante centro industrial e pólo ferroviário, caiu nas mãos dos alemães após um mês de intensas batalhas. A maioria das grandes fábricas já foi evacuada e o resto foi destruído, para que não caíssem nas mãos do inimigo.
+Kit de cirurgia
+Pão
+Clorofórmio I
+Clorofórmio II
+Corre o boato de que o comandante Mellenberg pretende implementar medidas anti-partisan ainda mais drásticas. O que aquele bastardo tem em mente?
+Criação e suprimentos
+Edifícios utilitários que ajudarão os guerrilheiros a evitar a fome.
+Doméstico
+Está ficando frio.
+Preencher as estradas com minas pode valer a pena. Coloque as minas em vários lugares diferentes e camufle-as da melhor maneira possível; então proteja-se para que a explosão não o machuque. Use todo o seu arsenal para matar os inimigos que sobraram após a explosão de uma de suas minas. A melhor época para preencher as estradas com minas é à noite, pouco antes do nascer do sol.
+Médico habilidoso
+Fico feliz que meu velho não esteja vivo para ver isso.
+Felizmente não fui eu.
+Espero que tudo corra bem.
+Goste ou não, vai acabar sendo meu.
+Deus o abençoe.
+Mantenha fora do alcance de crianças.
+Ugh, malditos partisans! Eu tenho que ficar por aqui por causa deles.
+Malditos partisans.
 Khutor 
-I’ve been stuck here all day without any grub.
-Mission goal
-Personal mission goal
-Side mission goal
-The Center is planning an air strike on Krasnoselskaya station to destroy the cannon known as Slender Bertha. But first we must sneak into the station for a little sabotage.
-Focus camera on partisan after loading
-D-damn boots... I got blisters all over my feet!
-Tea is good at quenching thirst—and generally good for your health.
-1st-grade Indian tea
-Payback Time
-Some food has been spoiled as a result of the recent high humidity levels.
-Wristwatch
-What if the partisans attack?
-They just won't let it go.
-What else is there?
-Delicious rations are better.
-German trains carrying soldiers and vehicles are passing through Bogachevo. We should do something about it.
+Fiquei aqui o dia todo sem comer nada.
+Objetivo da missão
+Objetivo da missão pessoal
+Objetivo da missão secundaria
+O Centro planeja um ataque aéreo na estação Krasnoselskaya, com o objetivo de destruir o canhão conhecido como Slender Bertha. No entanto, devemos primeiro entrar furtivamente na estação para realizar uma pequena sabotagem.
+Concentrar a câmera no Partisan após o carregamento
+M-malditas botas... Meus pés estão cheios de bolhas!
+O chá é ótimo para matar a sede... e geralmente é bom para a saúde também.
+Chá indiano de 1ª qualidade
+Hora da vingança
+Alguns dos alimentos estragaram devido à alta umidade que temos tido recentemente.
+Relógio de pulso
+E se os partisans atacarem?
+Eles simplesmente não desistem.
+O que mais há?
+Quanto mais rica a comida, melhor
+Trens alemães, carregados de soldados e veículos, estão passando por Bogachevo. Devíamos fazer algo a respeito.
