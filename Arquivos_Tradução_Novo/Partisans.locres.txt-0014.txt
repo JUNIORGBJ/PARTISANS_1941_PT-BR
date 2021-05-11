@@ -30,7 +30,7 @@ Natrium metamizol
 Mina
 As minas causam dano de área, mas é difícil posicioná-las com eficácia.
 Uma mina montada no campo. Não é causa muita destruição, mas você pode colocá-la junto com qualquer material que tenha em mãos.
-Bomberman
+ANTI-BOMBA
 Minas e armadilhas
 Minas e armadilhas explosivas são uma boa maneira de se livrar de patrulhas e grandes formações inimigas. ÉSão melhores quando colocadas em passagens estreitas.
 Mikhailovo
