@@ -78,7 +78,7 @@ Moral máxima
 Aumenta a quantidade de Vida recuperada ao usar kits médicos.
 Velocidade aumentada ao matar inimigos em modo furtivo. Maior chance de ganhar lutas corpo a corpo.
 Maior chance de acerto com rifles.
-Maior chance de acerto usando SMGs.
+Maior chance de acerto usando submetralhadoras.
 Maior chance de acerto com pistolas.
 Maior chance de acerto usando metralhadoras pesadas e armas fixas.
 Maior chance de acerto com espingardas.
