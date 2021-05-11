@@ -10,12 +10,12 @@ Volume da voz
 Volume da música
 Volume dos efeitos
 d
-Borovitchy v.
-Grigorievka v.
-Ivanovka v.
-Mikhailovo v.
-Pogoreltsy v.
-Telegino v.
+Vila Borovitchy
+Vila Grigorievka
+Vila Ivanovka
+Vila Mikhailovo
+Vila Pogoreltsy
+Vila Telegino
 sim
 movimento e rotação da câmera
 recursos encontrados:
@@ -56,7 +56,7 @@ novo jogo
 novas tarefas
 nova construção
 Volume principal
-Qualidade grafica
+Qualidade gráfica
 Ostrovnoe l.
 Sosnovoe l.
 experiência
