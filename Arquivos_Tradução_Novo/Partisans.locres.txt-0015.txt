@@ -1,100 +1,100 @@
-﻿Kasli brand cast-iron meat grinders were famous not only at home, but in many countries abroad.
-Honey
-ON ACTIVITY
-TO MISSION
-SKILL WILL BE AVAILABLE LATER
-ABILITIES
-SKILLS
-REWARD
-BACK
-RETURN
-TO FEED PARTISAN
-TO FEED EVERYONE
+﻿Os moedores de carne da marca Kasli eram famosos não apenas em casa, mas em muitos países no exterior.
+Querida
+EM ATIVIDADE
+PARA A MISSÃO
+A HABILIDADE ESTARÁ DISPONÍVEL MAIS TARDE
+HABILIDADES
+HABILIDADES
+RECOMPENSA
+VOLTAR
+RETORNA
+PARA ALIMENTAR PARTISAN
+PARA ALIMENTAR TODOS
 CONFIGURAÇÕES
-NATIONALITY
-NOT ENOUGH WAREHOUSE POINTS!
-NOT ENOUGH SKILL POINTS
-NEUTRAL
-HAND OVER BLOCKED
-NO AVAILABLE MODIFIERS
-NO RESOURCES
-LOW
-GET TO THE STORAGE
-To Berlin!
-The partisans can be assigned various tasks around the camp. For example, to build a medical tent, you'd need to assign a partisan to construct it.
-Cranberries are ripe! We could gather some berries and store them for winter.
-A Сlose Сall
-For Action
-To global map
-The Fascists burned down a village some time ago. The villagers managed to flee and hide in the forest. Everyone survived, but they have nowhere to return to. Should we help the refugees build some temporary shelters?
-The Germans are constructing barracks near the railroad station. Let's wipe out their efforts.
-The railroad isn't that heavily guarded in the nearby forest. We could try to rip up the tracks.
-The railroad isn't that heavily guarded in the nearby forest. We could unscrew the bolts. No one would notice until a train is derailed.
-A train crashed into a truck at the rail crossing. If we wanna see what's on that train, we need to move—the Germans are going to get it up and running again in no time.
-They want our Ausweis at every turn!
-Additional K9, SS, and Wehrmacht patrols will appear, and there will be more messengers and alarms. Some enemies may be replaced with more dangerous ones.
-There are still some potatoes and cabbages left out in the field. We should gather them before they go to waste.
-There are mice in the kitchen! They're eating our food!
-Service dogs on patrol
-Weapons cache present
-During missions you can find grey-colored items. These items will be converted into resources after you exit the mission. You can spend your resources at the partisans' base.
-It hasn't been this bad in my lifetime, and I've lived long enough to remember the Tsar!
-We are under attack!
-A group of fugitives stumbled upon our base. They need food.
-During a hasty retreat, the Red Army left some pillboxes and cases of ammo at the defense line. We can't let that go to waste!
-Locals spotted a tank being delivered to a repair yard near the crossroads. Destroying the armored vehicle while it's under repair would be a good test of strength before you take things to the next level.
-They built gallows at the square.
-There are ducks at the lake. We could go hunting. However, we don't want to attract unwanted attention with gunfire.
-I didn't sign up for this.
-Biermeier's robbers are ravaging the grain elevator. The "procurement team" intends to take the entire kolkhoz's harvest. We must stop the raiders.
-You get fewer points for equipping your soldiers when forming your squad.
-During this mission, you will encounter: 
-Game information, hints, and completed tutorials are collected within this page.
-Ha! Drink some gasoline!
-A pious old lady told Kulagin that the Germans converted a church in the village of Pokrovskoye into a warehouse. It seems that they're storing their spoils of war there.
-We gathered and dried some medicinal herbs. We can also use them to make tea.
-We found a basket of mushrooms.
-We can cook some good stew.
-Hover over the box and click on the interaction icon. To select an item, drag it with your cursor, double-click with LMB or click "Take all."
-Melee combat skill
-Skills
+NACIONALIDADE
+PONTOS DE ARMAZÉM NÃO INSUFICIENTES!
+PONTOS DE HABILIDADE INSUFICIENTES
+NEUTRO
+ENTREGA BLOQUEADA
+SEM MODIFICADORES DISPONÍVEIS
+SEM RECURSOS
+BAIXO
+CHEGUE AO ARMAZENAMENTO
+Para Berlim!
+Os partisans podem receber várias tarefas no acampamento. Por exemplo, para construir uma tenda médica, você precisa designar um partisan para construí-la.
+As amoras estão maduras! Poderíamos colher algumas frutas e armazená-las para o inverno.
+Por pouco
+Para a ação
+Para o mapa global
+Os fascistas incendiaram uma aldeia há algum tempo. Os moradores conseguiram fugir e se esconder na floresta. Todos sobreviveram, mas eles não têm para onde voltar. Devemos ajudar os refugiados a construir alguns abrigos temporários?
+Os alemães estão construindo quartéis perto da estação ferroviária. Vamos acabar com todos eles.
+A ferrovia não está muito vigiada. Podemos tentar destruir os trilhos.
+A ferrovia não está muito vigiada. Podemos afrouxar os parafusos. Ninguém perceberia até que um trem descarrilasse.
+Um trem bateu em um caminhão no cruzamento ferroviário. Se quisermos ver o que está naquele trem, precisamos nos mover - os alemães vão colocá-lo em funcionamento novamente em um piscar de olhos.
+Eles pegam nossa carteira de identidade em todos os turnos!
+Novas patrulhas K9, SS e Wehrmacht aparecerão, e haverá mais mensageiros e alarmes. Alguns inimigos podem ser trocados por outros mais perigosos.
+Ainda há algumas batatas e repolhos deixados no campo. Devemos recolhê-los antes que sejam desperdiçados.
+Há ratos na cozinha! Eles estão comendo nossa comida!
+Cães de serviço em patrulha
+Esconderijo da arma
+Durante as missões, você pode encontrar itens de cor cinza. Esses itens serão convertidos em recursos depois que você sair da missão. Você pode gastar seus recursos na base dos partisans.
+Minha vida não tem sido muito ruim e vivi o suficiente para me lembrar do czar!
+Estamos sob ataque!
+Um grupo de fugitivos chegou em nossa base. Eles precisam de comida.
+Durante uma retirada apressada, o Exército Vermelho deixou algumas casamatas e caixas de munição na linha de defesa. Não podemos deixar isso ir para o lixo!
+Os moradores locais viram um tanque sendo entregue a um pátio de reparos perto do cruzamento. Destruir o veículo blindado enquanto ele está sendo consertado seria muito bom teste de força antes de avançar para o próximo nível.
+Eles construíram uma forca na praça.
+Existem patos no lago. Podemos ir caçar. No entanto, não queremos atrair atenção indesejada com tiros.
+Eu não me alistei para isso.
+Os ladrões de Biermeier estão destruindo o elevador de grãos. A "equipe de compras" pretende levar toda a colheita do Kolkhoz. Devemos parar os invasores.
+Você ganha menos pontos ao equipar seus soldados na formação de seu esquadrão.
+Durante esta missão, você encontrará:
+Informações do jogo, dicas e tutoriais concluídos são encontrados nesta página.
+Ha! Beba um pouco de gasolina!
+Uma senhora piedosa disse a Kulagin que os alemães transformaram uma igreja na aldeia de Pokrovskoye em um depósito. Parece que eles estão armazenando seus despojos de guerra lá.
+Recolhemos e secamos algumas ervas medicinais. Também podemos usá-las para fazer chá.
+Encontramos uma cesta de cogumelos.
+Podemos cozinhar um bom ensopado.
+Passe o mouse sobre a caixa e clique no ícone de interação. Para selecionar um item, arraste-o com o cursor, clique duas vezes com o LMB ou clique em "Pegar tudo".
+Habilidade de combate corpo a corpo
+Habilidades
 Nagant
-Reward
-Award Sheet
-These flashlights were worn on chest pockets. They had several colored filters, usually red, blue or green, as well as a button for sending Morse code signals.
-I must escape while I can.
-I need to see a doctor, but there are no hospitals left.
-We should search their homes.
-I wish I were born German.
-They should've sat tight.
-I should watch out.
-I need to heal the injury.
-Got to take the kids inside.
-Gotta cut back on the booze.
-Gotta find me a new pair of boots.
-I need a smoke.
-It's time to heat up the stove.
-Gotta run.
-We must run for our lives!
-I need to hide.
-Need to comb this place.
-We need to get out of harm's way.
-I'm sick of it.
-We can cook borsht now.
-By pressing the "M" button, you can open a tactical map and see your current tasks, as well as the exit for your current location. 
-You can quicksave your game by pressing [F5]. If you want to quickload your last save, press [F9]. Note that saving is impossible on the game's highest complexity level.
-Click here to begin new mission
-Press button for binding
-Press any key to skip 
-Please click "TO MISSION" 
-Back
-Mission name
-Region name
-Task assignment
-Assigned partisans
-Assign more partisans to go to mission
-Select character for the squad
-I’ll find the assholes!
-Just wait till I find out who's stealing my tobacco...
-I'll find out who's stealing my smokes and break his mug.
-Find Trofim
+Recompensa
+Ficha de prêmios
+Essas lanternas foram usadas nos bolsos do peito. Elea tinham vários filtros coloridos, geralmente vermelhos, azuis ou verdes, além de um botão para enviar sinais em código Morse.
+Devo escapar enquanto posso.
+Eu preciso ver um médico, mas não há mais hospitais.
+Devíamos vasculhar suas casas.
+Eu gostaria de ter nascido alemão.
+Eles deveriam estar apertados.
+Eu deveria ter cuidado.
+Eu preciso curar o ferimento.
+Tenho que levar as crianças para dentro.
+Tenho que parar com a bebedeira.
+Tenho que encontrar um novo par de botas.
+Eu preciso fumar.
+É hora de esquentar o fogão.
+Tenho que correr.
+Devemos correr para salvar nossas vidas!
+Eu preciso me esconder.
+Preciso vasculhar este local.
+Precisamos ficar longe do perigo.
+Eu estou cansado disso.
+Podemos cozinhar Borsch agora.
+Ao pressionar o botão "M", você pode abrir um mapa tático e ver suas tarefas, bem como a saída para sua localização atual.
+Você pode salvar seu jogo rapidamente pressionando [F5]. Se você deseja carregar rapidamente seu último jogo salvo, pressione [F9]. Observe que não é possíel salvar em níveis mais altos de dificuldade do jogo.
+Clique aqui para começar uma nova missão
+Pressione o botão para ligar
+Pressione qualquer tecla para pular
+Clique em "PARA A MISSÃO"
+Voltar
+Nome da missão
+Nome da região
+Atribuição de tarefas
+Partisans designados
+Designe mais Partisans para irem à missão
+Selecione personagem para o esquadrão
+Eu vou encontrar os idiotas!
+Espere até eu descobrir quem está roubando meu fumo...
+Vou descobrir quem está roubando meus cigarros e quebrar sua cara.
+Encontre Trofim
