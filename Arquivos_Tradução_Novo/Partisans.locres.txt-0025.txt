@@ -83,12 +83,12 @@ Um rifle soviético com um único cano externo que foi desenvolvido em 1924. É 
 O governo soviético e seu chefe, Comrade Stalin, autorizaram-me a declarar o seguinte: hoje às 4 horas da manhã, sem qualquer exigência sendo apresentada à União Soviética, sem uma declaração de guerra, tropas alemãs atacaram nosso país. Eles atacaram muitos pontos em nossas fronteiras e bombardearam com seus aviões as cidades de Yitomir, Kiev, Sebastopol e Kaunas, entre outras, matando e ferindo mais de duzentos pessoas. Houve também ataques aéreos e bombardeios de artilharia do território romeno e finlandês...
 O conteúdo da garrafa pode ser interessante para os inimigos.
 Tem tudo que você precisa para ajudar um lutador ferido. Recupera uma grande quantidade de HP.
-Ele contém tudo que um soldado ferido precisa para se preparar para o combate novamente. Restaura uma grande quantidade de saúde.
-Construir uma armadilha
-Construir uma granada improvisada
-Construir uma mina improvisada
-Construir um kit médico
-Construir um "analgésicos"
+Contém tudo que um soldado ferido precisa para se preparar para o combate novamente. Restaura uma grande quantidade de saúde.
+Armadilha
+Granada improvisada
+Mina improvisada
+Kit médico
+Analgésico
 Reduz o tempo de recarga da arma em 15%.
 Tempo de recarga de habilidade reduzido
 Tempo de recarga de habilidade reduzido. Aumente o número de usos de uma habilidade durante a missão.
