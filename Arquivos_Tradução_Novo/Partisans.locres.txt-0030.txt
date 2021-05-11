@@ -1,100 +1,100 @@
-﻿The regional commandant is driving through a communal farm that has been pillaged by the Germans. The Fritzes staying in the workers' homes are planning to give him a warm welcome, and we're gonna make sure it's his last.
-The enemy will start receiving reinforcements after a certain period of time.
-Сraniocerebral injury
-Cherniy woods 
-It's empty. Crap!
-I hate this runny nose.
-Damned Polizei...
-Clear blue sky
-God damn!!! A corpse!
-What's in this container?
-I can't believe this is happening!
-Another day, another misery.
-What's going to happen to us?
-What's that?
-I hope that hurts!
-I don't feel so good...
-In order to figure out what the enemy is going to do next, we need to get some documents from the regional comm station. It's under heavy guard, so we need to make sure we're ready for this sortie.
-Colonel Mellenberg has dispatched a death squad headed by SS executioners. He wants to punish the townsfolk for their underground activities. You've dealt with the executioners at the front. You know their ways. The townsfolk need your help.
-Don't forget to use your character's skills to fulfill their potential.
-The Commandant is launching a massive anti-partisan mission, which involves the SS death squad. The only way to disrupt their plans is to eliminate the enemy commanders.
-No strangers in sight.
-Critical damage chance
-Critical chance
-The Germans blame us for things we didn't even do!
-PMZ sewing machine
-The Polizei chief is a real psycho.
-Splints can be made even with sticks and rope.
-Encryption
-They're sneaking around like rats.
-Shock
+﻿O comandante regional vai passar por uma fazenda comunitária que foi saqueada pelos alemães. Os Fritzes que estão na casa dos trabalhadores pretendem dar-lhe uma recepção calorosa. Vamos ter certeza de que é o último.
+O inimigo começará a receber reforços após um determinado período de tempo.
+Danos na cabeça
+Floresta Cherniy
+Merda! Não há nada.
+Eu odeio esse nariz escorrendo.
+Maldito Polizei...
+Céu limpo
+Merda! Um cadáver!
+O que há neste contêiner?
+Eu não posso acreditar que isso está acontecendo!
+Outro dia, outra miséria.
+O que será de nós?
+O que é isso?
+Espero que doa!
+Eu não estou me sentindo muito bem...
+Para descobrir o próximo movimento do inimigo, temos que obter alguns documentos do posto de comunicação regional. É muito bem guardado, então temos que nos certificar de que estamos preparados para este ataque.
+O coronel Mellenberg implantou um esquadrão da morte liderado por agentes da SS. Ele quer punir os cidadãos por suas atividades clandestinas. Você já enfrentou os algozes na frente. Você conhece a maneira de agir deles. Os cidadãos precisam de sua ajuda.
+Não se esqueça de usar as habilidades do personagem para aproveitar ao máximo seu potencial.
+O comandante vai iniciar uma grande missão contra os partisans, que envolve o esquadrão da morte da SS. A única maneira de impedir seus planos é eliminar os comandantes do inimigo.
+Nenhum estranho à vista.
+Chance de dano crítico
+Chance crítica
+Os alemães nos culpam por coisas que nem fizemos!
+Maquina de costura PMZ
+O chefe Polizei é um verdadeiro psicopata.
+As talas podem ser feitas até com paus e cordas.
+Encriptado
+Eles estão se esgueirando como ratos.
+Impacto
 Chocolate
-Espionage
-Syringe
-Stick your bayonets into the ground! Fighting for Stalin, you're fighting for slavery, for the imprisonment of the peoples of the Union!" 
-Noise in bushes
-Sprint noise
-Watch out! 
-I'm falling asleep.
-It's gonna blow!
-Glass of vodka would be nice right now...
-I wish I could feel a woman's touch right now.
-I could go for some grits with bacon crisps.
-It won't hurt.
-EQUIPMENT
-ENCYCLOPEDIA UPDATED
-EFFECTS
-Equipped
-Equipment.
-Item equipment
-Expert partisan
-"Eiserne Ration" emergency rations. One portion contains:
-Grain Elevator
-Encyclopedia
-This door is locked! I need a key.
-This is not going to hurt you.
-What the hell's that?
-This is our punishment for abandoning God!
-I have never betrayed my motherland. The motherland betrayed me!
-That's just too much.
-Do I have to learn German?
-Is this blood?
-Effective distance
-Effective shooting
-Ugh, there's nothing left.
+Espionagem
+Seringa
+Ponham suas baionetas no chão! Lutando por Stalin, você está lutando pela escravidão, pela prisão dos povos da União!
+Ruído em arbustos
+Ruído ao correr
+Atenção!
+Eu estou caindo no sono.
+Vai explodir!
+Um copo de vodka seria bom agora...
+O que eu daria para sentir o corpo de uma mulher
+Eu comeria grãos com batatas fritas.
+Não vai doer.
+EQUIPAMENTO
+ENCICLOPÉDIA ATUALIZADA
+EFEITOS
+Equipado
+Equipamento.
+Equipar item
+partisan especialista
+Abastecimento de emergência "Ração Eiserne". Uma porção contém:
+Elevador de grão
+Enciclopédia
+Essa porta está trancada! Eu preciso de uma chave.
+Isso não vai te machucar.
+Que diabos é isso?
+Este é o nosso castigo por abandonar Deus!
+Eu nunca traí minha pátria. A pátria me traiu!
+Isso é demais.
+Eu tenho que aprender alemão?
+Isso é sangue?
+Distancia de alcance
+Disparo efetivo
+Ugh, não sobrou nada.
 S
-I am always prepared on order of the Workers and Peasants Government to rise to the defense of my Motherland, the Union of Soviet Socialist Republics; and as a fighting man of the Red Army of Workers and Peasants', I promise to defend it bravely, skillfully, with dignity and honor, sparing neither my blood nor my life itself for the achievement of total victory over our enemies.
-I'm hungry as a beast.
-I promise conscientiously to study military affairs, in every way to protect state secrets and state property, and to my last breath to be faithful to the people, the Soviet Motherland, and the Workers-Peasants' Government.
-I haven't seen anything.
-I didn't do anything.
-I'm not afraid of the partisans. Let them come.
-I'm scared of the Polizei!
-I'm the head of the family now.
-I live with my uncle.
-I heard something.
-My feet are blistered because of these boots.
-I, a citizen of the Union of the Soviet Socialist Republics, entering into the ranks of the Red Army of the Workers and Peasants', take this oath and solemnly promise to be a honest, brave, disciplined, vigilant fighter, staunchly to protect military and state secrets, and unquestioningly to obey all military regulations and orders of commanders and superiors.
-Poison
-Language
-VO language
-Eggs
-active
-alternative
-Belarusian
+Por ordem do Governo Operário e Camponês, estou sempre preparado para defender a Pátria, a União das Repúblicas Socialistas Soviéticas e como soldado do Exército Vermelho Operário e Camponês, prometo defendê-la com coragem, habilidade, dignidade, honra e até com minha própria vida e meu sangue para alcançar a vitória plena e derrotar o inimigo.
+Estou faminto como uma besta.
+Prometo estudar meticulosamente todos os assuntos militares pertinentes para proteger a propriedade e os segredos de Estado e até meu último suspiro, serei fiel ao meu povo, à pátria soviética e ao governo operário e camponês.
+Eu não vi nada.
+Eu não fiz nada.
+Não tenho medo dos partisans. Deixe-os vir.
+Estou com medo do Polizei!
+Agora sou o chefe da família.
+Eu moro com meu tio.
+Eu ouvi algo.
+Meus pés estão com bolhas por causa dessas botas.
+Eu, um cidadão da União das Repúblicas Socialistas Soviéticas, ingressando nas fileiras do Exército Vermelho de Trabalhadores e Camponeses, faço este juramento e prometo solenemente ser honesto, corajoso, disciplinado e um lutador atencioso. Também prometo proteger os segredos militares e de estado incondicionalmente e obedecer aos regulamentos militares e todas as ordens de meus comandantes e superiores sem questionar.
+Poção
+Idioma
+Idioma das vozes
+Ovos
+ativo
+alternativo
+Bielo-russo
 bio
-Melee 
-fighter
-quick save
- you need to learn more skills
-return
-return to camp
-purchase
-take all
+Corpo a corpo
+lutador
+salvamento rápido
+ você precisa aprender mais habilidades
+voltar
+voltar ao acampamento
+comprar
+levar tudo
 rifles
-on
-military lawyer
-rotate - zoom in/out
-all
-select the Character
-select all Characters
+Ligado
+advogado militar
+girar - aumentar/diminuir zoom
+tudo
+selecionar o personagem
+selecionar todos os personagens
