@@ -97,4 +97,4 @@ Velocidade de movimento da câmera
 mudar de arma
 diminuído
 construir
-salvar o jogo
+salvar jogo
