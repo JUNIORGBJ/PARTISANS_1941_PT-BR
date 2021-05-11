@@ -1,100 +1,100 @@
-﻿Find archives
-Find some explosives
-Find the red banner at the warehouse 
-Find aerial photography materials
-Find the equipment
-Find all forest caches
-Finally, it's over.
-I've finally achieved something.
-We'll smoke the meat and store it.
-The raid
-An ambush with the purpose of obtaining enemy equipment and supplies should be particularly quiet, with as little gunfire and explosions as possible. Small-caliber rifles should be used, if available: Their report is notably quiet, while they still allow you to incapacitate guards and drivers to finish them off with close-combat weaponry later.
-We only need to last till winter, when the Germans will surely freeze.
-We managed to build a trap from whatever was available.
-We managed to create some painkillers from whatever was available.
-Attack from an ambush
-I wish I could send my sweetheart a letter and tell him I'm no good without him!
-Hard
-Task 
-Unseen and Untouched
-We're gonna get killed!
-We Weren't There
-We've been robbed three times already.
+﻿Encontre os arquivos
+Encontre alguns explosivos
+Encontre a bandeira vermelha no armazém
+Encontre materiais de fotografia aérea
+Encontre o equipamento
+Encontre todos os esconderijos na floresta
+Finalmente acabou.
+Finalmente consegui algo.
+Vamos defumar a carne e armazená-la.
+O ataque
+Uma emboscada com o objetivo de obter o equipamento e suprimentos do inimigo deve ser particularmente silenciosa, com o mínimo de tiros e explosões possível. Devem ser usados rifles de pequeno calibre, se disponíveis: seu relatório é notavelmente silencioso, enquanto eles ainda permitem que você incapacite os guardas e motoristas para matá-los com armas de combate corpo a corpo posteriormente.
+Só precisamos durar até o inverno, quando os alemães certamente congelarão feito picolé.
+Conseguimos construir uma armadilha com o que estava disponível.
+Conseguimos criar alguns analgésicos com o que estava disponível.
+Ataque de emboscada
+Eu gostaria de poder enviar uma carta ao meu namorado e dizer a ele que não sou bom sem ele!
+Difícil
+Tarefa
+Invisível e intocado
+Nós vamos ser mortos!
+Nós não estávamos lá
+Já fomos roubados três vezes.
 Configurações
-Graphic settings were changed. Do you want to apply them?
-Onwards to a new day
-Nastya jumped in bed with an officer! Isn't she a whore?
-Valentin was initially tasked with collecting weapons and ammunition in German-occupied territories, along with the distribution of propagandist leaflets.
-His first combat mission was a hard one. An officer of the Feldgendarmerie (German military police) was to drive in his car down the motorway from Shepetovka to Slavuta. At a set time Valya and his friends took positions in the bushes by the road. Soon the sound of the engine reached their ears. When the Fascist car was passing the boys' positions, Valya Kotyk stood up and threw a grenade, killing the commanding officer.
-Heavy rains have turned the roads into mud. The Germans are stuck on their way to Moscow. It's time to push back!
-Start
-Start 
-Begin work on assigned tasks
-Restart
-Begin mission
-Start new day
-They burned down our house.
-Our man down.
-Our army ran like hell.
-Our fighter planes shot down an enemy aircraft. It landed in the woods over by the lake, where we hunt. If he was a scout, he was probably taking pictures. We're going to search the crash site and see what he got on film.
-What the hell is wrong with them?
-Our comrades should have returned from Volkovo a while ago. Something must have gone wrong. We must go there and find out what happened.
-Soviet turncoats are worse than the Fascists.
-We found some mushrooms.
-They're going to kill me if I refuse to work.
-Everything was fine before the partisans showed up.
-Don't play dumb with me, captain.
-Prevent the reinforcements from being called in
-Don't let yourself be found
-Don't let yourself be found!
-Don't let the enemy reach the river
-I never envisioned my life like this!
-My life is so miserable...
-We didn't fight for this.
-Don't forget to distribute your partisans' skill points before sending them on a mission.
-You can use tactical pause mode to weigh your decisions without undue haste.
-Save your game often. Unless, of course, you chose the highest difficulty level: In that case there are no second chances.
-I don't know how much longer I can stand.
-Are you from Zorin's group?
-Don't use the MG emplacement
-I shouldn't have become a Polizei.
-We shouldn't have given up.
-Please, don't do it!
-They'll cut our salaries if we fail to find the prisoners.
-Hand drills don't need any electricity to function.
-Don't raise the alarm!
-I don't want to get shot.
-How could this happen?
-They aren't Polizei, but they're armed.
-Nah, they aren't coming. They're scared.
-Joining the Polizei was the right thing to do.
-They could burn down the village.
-I feel sorry for that family.
-Nightmarishly difficult
-Don't shoot!
-Don't kill me!
-They can't get away!
-Not enough skill points
-Not enough ammo
-I wouldn't want to be in their shoes.
-They don't respect me, so I have no problem scaring them.
-They shouldn't have annoyed the Germans.
-He doesn't move.
-Small favor
-They must be in the forest.
-Impossible
-Not a week goes by without an execution.
-Week
-Week: 
-Stealth training I
-Stealth training II
-Stealth training III
-Stealth training IV
-Eliminate the enemies near the mill
-Some items you find during your missions are necessary to completing your assigned tasks. They are marked with an exclamation point in the lower-left corner of the item icon.
-Some of your partisans' abilities can be used at a distance. The ability icon shows the exact location where the ability will be used.
-There was nothing he could do but share some food.
-You cannot send less than {0} partisans to conduct this mission
-You cannot delete quest item
-German Pamphlet #1
-German Pamphlet #2
+As configurações gráficas foram alteradas. Você quer aplicá-las?
+Avance para um novo dia
+Nastya estava trepando com um oficial! Ela não é uma prostituta?
+Valentin foi inicialmente encarregado de coletar armas e munições nos territórios ocupados pelos alemães, juntamente com a distribuição de folhetos de propagandas.
+Sua primeira missão de combate foi difícil. Um oficial da Feldgendarmerie (polícia militar alemã) deveria dirigir seu carro pela rodovia de Shepetovka a Slavuta. Em um horário determinado, Valya e seus amigos se posicionaram nos arbustos à beira da estrada. Logo o som do motor alcançou seus ouvidos. Quando o carro fascista passou pelas posições dos meninos, Valya Kotyk se levantou e lançou uma granada, matando o comandante.
+As fortes chuvas transformaram as estradas em lama. Os alemães estão presos a caminho de Moscou. Está na hora de retaliar!
+Começar
+Começar
+Comece a trabalhar nas tarefas atribuídas
+Reiniciar
+Começar a missão
+Comece um novo dia
+Eles incendiaram nossa casa.
+Nosso homem caiu.
+Nosso exército correu como o inferno.
+Nossos aviões de combate abateram uma aeronave inimiga. Ele pousou na floresta perto do lago, onde caçamos. Se ele era um batedor, provavelmente estava tirando fotos. Vamos procurar no local do acidente e ver o que ele filmou.
+O que diabos há de errado com eles?
+Nossos camaradas deveriam ter voltado de Volkovo há algum tempo. Algo deve ter dado errado. Devemos ir lá e descobrir o que aconteceu.
+Os vira-casacas soviéticos são piores do que os fascistas.
+Encontramos alguns cogumelos.
+Eles vão me matar se eu me recusar a trabalhar.
+Tudo estava bem antes dos partisans aparecessem.
+Não se faça de bobo comigo, capitão.
+Impeça que os reforços sejam chamados
+Não seja encontrado
+Não seja encontrado!
+Não deixe o inimigo chegar ao rio
+Nunca imaginei minha vida assim!
+Minha vida é tão miserável...
+Nós não lutamos por isso.
+Não se esqueça de distribuir os pontos de habilidade de seus partisans antes de enviá-los em uma missão.
+Você pode usar o modo de pausa tática para pensar em suas decisões.
+Salve seu jogo com frequência. A menos, é claro, que você tenha escolhido o nível de dificuldade mais alto: Nesse caso, não há uma segunda chance.
+Não sei por mais quanto tempo aguentarei.
+Você é do grupo de Zorin?
+Não use a colocação MG
+Eu não deveria ter me tornado um Polizei.
+Não deveríamos ter desistido.
+Por favor, não faça isso!
+Eles vão tirar nossos salários se não conseguirmos encontrar os partisans.
+As brocas manuais não precisam de eletricidade para funcionar.
+Não soe o alarme!
+Eu não quero levar um tiro.
+Como isso pôde acontecer?
+Eles não são Polizei, mas estão armados.
+Nah, eles não estão vindo. Eles estão com medo.
+Juntar-se ao Polizei foi a coisa certa se fazer.
+Eles podem incendiar a aldeia.
+Eu sinto muito por aquela família.
+Muito difícil
+Não atire!
+Não me mate!
+Eles não podem fugir!
+Pontos de habilidade insuficientes
+Munição insuficiente
+Eu não gostaria de estar no lugar deles.
+Eles não me respeitam, então não tenho nenhum problema em assustá-los.
+Eles não deveriam ter incomodado os alemães.
+Ele não se move.
+Pequeno favor
+Eles devem estar na floresta.
+Impossível
+Não passa uma semana sem que haja uma execução.
+Semana
+Semana:
+Treinamento furtivo I
+Treinamento furtivo II
+Treinamento furtivo III
+Treinamento furtivo IV
+Elimine os inimigos perto do moinho
+Alguns itens que você encontra durante suas missões são necessários para completar as tarefas atribuídas. Eles são marcados com um ponto de exclamação no canto inferior esquerdo do item.
+Algumas das habilidades de seus partisans podem ser usadas à distância. O ícone da habilidade mostra o local exato onde a habilidade será usada.
+Não havia nada que ele pudesse fazer a não ser compartilhar um pouco de comida.
+Você não pode enviar menos de {0} partisans para conduzir esta missão
+Você não pode apagar o item da missão
+Panfleto Alemão #1
+Panfleto Alemão #2
