@@ -6,7 +6,7 @@ Choque
 Salvando
 Devido às configurações de dificuldade, não é possível salvar o jogo.
 Salvamento concluído
-Jogos salvos
+Registros salvos normais
 Social
 Habilidade social.
 Bipé
