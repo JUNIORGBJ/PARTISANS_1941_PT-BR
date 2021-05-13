@@ -97,4 +97,4 @@ As noites estão mais longas e frias a cada novo dia, enquanto os moradores loca
 Noite
 Noite. Os inimigos enxergam muito mal à noite.
 Noite: visão do inimigo é prejudicada
-À noite, os inimigos tem a visão prejudicada. O cone de visão do inimigo menor mostra a área, onde ele pode ver os alvos sem luz. O cone de visão inimigo maior mostra a área, onde ele pode ver o alvo sob qualquer fonte de luz.
+À noite, os inimigos têm muito menos visibilidade. O estreito cone de visão indica a área onde eles podem ver sem luz. O grande cone de visão mostra a área onde eles podem ver um alvo com qualquer tipo de fonte de luz.
