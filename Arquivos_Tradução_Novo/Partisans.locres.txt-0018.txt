@@ -1,100 +1,100 @@
-﻿Last night, on the stretch of road between Bogachevo station and the village of Stupino, Soviet planes bombed a convoy of trucks transporting supplies. While the enemies are gathering up the surviving cargo, you can move in and take it yourselves.
-Our planes shot up a truck convoy on the road last night. They were probably carrying something valuable, like supplies or ammo for the garrison. Well, whatever it is, we can find a better use for it.
-The Germans shot down a Soviet plane flying night reconnaissance. The pilot bailed out and landed somewhere in the forest. We can go look for him.
-Sounds of battle came from the Soviet front line during the night. Some townsfolk wanted to get their hands on weapons and bumped into a Fascist patrol. We should take a look at the site.
-Where are your guardians?
-Who's the boss now?
-When will daddy come back?
-Screw this.
-Come on, partisans, I dare you!
-You’re done for!
-Got to check!
-NEED TO UNEQUIP
-Immediately report all suspicious activity to your local authorities, military command or members of the Ordnungsdienst.
-Eh, a corpse, Gotta search the pockets.
-Hah! Gotcha!
-SQUAD INVENTORY
-SQUAD STASH
-PRIMARY EVENTS
-OSOAVIAKhIM—a paramilitary volunteer organization, dedicated to the preparation of the reserves for the armed forces. Up to 80% of the draftees of the Red Army had badges of the organization. More than 7.2 million OSOAVIAKhIM members joined the army, the militia and the partisans during the first months of war.
-CONFIRM
-CANCEL
-SKILL POINTS:
-Anesthetic
-Painkillers
-Painkillers and things for healing in battlefield. Restores partisan health.
-Manhunt
-Deception
-Deceit
-Defense of Steel
-Processed wood.
-Investigate the crash site
-Tutorial battle mission
-Tutorial stealth mission
-Coming around!
-Object
-The object will be locked. It will become available after repairs.
-Container looting
-Search Biermeier's office
-Common
-A regular handkerchief. Sanek's mom put it in his pocket the last time he saw her.
-Vegetables
-Clothes
-Clothes make you feel warm and look pretty.
-Spray cologne
-Odessa has been holding against the Fascist hordes for more than a month now. The city is being rapidly evacuated.
-One of the lists
-One down! 
-Ambush is one of the most important tools of the partisan struggle. Small groups of 6-10 fighters take positions along the enemy route using trees, ditches and bushes for cover. Camouflage your position well: The enemy must not detect you. Find a place that allows you a wide arc of fire.
-I'm mom's only helper.
-One of our main goals is to disrupt the enemy's supply chain by sabotaging the railway. A bridge collapse will delay railroad traffic and make a real contribution to our victory.
-I've only got one chicken left.
-Partisans are our only hope.
-Forest lake
-Yikes!
-I'm so scared!
-Yikes! A dead man.
-Uh-oh! What's this?
-There go some strangers
-There go some strangers.
-The occupants are actively spreading their propaganda, besmirching the Soviet government and using lies to attract people to their cause.
-Olga was teaching Valentina some hand-to-hand combat, which resulted in a minor injury to the pupil.
-He didn't die his own death. 
-They shot all the Germans!
-They should be around.
-They're searching for us!
-They have no mercy.
-Whoa, what's that? 
-Danger! 
-Quick reaction
-Operational HQ
-It didn't go as planned. The enemy fought back. We had to retreat into the woods.
-The operation was successful. We took the enemy by surprise.
-Description
-"Eiserne Ration" field rations description
-Listen to the voice of reason! Stop the senseless bloodshed! Stick your bayonets into the ground!
-Experience
-Partisans experience +300
-Experience: 
-Experienced partisan
-Experienced Strategist
-Experienced surgeons can sew severed limbs. The most experienced can even sew them on the right places.
-They'll be hanging people again.
-There's war again...
-Bad guys are fighting again.
-Not crawling under bushes again!
-Weapon workshop
-Gun oil
-Melee weapon. Used for stealth kills.
-Rescue Belozerova
-Rescue Comrade Zorin
-Rescue Comrade Fetisov
-Liberate the first khutor
-Rescue the townsfolk
-Liberate the second khutor
-Liberate the third khutor
-Studying the basics of partisan warfare increases your chances of success in missions and allows other inhabitants of the camp to take part in them.
-Heavy autumn rain washed out some roads. A German truck with food taken from the townsfolk has stalled in the mud. It looks like easy prey.
-Heavy autumn rain washed out some roads. A German truck with medical equipment has stalled in the mud. It looks like easy prey.
-Heavy autumn rain washed out some roads. A German truck carrying weapons from a captured detachment has stalled in the mud. It looks like easy prey.
-In the fall of 1941, 10 year old Valya Kotyk performed his first feat.
+﻿Ontem à noite, no trecho da estrada entre a estação de Bogachevo e a vila de Stupino, aviões soviéticos bombardearam um comboio de caminhões que transportava suprimentos. Enquanto os inimigos estão recolhendo a carga, você pode entrar e pegá-la por conta própria.
+Nossos aviões atingiram um comboio de caminhões na estrada ontem à noite. Eles provavelmente estavam carregando algo valioso, como suprimentos ou munição para a guarnição. Bem, seja o que for, podemos encontrar um uso melhor para isso.
+Os alemães abateram um avião soviético que voava em reconhecimento noturno. O piloto saltou e pousou em algum lugar da floresta. Podemos ir procurá-lo.
+Sons de batalha vieram da linha de frente soviética durante a noite. Alguns habitantes da cidade queriam colocar as mãos em armas e toparam com uma patrulha fascista. Devíamos dar uma olhada no local.
+Onde estão seus salvadores?
+Quem é o chefe agora?
+Quando o papai vai voltar?
+Dane-se isso.
+Vamos, partisans, desafio vocês!
+Você está acabado!
+Tenho que verificar!
+PRECISA REMOVER
+Comunique imediatamente todas as atividades suspeitas às autoridades locais, comando militar ou membros da Ordnungsdienst.
+Eh, um cadáver, temos que revistar os bolsos.
+Hah! Peguei vocês!
+INVENTÁRIO DO ESQUADRÃO
+ESCONDERIJO DO ESQUADRÃO
+EVENTOS PRIMÁRIOS
+OSOAVIAKhIM — uma organização voluntária paramilitar, dedicada à preparação das reservas para as forças armadas. Até 80% dos convocados do Exército Vermelho tinham distintivos da organização. Mais de 7,2 milhões de membros do OSOAVIAKhIM se juntaram ao exército, à milícia e aos partisans durante os primeiros meses de guerra.
+CONFIRMAR
+CANCELAR
+PONTOS DE HABILIDADE:
+Anestésico
+Analgésicos
+Analgésicos e coisas para curar no campo de batalha. Restaura a saúde do partisan.
+Perseguição 
+Decepção
+Engano
+Defesa de Aço
+Madeira processada.
+Investigue o local do acidente
+Tutorial para missão de batalha
+Tutorial para missão furtiva
+Chegando por aí!
+Objeto
+O objeto será bloqueado. Ele estará disponível após os reparos.
+Pilhagem de contêineres
+Pesquise no escritório de Biermeier
+Comum
+Um lenço normal. A mãe de Sanek o colocou no bolso da última vez que a viu.
+Vegetais
+Roupas
+As roupas fazem você se sentir quente e bonita.
+Colônia de spray
+Odessa está lutando contra as hordas fascistas há mais de um mês. A cidade está sendo evacuada rapidamente.
+Uma das listas
+Um a menos!
+A emboscada é uma das ferramentas mais importantes da luta partisan. Pequenos grupos de 6 a 10 combatentes tomam posições ao longo da rota inimiga usando árvores, valas e arbustos como cobertura. Camufle bem sua posição: o inimigo não deve detectá-lo. Encontre um lugar que permita um amplo cerco.
+Eu sou o único ajudante da mamãe.
+Um dos nossos principais objetivos é interromper a cadeia de suprimentos do inimigo, sabotando a ferrovia. O desabamento de uma ponte atrasará o tráfego ferroviário e dará uma contribuição real para nossa vitória.
+Só temos sobrando uma galinha.
+Os partisans são nossa única esperança.
+Lago da floresta
+Caramba!
+Estou com tanto medo!
+Caramba! Um homem morto.
+Ups! O que é isso?
+Lá se vão alguns estranhos
+Lá se vão alguns estranhos.
+Os ocupantes estão espalhando ativamente sua propaganda, manchando o governo soviético e usando mentiras para atrair pessoas para sua causa.
+Olga estava ensinando a Valentina combate corpo a corpo, que resultou em um pequeno ferimento no aluno.
+Ele não teve sua própria morte.
+Eles atiraram em todos os alemães!
+Eles deveriam estar por perto.
+Eles estão procurando por nós!
+Eles não têm misericórdia.
+Uau, o que é isso?
+Perigo!
+Reação rápida
+QG operacional
+Não saiu como planejado. O inimigo revidou. Tivemos que recuar para a floresta.
+A operação foi um sucesso. Pegamos o inimigo de surpresa.
+Descrição
+Descrição das rações de campo "Eiserne Ration"
+Ouça a voz da razão! Pare o derramamento de sangue sem sentido! Espete suas baionetas no chão!
+Experiência
+Experiência de partisans +300
+Experiência:
+Partisan experiente
+Estrategista experiente
+Cirurgiões experientes podem costurar membros decepados. Os mais experientes podem até costurá-los nos lugares certos.
+Eles vão enforcar as pessoas novamente.
+Há novamente guerra..
+Os bandidos estão lutando novamente.
+Não rasteje sob os arbustos novamente!
+Oficina de armas
+Óleo de arma
+Arma de corpo a corpo. Usado para abates furtivos.
+Resgate Belozerova
+Resgate o camarada Zorin
+Resgate o camarada Fetisov
+Libere o primeiro khutor
+Resgatar o povo da cidade
+Libere o segundo khutor
+Libere o terceiro khutor
+Estudar o básico da guerra partisan aumenta suas chances de sucesso nas missões e permite que outros habitantes do acampamento participem delas.
+A forte chuva de outono destruiu algumas estradas. Um caminhão alemão com comida retirada dos moradores da cidade atolou na lama. Parece uma presa fácil.
+A forte chuva de outono destruiu algumas estradas. Um caminhão alemão com equipamento médico atolou na lama. Parece uma presa fácil.
+A forte chuva de outono destruiu algumas estradas. Um caminhão alemão carregando armas de um destacamento capturado atolou na lama. Parece uma presa fácil.
+No outono de 1941, Valya Kotyk de 10 anos realizou sua primeira façanha.
