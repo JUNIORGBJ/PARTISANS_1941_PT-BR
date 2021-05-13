@@ -1,100 +1,100 @@
-﻿German Pamphlet #3
-German Pamphlet #4
-A German bolt-action rifle. It was adopted in 1935. The Wehrmacht's main and most popular weapon. This weapon looks worn from battle.
-A German bolt-action rifle. It was adopted in 1935. The Wehrmacht's main and most popular weapon. This is a medium-quality weapon.
-A German bolt-action rifle. It was adopted in 1935. The Wehrmacht's main and most popular weapon. This is a high-quality weapon.
-German typewriter "Olympia," named after the Berlin Summer Olympics of 1936.
-German hand grenade
-German anti-infantry grenade
-German infantry mine for destroying enemy troops.
-German infantry mine.
-German propagandists put up leaflets. Shall we tear them down?
-German soldiers! Everyone who willingly surrenders to the Red Army is guaranteed safety, comfort and care, as well as safe return to your homeland after the war.
-German rifle ammo. Suitable for: Mauser 98K, MG – 34.
-A German general-purpose machine gun. It was adopted in 1939. High firerate and a very large ammunition capacity, which leads to faster barrel wear. This weapon looks worn from battle.
-A German general-purpose machine gun. It was adopted in 1939. High firerate and a very large ammunition capacity, which leads to faster barrel wear. This is a medium-quality weapon.
-A German general-purpose machine gun. It was adopted in 1939. High firerate and a very large ammunition capacity, which leads to faster barrel wear. This is a high-quality weapon.
-A German submachine gun, primarily intended for tankers, motorized infantry, paratroopers and infantry commanders. The main rapid-fire weapon of Wehrmacht soldiers. This weapon looks worn from battle.
-A German submachine gun, primarily intended for tankers, motorized infantry, paratroopers and infantry commanders. The main rapid-fire weapon of Wehrmacht soldiers. This is a medium-quality weapon.
-A German submachine gun, primarily intended for tankers, motorized infantry, paratroopers and infantry commanders. The main rapid-fire weapon of Wehrmacht soldiers. This is a high-quality weapon.
-A German submachine gun, designed by E. Bergmann. The production license fell to Junker & Ruh A.G. in 1940. Due to its high reliability and accuracy, it is often used by Waffen-SS soldiers. This weapon looks worn from battle.
-A German submachine gun, designed by E. Bergmann. The production license fell to Junker & Ruh A.G. in 1940. Due to its high reliability and accuracy, it is often used by Waffen-SS soldiers. This is a medium-quality weapon.
-A German submachine gun, designed by E. Bergmann. The production license fell to Junker & Ruh A.G. in 1940. Due to its high reliability and accuracy, it is often used by Waffen-SS soldiers. This is a high-quality weapon.
-A German semi-automatic pistol, developed in 1898 by G. Luger based on the design of the Borchardt pistol. The main advantage is the high accuracy of shooting, achieved through a convenient anatomical handle with a large angle of inclination and easy descent. This weapon looks worn from battle.
-A German semi-automatic pistol, developed in 1898 by G. Luger based on the design of the Borchardt pistol. The main advantage is the high accuracy of shooting, achieved through a convenient anatomical handle with a large angle of inclination and easy descent. This is a medium-quality weapon.
-A German semi-automatic pistol, developed in 1898 by G. Luger based on the design of the Borchardt pistol. The main advantage is the high accuracy of shooting, achieved through a convenient anatomical handle with a large angle of inclination and easy descent. This is a high-quality weapon.
-German pistol ammo. Suitable for: MP – 35, MP – 40, Luger, Mauser K96.
-A German semi-automatic pistol, tested in several wars and famed as a reliable and powerful weapon. This weapon looks worn from battle.
-A German semi-automatic pistol, tested in several wars and famed as a reliable and powerful weapon. This is a medium-quality weapon.
-A German semi-automatic pistol, tested in several wars and famed as a reliable and powerful weapon. This is a high-quality weapon.
-German trophy chocolate.
-A German hunting triple-barreled shotgun. It was adopted in 1941. It is a survival weapon of Luftwaffe pilots. This is a high-quality weapon.
-A German hunting triple-barreled shotgun. It was adopted in 1941. It is a survival weapon of Luftwaffe pilots. This is a medium-quality weapon.
-German woman
-Give them an inch, and they'll take a yard.
-We're going to make them sorry for coming here!
-The Germans will get to them in no time.
-The Germans refill coal cars at the next station. There's a water pump that draws water from a pond in a village two kilometers away. We could damage the pump. It isn't a big deal, but it will hurt the enemy.
-The Germans refill coal cars at the next station. There's an old, decrepit water tower nearby. Let's destroy it.
-The commandant's nickname is Iron Colonel.
-The Germans are vicious.
-It's the Germans' fault! Let them go looking.
-The Germans are on edge. They're scared of their own shadows.
-The Germans were pushing us harder each day. Finally I decided to join the partisans myself. As it turned out, there were very different people there. A lot of them are just simple men. There are good ones, there are weird ones, there are troublemakers...
-The Germans are establishing a base of operations in town. Regular Wehrmacht units are being called back to defend against the partisans. It seems that we're not the only ones who are still fighting back.
-The Germans are spreading rumors about the fall of Leningrad. Kulagin says they're just blowing smoke.
-Germans are spreading rumors that their tanks have reached the outskirts of Moscow. We will continue fighting even if the capital falls. We've seen the Poles and the Frenchmen enter Moscow before; the Germans will have to leave just like they did. 
-Prisoners, supervised by the Germans, are restoring the old narrow-gauge railway. We have a chance to take the enemy by surprise, disrupt their plans, and liberate the prisoners.
-The Germans have gathered the locals and the prisoners to repair the railway lines.
-The Germans were advancing rapidly. My husband was drafted early in the summer. My sister and I missed our chance to evacuate.
-The Germans took everything.
-Rumor has it, the Germans have approached Moscow.
-Some quests require stealth
-A quest requires stealth
-Unusual containers
-I don't want to get a bullet.
-I'm losing my nerve.
-Unbreakable Wall
-Despite all the cruel torture, she refused to reveal any information about her unit and her mission; she even concealed her identity, claiming her name was Tanya. As a deterrence to others, the Fascists decided to hang Zoya in front of the whole village. The execution took place on the 29th of November, 1941. With the noose already over her neck, Zoya proclaimed to the enemy: "You hang me now, but I'm not alone. There are 200 million of us. You can't hang us all. They will avenge me." Zoya's body was desecrated by the Fascists and remained unburied for a long while.
-No
-No modifiers are enabled.
-No date
-No information about killed enemies.
-No information about killed officers.
-Unarmed!
-No Steam connection or you have an unlicensed version of the product. The game will be closed.
-There is no doubt that regimental political officer Fomin deserved the posthumous title of the Hero of the Soviet Union.
-Must we spend the winter under the Fascists?
-Is it going to be like this now?
-Is it the partisans?
-I don't know what they're barking about.
-Low morale
- Low chance of success
-They just won't leave us alone.
+﻿Panfleto Alemão # 3
+Panfleto Alemão # 4
+Um rifle de ferrolho alemão. Foi adotado em 1935. É a arma principal mais popular da Wehrmacht. Esta arma parece desgastada pela batalha.
+Um rifle alemão de ferrolho. Foi adotado em 1935. É a arma principal mais popular da Wehrmacht. Esta é uma arma de qualidade média.
+Um rifle de ferrolho alemão. Foi adotado em 1935. É a arma principal mais popular Wehrmacht. Esta é uma arma de alta qualidade.
+Máquina de escrever alemã "Olympia", que leva o nome dos Jogos Olímpicos de Berlim em 1936.
+Granada de mão alemã
+Granada anti-infantaria alemã
+Mina da infantaria alemã, para destruir as tropas inimigas.
+Mina infantaria alemã.
+Os propagandistas alemães estão publicando folhetos. Devemos derrubá-los?
+Soldados alemães! Todos os que se entregam voluntariamente ao Exército Vermelho têm garantia de segurança, conforto e cuidado, bem como retorno seguro à sua terra natal após a guerra.
+Munição de rifle alemão. Adequado para: Mauser 98K, MG - 34.
+Uma metralhadora alemã de uso geral. Foi adotada em 1939. Alto poder de fogo e grande capacidade de munição, o que leva a um desgaste mais rápido do cano. Esta arma parece desgastada pela batalha.
+Uma metralhadora alemã de uso geral. Foi adotada em 1939. Alto poder de fogo e grande capacidade de munição, o que leva a um desgaste mais rápido do cano. Esta é uma arma de qualidade média.
+Uma metralhadora alemã de uso geral. Foi adotada em 1939. Alto poder de fogo e grande capacidade de munição, o que leva a um desgaste mais rápido do cano. Esta é uma arma de alta qualidade.
+Uma submetralhadora alemã, destinada principalmente para tanques, infantaria motorizada, paraquedistas e comandantes de infantaria. A principal arma de fogo rápido dos soldados da Wehrmacht. Esta arma parece desgastada pela batalha.
+Uma submetralhadora alemã, destinada principalmente para tanques, infantaria motorizada, paraquedistas e comandantes de infantaria. A principal arma de fogo rápido dos soldados da Wehrmacht. Esta é uma arma de qualidade média.
+Uma submetralhadora alemã, destinada principalmente para tanques, infantaria motorizada, paraquedistas e comandantes de infantaria. A principal arma de fogo rápido dos soldados da Wehrmacht. Esta é uma arma de alta qualidade.
+Uma submetralhadora alemã, desenhada por E. Bergmann. A licença de produção caiu para a Junker & Ruh A.G. em 1940. Devido à sua alta confiabilidade e precisão, é frequentemente usada por soldados Waffen-SS. Esta arma parece desgastada pela batalha.
+Uma submetralhadora alemã, desenhada por E. Bergmann. A licença de produção caiu para a Junker & Ruh A.G. em 1940. Devido à sua alta confiabilidade e precisão, é frequentemente usada por soldados Waffen-SS. Esta é uma arma de qualidade média.
+Uma submetralhadora alemã, desenhada por E. Bergmann. A licença de produção caiu para a Junker & Ruh A.G. em 1940. Devido à sua alta confiabilidade e precisão, é frequentemente usada por soldados Waffen-SS. Esta é uma arma de alta qualidade.
+Uma pistola semiautomática alemã, desenvolvida em 1898 por G. Luger com base no desenho da pistola Borchardt. A principal vantagem é a alta precisão de tiro, obtida por meio de uma conveniente alça anatômica com grande ângulo de inclinação e fácil descida. Esta arma parece desgastada pela batalha.
+Uma pistola semiautomática alemã, desenvolvida em 1898 por G. Luger com base no desenho da pistola Borchardt. A principal vantagem é a alta precisão de tiro, obtida por meio de uma conveniente alça anatômica com grande ângulo de inclinação e fácil descida. Esta é uma arma de qualidade média.
+Uma pistola semiautomática alemã, desenvolvida em 1898 por G. Luger com base no desenho da pistola Borchardt. A principal vantagem é a alta precisão de tiro, obtida por meio de uma conveniente alça anatômica com grande ângulo de inclinação e fácil descida. Esta é uma arma de alta qualidade.
+Munição de pistola alemã. Adequada para: MP - 35, MP - 40, Luger, Mauser K96.
+Uma pistola semiautomática alemã, testada em várias guerras e famosa como uma arma confiável e poderosa. Esta arma parece desgastada pela batalha.
+Uma pistola semiautomática alemã, testada em várias guerras e famosa como uma arma confiável e poderosa. Esta é uma arma de qualidade média.
+Uma pistola semiautomática alemã, testada em várias guerras e famosa como uma arma confiável e poderosa. Esta é uma arma de alta qualidade.
+Troféu de chocolate alemão.
+Uma espingarda de caça alemã de cano triplo. Foi adotado em 1941. É uma arma de sobrevivência dos pilotos da Luftwaffe. Esta é uma arma de alta qualidade.
+Uma espingarda de caça alemã de cano triplo. Foi adotado em 1941. É uma arma de sobrevivência dos pilotos da Luftwaffe. Esta é uma arma de qualidade média.
+Mulher alemã
+Dê a eles um centímetro e eles levarão um metro.
+Vamos fazer com que eles se desculpem por terem vindo aqui!
+Os alemães vão chegar até eles num minuto.
+Os alemães reabastecem os vagões a carvão na próxima estação. Há uma bomba d'água que retira água de um lago em uma vila a dois quilômetros de distância. Podemos danificar a bomba. Não é grande coisa, mas vai prejudicar o inimigo.
+Os alemães reabastecem os vagões a carvão na próxima estação. Há uma velha e acabada torre de água nas proximidades. Vamos destruí-la.
+O apelido do comandante é Coronel de Ferro.
+Os alemães são cruéis.
+É culpa dos alemães! Deixe que eles procurem.
+Os alemães estão nervosos. Eles estão com medo até de suas próprias sombras.
+Os alemães estavam nos pressionando com mais força a cada dia. Finalmente, decidi me juntar aos partisans. No final das contas, havia pessoas muito diferentes lá. Muitos deles são apenas homens simples. Existem bons, existem estranhos, existem bagunceiros...
+Os alemães estão estabelecendo uma base de operações na cidade. Unidades regulares da Wehrmacht estão sendo chamadas de volta para se defender contra os partisans. Parece que não somos os únicos que ainda luta.
+Os alemães estão espalhando boatos sobre a queda de Leningrado. Kulagin diz que eles estão apenas soltando fumaça.
+Os alemães estão espalhando rumores de que seus tanques chegaram aos arredores de Moscou. Continuaremos lutando mesmo que a capital caia. Já vimos poloneses e franceses entrarem em Moscou antes; os alemães terão que partir exatamente como as tropas anteriores fizeram.
+Os prisioneiros, supervisionados pelos alemães, estão restaurando a velha ferrovia de bitola estreita. Temos a chance de pegar o inimigo de surpresa, atrapalhar seus planos e libertar os prisioneiros.
+Os alemães reuniram os moradores e os prisioneiros para obrigar a consertar as linhas de trem.
+Os alemães avançavam rapidamente. Meu marido foi convocado no início do verão. Minha irmã e eu perdemos nossa chance de fugir.
+Os alemães levaram tudo.
+Rumores dizem que os alemães chegaram em Moscou.
+Algumas missões exigem discrição
+A missão requer furtividade
+Recipientes incomuns
+Eu não quero levar uma bala.
+Estou perdendo a coragem.
+Parede Indestrutível
+Apesar de toda a tortura cruel, ela se recusou a revelar qualquer informação sobre sua unidade e sua missão; ela até escondeu sua identidade, alegando que seu nome era Tanya. Para dissuadir os outros, os fascistas decidiram enforcar Zoya na frente de toda a aldeia. A execução ocorreu no dia 29 de novembro de 1941. Já com o laço no pescoço, Zoya proclamou ao inimigo: "Agora me enforca, mas não estou só. Somos 200 milhões. Não podes enforcar a todos nós. Eles vão me vingar." O corpo de Zoya foi profanado pelos fascistas e permaneceu insepulto por um longo tempo.
+Não
+Nenhum modificador está habilitado.
+Sem data
+Nenhuma informação sobre inimigos mortos.
+Nenhuma informação sobre oficiais mortos.
+Desarmado!
+Sem conexão com a Steam ou você está usando a versão do Capitão Jack Sparrow. O jogo será encerrado.
+Não há dúvida de que o oficial político do regimento Fomin merecia o título póstumo de Herói da União Soviética.
+Devemos passar o inverno debaixo dos fascistas?
+Vai ser assim agora?
+São os partisans?
+Eu não sei sobre o que eles estão latindo.
+Moral Baixa
+  Baixa chance de sucesso
+Eles simplesmente não nos deixam em paz.
 Nikitin
 Dmitry Borisovich Nikitin
-Nikitin, Dmitry Borisovich. Age: 35. Born in a military family in Sverdlovsk. NKVD military counterintelligence officer. Participated in the Sino-Soviet conflict over the Chinese Eastern Railway. During his time in the Far East picked up and later mastered oriental martial arts. Served as a Senior Battalion Commissar at the outbreak of the Great Patriotic War.
-Nikitin kills several enemies within range. Requires a knife.
-Whatever, we can live well under Germans, too.
-Living under the Germans isn't so bad.
-Do nothing
-Didn't find anything. We need to look into herbal medicine.
-It's alright. We can manage somehow.
-But this was no time to celebrate victory. The commander realized that their coup would infuriate the enemy, and that the upcoming counter-partisan hunt would entail serious reprisals against the civilians. The fiercest battle was yet to be fought...
-New milestone
+Nikitin, Dmitry Borisovich. Idade: 35. Nasceu em uma família de militares em Sverdlovsk. Oficial de contra-espionagem militar do NKVD. Participou do conflito Sino-Soviético sobre a Ferrovia Oriental da China. Durante seu tempo no Extremo Oriente, aprendeu e mais tarde dominou as artes marciais orientais. Serviu como comissário de alto escalão no início da Grande Guerra Patriótica.
+Nikitin mata vários inimigos dentro do alcance. Requer uma faca.
+Seja como for, também podemos viver bem sob os alemães.
+Viver sob os alemães não é tão ruim.
+Não fazer nada
+Não encontrei nada. Precisamos olhar para as ervas medicionais.
+Está tudo bem. Podemos administrar de alguma forma.
+Mas não era hora de comemorar a vitória. O comandante percebeu que o golpe enfureceria o inimigo e que a próxima caçada contra-partisan acarretaria sérias represálias contra os civis. A batalha mais feroz ainda estava por vir...
+Novo marco
 Novo jogo
-New save
-Housewarming
-News
-Next day
-Knife
-Ribknife I
-Ribknife II
-Normal morale
+Novo jogo salvo
+Inauguração de uma casa
+Notícias
+Próximo dia
+Faca
+Faca de Costela I
+Faca de Costela II
+Moral normal
 Normal
-Handkerchief
-The nights are longer and colder with each day, while the local villagers are prohibited from even approaching the woods. Should we bring some firewood before they freeze to death?
-Night
-Night. Enemies see very poorly at night.
-Nighttime: enemy vision is impaired
-At night enemies can see much worse. Lesser enemy cone of vision shows area, where he can see targets with no light. Bigger enemy cone of vision show area, where he can see target under any source of light. 
+Lenço
+As noites estão mais longas e frias a cada novo dia, enquanto os moradores locais estão proibidos de sequer se aproximar da floresta. Devemos trazer um pouco de lenha antes que morram congelados?
+Noite
+Noite. Os inimigos enxergam muito mal à noite.
+Noite: visão do inimigo é prejudicada
+À noite, os inimigos tem a visão prejudicada. O cone de visão do inimigo menor mostra a área, onde ele pode ver os alvos sem luz. O cone de visão inimigo maior mostra a área, onde ele pode ver o alvo sob qualquer fonte de luz.
