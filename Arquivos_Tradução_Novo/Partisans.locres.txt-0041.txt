@@ -1,100 +1,100 @@
-﻿There's a train full of Germans at the station and you forgot to bring an army, so you'll have to take the long way around.
-Don't count on grand cuisine. I'm a terrible cook.
-This is war.
-Can't fight a war on an empty stomach.
-Prey comes callin'...
-Fetisov or I could get killed like this if we stayed at the camp.
-Do I look so much like a target?
-We have a great responsibility.
-Not a cloud in the sky.
-The square is packed with Germans troops. We need everyone here!
-All they really want is your food, your belongings. And more cannon fodder they can pressure into fighting for the Soviets!
-But first I want to see what medicines you have and examine a patient.
-The station was full of SS soldiers. Pretty suspicious.
-Some of them could have left the station by then. We need to find out if any SS soldiers have been noticed in the area.
-We have to destroy the station’s two anti-aircraft guns: they will target our aircraft.
-An old man is a magnet for malady.
-The area is swarming with Fascists. Weapons ready!
-And a delay like that can turn the tide of a battle. It's worth the risk.
-If there's one thing we don't have time for, it's pointless bickering. In war, nothing ever goes the way you want it. Period.
-What's the ante?
-A noogie.
-That's all. Get some rest. Tomorrow is a day for celebration.
-Take that!
-It must have been a successful kolkhoz.
-Must be one of the vehicles that the Fascists couldn't repair and had to leave behind on the battlefield.
-No doubt you've some booze stashed somewhere.
-That’s one tough lock.
-I hope I won't miss.
-I hope their commander's with them. I'd be so happy to put a bullet in his head!
-I hope I won't get caught.
-I hope we're not getting caught here.
-Well, I hope they don't mistake us for them.
-I hope the bees are asleep. We won't get any prettier if they sting us all over.
-I hope, I won't have to give CPR.
-Hurry! Run!
-Should probably grad him back.
-I should have taken more rest.
-We must be prepared.
-Got to be more careful.
-We need a lockpick.
-We gotta wait for a Fascist train and blow it up!
-We need to act.
-Who'd have thought... From what I gather, he's an anti-Bolshevik, rubbing shoulders with the Polizei.
-Could use a pick-me-up.
-Gotta check their pockets.
-Let's search the office. The documents should be in a safe.
-Gotta scrounge some ammo.
-Help the wounded! Hurry!
-We need to warn the townsfolk! They can't stay! They must go and hide in the woods!
-We must keep fighting.
-Expand the dugout, build some utility structures...
-Gotta use another weapon!
-The stupid sun is making me sick. Just sits there shining like it doesn't care.
-There's no turning back.
-Fall back! Take cover!
-At last!
-Regular provisions could come in handy. Go right ahead.
-We needed a base to hide from the Germans and dress our wounds, and your place was a perfect fit.
-Let's have a little girl talk.
-We blew up a tank, punished the Zaborovka village head for treason, sabotaged a punitive operation in town...
-We'll ambush the convoy and shoot our way out.
-Shot him dead!
-Don't push it.
-They could detect us.
-You won't catch us so easily!
-It might not be forever, but you know how the saying goes: mend your sails while the weather is fine.
-Let's start over. Where is your base located?
-Always ready to fight for the Motherland!
-Our comrade is dying!
-We did it!
-Our mission is to poison the provisions that the Germans send to the front.
-Here's our mission: infiltrate the repair yard and blow up the tank.
-Our victory is all but certain. Neither Moscow nor Leningrad can hold out for more than two weeks.
-There's no strength in numbers, but in our skills.
-Now that's the time for us.
-Our cause is just. Victory will be ours!
-Look what I found! A Degtyarev machine gun! Searching the trenches has paid off!
-A comrade is hurt!
-When our boys return, they graves they dig for you will be even deeper!
-We will be avenged!
-We don't leave our people behind.
-A friend is in danger!
-We can use this thing, right?
-Never mind.
-No.
-It's for medical use only.
-Keep your hands to yourself.
-If you weren't the last tractor driver in the neighborhood, I'd show you!
-It's not my day.
-Stay still!
-How can no one have noticed anything?
-No need. Get well quickly. Once you’re fit again, we shall talk.
-I don't see anything wrong in that.
-Nothing suspicious to report.
-This doesn't look dangerous.
-I see no problem with that.
-No time for self-pity!
-We cannot let our enemies rest.
-Please, don't move.
-Sit still!
+﻿Há um trem cheio de alemães na estação e pelo que vejo, você se esqueceu de trazer um exército, então terá que fazer um bom desvio.
+Não conte comigo me colocando no fogão. Eu sou uma cozinheira horrível.
+Isto é a guerra.
+Não posso lutar uma guerra com o estômago vazio.
+A presa está chamando...
+Fetisov e eu poderíamos ter acabado assim se tivéssemos ficado no acampamento.
+Eu pareço tanto com um alvo?
+Temos uma grande responsabilidade.
+Nenhuma núvem no céu.
+A praça está lotada de tropas alemãs. Precisamos de todos aqui!
+Essas pessoas estão obcecadas em tirar sua comida e suas coisas. Eles querem forçar as pessoas a lutar ao lado dos soviéticos!
+Mas antes de tudo, quero ver os medicamentos que eles têm em estoque e examinar um paciente.
+A estação estava cheia de soldados SS. Muito suspeito.
+Alguns deles já devem ter saído da estação. Precisamos descobrir se algum soldado SS foi detectado na área.
+Temos que destruir os dois canhões antiaéreos da estação: eles terão como alvo nossas aeronaves.
+Um velho é um ímã para doenças.
+A área está cheia de fascistas. Prepare suas armas!
+Em uma guerra, um atraso é suficiente para virar o jogo. Vale a pena o risco.
+Se há uma coisa para a qual não temos tempo, são brigas inúteis. Na guerra nada sai da maneira que você deseja.
+Qual é a aposta?
+Um cascudo.
+Isso é tudo. Vá descansar, que amanhã será um dia de festa.
+Pegue isso!
+Deve ter sido um kolkhoz próspero.
+Deve ser um daqueles veículos que os fascistas não puderam consertar e deixaram no campo de batalha.
+Sem dúvida, você tem alguma bebida escondida em algum lugar.
+Essa fechadura é boa.
+Espero não falhar.
+Espero que seu comandante também venha. Ficarei feliz em colocar uma bala na cabeça dele!
+Espero que eles não me peguem.
+Espero que não nos encontrem aqui.
+Espero que eles não nos confundam com eles, então.
+Espero que as abelhas estejam dormindo. Não vamos melhorar nossa beleza se formos picados por todos os lados.
+Espero não ter que fazer RCP em ninguém.
+Rápido! Corra!
+Talvez eu deva chamar sua atenção.
+Eu deveria ter descansado mais.
+Devemos estar preparados.
+Tem que ser mais cuidadoso.
+Precisamos de gazuas.
+Temos que esperar por um trem fascista e explodi-lo!
+Precisamos agir.
+Quem diria... Pelo que percebi, ele é um antibolchevique que se dá muito bem com os Polizei.
+Poderia usar um estimulante.
+Verifique seus bolsos.
+Vamos vasculhar o escritório. Os documentos devem estar em um cofre.
+Tenho que arranjar alguma munição.
+Ajude os feridos! Vamos!
+Temos que avisar os moradores! Eles têm que ir! Devem ir e se esconder na floresta!
+Devemos continuar lutando.
+Expanda o abrigo, construa edifícios de serviço...
+Tenho que usar outra arma!
+Este maldito sol está me deixando doente e o tempo todo ele está brilhando lá como se não se importasse.
+Não há como voltar atrás.
+Recuem! Cubra-se!
+Finalmente!
+Provisões regulares podem ser úteis. Vá em frente.
+Precisávamos de uma base para nos esconder dos alemães e curar nossas feridas e sua casa se encaixou perfeitamente.
+Vamos ter um bate-papo de mulher para mulher.
+Explodimos um tanque, punimos o chefe da vila Zaborovka por traição, sabotamos uma operação punitiva na cidade...
+Vamos emboscar o comboio e começar a atirar em todos.
+Ele foi morto!
+Não empurre.
+Eles poderiam nos detectar.
+Você não vai nos pegar tão facilmente!
+Pode não durar para sempre, mas você conhece o ditado: nunca deixe para amanhã o que você pode fazer hoje.
+Vamos começar de novo. Onde está localizada sua base?
+Sempre pronto para lutar pela Pátria!
+Nosso camarada está morrendo!
+Conseguimos!
+Nossa missão é envenenar os suprimentos que os alemães enviam para a frente.
+Esta é a nossa missão: infiltrar-se na oficina e explodir aquele tanque.
+Nossa vitória é um fato. Nem Moscou nem Leningrad têm capacidade de resistir por mais de algumas semanas.
+A força não reside em nosso número, mas em nossa capacidade.
+É hora de entrarmos em ação.
+Nossa causa é justa. A vitória será nossa!
+Olha o que eu achei! Uma metralhadora Degtyarev! A busca nas trincheiras valeu a pena!
+Um camarada está ferido!
+Quando nossos meninos retornarem, as sepulturas que eles cavam para você serão ainda mais profundas!
+Seremos vingados!
+Não deixamos nosso povo para trás.
+Um amigo está em perigo!
+Podemos usar essa coisa, certo?
+Deixa pra lá.
+Não.
+É apenas para uso médico.
+Mantenha suas mãos para si mesmo.
+Se você não fosse o último tratorista da vizinhança, eu lhe ensinaria uma boa lição!
+Este não é o meu dia.
+Não se mova!
+Como é que ninguém pode ter notado nada?
+Não há necessidade. Recupere-se rapidamente. Quando você estiver em forma novamente, conversaremos.
+Não vejo nada de errado nisso.
+Nada suspeito para relatar.
+Isso não parece perigoso.
+Não vejo problema nisso.
+Não há tempo para autopiedade!
+Não podemos deixar nossos inimigos descansarem.
+Não se mexa, por favor.
+Sente-se e fique quieto!
