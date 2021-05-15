@@ -76,8 +76,8 @@ Eu ouvi algo.
 Meus pés estão com bolhas por causa dessas botas.
 Eu, um cidadão da União das Repúblicas Socialistas Soviéticas, ingressando nas fileiras do Exército Vermelho de Trabalhadores e Camponeses, faço este juramento e prometo solenemente ser honesto, corajoso, disciplinado e um lutador atencioso. Também prometo proteger os segredos militares e de estado incondicionalmente e obedecer aos regulamentos militares e todas as ordens de meus comandantes e superiores sem questionar.
 Poção
-Idioma
-Idioma das vozes
+Idioma do texto
+Idioma das falas
 Ovos
 ativo
 alternativo

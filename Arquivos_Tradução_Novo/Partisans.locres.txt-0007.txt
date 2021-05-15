@@ -54,14 +54,14 @@ Tem certeza de que deseja excluir o jogo salvo atual?
 Você gostaria de levar o mesmo esquadrão para a missão?
 Se você substituir este soldado, todos os seus itens serão devolvidos para o armazém. Tem certeza?
 Escolha o nível de complexidade
-Para selecionar o personagem
-Para selecionar todos os personagens
-Para selecionar todos os personagens
-Selecione o segundo personagem
-Selecione o primeiro personagem
-Selecione o quinto personagem
-Selecione o terceiro personagem
-Selecione o quarto personagem
+Selecionar o personagem
+Selecionar todos os personagens
+Selecionar todos os personagens
+Selecionar o segundo personagem
+Selecionar o primeiro personagem
+Selecionar o quinto personagem
+Selecionar o terceiro personagem
+Selecionar o quarto personagem
 Saia do campo de batalha vivo
 Descartar
 Espere {0} dias

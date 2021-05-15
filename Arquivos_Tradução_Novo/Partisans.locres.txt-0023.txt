@@ -23,7 +23,7 @@ Batedor
 Dividir
 Braço quebrado
 Diferentes itens mecânicos.
-Escalas de UI
+Escala da interface
 Tamanho do carregador
 Posicione todos os seus personagens na área especificada para sair do local.
 Desmontar

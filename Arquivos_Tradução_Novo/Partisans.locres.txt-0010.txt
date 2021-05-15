@@ -4,7 +4,7 @@ TAREFAS
 FECHAR
 MATE TODOS OS INIMIGOS DA VILA
 CLASSIFICAÇÃO
-SOM
+ÁUDIO
 Irá receber {0} de experiência adicional
 Zorin vale mais vivo do que morto.
 Eles colocam um preço nas cabeças dos partisans.

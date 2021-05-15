@@ -92,7 +92,7 @@ Redefinir
 Redefinir as configurações
 suave
 sargento médico
-Velocidade de rotação da câmera
+Velocidade de giro da câmera
 Velocidade de movimento da câmera
 mudar de arma
 diminuído
