@@ -48,10 +48,10 @@ As habilidades são bloqueadas. A visibilidade na névoa da guerra é reduzida.
 Usar
 Ativar a segunda habilidade
 Ativar a primeira habilidade
-Usar o item do primeiro slot
-Usar o item do terceiro slot
-Usar o item do segundo slot
-Usar item do slot
+Usar o item do primeiro espaço
+Usar o item do terceiro espaço
+Usar o item do segundo espaço
+Usar item do espaço
 Ativar a primeira habilidade
 Ativar a terceira habilidade
 Usado para calcular as trajetórias de tiro da artilharia.

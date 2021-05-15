@@ -39,7 +39,7 @@ aberto
 inventário
 infiltração
 ative a primeira e a segunda habilidade
-usar o item do slot ativo
+usar o item do espaço ativo
 para a atividade
 Cazaques
 capitão

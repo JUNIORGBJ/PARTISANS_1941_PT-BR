@@ -11,7 +11,7 @@ Para pesar itens. Coloque o item que deseja pesar em uma tigela e coloque os con
 Para uma melhor visão do abrigo.
 Você é o herói das pessoas!
 Para destacar objetos com os quais você pode interagir, pressione a tecla ALT.
-Pressione "I" para abrir seu inventário e equipe sua faca no slot da arma superior. Arraste e solte o item no slot correto ou clique duas vezes com o botão esquerdo do mouse para equipá-lo.
+Pressione "I" para abrir seu inventário e equipe sua faca no espaço da arma superior. Arraste e solte o item no espaço correto ou clique duas vezes com o botão esquerdo do mouse para equipá-lo.
 Para obter mais informações sobre a chance de acerto da sua arma, passe o cursor do mouse sobre o alvo. O marcador indicará sua chance de acerto, quanto mais preenchido estiver o marcador, maior sua probabilidade de acertá-lo.
 Seus personagens podem pular cercas baixas para pegar atalhos.
 Para disparar sua arma, você precisa equipá-la e ter munição. Pressione "R" para recarregar. As balas são armazenadas na mochila do seu personagem.
