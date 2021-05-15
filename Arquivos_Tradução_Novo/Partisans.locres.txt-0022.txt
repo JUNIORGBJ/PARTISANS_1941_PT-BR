@@ -70,11 +70,11 @@ Continuar
 Criação
 Evento de acampamento
 Incidentes
-Complete todas as missões no Modo operação com todos os modificadores.
-Complete a missão Centro Comunitário no modo operação com todos os modificadores.
-Complete a missão Posição defensiva no modo operação com todos os modificadores.
-Complete a missão Saquear armazém no modo operação com todos os modificadores.
-Complete a missão Posto de comunicação no modo operação com todos os modificadores.
+Complete todas as missões no Modo operação com todos as modificações.
+Complete a missão Centro Comunitário no modo operação com todos as modificações.
+Complete a missão Posição defensiva no modo operação com todos as modificações.
+Complete a missão Saquear armazém no modo operação com todos as modificações.
+Complete a missão Posto de comunicação no modo operação com todas as modificações.
 Complete qualquer missão no modo operação com pelo menos um modificador ativado.
 Complete qualquer missão no Modo Operações.
 Complete a missão sem disparar nenhum alarme.
