@@ -85,7 +85,7 @@ As armas serão mais ou menos eficazes dependendo de seu alcance. Para ser mais 
 O filho do meu vizinho desapareceu.
 Os fascistas tremem quando ouvem sobre os partisans.
 PARA REMOVER DO ESQUADRÃO
-EXCLUIR
+APAGAR
 INIMIGOS ELIMINADOS
 SUCESSO!
 REMOVER:

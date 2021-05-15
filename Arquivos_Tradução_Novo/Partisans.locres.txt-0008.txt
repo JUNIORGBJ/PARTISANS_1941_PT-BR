@@ -83,7 +83,7 @@ Movimentar a câmera para cima
 Movimentar a câmera para a esquerda
 Movimentar a câmera para baixo
 Movimentar a câmera para a direita
-Movimentar a câmera pelo mouse
+Movimentar a câmera com o mouse
 Movimentar a câmera para a esquerda
 O velho queria viver. Ele ajudará o Exército Vermelho, entregando informações.
 Ações na região

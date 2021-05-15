@@ -42,7 +42,7 @@ Você terminou de planejar as ações para hoje?
 Tem certeza de que deseja completar a missão?
 Tem certeza que deseja deixar a missão?
 Tem certeza de que planejou suas atividades diárias?
-Tem certeza de que deseja retornar ao menu?
+Tem certeza de que deseja voltar ao menu principal?
 Tem certeza de que deseja substituir o jogo salvo atual?
 Tem certeza que deseja reiniciar a missão?
 Tem certeza de que deseja redefinir as habilidades selecionadas?
@@ -50,7 +50,7 @@ Tem certeza de que deseja redefinir as configurações atuais?
 Tem certeza de que deseja alterar o idioma? O jogo será reiniciado.
 Tem certeza de que deseja alterar suas configurações atuais?
 Tem certeza de que deseja alterar o nível de complexidade? Esta ação irá recarregar a missão.
-Tem certeza de que deseja excluir o jogo salvo atual?
+Tem certeza de que deseja apagar o jogo salvo atual?
 Você gostaria de levar o mesmo esquadrão para a missão?
 Se você substituir este soldado, todos os seus itens serão devolvidos para o armazém. Tem certeza?
 Escolha o nível de complexidade
