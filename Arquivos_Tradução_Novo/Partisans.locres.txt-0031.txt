@@ -74,7 +74,7 @@ pistolas
 Metralhadora
 destacar objetos interativos
 dicas
-customizar
+customizado
 ajuda
 corte de mão
 OK

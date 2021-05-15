@@ -4,7 +4,7 @@ Rifle I
 Rifle II
 Rifle III
 Pausar ou resumir
-Ativar
+Ativado
 Ativar o modo passivo
 Ativar o modo de vigia
 Ativar o modo tático avançado

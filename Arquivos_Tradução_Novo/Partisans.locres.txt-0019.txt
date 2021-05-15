@@ -25,7 +25,7 @@ Distração II
 Para iniciar a ação (configure a sequência de ações na pausa tática)
 Eu preciso descansar.
 Mecanismo de mira calibrado
-Desativar
+Desativado
 Desbloqueia ações relacionadas à obtenção de alimentos.
 Desbloqueia ações relacionadas à obtenção de materiais de construção.
 Desbloqueia ações relacionadas à caça.
