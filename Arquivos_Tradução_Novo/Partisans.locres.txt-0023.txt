@@ -27,7 +27,7 @@ Escalas de UI
 Tamanho do carregador
 Posicione todos os seus personagens na área especificada para sair do local.
 Desmontar
-Encontre o representante da aldeia
+Encontre o representante da vila
 Ruptura de tendão
 baixar
 Região disponível para explorar
@@ -89,7 +89,7 @@ N
 CABO CONTRA MOTOCICLISTAS
 As coisas pioram a cada dia que passa.
 Eles não têm mais nada.
-Depois que a Grande Guerra Patriótica estourou, Zoya Kosmodemyanskaya juntou-se ao exército como voluntária em outubro de 1941. Ela foi designada para uma unidade de sabotagem que operava em Mozhaisk e ao redor dela sob as ordens do quartel-general da Frente Ocidental. Eles a enviaram duas vezes atrás das linhas inimigas. Durante uma operação de combate no final de novembro de 1941, Kosmodemyanskaya foi capturado na aldeia de Petrischevo, no distrito de Ruza, na região de Moscou.
+Depois que a Grande Guerra Patriótica estourou, Zoya Kosmodemyanskaya juntou-se ao exército como voluntária em outubro de 1941. Ela foi designada para uma unidade de sabotagem que operava em Mozhaisk e ao redor dela sob as ordens do quartel-general da Frente Ocidental. Eles a enviaram duas vezes atrás das linhas inimigas. Durante uma operação de combate no final de novembro de 1941, Kosmodemyanskaya foi capturado na vila de Petrischevo, no distrito de Ruza, na região de Moscou.
 Um único passe pode ser usado por um número ilimitado de oficiais e soldados do Exército Vermelho e da Frota Vermelha. O decreto de retaliação de Stalin contra as famílias dos desertores é impraticável. O comando alemão não publica os nomes dos prisioneiros, a menos que eles próprios solicitem. Não deixe a posição de Stalin intimidá-lo.
 Não consigo entrar em contato com minha família.
 Desde o primeiro dia, mantemos um registro das operações bem-sucedidas que realizamos contra nossos inimigos. É hora de divulgar essas informações para que as pessoas conheçam as conquistas da unidade.

@@ -1,8 +1,8 @@
 ﻿GRÁFICOS
 Au!
 Gavrilovich diz que Zobel usa ameaças, chantagem e suborno para fazer com que os moradores locais espionem e denunciem uns aos outros.
-Gavrilovich diz que os alemães estão nomeando chefes de aldeias e recrutando pessoas "confiáveis" para a Polizei. Para muitos, esse trabalho é apenas uma desculpa para roubar de outros.
-Gavrilovich descobriu que uma das aldeias vizinhas está abrigando o centro de comunicações dos alemães.
+Gavrilovich diz que os alemães estão nomeando chefes de vilas e recrutando pessoas "confiáveis" para a Polizei. Para muitos, esse trabalho é apenas uma desculpa para roubar de outros.
+Gavrilovich descobriu que uma das vilas vizinhas está abrigando o centro de comunicações dos alemães.
 Gavrilovich soube que os fascistas haviam montado metralhadoras perto da ponte da ferrovia. Os desgraçados estão ficando inquietos!
 Eu me pergunto onde posso conseguir mais vodka.
 Onde está nosso exército? O que está atrasando eles?
@@ -21,7 +21,7 @@ Eu não quero ver isso nunca mais.
 Silenciador
 Fique alerta!
 Ouvi dizer que até Trofim se juntou aos partisans.
-Ouvi dizer que os fascistas incendiaram a aldeia onde minha família morava.
+Ouvi dizer que os fascistas incendiaram a vila onde minha família morava.
 Moradores locais disseram que um comboio alemão foi bombardeado recentemente. Parece que o Exército Vermelho alcançaram a logística alemã bem atrás das linhas inimigas.
 O que se diz na rua é que há partisans na floresta.
 As pessoas dizem que ninguém voltou depois de ter sido levado para a prisão.
@@ -87,11 +87,11 @@ Movimento da câmera pelo mouse
 Movimento da câmera para a esquerda
 O velho queria viver. Ele ajudará o Exército Vermelho, entregando informações.
 Ações na região
-Eles agiam de maneira infantil, simples e direta. A mãe saiu para ver os parentes naquele dia, e voltaria na manhã seguinte. Os irmãos aproveitaram a oportunidade: montaram uma metralhadora na varanda e esperaram que os traidores passassem. Seus cálculos estavam corretos: assim que os traidores apareceram, Slava começou a atirar - quase à queima-roupa. No entanto, um deles, o prefeito, conseguiu escapar. Intimidado pelo som da metralhadora, ele telefonou para o QG em Orsha e disse que a aldeia estava sob ataque dos partisans. Vários carros de inimigos chegaram. Seus cães de caça rapidamente localizaram a arma: Misha e Zhenya não haviam encontrado um esconderijo melhor para a metralhadora do que no sótão da sua própria casa. Os meninos foram brutalmente torturados, mas não desistiram de Slava Shmuglevsky ou de qualquer outro membro do movimento secreto. Os irmãos Telenchenko foram executados em outubro.
+Eles agiam de maneira infantil, simples e direta. A mãe saiu para ver os parentes naquele dia, e voltaria na manhã seguinte. Os irmãos aproveitaram a oportunidade: montaram uma metralhadora na varanda e esperaram que os traidores passassem. Seus cálculos estavam corretos: assim que os traidores apareceram, Slava começou a atirar - quase à queima-roupa. No entanto, um deles, o prefeito, conseguiu escapar. Intimidado pelo som da metralhadora, ele telefonou para o QG em Orsha e disse que a vila estava sob ataque dos partisans. Vários carros de inimigos chegaram. Seus cães de caça rapidamente localizaram a arma: Misha e Zhenya não haviam encontrado um esconderijo melhor para a metralhadora do que no sótão da sua própria casa. Os meninos foram brutalmente torturados, mas não desistiram de Slava Shmuglevsky ou de qualquer outro membro do movimento secreto. Os irmãos Telenchenko foram executados em outubro.
 Ação!
 Missão de demonstração
 Dia
-Aldeias de partisans falsas
+Vilas de partisans falsas
 Árvore de habilidade
 As crianças estão morrendo de fome.
 Desenho de giz de cera infantil

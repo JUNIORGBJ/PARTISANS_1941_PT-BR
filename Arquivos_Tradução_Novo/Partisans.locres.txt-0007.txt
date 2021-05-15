@@ -15,8 +15,8 @@ Incluído no equipamento de todos os soldados. Restaura uma pequena quantidade d
 Duas meninas-partisans-foram enforcadas ontem.
 Nós enforcamos alguns partisans ontem.
 Recebi meu salário ontem. Hora de festejar!
-Você consegue escapar, mas o sargento Fetisov está ferido. Sanek, um garoto local, leva você até a aldeia para ver um certo Vasily Gavrilovich, um homem de confiança. O velho reluta em receber prisioneiros fugitivos, mas oferece abrigo e ajuda você a limpar e curar o ferimento do sargento.
-Você consegue escapar, mas o sargento Fetisov está ferido. Sanek, um garoto local, leva você até a aldeia para encontrar Vasily Gavrilovich, um homem de confiança. O velho reluta em receber prisioneiros fugitivos, mas oferece abrigo e ajuda você a limpar e curar o ferimento do sargento.
+Você consegue escapar, mas o sargento Fetisov está ferido. Sanek, um garoto local, leva você até a vila para ver um certo Vasily Gavrilovich, um homem de confiança. O velho reluta em receber prisioneiros fugitivos, mas oferece abrigo e ajuda você a limpar e curar o ferimento do sargento.
+Você consegue escapar, mas o sargento Fetisov está ferido. Sanek, um garoto local, leva você até a vila para encontrar Vasily Gavrilovich, um homem de confiança. O velho reluta em receber prisioneiros fugitivos, mas oferece abrigo e ajuda você a limpar e curar o ferimento do sargento.
 O uso de habilidade dos partisans foi restaurada ao máximo
 Você durou o máximo que pôde!
 Você caminha pela floresta por horas, as árvores ao seu redor ficam mais densas e sombrias a cada quilômetro. Pântanos e árvores caídas bloqueiam seu caminho repetidamente. Finalmente você tropeça em uma clareira com um abrigo no meio. Seu dono, "Pops" Trofim, não está lá, então você acende uma fogueira e se senta para descansar.
@@ -70,7 +70,7 @@ Menu
 Solicite um ataque aéreo
 Menu de depuração
 Chegue até o pântano
-Saia pela aldeia abandonada
+Saia pela vila abandonada
 Apague as luzes em todos os lugares
 O ataque à estação de Bogachevo iluminou o papel de ton azulado. O comandante Hilfspolizei, Zobel, comandou pessoalmente a caçada aos partisans. Sob seu comando, dezenas de cidadãos inocentes foram levados à prisão para serem interrogados e torturados.
 Os agentes dos subterrâneos falharam em sua missão. Os fascistas os prenderam e enforcaram.

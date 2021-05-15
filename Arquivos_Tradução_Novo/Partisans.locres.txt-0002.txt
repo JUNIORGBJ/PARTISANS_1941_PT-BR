@@ -1,5 +1,5 @@
 ﻿Prisão
-Você atendeu ao pedido da velha e devolveu o ícone dela. Ela deu a você uma granada que seu neto encontrou e irá ajudar você a sair da aldeia.
+Você atendeu ao pedido da velha e devolveu o ícone dela. Ela deu a você uma granada que seu neto encontrou e irá ajudar você a sair da vila.
 Aumenta a velocidade ao carregar corpos.
 Propriedade
 Fábrica

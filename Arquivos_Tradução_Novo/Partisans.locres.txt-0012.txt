@@ -37,7 +37,7 @@ Chaves
 Chave dos quartos internos
 Chave de saída de emergência
 Juro que nunca deixarei minha arma cair até que o último fascista seja expulso de nossas terras. As represálias por crueldade, violência e assassinato devem ser conduzidas de forma impiedosa e implacável. É mais nobre morrer em uma batalha com o inimigo do que ver toda a sua nação escravizada pelos fascistas! Olho por olho! Uma vida por uma vida!
-Os aldeões deixaram de pagar os impostos de alimentos para Biermeier e ele incendiou a aldeia. Foi a gota d'água! Vamos para a estação de Bogachevo esta noite para matar a desgraçado!
+Os aldeões deixaram de pagar os impostos de alimentos para Biermeier e ele incendiou a vila. Foi a gota d'água! Vamos para a estação de Bogachevo esta noite para matar a desgraçado!
 Quando isso vai acabar?
 Quando nossas tropas retornarão?
 Quando meu turno terminará?
@@ -56,7 +56,7 @@ Um relógio de pulso de campo. O presente de formatura de seu pai.
 Comandantes e soldados do Exército Vermelho! Este derramamento de sangue, convocado pelos judeus e seus cúmplices, os comissários e os oficiais políticos, será a sua TOTAL DESTRUIÇÃO.
 Picada de mosquito
 Comandante
-O comandante Biermeier é o chefe da "equipe de compras" baseada na estação de Bogachevo. A equipe saqueia aldeias vizinhas e envia seus saques para a Alemanha e as unidades da linha de frente, bem como guarnições locais. Precisamos nos infiltrar na estação e eliminar Biermeier.
+O comandante Biermeier é o chefe da "equipe de compras" baseada na estação de Bogachevo. A equipe saqueia vilas vizinhas e envia seus saques para a Alemanha e as unidades da linha de frente, bem como guarnições locais. Precisamos nos infiltrar na estação e eliminar Biermeier.
 O comandante aumentou os impostos.
 O comandante do campo é um banana.
 O comandante colocou um preço na cabeça do líder dos partisans.
@@ -96,5 +96,5 @@ Bandeira do Regimento Vermelho
 Os partisans vermelhos trarão morte para suas famílias e devastação para seu país.
 Cabana de troféus
 Duro como o aço.
-Os aldeões não tinham como obedecer, porque os alemães haviam levado todo o gado e suas provisões. Logo um esquadrão da morte fascista chegou à aldeia. Os alemães encurralaram todas as pessoas na praça central e atiraram em cinco aldeões, incluindo mulheres e crianças. Então, depois de atearem fogo na aldeia, os fascistas levaram os sobreviventes para um campo de concentração.
+Os aldeões não tinham como obedecer, porque os alemães haviam levado todo o gado e suas provisões. Logo um esquadrão da morte fascista chegou à vila. Os alemães encurralaram todas as pessoas na praça central e atiraram em cinco aldeões, incluindo mulheres e crianças. Então, depois de atearem fogo na vila, os fascistas levaram os sobreviventes para um campo de concentração.
 O fazendeiro Nikifor embalou alguns porcos e foi para sua cabana para se esconder dos alemães. Ele ficou preso em um pântano no caminho. Devemos ajudá-lo.

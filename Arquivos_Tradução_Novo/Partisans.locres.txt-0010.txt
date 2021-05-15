@@ -16,7 +16,7 @@ Decidimos não visitar Avdotya. Não valia a pena arriscar.
 Mate a galinha.
 Vila Zabrovka.
 Zaborovka
-Zaborovka é uma pequena vila com uma guarnição inimiga localizada dentro dela. Pessoas confiáveis relataram que um caminhão transportando uma arma Anti-Aérea quebrou no caminho para fora da aldeia. Os partisans decidiram aproveitar a situação e destruir a arma antes que o caminhão seja consertado. Para fazer isso, você precisará encontrar explosivos no armazém, coloca-los na arma Anti-Aérea e detoná-los.
+Zaborovka é uma pequena vila com uma guarnição inimiga localizada dentro dela. Pessoas confiáveis relataram que um caminhão transportando uma arma Anti-Aérea quebrou no caminho para fora da vila. Os partisans decidiram aproveitar a situação e destruir a arma antes que o caminhão seja consertado. Para fazer isso, você precisará encontrar explosivos no armazém, coloca-los na arma Anti-Aérea e detoná-los.
 Pegue o veneno da colmeia
 Serei recompensado se matar um.
 Todos devem comparecer ao trabalho forçado amanhã.
@@ -96,5 +96,5 @@ Eu tenho febre.
 Um anel de ouro. Sua mãe o deu quando ela estava saindo para estudar em Alma-Ata.
 Anel de ouro
 Alexey Yurievich Zorin
-Zorin, Alexey Yurievich. Idade: 29 anos. Nasceu na aldeia Verkhovino, na região de Kalinin, em uma família de agricultores. Oficial de carreira. Participou da Guerra Soviético-Finlandesa. Com a eclosão da Grande Guerra Patriótica atingiu o posto de capitão. A companhia que ele comandou foi transportada para a linha de frente nos primeiros dias da guerra. Lutador de faca habilidoso.
+Zorin, Alexey Yurievich. Idade: 29 anos. Nasceu na vila Verkhovino, na região de Kalinin, em uma família de agricultores. Oficial de carreira. Participou da Guerra Soviético-Finlandesa. Com a eclosão da Grande Guerra Patriótica atingiu o posto de capitão. A companhia que ele comandou foi transportada para a linha de frente nos primeiros dias da guerra. Lutador de faca habilidoso.
 Eu não deveria ter falado contra você.
