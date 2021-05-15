@@ -30,10 +30,10 @@ Botão Esquerdo do Mouse + Shift - configurar uma sequência de ações
 Lâmpada de querosene
 Lâmpada que funciona com querosene. Eles são usados em todos os lugares.
 Lendário
-Local de registro
+Explorar local
 Serraria
 Serraria
-Curando
+Curar
 Tratamento
 Recuperando-se de ferimentos recebidos durante as missões.
 Recuperação completa

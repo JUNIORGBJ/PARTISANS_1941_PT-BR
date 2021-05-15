@@ -49,7 +49,7 @@ trabalhador
 camponês
 cursor - movimento da câmera
 em tratamento
-Aplicar
+Confirmar
 configurações
 Jogar
 novo jogo
