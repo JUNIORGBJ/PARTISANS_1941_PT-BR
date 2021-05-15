@@ -61,7 +61,7 @@ Propagandista
 Inimigo agressivo
 Isso machuca!
 Depois de seguir cuidadosamente as pegadas do alce, nós o encontramos e o matamos.
-Ativa a ação da base
+Ativar a ação da base
 Tarefas envolvendo a elaboração de vários itens.
 Tarefa
 Você não tem missões secundárias ativas.

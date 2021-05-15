@@ -78,13 +78,13 @@ Esta chave está bloqueada.
 Esta chave está em uso: {KeyName}. Tem certeza de que deseja religá-la?
 Movimento furtivo
 Movimento rápido
-Movimento da câmera
-Movimento da câmera para cima
-Movimento da câmera para a esquerda
-Movimento da câmera para baixo
-Movimento da câmera para a direita
-Movimento da câmera pelo mouse
-Movimento da câmera para a esquerda
+Movimentar a câmera
+Movimentar a câmera para cima
+Movimentar a câmera para a esquerda
+Movimentar a câmera para baixo
+Movimentar a câmera para a direita
+Movimentar a câmera pelo mouse
+Movimentar a câmera para a esquerda
 O velho queria viver. Ele ajudará o Exército Vermelho, entregando informações.
 Ações na região
 Eles agiam de maneira infantil, simples e direta. A mãe saiu para ver os parentes naquele dia, e voltaria na manhã seguinte. Os irmãos aproveitaram a oportunidade: montaram uma metralhadora na varanda e esperaram que os traidores passassem. Seus cálculos estavam corretos: assim que os traidores apareceram, Slava começou a atirar - quase à queima-roupa. No entanto, um deles, o prefeito, conseguiu escapar. Intimidado pelo som da metralhadora, ele telefonou para o QG em Orsha e disse que a vila estava sob ataque dos partisans. Vários carros de inimigos chegaram. Seus cães de caça rapidamente localizaram a arma: Misha e Zhenya não haviam encontrado um esconderijo melhor para a metralhadora do que no sótão da sua própria casa. Os meninos foram brutalmente torturados, mas não desistiram de Slava Shmuglevsky ou de qualquer outro membro do movimento secreto. Os irmãos Telenchenko foram executados em outubro.

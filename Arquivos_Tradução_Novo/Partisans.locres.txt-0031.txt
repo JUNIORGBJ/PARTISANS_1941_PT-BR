@@ -6,9 +6,9 @@ tratar
 tratar todos
 completo
 aumentou
-Volume da voz
+Volume das falas
 Volume da música
-Volume dos efeitos
+Volume dos efeitos sonoros
 d
 Vila Borovitchy
 Vila Grigorievka
@@ -89,7 +89,7 @@ espingardas
 privado
 Monastyrskoe v.
 Redefinir
-Redefinir as configurações
+Redefinir configurações
 suave
 sargento médico
 Velocidade de giro da câmera

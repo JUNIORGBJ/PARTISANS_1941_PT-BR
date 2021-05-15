@@ -37,7 +37,7 @@ Abra o menu do acampamento
 Ótimo lugar para uma armadilha de arame.
 Para cancelar a ação
 Reinicie os partisans para esta tarefa
-Mostrar FPS
+FPS
 Mostrar porcentagens de probabilidade de acerto
 Vingue-nos!
 IR PARA A ATIVIDADE
