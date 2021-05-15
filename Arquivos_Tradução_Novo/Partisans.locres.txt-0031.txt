@@ -1,5 +1,5 @@
 ﻿menu
-menu principal
+sair
 menu principal
 missões
 tratar

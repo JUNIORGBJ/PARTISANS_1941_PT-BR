@@ -54,7 +54,7 @@ Petrov, o ex-economista da cidade, juntou-se ao Polizei. Ele está perseguindo u
 Se eu fosse um pouco mais jovem, daria uma lição a eles!
 carregar registro rápido
 Salvar registro rápido
-Registro
+Registro salvo
 Registro 1<cf>{time}
 Registro 2<cf>{time}
 Registro 3<cf>{time}
