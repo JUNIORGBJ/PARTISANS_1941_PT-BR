@@ -1,7 +1,7 @@
 ﻿[Mate os russos!]
 [Se eu te ver bêbado de plantão, vou atirar em você.]
 [Calma!]
-[Bom tiro!]
+[Belo tiro!]
 [Ele era um bom cachorro.]
 [Bom tiro.]
 [Porcaria!]
@@ -9,19 +9,19 @@
 [Malditos eslavos!]
 [O que foi esse barulho?]
 [O que é?]
-[O que é que foi isso?]
+[O que foi isso?]
 [Ei!]
 [Mole-mole.]
 [Esta é uma área restrita.]
 [O que é? Schnapps?]
 [Espere, Jürgen!]
 [Eu o conheço de algum lugar?]
-[Você deve entrar em contato com sua família.]
-[Eles me pegaram!]
+[Devo entrar em contato com sua família.]
+[Estou ferido!]
 [Seu rosto não me lembra nada.]
-[Vou virar este local de cabeça para baixo.]
+[Vou virar este lugar de cabeça para baixo.]
 [Acho que vejo algo...]
-[Eu ouvi algo.]
+[Eu ouço algo.]
 -
 Sair
 I
@@ -33,10 +33,10 @@ E se eles nos atacarem?
 Kolya foi preso por distribuir panfletos.
 E se eles ainda estiverem aqui?
 O Comandante Zorin está com você?
-Eles vão me dar um prêmio?
+Eles vão me dar uma recompensa?
 Dá o fora!
 Os partisans não se importam.
-Os partisans estão se saindo muito bem contra os fascistas.
+Os partisans estão fazendo um bom trabalho combatendo os fascistas.
 Então os alemães começaram a levar pessoas para trabalhar na Alemanha. Alguns foram persuadidos e outros simplesmente forçados. Consegui me esconder no sótão, mas levaram minha irmã.
 O que é isso?...
 Quem são os partisans?
@@ -44,25 +44,25 @@ Ei?
 Ei? O que há?
 AVS – 36
 AGENTES
-Avdotya é a garota que protegemos do assédio de Petrov. Ela fez pão para nós. Devemos ir atrás dele?
+Avdotya é a garota que protegemos do assédio de Petrov. Ela fez pão para nós. Devemos ir pegá-lo?
 Saco de corda com mantimentos
 Salvamento automático
 Comboio
 Mecânico
-Operador de metralhadora
-Operador de metralhadora SS
+Atirador de metralhadora
+Atirador de metralhadora das SS
 Fácil
 Agente 47
 Agente ferido.
 Agente morto:
-Agentes Nikitin nos informam que os alemães reforçaram as patrulhas ao redor da estação Krasnoselskaya. Isso não é bom.
+Agentes do Nikitin nos informam que os alemães reforçaram as patrulhas ao redor da estação Krasnoselskaya. Isso não é bom.
 Agentes mortos:
 Propagandista
 Inimigo agressivo
 Isso machuca!
 Depois de seguir cuidadosamente as pegadas do alce, nós o encontramos e o matamos.
 Ativar a ação da base
-Tarefas envolvendo a elaboração de vários itens.
+Tarefas envolvendo a fabricação de vários itens.
 Tarefa
 Você não tem missões secundárias ativas.
 Kit de primeiros socorros
@@ -74,27 +74,27 @@ BASE DE CONHECIMENTO
 Vovó disse que mamãe e papai estão no céu.
 As meninas de hoje são muito agressivas.
 Apontador de mesa de baquelite. É frequentemente usado em quartéis e escolas.
-Esses bandidos que se dizem «partisans» não são nossos camaradas. Localizamos o acampamento e o destruímos.
+Esses bandidos que se dizem «partisans» não são nossos camaradas. Localizamos o acampamento deles e o destruímos.
 As gangues de Biermeier continuam a invadir vilas e celeiros de fazendas.
 Pão.
-Glória ao senhor!
-Me dói a cabeça.
+Minha nossa!
+Estou com dor de cabeça.
 Corra por suas vidas!
 Alimentamos os fugitivos e os conduzimos pela floresta em segurança.
-Nós expulsamos os fugitivos. Com sorte, eles podem sobreviver na floresta por conta própria.
-O novo grupo não tinha munição suficiente e foi derrotado. Os fascistas prenderam e enforcaram os guerrilheiros.
+Nós afugentamos os fugitivos. Resta torcer para que eles possam sobreviver na floresta por conta própria.
+O grupo não tinha suprimento suficiente e não resistira por muito tempo. Seus membros foram capturados e enforcados pelos fascistas.
 De mãos nuas
 Não posso sair sem a permissão do chefe da vila.
 Sem registro
 Sem uma boa pá, você não pode cavar um bom abrigo subterrâneo na floresta.
-Você não pode começar a missão sem este partisans.
+Você não pode começar a missão sem este partisan.
 Mate os comissários!
 Belozerova
-Belozerova corre na direção escolhida. Os inimigos não podem atingir o guerrilheiro durante a corrida.
-Belozerova mata todos os inimigos em uma pequena área ao redor do guerrilheiro. Você precisa de uma arma.
+Belozerova corre na direção escolhida. Os inimigos não podem atingir seu guerrilheiro durante a corrida.
+Belozerova mata todos os inimigos em uma pequena área ao redor do guerrilheiro. Precisa de uma pistola.
 Olga Mikhailovna Belozerova
-Belozerova, Olga Mikhailovna. Idade: 27. Ela nasceu em Novosibirsk (mais tarde Novonikolayevsk). Ela foi criada por seu pai, que era um coronel do exército. Ela é formada em direito pela Universidade Estadual de Moscow e trabalhou como pesquisadora na Milícia de Moscow. Especialista em tiro esportivo. Ele ingressou no Exército Vermelho depois que seu pai foi enviado para o front.
+Belozerova, Olga Mikhailovna. Idade: 27. Ela nasceu em Novosibirsk (então Novonikolayevsk). Ela é formada em direito pela Universidade Estadual de Moscou e trabalhou como investigadora na Militsiya (Polícia) de Moscou. Especialista em tiro esportivo. Ela ingressou no Exército Vermelho depois que seu pai foi enviado para o front.
 Pantâno Beloretskeya.
 Cuidado! Granada!
-Cuidado! Uma granada está chegando!
+Cuidado! Uma granada está vindo!
 Bertha
