@@ -1,7 +1,7 @@
 ﻿Os moedores de carne da marca Kasli eram famosos não apenas em casa, mas em muitos países no exterior.
 Querida
 EM ATIVIDADE
-PARA A MISSÃO
+INICIAR MISSÃO
 A HABILIDADE ESTARÁ DISPONÍVEL MAIS TARDE
 HABILIDADES
 HABILIDADES
@@ -86,7 +86,7 @@ Você pode salvar seu jogo rapidamente pressionando [F5]. Se você deseja carreg
 Clique aqui para começar uma nova missão
 Pressione o botão para ligar
 Pressione qualquer tecla para pular
-Clique em "PARA A MISSÃO"
+Clique em "INICIAR MISSÃO"
 Voltar
 Nome da missão
 Nome da região
