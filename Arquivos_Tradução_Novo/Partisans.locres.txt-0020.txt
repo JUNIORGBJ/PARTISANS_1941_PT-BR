@@ -58,7 +58,7 @@ Acabe com os invasores
 Vá para a outra margem
 Recomendamos que você domine a mecânica principal do jogo antes de jogar neste modo.
 Entregar
-Para entregar
+Entregar para
 Mover-se pela vegetação rasteira faz barulho e pode levantar suspeitas entre os inimigos próximos. Se o seu plano for passar despercebido, espere que o nível de suspeita diminua antes de prosseguir.
 O partisan faz muito menos barulho ao se mover.
 O partisan faz menos barulho ao se mover.

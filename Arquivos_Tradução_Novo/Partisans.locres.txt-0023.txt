@@ -29,7 +29,7 @@ Posicione todos os seus personagens na área especificada para sair do local.
 Desmontar
 Encontre o representante da vila
 Ruptura de tendão
-baixar
+Descarregar
 Região disponível para explorar
 Classificação dos inimigos
 A classificação do inimigo refletem seu nível de perigo. Para ver o alcance, mantenha pressionada a tecla ALT e passe o mouse sobre o inimigo.
