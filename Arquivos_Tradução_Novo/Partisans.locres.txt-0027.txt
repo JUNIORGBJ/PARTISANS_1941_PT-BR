@@ -70,7 +70,7 @@ Biermeier tem uma namorada linda.
 Biermeier está com as roupas acabadas!
 Mellenberg tem cicatrizes no rosto.
 Você tem alterações não salvas. Você quer aplicá-las?
-Você não tem mais lutadores.
+Você não tem mais jogadores.
 Seu personagem tem uma moral muito alta. Aumenta a chance de acertar o inimigo. O personagem pode correr por mais tempo. O tempo de recarga da habilidade é reduzida.
 Seu personagem tem uma moral muito alta. Aumenta significativamente a chance de acertar o inimigo. O personagem pode correr por mais tempo. O tempo de recarga da habilidade é reduzida.
 Uncle Fedor tem um canteiro de batatas na colina. No passado, ele se escondeu dos soviéticos e agora espera que os fascistas partam. Vamos pedir um pouco de comida a ele.

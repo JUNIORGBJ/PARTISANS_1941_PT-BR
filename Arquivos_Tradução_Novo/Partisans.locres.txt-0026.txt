@@ -3,10 +3,10 @@ Ordenar itens
 Um vizinho quer que eu me junte a ele e me torne um polizei.
 Os amigos do chefe da vila perceberam que algo estava errado. Fomos forçados a sair.
 Choque
-Salvando
+Salvando...
 Devido às configurações de dificuldade, não é possível salvar o jogo.
-Salvamento concluído
-Registros salvos normais
+Salvando...
+Registro salvo normal
 Social
 Habilidade social.
 Bipé

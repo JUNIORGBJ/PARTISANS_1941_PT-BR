@@ -53,7 +53,7 @@ O ex-contador, Sidorov agora é um polizei. Ele vende a comida desapropriada sob
 Petrov, o ex-economista da cidade, juntou-se ao Polizei. Ele está perseguindo uma garota chamada Avdotya. Devemos protegê-lo.
 Se eu fosse um pouco mais jovem, daria uma lição a eles!
 carregar registro rápido
-Salvar registro rápido
+Registro salvo rápido - 
 Registro salvo
 Registro 1<cf>{time}
 Registro 2<cf>{time}

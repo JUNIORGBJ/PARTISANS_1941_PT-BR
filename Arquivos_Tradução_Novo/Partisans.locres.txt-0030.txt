@@ -47,7 +47,7 @@ EFEITOS
 Equipado
 Equipamento.
 Equipar item
-partisan especialista
+Partisan especialista
 Abastecimento de emergência "Ração Eiserne". Uma porção contém:
 Elevador de grão
 Enciclopédia
