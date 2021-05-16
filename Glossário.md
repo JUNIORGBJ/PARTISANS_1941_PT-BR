@@ -26,7 +26,7 @@ Glossário
 | Zaborovka | Zaborovka | Uma cidade da Rússia |
 | Barrel (recipiente) | Barril | Barril, recipiente de madeira ou metal |
 | Barrel (armas de fogo) | Cano | Cano de armas de fogo leves e pesadas por onde o projetil é disparado |
-| tripwires | armadilhas de arame | ?? |
+| tripwires | cordéis de tropeço | minas de fragmentação são acionadas por cordéis de tropeço (manual de campanha - minas e armadilhas) |
 | Fan Shots | disparo em cone | Disparo de arma de fogo que atinge mais de um inimigo |
 | punisher commander | comandante justiceiro | Melhor tradução que achei |
 | clip | Carregador | Carregador da arma |
