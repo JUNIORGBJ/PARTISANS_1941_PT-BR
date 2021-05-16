@@ -31,6 +31,7 @@ Glossário
 | punisher commander | comandante justiceiro | Melhor tradução que achei |
 | clip | Carregador | Carregador da arma |
 | Evasion roll | manobrar de esquiva | Melhor tradução que achei |
-| Long burst | Explosão longa | Melhor tradução que achei |
+| Long burst | Rajada longa | burst = disparo em rajada (pesquisar fogo seletivo) |
 | Buckshot | Chumbo grosso | Melhor tradução que achei |
+| Machine Gunner | Atirador de metralhadora | (http://www.cml.eb.mil.br/ultimas-noticias/2151-metralhadora-automatizada.html) |
 
