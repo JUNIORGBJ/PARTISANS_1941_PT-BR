@@ -36,7 +36,7 @@ Seus recursos
 RETORNAR TODOS
 MOCHILA
 PEGAR TUDO
-PEGAR TUDO (BARRA DE ESPAÇO)
+PEGAR TUDO (ESPAÇO)
 TEMPO
 DATA/HORA
 VOCÊ ESTÁ PRESTES A INICIAR UMA MISSÃO SEM QUALQUER EQUIPAMENTO!
@@ -97,4 +97,4 @@ Um Partisan? Azul no rosto e com uma corda no pescoço?
 Tive um vislumbre do rosto de Zobel. Cara, ele é assustador!
 Eu vi um menino perto do acampamento.
 Eu quero um pouco de vinho
-Vinho seria muito bom ...
+Vinho seria muito bom...
