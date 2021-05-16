@@ -3,9 +3,9 @@ Dinamite
 Alcance efetivo
 Distância da habilidade.
 Distrofia
-Raio de explosão
-Raio de explosão I
-Raio de explosão II
+Rajada longa
+Rajada longa I
+Rajada longa II
 A operação ferroviária suave e ininterrupta requer muita madeira. Poderíamos causar problemas destruindo a madeira na área de extração.
 Para pesar itens. Coloque o item que deseja pesar em uma tigela e coloque os contrapesos na outra. Assim que as duas tigelas estiverem niveladas, os contrapesos informaram o peso do item em questão.
 Para uma melhor visão do abrigo.

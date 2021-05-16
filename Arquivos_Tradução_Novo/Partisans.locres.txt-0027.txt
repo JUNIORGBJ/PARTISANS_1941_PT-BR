@@ -96,5 +96,5 @@ Mate 100 inimigos
 Mate 2 inimigos durante um único uso da habilidade disparo em cone
 Mate os dois Polizeis
 Mate 3 inimigos usando objetos no ambiente
-Mate 3 inimigos durante um único uso da habilidade explosão longa
+Mate 3 inimigos durante um único uso da habilidade Rajada longa
 Mate 3 inimigos em um único uso da habilidade de chumbo grosso.

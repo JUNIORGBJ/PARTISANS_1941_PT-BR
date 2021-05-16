@@ -16,7 +16,7 @@ Mate o comandante SS com uma faca
 Mate o chefe do acampamento
 Mate oficiais nazistas enquanto eles pescam
 Remover do esquadrão
-Aumente o raio de distância da "Explosão longa".
+Aumente o raio de distância da "Rajada longa".
 A distância da habilidade é aumentada e seu tempo de recarga reduzido. Aumente o número de usos de uma habilidade durante a missão.
 O raio da habilidade é aumentada e seu tempo de recarga reduzido.
 O dano da habilidade é aumentado e seu tempo de recarga reduzido.
