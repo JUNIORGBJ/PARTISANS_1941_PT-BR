@@ -51,7 +51,7 @@ Um revólver da Primeira Guerra Mundial convertido para o calibre 7,62. É um mo
 Um revólver da Primeira Guerra Mundial convertido para o calibre 7,62. É um modelo de ação simples. Ele compensa sua baixa taxa de fogo com alto dano e alto bloqueio de ar. É uma arma de qualidade média.
 Um revólver da Primeira Guerra Mundial convertido para o calibre 7,62. É um modelo de ação simples. Ele compensa sua baixa taxa de fogo com alto dano e alto bloqueio de ar. É uma arma de alta qualidade.
 Rare
-Modo de Missões
+Modo Missão
 Modo de exibição
 pausa tática
 Modo furtivo
