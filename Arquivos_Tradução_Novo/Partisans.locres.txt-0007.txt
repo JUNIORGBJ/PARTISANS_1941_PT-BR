@@ -37,7 +37,7 @@ O tempo acabou
 Esta é a sua tela de gerenciamento do Acampamento Partisan. As guias da direita permitem que você atribua tarefas aos membros da sua unidade.
 Você é teimoso.
 Você vai vencer os bandidos?
-Você chegou à tela do modo incursão. Aqui você pode selecionar os partisans que enviará em uma missão, bem como as modificações de dificuldade.
+Você chegou à tela do modo operação. Aqui você pode selecionar os partisans que enviará em uma missão, bem como as modificações de dificuldade.
 Você terminou de planejar as ações para hoje?
 Tem certeza de que deseja completar a missão?
 Tem certeza que deseja deixar a missão?
