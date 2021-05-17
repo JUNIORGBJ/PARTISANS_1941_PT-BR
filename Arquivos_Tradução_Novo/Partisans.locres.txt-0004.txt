@@ -12,46 +12,46 @@ Deus da guerra
 Missão de combate
 Brest: Relatório de combate
 Tarefas e missões de combate
-A tropa SS é muito perigosa, pois são guerreiros muito habilidosos e comprometidos com sua ideologia. Eles podem ser equipados com metralhadoras.
-Os soldados da Wehrmacht possuem o equipamento mais moderno e considerável experiência em combate. Eles são muito perigosos. Atiradores de elite e operadores de metralhadoras são especialmente mortais.
+As tropas das SS são muito perigosas, pois são guerreiros muito habilidosos e comprometidos com sua ideologia. Eles podem estar equipados com metralhadoras.
+Os soldados da Wehrmacht possuem o equipamento mais moderno e considerável experiência em combate. Eles são muito perigosos. Franco-atiradores e operadores de metralhadoras são especialmente mortais.
 Hospital
 A grande Bertha
 Uma tragédia nas linhas de frente: Kiev, capital da Ucrânia soviética, foi conquistada pelos fascistas.
 Não pode mais ser usado.
-Os bolcheviques fecharam todas as igrejas. Não podemos mais nos voltar para Deus em busca de proteção.
+Os bolcheviques fecharam todas as igrejas. Não podemos nem nos voltar para Deus em busca de proteção.
 Carne
 É uma bomba!
 Bônus de cobertura
 Bônus de precisão
 O borsch tem o mesmo gosto do da minha avó.
-Meu irmão também é partisans.
+Meu irmão também é partisan.
 Me proteja!
 Eu levei um tiro, irmãos!
 Não é bom pegar coisas que não pertencem a você.
 Registro
-A queda de Moscow é apenas mais uma mentira dos alemães. Nossa capital resiste com unhas e dentes!
-Uma metralhadora leve Lewis de origem britânica, adaptada para o calibre 7,62. Embora seja um pouco áspera em comparação com outras armas mais modernas, ainda é muito eficaz. Esta arma parece estar gasta pelo uso.
-Uma metralhadora leve Lewis de origem britânica, adaptada para o calibre 7,62. Embora seja um pouco áspera em comparação com outras armas mais modernas, ainda é muito eficaz. É uma arma de qualidade média.
-Uma metralhadora leve Lewis de origem britânica, adaptada para o calibre 7,62. Embora seja um pouco áspera em comparação com outras armas mais modernas, ainda é muito eficaz. É uma arma de alta qualidade.
+A queda de Moscou é apenas mais uma mentira dos alemães. Nossa capital resiste com unhas e dentes!
+Uma metralhadora leve Lewis de origem britânica, adaptada para o calibre 7,62. Embora pareça mais bruta em comparação com outras armas mais modernas, ainda é muito eficaz. Esta arma parece estar desgastada pelo uso.
+Uma metralhadora leve Lewis de origem britânica, adaptada para o calibre 7,62. Embora pareça mais bruta em comparação com outras armas mais modernas, ainda é muito eficaz. É uma arma de qualidade média.
+Uma metralhadora leve Lewis de origem britânica, adaptada para o calibre 7,62. Embora pareça mais bruta em comparação com outras armas mais modernas, ainda é muito eficaz. É uma arma de alta qualidade.
 Kit de barbear alemão
-Entrada!
+Está vindo!
 Eles deixaram uma carga completa de munições. Não vamos desperdiçar esses projéteis não utilizados.
 Atirar pedra
-Lançamento de faca I
-Lançamento de faca II
-Lançamento de faca III
-Vamos torcer para não alcancem o piloto e que ele consiga chegar a uma zona amiga.
+Arremesso de faca I
+Arremesso de faca II
+Arremesso de faca III
+Vamos torcer para que não alcancem o piloto e que ele consiga chegar a uma zona amiga.
 Isso vai ser difícil
-Viver sob ocupação
-O comissário regimental, Efim Moiseevich Fomin, ficou atordoado e parcialmente enterrado pelos destroços depois que os alemães explodiram uma das salas do quartel. O inimigo o tirou dos escombros e o fez prisioneiro; Eles imediatamente o identificaram como um traidor e atiraram nele contra a muralha da fortaleza. Efim Fomin enfrentou sua morte com coragem e dignidade.
+Vivendo sob ocupação
+O comissário regimental, Efim Moiseevich Fomin, ficou atordoado e parcialmente soterrado pelos destroços depois que os alemães explodiram uma das salas do quartel. O inimigo o tirou dos escombros e o fez prisioneiro; ele foi identificado imediatamente por um traidor e fuzilado contra a muralha da fortaleza. Efim Fomin enfrentou sua morte com coragem e dignidade.
 Cuidado: minas!
 O prefeito está realizando uma reunião do conselho municipal no centro comunitário para discutir as operações punitivas e a batalha em curso contra os partisans. Bem, temos algo a dizer sobre isso, não é?
 Garrafa
-Se você deixar uma garrafa no chão, o inimigo se aproxima para verificar seu conteúdo.
-Garrafas deixadas por este partisans nocautearão todos os inimigos que as cheirem por 90 segundos.
-O ex-contador, Sidorov agora é um polizei. Ele vende a comida desapropriada sob o capô. Poderíamos fazer uma visita noturna a ele e pedir-lhe para compartilhar a comida.
-Petrov, o ex-economista da cidade, juntou-se ao Polizei. Ele está perseguindo uma garota chamada Avdotya. Devemos protegê-lo.
-Se eu fosse um pouco mais jovem, daria uma lição a eles!
+Se você deixar uma garrafa no chão, o inimigo se aproximará para verificar seu conteúdo.
+Garrafas deixadas por este partisan nocautearão todos os inimigos que as cheirem por 90 segundos.
+O ex-contador, Sidorov, agora é um Polizei. Ele vende clandestinamente a comida desapropriada. Poderíamos fazer uma visita noturna a ele e lhe pedir para compartilhar a comida.
+Petrov, o ex-economista da cidade, juntou-se aos Polizei. Ele está perseguindo uma garota chamada Avdotya. Devemos protegê-la.
+Se eu fosse um pouco mais jovem, daria uma lição neles!
 carregar registro rápido
 Registro salvo rápido - 
 Registro salvo
@@ -62,39 +62,39 @@ Mão-rápida
 Registro Salvo rápido.
 E
 LUTAR!
-LEMBRE-SE DE ISSO QUANDO VOCÊ LUTAR CONTRA UM TANQUE:
+LEMBRE-SE DISSO QUANDO LUTAR CONTRA UM TANQUE:
 AINDA NÃO HÁ INFORMAÇÕES DISPONÍVEIS.
 PARA O ACAMPAMENTO
-Os destacamentos partisans na região de Leningrado estão realizando intensas operações de combate, punindo impiedosamente as tropas de Hitler. Durante a segunda metade de agosto em Luga e apenas em Luga, os partisans mataram pelo menos 800 soldados e oficiais fascistas; eles desativaram 14 tanques, 7 veículos blindados, 17 canhões e 22 metralhadoras; eles destruíram 47 caminhões e 62 motocicletas; eles queimaram 18 caminhões de combustível e apreenderam grandes quantidades de munição, equipamentos e suprimentos de combate e engenharia.
+Os destacamentos partisans na região de Leningrado estão realizando intensas operações de combate, punindo impiedosamente as tropas de Hitler. Durante a segunda metade de agosto em Luga e apenas em Luga, os partisans mataram pelo menos 800 soldados e oficiais fascistas; eles desativaram 14 tanques, 7 veículos blindados, 17 canhões e 22 metralhadoras; eles destruíram 47 caminhões e 62 motocicletas; eles queimaram 18 caminhões de combustível e apreenderam grandes quantidades de munição, suprimentos, equipamentos de combate e engenharia.
 ACESSÍVEL
-NOVOS LUTADORES QUEREM SE JUNTAR A NOSSA EQUIPE
+NOVOS COMBATENTES QUEREM SE JUNTAR A NOSSA EQUIPE
 JANELA
 JANELA CHEIA
 Os fogões a querosene, tanto domésticos quanto importados, eram amplamente usados ​​na Rússia e na União Soviética.
-Se você está lutando contra um rival armado com uma baioneta, espere sua chance. A primeira coisa que você deve fazer é bloquear o golpe do inimigo; em seguida, agarre a arma do seu oponente e, finalmente, acerte um golpe rápido e mortal.
+Se você está lutando contra um rival armado com uma baioneta, espere sua chance. A primeira coisa que você deve fazer é bloquear o golpe do inimigo; em seguida, agarre a arma do seu oponente e, finalmente, acerte um golpe cortante rápido e mortal.
 Meu estômago ronca.
 Eu estou bem.
-Este modo usa uma configuração de dificuldade flexível que você pode ajustar usando modificações.
-Os fascistas prenderam os partisans da vila de Zaborovka. Eles serão executados publicamente para aterrorizar os moradores e eliminar os apoiadores da resistência. A missão é viajar Zaborovka e evitar a execução. A vila está lotada de tropas alemãs, então esta não será uma operação fácil.
-Na vila de Kolomenetz, os alemães trancaram um velho chamado Antip Uvarov junto com cinco crianças em um celeiro. Depois de mantê-los ali por alguns dias sem comida ou bebida, os impiedosos fascistas os queimaram vivos.
-Um agente clandestino foi executado hoje na vila vizinha, junto com sua esposa e três filhos. É uma pena que descobrimos tarde que isso iria acontecer.
+Este modo usa uma configuração de dificuldade flexível que você pode ajustar usando modificadores.
+Os fascistas prenderam os partisans da vila de Zaborovka. Eles serão executados publicamente para aterrorizar os moradores e tirar o apoio à resistência. A missão é viajar até Zaborovka e evitar a execução. A vila está lotada de tropas alemãs, então esta não será uma operação fácil.
+Na vila de Kolomenetz, os alemães trancaram um idoso chamado Antip Uvarov junto com cinco crianças em um celeiro. Depois de mantê-los ali por alguns dias sem comida ou água, os impiedosos fascistas os queimaram vivos.
+Um agente clandestino foi executado hoje na vila vizinha, junto com sua esposa e três filhos. É uma pena que descobrimos tarde demais que isso iria acontecer.
 Eles tiraram tudo de nós!
-Os alemães estão armazenando seus saques da guerra em uma igreja abandonada em Pokrovskoe. Vasily Gavrilovich soube que havia uma bandeira vermelha roubada ali, de uma divisão ou do exército. É nosso dever como soldados recuperá-la.
-Você pode encontrar recipientes em lugares inesperados e com formas inesperadas. Por exemplo, colete o conteúdo da pilha de pedras mais próxima.
+Os alemães estão armazenando seus espólios em uma igreja abandonada em Pokrovskoe. Vasily Gavrilovich soube que havia uma bandeira vermelha roubada ali, de uma divisão ou do exército. É nosso dever como soldados recuperá-la.
+Você pode encontrar recipientes em lugares inesperados e de formas inesperadas. Por exemplo, colete o conteúdo da pilha de pedras mais próxima.
 Que tipo de relacionamento você tem com a Fräulein?
-Existem muitas lebres nos campos do kolkhoz. Podemos ir caçar! No entanto, não queremos alguns tiros para atrair a atenção do inimigo.
-No final de outubro, um destacamento de reconhecimento da equipe de Poleyko, incluindo Antonina Petrova, estava operando perto da estação de Mschinskaja. Os fascistas logo descobriram e em 4 de novembro de 1941, eles enviaram esquadrões da morte para cercar o campo, 10 km a noroeste da vila de Mschinskaja no distrito de Luga. No campo, havia 11 partisans e, durante o breve tiroteio, todos foram mortos. No entanto, antes de morrer, Petrova conseguiu chegar à plataforma da metralhadora e derrubar um grande número de soldados fascistas. Os alemães se lançaram sobre ela quando ela ficou sem munição, mas com uma granada de mão ela conseguiu levar mais alguns soldados com ela.
-Houve uma revolta no campo dos prisioneiros de guerra, mas eles conseguiram contê-la.
+Existem muitas lebres nos campos do kolkhoz. Podemos ir caçar! No entanto, não queremos atrair a atenção do inimigo com disparos.
+No final de outubro, um destacamento de reconhecimento da equipe de Poleyko, incluindo Antonina Petrova, estava operando perto da estação de Mschinskaja. Os fascistas logo descobriram e em 4 de novembro de 1941, eles enviaram esquadrões da morte para cercar o acampamento, 10 km a noroeste da vila de Mschinskaja (no distrito de Luga). No acampamento, havia 11 partisans e, durante o breve tiroteio, todos foram mortos. No entanto, antes de morrer, Petrova conseguiu chegar à plataforma da metralhadora e derrubar um grande número de soldados fascistas. Os alemães se lançaram sobre ela quando ela ficou sem munição, mas com uma granada de mão ela conseguiu eliminar mais alguns soldados com ela.
+Houve uma revolta no acampamento dos prisioneiros de guerra, mas eles conseguiram contê-la.
 Eles já podiam nos deixar ir para a floresta! Existem muitas presas, cogumelos e bagas.
-Quando um exército se retirou, deve ter deixado para trás um esconderijo na floresta, no grid 15. Vamos ver se podemos encontrá-lo.
-Há um estoque pré-guerra na floresta na grade 25. Vamos encontrá-lo.
-Encontramos um órfão faminto na floresta. Vamos alimentá-la e levá-la para um lugar seguro na vila.
+Quando um exército recuou, deve ter deixado para trás um esconderijo na floresta, no setor 15. Vamos ver se podemos encontrá-lo.
+Há um estoque pré-guerra na floresta no setor 25. Vamos encontrá-lo.
+Encontramos uma órfã faminta na floresta. Vamos alimentá-la e levá-la para um lugar seguro na vila.
 Os mirtilos já estão maduros! Poderíamos colher algumas frutas e guardá-las para o inverno.
-São luxuosos em qualquer prato.
-Há um mecânico na encruzilhada onde eles consertam veículos militares leves e caminhões. Um tanque foi deixado lá ontem. Devemos destruí-lo antes que eles consigam colocá-lo em funcionamento novamente.
-É aqui que as feridas são tratadas.
-No início de outubro, os esforços combinado das unidades partisans desferiu um golpe severo nos alemães. Com um plano perfeitamente desenhado, vários destacamentos independentes realizaram ataques diversivos contra linhas de abastecimento e guarnições alemãs. O quartel-general alemão foi forçado a enviar forças adicionais da vila de N., então apenas um punhado de soldados permaneceu para proteger os armazéns e oficinas, onde os tanques e veículos blindados estavam em manutenção. Foi então que a principal força partisans atacou a vila. Eles mataram 41 soldados e oficiais, sabotaram 17 tanques e 45 veículos e caminhões e queimaram armazéns cheios de munição, combustível e equipamento militar. Enquanto o rival enfurecido se preparava para uma grande retaliação, os partisans atraíram as forças inimigas para um pântano, bloquearam estradas e os surpreenderam com uma saraivada de metralhadoras.
-As tropas SS vieram para esta região para se reorganizar. Eles são nossos inimigos mais perigosos e fanáticos.
-Um dia, em agosto, os fascistas e seus seguidores, o prefeito, seu ajudante e o chefe de polícia, estupraram e mataram atrozmente uma jovem professora chamada Anna Lyutova. Naquela época, sua cidade já tinha um movimento jovem underground ativo liderado por Slava Shmuglevsky. "Morte aos traidores" era seu lema. Slava foi encarregado de executar o veredicto com a ajuda dos irmãos Misha e Zhenya Telenchenko. A equipe já possuía uma metralhadora que encontraram no campo de batalha e guardaram em local seguro.
-Em retaliação por nossas ações anteriores, os fascistas vão lançar um ataque punitivo a uma vila próxima. Podemos ir lá para detê-los.
-Em retaliação por nossas ações anteriores, os fascistas vão procurar uma vila próxima. Podemos ir lá para detê-los.
+São bons em qualquer prato.
+Há uma oficina na encruzilhada onde eles consertam veículos militares leves e caminhões. Um tanque foi deixado lá ontem. Devemos destruí-lo antes que eles consigam colocá-lo em funcionamento novamente.
+É aqui que os ferimentos são tratados.
+No início de outubro, os esforços combinado das unidades partisans desferiu um golpe severo nos alemães. Com um plano perfeitamente desenhado, vários destacamentos independentes realizaram ataques diversivos contra linhas de abastecimento e guarnições alemãs. O quartel-general alemão foi forçado a enviar forças adicionais da vila de N., então apenas um punhado de soldados permaneceu para proteger os armazéns e a oficina, onde os tanques e veículos blindados estavam em manutenção. Foi então que a principal força partisan atacou a vila. Eles mataram 41 soldados e oficiais, sabotaram 17 tanques e 45 veículos e caminhões; também queimaram armazéns cheios de munição, combustível e equipamento militar. Enquanto o inimigo enfurecido se preparava para uma grande retaliação, os partisans atraíram as forças inimigas para um pântano, bloquearam estradas e os surpreenderam com uma saraivada de balas de metralhadoras.
+As tropas das SS vieram para esta região para se reorganizar. Eles são nossos inimigos mais perigosos e fanáticos.
+Um dia, em agosto, os fascistas e seus colaboradores - o prefeito, seu ajudante e o chefe de polícia - estupraram e mataram atrozmente uma jovem professora chamada Anna Lyutova. Naquela época, sua cidade já tinha um movimento jovem clandestino ativo liderado por Slava Shmuglevsky. "Morte aos traidores" era seu lema. Slava foi encarregado de executar o veredicto com a ajuda dos irmãos Misha e Zhenya Telenchenko. A equipe já possuía uma metralhadora que encontraram no campo de batalha e guardaram em local seguro.
+Em retaliação por nossas ações anteriores, os fascistas estão realizando um ataque punitivo a uma vila próxima. Podemos ir lá para detê-los.
+Em retaliação por nossas ações anteriores, os fascistas estão caçando suspeitos em uma vila próxima. Podemos ir lá para detê-los.
