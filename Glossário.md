@@ -34,4 +34,5 @@ Glossário
 | Long burst | Rajada longa | burst = disparo em rajada (pesquisar fogo seletivo) |
 | Buckshot | Chumbo grosso | Melhor tradução que achei |
 | Machine Gunner | Atirador de metralhadora | (http://www.cml.eb.mil.br/ultimas-noticias/2151-metralhadora-automatizada.html) |
+| Log (madeira  - desambiguação) | tora | tora ou lenha, ver conforme contexto (ex. logging site pode ser serraria) |
 
