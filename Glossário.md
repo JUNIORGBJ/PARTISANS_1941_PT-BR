@@ -39,3 +39,4 @@ Glossário
 | Clean as a whistle (expressão idiomática) | limpíssimo | (as) clean as a whistle é uma expressão utilizada para dizer que algo está “muito limpo”, “impecável”, “limpíssimo”, "limpinho" etc. |
 | Grouse | Tetraz (ave) | https://pt.wikipedia.org/wiki/Tetraz |
 | Pike | Lúcio (peixe, acredita) | https://pt.wikipedia.org/wiki/Esox_lucius, https://pt.wikipedia.org/wiki/L%C3%BAcio_(peixe) |
+| BTR | veículo semilagarta (jogo) | Veículo blindado de transporte de pessoal (VBTP). A denominação BTR é russa pra VBTP, mas não sei se cabe para este caso (na missão é um semilagarta SdKfZ 251) |
