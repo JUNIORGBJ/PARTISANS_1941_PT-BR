@@ -39,3 +39,5 @@ Glossário
 | Clean as a whistle (expressão idiomática) | limpíssimo | (as) clean as a whistle é uma expressão utilizada para dizer que algo está “muito limpo”, “impecável”, “limpíssimo”, "limpinho" etc. |
 | Grouse | Tetraz (ave) | https://pt.wikipedia.org/wiki/Tetraz |
 | Pike | Lúcio (peixe, acredita) | https://pt.wikipedia.org/wiki/Esox_lucius, https://pt.wikipedia.org/wiki/L%C3%BAcio_(peixe) |
+| lit the blue touch paper (expressão) | desencadear reações furiosas | expressão inglesa para algo como "despertar a raiva","desencadear uma série de eventos" |
+| underground (desambiguação) | clandestino | clandestino, "paralelo" |
