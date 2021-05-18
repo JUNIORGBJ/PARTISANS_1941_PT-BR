@@ -2,31 +2,31 @@
 Eles levaram nossos casacos.
 Os desastres sempre começam com um único passo...
 Inimigos mortos: {enemies}/{maxenemies}
-Mova seus Partisans para BTR
+Embarque seus partisans no veículo semilagarta
 Eles executaram todos os prisioneiros que não conseguiram escapar durante a rebelião.
 Você ainda não jogou as missões introdutórias da campanha principal. Quer continuar?
 Eu estou sem fumo.
-Todos os tipos de imundices apareceram recentemente.
+Todos os tipos de imundícies apareceram recentemente.
 Informações sobre diferentes aspectos do jogo podem ser encontradas na enciclopédia. Para abri-la, pressione o botão "I" e abra a guia "Enciclopédia". Lá você pode encontrar dicas úteis.
 Pelo moinho
 De qualquer forma, nós encontraremos todos eles.
 Tudo está quieto.
 Incluído no equipamento de todos os soldados. Restaura uma pequena quantidade de HP.
-Duas meninas-partisans-foram enforcadas ontem.
+Duas meninas partisans foram enforcadas ontem.
 Nós enforcamos alguns partisans ontem.
 Recebi meu salário ontem. Hora de festejar!
 Você consegue escapar, mas o sargento Fetisov está ferido. Sanek, um garoto local, leva você até a vila para ver um certo Vasily Gavrilovich, um homem de confiança. O velho reluta em receber prisioneiros fugitivos, mas oferece abrigo e ajuda você a limpar e curar o ferimento do sargento.
 Você consegue escapar, mas o sargento Fetisov está ferido. Sanek, um garoto local, leva você até a vila para encontrar Vasily Gavrilovich, um homem de confiança. O velho reluta em receber prisioneiros fugitivos, mas oferece abrigo e ajuda você a limpar e curar o ferimento do sargento.
-O uso de habilidade dos partisans foi restaurada ao máximo
+O nº de usos de habilidade dos partisans foi restaurado ao máximo
 Você durou o máximo que pôde!
-Você caminha pela floresta por horas, as árvores ao seu redor ficam mais densas e sombrias a cada quilômetro. Pântanos e árvores caídas bloqueiam seu caminho repetidamente. Finalmente você tropeça em uma clareira com um abrigo no meio. Seu dono, "Pops" Trofim, não está lá, então você acende uma fogueira e se senta para descansar.
+Você caminha pela floresta por horas, as árvores ao seu redor ficam mais densas e sombrias a cada quilômetro. Pântanos e árvores caídas bloqueiam seu caminho repetidamente. Finalmente você tropeça em uma clareira com um abrigo no meio. Seu dono, "Pai" Trofim, não está lá, então você acende uma fogueira e se senta para descansar.
 Você deve me proteger!
 Algumas portas podem estar trancadas. Você precisará encontrar e usar as chaves certas para abri-las.
-Você pode alterar as configurações do jogo (para mostrar o números exatos das chances de acerto) no menu principal do jogo, na guia "Configurações do jogo".
+Você pode alterar as configurações do jogo (para mostrar os números exatos das chances de acerto) no menu principal do jogo, na guia "Configurações do jogo".
 Você pode alterar as configurações na guia "Configurações" no menu principal do jogo.
-Você pode usar certos objetos em seu ambiente para se esconder dos inimigos. Use o porão clicando com o Botão Direito do Mouse para escapar do campo de visão do inimigo que está patrulhando. Clique com o Botão Esquerdo do Mouse para sair do porão.
+Você pode usar certos objetos em seu ambiente para se esconder dos inimigos. Use o porão clicando com o Botão Esquerdo do Mouse para escapar do campo de visão do inimigo em patrulha. Clique com o Botão Direito do Mouse para sair do porão.
 Você pode saquear cadáveres inimigos para encontrar itens úteis depois de matá-los.
-Você pode enviar qualquer partisans em missões. Não há requisitos para a formação do esquadrão.
+Você pode enviar qualquer partisan em missões. Não há requisitos para a formação do esquadrão.
 Você pode alterar o modo de comportamento durante o combate. Se o "Modo defensivo" estiver ativado, os partisans não atirarão até que uma ordem seja dada. Durante o "Modo defensivo", a chance dos partisans serem atingidos diminui. Você pode ativar este modo pressionando o botão [T].
 Você pode cozinhar mais comida usando provisões obtidas durante suas missões.
 Você pode esconder cadáveres inimigos usando objetos do ambiente para evitar que eles sejam encontrados.
@@ -37,7 +37,7 @@ O tempo acabou
 Esta é a sua tela de gerenciamento do Acampamento Partisan. As guias da direita permitem que você atribua tarefas aos membros da sua unidade.
 Você é teimoso.
 Você vai vencer os bandidos?
-Você chegou à tela do modo operação. Aqui você pode selecionar os partisans que enviará em uma missão, bem como as modificações de dificuldade.
+Você chegou à tela do modo operação. Aqui você pode selecionar os partisans que enviará em uma missão, bem como os modificadores de dificuldade.
 Você terminou de planejar as ações para hoje?
 Tem certeza de que deseja completar a missão?
 Tem certeza que deseja deixar a missão?
@@ -65,15 +65,15 @@ Selecionar o quarto personagem
 Saia do campo de batalha vivo
 Descartar
 Espere {0} dias
-O ataque aéreo chamado pelos partisans arrasou completamente a estação. Um ataque direto destruiu a arma de cerco inimiga, da classe Bertha, que estava ameaçando Leningrado. O grupo de partisans havia completado com sucesso a missão de Moscou.
+O ataque aéreo chamado pelos partisans arrasou completamente a estação. Um impacto direto destruiu a arma de cerco inimiga, da classe Bertha, que estava ameaçando Leningrado. O grupo de partisans havia completado com sucesso a missão de Moscou.
 Menu
 Solicite um ataque aéreo
 Menu de depuração
 Chegue até o pântano
 Saia pela vila abandonada
 Apague as luzes em todos os lugares
-O ataque à estação de Bogachevo iluminou o papel de ton azulado. O comandante Hilfspolizei, Zobel, comandou pessoalmente a caçada aos partisans. Sob seu comando, dezenas de cidadãos inocentes foram levados à prisão para serem interrogados e torturados.
-Os agentes dos subterrâneos falharam em sua missão. Os fascistas os prenderam e enforcaram.
+O ataque à estação de Bogachevo desencadeu reações furiosas. O comandante dos Hilfspolizei, Zobel, comandou pessoalmente a caçada aos partisans. Sob seu comando, dezenas de cidadãos inocentes foram levados à prisão para serem interrogados e torturados.
+Os agentes clandestinos falharam em sua missão. Os fascistas os prenderam e os enforcaram.
 Operações
 Missões
 Para tratar por
@@ -86,7 +86,7 @@ Você pode desbloquear conquistas difíceis atendendo a várias condições. Par
 Após a conclusão desta tarefa, seu esquadrão receberá
 Complete a primeira missão em menos de 10 minutos
 Nós os criamos para serem traidores?
-Vou vingar minha mãe e meu pai, quando eu crescer.
+Vou vingar minha mãe e meu pai quando eu crescer.
 Vamos cavar algumas armadilhas para lobos. Nós podemos pegar algum animal selvagem.
 Moral alta
 Cerca alta
