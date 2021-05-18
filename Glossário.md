@@ -38,3 +38,4 @@ Glossário
 | Incoming! (exclamação) | Cuidado! | Não sei de equivalente em pt-br, é um aviso para algo vindo em sua direção (uma granada, uma bateria de artilharia, um ataque). Cuidado seria o aviso mais efetivo, mas dependendo do contexto, pode servir algo como "Se aproximando", ou uma combinação com as situações acima  |
 | Clean as a whistle (expressão idiomática) | limpíssimo | (as) clean as a whistle é uma expressão utilizada para dizer que algo está “muito limpo”, “impecável”, “limpíssimo”, "limpinho" etc. |
 | Grouse | Tetraz (ave) | https://pt.wikipedia.org/wiki/Tetraz |
+| Pike | Lúcio (peixe, acredita) | https://pt.wikipedia.org/wiki/Esox_lucius, https://pt.wikipedia.org/wiki/L%C3%BAcio_(peixe) |
