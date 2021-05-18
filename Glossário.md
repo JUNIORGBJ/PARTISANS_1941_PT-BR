@@ -10,7 +10,7 @@ Glossário
 |  Mosin rifle |  Rifle Mosin | Tipo de rifle usado pela União soviética |
 |  Overwatch |  vigia/modo vigilante | ??? (precisa ser revisado in-game) |
 |  Partisans |  Partisans | membro de uma tropa irregular formada para se opor à ocupação e ao controle estrangeiro de uma determinada área. |
-|  party worker's |  Partido dos Trabalhadores | ??? |
+|  party worker's family |  Família de um funcionário do partido | party worker é funcionário do partido |
 |  Polizei |  Polizei | Não será traduzido |
 |  Radioman |  Operador de rádio | pessoa responsável por passar mensagens |
 |  RATION |  Ração | forma como os soldados chamavam a comida durante a guerra |
@@ -36,3 +36,4 @@ Glossário
 | Machine Gunner | Atirador de metralhadora | (http://www.cml.eb.mil.br/ultimas-noticias/2151-metralhadora-automatizada.html) |
 | Log (madeira  - desambiguação) | tora | tora ou lenha, ver conforme contexto (ex. logging site pode ser serraria) |
 | Incoming! (exclamação) | Cuidado! | Não sei de equivalente em pt-br, é um aviso para algo vindo em sua direção (uma granada, uma bateria de artilharia, um ataque). Cuidado seria o aviso mais efetivo, mas dependendo do contexto, pode servir algo como "Se aproximando", ou uma combinação com as situações acima  |
+| Grouse | Tetraz (ave) | https://pt.wikipedia.org/wiki/Tetraz |
