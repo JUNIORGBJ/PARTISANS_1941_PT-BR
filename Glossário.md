@@ -39,3 +39,4 @@ Glossário
 | Clean as a whistle (expressão idiomática) | limpíssimo | (as) clean as a whistle é uma expressão utilizada para dizer que algo está “muito limpo”, “impecável”, “limpíssimo”, "limpinho" etc. |
 | Grouse | Tetraz (ave) | https://pt.wikipedia.org/wiki/Tetraz |
 | Pike | Lúcio (peixe, acredita) | https://pt.wikipedia.org/wiki/Esox_lucius, https://pt.wikipedia.org/wiki/L%C3%BAcio_(peixe) |
+| "Pops" Trofim | "Pai" Trofim | "Pops" é uma gíria em inglês para pai (pai, papai, papa, papi, papito, velho) |
