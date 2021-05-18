@@ -96,5 +96,5 @@ Algumas das habilidades de seus partisans podem ser usadas à distância. O íco
 Não havia nada que ele pudesse fazer a não ser compartilhar um pouco de comida.
 Você não pode enviar menos de {0} partisans para conduzir esta missão
 Você não pode apagar o item da missão
-Panfleto Alemão #.1
-Panfleto Alemão #.2
+Panfleto Alemão #1
+Panfleto Alemão #2
