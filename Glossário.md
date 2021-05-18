@@ -10,7 +10,7 @@ Glossário
 |  Mosin rifle |  Rifle Mosin | Tipo de rifle usado pela União soviética |
 |  Overwatch |  vigia/modo vigilante | ??? (precisa ser revisado in-game) |
 |  Partisans |  Partisans | membro de uma tropa irregular formada para se opor à ocupação e ao controle estrangeiro de uma determinada área. |
-|  party worker's |  Partido dos Trabalhadores | ??? |
+|  party worker's family |  Família de um funcionário do partido | party worker é funcionário do partido |
 |  Polizei |  Polizei | Não será traduzido |
 |  Radioman |  Operador de rádio | pessoa responsável por passar mensagens |
 |  RATION |  Ração | forma como os soldados chamavam a comida durante a guerra |
