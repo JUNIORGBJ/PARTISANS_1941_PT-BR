@@ -40,3 +40,6 @@ Glossário
 | Grouse | Tetraz (ave) | https://pt.wikipedia.org/wiki/Tetraz |
 | Pike | Lúcio (peixe, acredita) | https://pt.wikipedia.org/wiki/Esox_lucius, https://pt.wikipedia.org/wiki/L%C3%BAcio_(peixe) |
 | BTR | veículo semilagarta (jogo) | Veículo blindado de transporte de pessoal (VBTP). A denominação BTR é russa pra VBTP, mas não sei se cabe para este caso (na missão é um semilagarta SdKfZ 251) |
+| "Pops" Trofim | "Pai" Trofim | "Pops" é uma gíria em inglês para pai (pai, papai, papa, papi, papito, velho) |
+| lit the blue touch paper (expressão) | desencadear reações furiosas | expressão inglesa para algo como "despertar a raiva","desencadear uma série de eventos" |
+| underground (desambiguação) | clandestino | clandestino, "paralelo" |

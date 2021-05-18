@@ -3,7 +3,7 @@ Rifle Mosin
 Rifle I
 Rifle II
 Rifle III
-Pausar ou resumir
+Pausar ou continuar
 Ativado
 Ativar o modo passivo
 Ativar o modo de vigia
@@ -17,7 +17,7 @@ Encontro inesperado
 Olhe!
 Enquanto você corre, a chance de ser atingido diminui drasticamente.
 Enquanto você corre, a chance de ser atingido diminui.
-Um raio atingiu um velho pinheiro na borda do acampamento. Devemos apagar o fogo antes que acenda o {0}.
+Um raio atingiu um velho pinheiro na borda do acampamento. Devemos apagar o fogo antes que atinja o {0}.
 Você não pode salvar durante a missão.
 Conseguimos apagar o fogo a tempo. Todos os edifícios estão seguros.
 Treino militar
@@ -27,7 +27,7 @@ Fotógrafo aéreo
 Possíveis consequências
 Eu quero ser um partisan! Leve-me!
 A guerra nunca muda
-Esta é uma guerra!
+Isto é uma guerra!
 Waffen-SS
 Uma névoa impenetrável envolve a área
 Volkovo
@@ -36,13 +36,13 @@ Onda: {currentWave}
 Um lobo atacou um dos partisans ontem. Ele mal conseguia lutar contra o animal. Ele estava ferido.
 Inspiração
 Inspiração I
-Inspiration II
+Inspiração II
 Recuperação de saúde
 Usar remédios requer menos tempo.
-Quando o Exército Vermelho retornar, eu mostrarei a eles!
-Seu rato! Eu vou atirar em você! 
+Quando o Exército Vermelho retornar, isso vai lhes mostrar uma coisa!
+Seu rato! Vou atirar em você! 
 Os partisans vão nos roubar assim que ficarem sem pão.
-Portanto, este é o melhor futuro que nos foi prometido.
+Então este é o melhor futuro que nos foi prometido.
 Muito para o poder soviético.
 Vou viver como um rei quando a guerra acabar.
 Vou contar tudo ao papai quando ele voltar.
@@ -55,7 +55,7 @@ Droga!
 Eu acho que tenho sorte!
 Inimigo
 Um inimigo muito perigoso operando uma metralhadora fixa. A arma pode ser utilizada por seus guerreiros e usada contra os inimigos.
-Os inimigos não podem ver você enquanto você se move através dos arbustos. Esgueire-se para o próximo pátil usando os arbustos.
+Os inimigos não podem ver você enquanto você se move através dos arbustos. Esgueire-se para o próximo pátio usando os arbustos.
 Os inimigos estão alarmados ou em batalha. Não é possível salvar.
 Os inimigos no mapa são mais perigosos.
 Os inimigos não podem ver um cadáver nos arbustos, a menos que entrem nele. Use isso para evitar ser pego.
