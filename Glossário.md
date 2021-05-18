@@ -36,3 +36,4 @@ Glossário
 | Machine Gunner | Atirador de metralhadora | (http://www.cml.eb.mil.br/ultimas-noticias/2151-metralhadora-automatizada.html) |
 | Log (madeira  - desambiguação) | tora | tora ou lenha, ver conforme contexto (ex. logging site pode ser serraria) |
 | Incoming! (exclamação) | Cuidado! | Não sei de equivalente em pt-br, é um aviso para algo vindo em sua direção (uma granada, uma bateria de artilharia, um ataque). Cuidado seria o aviso mais efetivo, mas dependendo do contexto, pode servir algo como "Se aproximando", ou uma combinação com as situações acima  |
+| Clean as a whistle (expressão idiomática) | limpíssimo | (as) clean as a whistle é uma expressão utilizada para dizer que algo está “muito limpo”, “impecável”, “limpíssimo”, "limpinho" etc. |
