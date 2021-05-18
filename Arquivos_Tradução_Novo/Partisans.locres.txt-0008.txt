@@ -36,7 +36,7 @@ Granada
 Granada F1
 Granadas causam dano de área e permitem que você neutralize grupos de inimigos de uma só vez.
 É uma granada!
-Está vindo! 
+Cuidado! 
 Uma granada montada no campo. Não é muito destrutiva, mas você pode colocá-la junto com outros materiais que você está carregando.
 Explosivo artesanal. Causa menos danos, mas pode ser feito facilmente com os recursos disponíveis.
 Granadeiro
