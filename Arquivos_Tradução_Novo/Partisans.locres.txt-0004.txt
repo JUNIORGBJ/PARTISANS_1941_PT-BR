@@ -52,14 +52,14 @@ Garrafas deixadas por este partisan nocautearão todos os inimigos que as cheire
 O ex-contador, Sidorov, agora é um Polizei. Ele vende clandestinamente a comida desapropriada. Poderíamos fazer uma visita noturna a ele e lhe pedir para compartilhar a comida.
 Petrov, o ex-economista da cidade, juntou-se aos Polizei. Ele está perseguindo uma garota chamada Avdotya. Devemos protegê-la.
 Se eu fosse um pouco mais jovem, daria uma lição neles!
-carregar registro rápido
-Registro salvo rápido - 
-Registro salvo
-Registro 1<cf>{time}
-Registro 2<cf>{time}
-Registro 3<cf>{time}
+Carregamento rápido
+Salvamento rápido  
+Jogo salvo
+Jogo salvo 1<cf>{time}
+Jogo salvo 2<cf>{time}
+Jogo salvo 3<cf>{time}
 Mão-rápida
-Registro Salvo rápido.
+Salvamento rápido
 E
 LUTAR!
 LEMBRE-SE DISSO QUANDO LUTAR CONTRA UM TANQUE:
