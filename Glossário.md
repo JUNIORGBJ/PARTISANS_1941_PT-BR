@@ -43,3 +43,4 @@ Glossário
 | "Pops" Trofim | "Pai" Trofim | "Pops" é uma gíria em inglês para pai (pai, papai, papa, papi, papito, velho) |
 | lit the blue touch paper (expressão) | desencadear reações furiosas | expressão inglesa para algo como "despertar a raiva","desencadear uma série de eventos" |
 | underground (desambiguação) | clandestino | clandestino, "paralelo" |
+| wild field | "campo deserto" | Esse termo é difícil de adaptar. Pensei em estepe (https://en.wikipedia.org/wiki/Wild_Fields, https://pt.wikipedia.org/wiki/Estepe_p%C3%B4ntica), mas não sei se tem estepe necessariamente no local onde se passa o jogo. |
