@@ -1,4 +1,4 @@
-﻿Campo de batalha
+﻿Campo deserto
 Dinamite
 Alcance efetivo
 Distância da habilidade.
@@ -6,16 +6,16 @@ Distrofia
 Rajada longa
 Rajada longa I
 Rajada longa II
-A operação ferroviária suave e ininterrupta requer muita madeira. Poderíamos causar problemas destruindo a madeira na área de extração.
+A operação ferroviária suave e ininterrupta requer muita madeira. Poderíamos causar problemas destruindo a madeira serrada na área de extração.
 Para pesar itens. Coloque o item que deseja pesar em uma tigela e coloque os contrapesos na outra. Assim que as duas tigelas estiverem niveladas, os contrapesos informaram o peso do item em questão.
 Para uma melhor visão do abrigo.
-Você é o herói das pessoas!
+Vocês são heróis do povo!
 Para destacar objetos com os quais você pode interagir, pressione a tecla ALT.
-Pressione "I" para abrir seu inventário e equipe sua faca no espaço da arma superior. Arraste e solte o item no espaço correto ou clique duas vezes com o botão esquerdo do mouse para equipá-lo.
+Pressione "I" para abrir seu inventário e equipar sua faca no espaço de arma superior. Arraste e solte o item no espaço correto ou clique duas vezes com o botão esquerdo do mouse para equipá-lo.
 Para obter mais informações sobre a chance de acerto da sua arma, passe o cursor do mouse sobre o alvo. O marcador indicará sua chance de acerto, quanto mais preenchido estiver o marcador, maior sua probabilidade de acertá-lo.
 Seus personagens podem pular cercas baixas para pegar atalhos.
 Para disparar sua arma, você precisa equipá-la e ter munição. Pressione "R" para recarregar. As balas são armazenadas na mochila do seu personagem.
-Precisamos de madeiras para construção e reparos. Ainda bem que temos pinheiros por perto.
+Precisamos de madeira para construção e reparos. Ainda bem que temos pinheiros por perto.
 Para aprender habilidades de nível superior, você precisa aprender três habilidades do nível anterior. Você pode ver o número de habilidades necessárias à direita de sua árvore de habilidades.
 Para que os partisans comecem a cumprir as tarefas atribuídas, você precisa clicar em 'dia seguinte'.
 Qualquer estrutura de madeira - um celeiro ou um galpão - pode ser usada para proteção contra balas inimigas. Cave uma trincheira perto da parede e use a terra para reforçar a parede do lado de fora.
@@ -28,7 +28,7 @@ Alcance a base dos partisans
 Chegue ao local da execução em 25 minutos
 Pegue os documentos
 Obtenha os dados de inteligência
-Pesquisa de recursos
+Procurando recursos
 Chegue ao moinho
 Médico Zaytsev
 Documentos do comandante Biermeier
@@ -38,7 +38,7 @@ Centro Comunitário
 Donbass, o coração industrial da URSS, está nas mãos dos fascistas.
 Informação adicional
 Missão secundária
-Eles realmente tiveram.
+Pra eles, já deu.
 A estrada
 Prancha
 Agentes disponíveis
@@ -55,25 +55,25 @@ Arquivo: "V.A. Kotyk "
 Arquivo: "A.V. Petrova"
 Arquivo: "E.M. Fomin"
 Arquivo: "B.L. Khigrin"
-Circulam rumores de que os fascistas estão realizando execuções em massa em Kiev. Foi reportado que milhares de pessoas foram mortas.
+Circulam rumores de que os fascistas estão realizando execuções em massa em Kiev durante a ocupação. Foi reportado que milhares de pessoas foram mortas.
 Dulag
-Bloquear, Estoque
+Pederneira, Coronha
 SUPRIMENTOS DE ALIMENTOS:
 COMIDA SUFICIENTE
 Comida
-A comida está pronto
+A comida está pronta
 Pegue um machado se você ir para a floresta
-Se a lata estiver inchada, é recomendável deslizar para o inimigo.
+Se a lata estiver inchada, é recomendável passar para o inimigo.
 Se você não estiver em combate, pode se esconder e os inimigos não poderão vê-lo. Use isso para preparar uma emboscada.
 Se por má intenção eu violar isso, meu juramento solene, então que a severa punição da lei soviética e o ódio e o total desprezo das classes trabalhadoras caiam sobre mim.
 Morrer? Hoje nao.
 Deixe-os vir. Vamos dar-lhes uma saudação calorosa.
 Se os partisans não forem estúpidos, não sairão da floresta.
-Ninguém vai notar se estiver faltando.
+Ninguém vai notar se algo estiver faltando.
 O alarme pode ser acionado no território inimigo
 Missões adicionais
 Você tem contato com o exército?
-Oficiais da Wehrmacht presente
+Oficiais da Wehrmacht presentes
 Um esconderijo secreto
 Tem alguém aí?
 Bala-no-Alvo!
@@ -83,11 +83,11 @@ Outra vila é incendiada.
 Eles não vão pensar que fui eu, ou vão?
 E se eles nos mandarem procurar na floresta?
 Há outro corpo.
-A habilidade pode ser usada em distâncias muito maiores. Aumente o número de habilidades usadas durante a missão.
+A habilidade pode ser usada em distâncias muito maiores. Aumente o número de usos dessa habilidade durante a missão.
 Ponte Ferroviária
 Cruzamento ferroviário
 Ponte Ferroviária
-Sinto pena de Praskovia. Ela era a garota mais bonita da vila.
+Sinto pena de Praskovya. Ela era a garota mais bonita da vila.
 Gendarme
 Corpo de ferro
 Tenho uma linda esposa e estou com medo por ela.

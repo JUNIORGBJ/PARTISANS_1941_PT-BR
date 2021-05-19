@@ -2,31 +2,31 @@
 Au!
 Gavrilovich diz que Zobel usa ameaças, chantagem e suborno para fazer com que os moradores locais espionem e denunciem uns aos outros.
 Gavrilovich diz que os alemães estão nomeando chefes de vilas e recrutando pessoas "confiáveis" para a Polizei. Para muitos, esse trabalho é apenas uma desculpa para roubar de outros.
-Gavrilovich descobriu que uma das vilas vizinhas está abrigando o centro de comunicações dos alemães.
-Gavrilovich soube que os fascistas haviam montado metralhadoras perto da ponte da ferrovia. Os desgraçados estão ficando inquietos!
+Gavrilovich descobriu que uma das vilas vizinhas está abrigando o centro de comunicações divisional dos alemães.
+Gavrilovich soube que os fascistas haviam montado ninhos de metralhadora perto da ponte da ferrovia. Os desgraçados estão ficando inquietos!
 Eu me pergunto onde posso conseguir mais vodka.
 Onde está nosso exército? O que está atrasando eles?
 Onde está a mamãe?
 Onde está sua base?
 O que fez Mellenberg tão bonito?
 Eles estão rastejando em seus buracos.
-Cruz de São Jorge 4ª classe. Concedido por distinção em combate durante a Grande Guerra.
+Cruz de São Jorge de 4ª classe. Concedido por distinção em combate durante a Grande Guerra.
 Heróis nunca morrem
 Defesa heróica
 Cartuchos
 É importante escolher o lado certo.
-Sede principal
-O prédio principal do QG. As operações dos Partisans são planejadas aqui.
+Quartel-general principal
+O prédio principal do QG. As operações dos partisans são planejadas aqui.
 Eu não quero ver isso nunca mais.
 Silenciador
 Fique alerta!
-Ouvi dizer que até Trofim se juntou aos partisans.
+Ouvi dizer que até o Trofim se juntou aos partisans.
 Ouvi dizer que os fascistas incendiaram a vila onde minha família morava.
-Moradores locais disseram que um comboio alemão foi bombardeado recentemente. Parece que o Exército Vermelho alcançaram a logística alemã bem atrás das linhas inimigas.
+Moradores locais disseram que um comboio alemão foi bombardeado recentemente. Parece que o Exército Vermelho atinge a logística alemã bem atrás das linhas inimigas.
 O que se diz na rua é que há partisans na floresta.
 As pessoas dizem que ninguém voltou depois de ter sido levado para a prisão.
 Fome
-Um soldado faminto é um soldado fraco. Verifique seus suprimentos de comida, se não quiser que sua unidade morra de fome.
+Um soldado faminto é um soldado fraco. Controle seus suprimentos de comida, se não quiser que sua unidade morra de fome.
 Eu preciso de uma bebida.
 Cidade
 Ruínas da cidade
@@ -48,7 +48,7 @@ Trofim Matveyevich Grigoryev
 Grigoryev, Trofim Matveevich. Idade: 65 anos. Morador local. Veterano da Grande Guerra. Caçador experiente. Um solitário, de caráter selvagem e severo. Não gosta do governo soviético. Após a chegada dos fascistas, fugiu para um esconderijo partisan na floresta e começou a caçar os alemães por conta própria.
 Vou matar o comandante e ficar rico.
 Comboio de caminhões
-Grupo de combate
+Combate em grupo
 Grupo de inimigos
 Isso é um trabalho sujo.
 Gaita
@@ -58,7 +58,7 @@ DATA DE NASCIMENTO
 DIA
 DIA DA MISSÃO!
 DIÁRIO
-Adicionar no esquadrão.
+Adicionar ao esquadrão.
 ENTREGUE NA BASE
 TOTAL
 DP – 27
@@ -73,9 +73,9 @@ Isso é... uma granada?
 Deixe-me curar você.
 Permite você curar e preservar alimentos obtidos durante suas missões e atividades de base.
 Até uma simples pedra pode ser usada como ferramenta na luta contra o inimigo. Jogá-la faz um barulho que pode chamar a atenção do inimigo.
-Não dê nem mais um passo
+Não dá pra prosseguir
 Esta chave está bloqueada.
-Esta chave está em uso: {KeyName}. Tem certeza de que deseja religá-la?
+Esta chave está em uso: {KeyName}. Tem certeza de que deseja reconfigura-la?
 Movimento furtivo
 Movimento rápido
 Movimentar a câmera
@@ -87,7 +87,7 @@ Movimentar a câmera com o mouse
 Movimentar a câmera para a esquerda
 O velho queria viver. Ele ajudará o Exército Vermelho, entregando informações.
 Ações na região
-Eles agiam de maneira infantil, simples e direta. A mãe saiu para ver os parentes naquele dia, e voltaria na manhã seguinte. Os irmãos aproveitaram a oportunidade: montaram uma metralhadora na varanda e esperaram que os traidores passassem. Seus cálculos estavam corretos: assim que os traidores apareceram, Slava começou a atirar - quase à queima-roupa. No entanto, um deles, o prefeito, conseguiu escapar. Intimidado pelo som da metralhadora, ele telefonou para o QG em Orsha e disse que a vila estava sob ataque dos partisans. Vários carros de inimigos chegaram. Seus cães de caça rapidamente localizaram a arma: Misha e Zhenya não haviam encontrado um esconderijo melhor para a metralhadora do que no sótão da sua própria casa. Os meninos foram brutalmente torturados, mas não desistiram de Slava Shmuglevsky ou de qualquer outro membro do movimento secreto. Os irmãos Telenchenko foram executados em outubro.
+Eles agiam de maneira infantil, simples e direta. A mãe saiu para ver os parentes naquele dia, e voltaria na manhã seguinte. Os irmãos aproveitaram a oportunidade: montaram uma metralhadora na varanda e esperaram que os traidores passassem. Seus cálculos estavam corretos: assim que os traidores apareceram, Slava começou a atirar - quase à queima-roupa. No entanto, um deles, o prefeito, conseguiu escapar. Intimidado pelo som da metralhadora, ele telefonou para o QG em Orsha e disse que a vila estava sob ataque dos partisans. Vários carros de inimigos chegaram. Seus cães de caça rapidamente localizaram a arma: Misha e Zhenya não haviam encontrado um esconderijo melhor para a metralhadora do que no sótão da sua própria casa. Os meninos foram brutalmente torturados, mas não delataram Slava Shmuglevsky ou de qualquer outro membro do grupo clandestino. Os irmãos Telenchenko foram executados em outubro.
 Ação!
 Missão de demonstração
 Dia
