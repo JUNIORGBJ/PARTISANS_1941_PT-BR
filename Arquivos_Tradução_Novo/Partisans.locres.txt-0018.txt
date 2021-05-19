@@ -11,7 +11,7 @@ Você está acabado!
 Tenho que verificar!
 PRECISA REMOVER
 Comunique imediatamente todas as atividades suspeitas às autoridades locais, comando militar ou membros da Ordnungsdienst.
-Eh, um cadáver, temos que revistar os bolsos.
+Eh, um corpo, temos que revistar os bolsos.
 Hah! Peguei vocês!
 INVENTÁRIO DO ESQUADRÃO
 ESCONDERIJO DO ESQUADRÃO
@@ -34,7 +34,7 @@ Tutorial para missão furtiva
 Chegando por aí!
 Objeto
 O objeto será bloqueado. Ele estará disponível após os reparos.
-Pilhagem de contêineres
+Saquear caixas
 Pesquise no escritório de Biermeier
 Comum
 Um lenço normal. A mãe de Sanek o colocou no bolso da última vez que a viu.

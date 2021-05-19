@@ -55,7 +55,7 @@ Uma senhora piedosa disse a Kulagin que os alemães transformaram uma igreja na 
 Recolhemos e secamos algumas ervas medicinais. Também podemos usá-las para fazer chá.
 Encontramos uma cesta de cogumelos.
 Podemos cozinhar um bom ensopado.
-Passe o mouse sobre a caixa e clique no ícone de interação. Para selecionar um item, arraste-o com o cursor, clique duas vezes com o LMB ou clique em "Pegar tudo".
+Passe o mouse sobre a caixa e clique no ícone de interação. Para selecionar um item, arraste-o com o cursor, clique duas vezes com o botão esquerdo do mouse ou clique em "Pegar tudo".
 Habilidade de combate corpo a corpo
 Habilidades
 Nagant

@@ -93,7 +93,7 @@ Reduz o tempo de recarga da arma em 15%.
 Tempo de recarga de habilidade reduzido
 Tempo de recarga de habilidade reduzido. Aumente o número de usos de uma habilidade durante a missão.
 Uso do ambiente II
-Ocultar cadáveres II
+Ocultar corpos II
 Soldado
 A guerra não para quando o soldado está dormindo.
 O talismã de um soldado. É uma bala de seu primeiro cartucho e você deve dispará-la logo depois de voltar da guerra.

@@ -58,7 +58,7 @@ Um inimigo muito perigoso operando uma metralhadora fixa. A arma pode ser utiliz
 Os inimigos não podem ver você enquanto você se move através dos arbustos. Esgueire-se para o próximo pátio usando os arbustos.
 Os inimigos estão alarmados ou em batalha. Não é possível salvar.
 Os inimigos no mapa são mais perigosos.
-Os inimigos não podem ver um cadáver nos arbustos, a menos que entrem nele. Use isso para evitar ser pego.
+Os inimigos não podem ver um corpo nos arbustos, a menos que entrem nele. Use isso para evitar ser pego.
 Inimigos extremamente bem armados
 Inimigos bem armados
 Se os inimigos tomarem conhecimento da presença de partisans, eles podem soar um alarme ou chamar reforços usando o rádio.

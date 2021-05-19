@@ -23,7 +23,7 @@ Granada improvisada
 Mina improvisada
 Cozinha
 Eu estou com fome.
-LENDA
+LEGENDA
 PESSOAL
 Botão Esquerdo do Mouse - iniciar ação (configurar ações em pausa tática)
 Botão Esquerdo do Mouse + Shift - configurar uma sequência de ações

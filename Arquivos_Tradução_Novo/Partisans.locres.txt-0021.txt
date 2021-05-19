@@ -83,7 +83,7 @@ Metade do distrito está presa.
 Você tem um novo agente
 Item recebido:
 Ferido
-Os suprimentos que você obtém ao pilhar cadáveres se tornaram mais previsíveis. Por exemplo, você sempre obtém a mesma munição que o inimigo estava usando.
+Os suprimentos que você obtém ao saquear corpos se tornaram mais previsíveis. Por exemplo, você sempre obtém a mesma munição que o inimigo estava usando.
 Recursos recebidos:
 Você tem o que merece, seu fascista de merda!
 Legumes.

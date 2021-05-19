@@ -25,11 +25,11 @@ Algumas portas podem estar trancadas. Você precisará encontrar e usar as chave
 Você pode alterar as configurações do jogo (para mostrar os números exatos das chances de acerto) no menu principal do jogo, na guia "Configurações do jogo".
 Você pode alterar as configurações na guia "Configurações" no menu principal do jogo.
 Você pode usar certos objetos em seu ambiente para se esconder dos inimigos. Use o porão clicando com o Botão Esquerdo do Mouse para escapar do campo de visão do inimigo em patrulha. Clique com o Botão Direito do Mouse para sair do porão.
-Você pode saquear cadáveres inimigos para encontrar itens úteis depois de matá-los.
+Você pode saquear corpos inimigos para encontrar itens úteis depois de matá-los.
 Você pode enviar qualquer partisan em missões. Não há requisitos para a formação do esquadrão.
 Você pode alterar o modo de comportamento durante o combate. Se o "Modo defensivo" estiver ativado, os partisans não atirarão até que uma ordem seja dada. Durante o "Modo defensivo", a chance dos partisans serem atingidos diminui. Você pode ativar este modo pressionando o botão [T].
 Você pode cozinhar mais comida usando provisões obtidas durante suas missões.
-Você pode esconder cadáveres inimigos usando objetos do ambiente para evitar que eles sejam encontrados.
+Você pode esconder corpos inimigos usando objetos do ambiente para evitar que eles sejam encontrados.
 Você vai nos ajudar?
 Você não selecionou nenhum modificador.
 Nenhum partisan selecionado.

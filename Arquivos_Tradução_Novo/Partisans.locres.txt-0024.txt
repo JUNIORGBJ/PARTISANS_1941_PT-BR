@@ -34,7 +34,7 @@ Obtenção de informações
 Obtenha informações sobre o número de tropas na área e seus movimentos.
 Monte seu esquadrão
 Um barbeador portátil de baquelite e lâminas extras.
-Soltar cadáver ao começar uma luta
+Soltar corpos ao começar uma luta
 Cancelar
 Reiniciar tarefa
 Podemos fazer geléia de frutas vermelhas.

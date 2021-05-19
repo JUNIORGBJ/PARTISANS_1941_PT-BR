@@ -54,7 +54,7 @@ Trofim atira com chumbo grosso, causando dano a qualquer um dentro do alcance do
 É assim que eles vão aprender!
 Samovar de Tula
 Este vira-lata está morto.
-É um cadáver!
+É um corpo!
 razão para o fracasso da missão
 Isso é perigoso.
 Eu odeio este lugar. Eu também quero morar na floresta!
@@ -79,7 +79,7 @@ O comandante Mellenberg tem bom gosto. Ele estabeleceu seu quartel-general em um
 Estou com dor de dente.
 Não tenho o item de que preciso.
 O chefe Polizei me dá arrepios.
-Temos um cadáver! Alarme!
+Temos um corpo! Alarme!
 Eles não têm coragem de atacar.
 As armas serão mais ou menos eficazes dependendo de seu alcance. Para ser mais eficaz, você pode precisar se aproximar do inimigo e usar cobertura para diminuir as chances de ser atingido durante a batalha.
 O filho do meu vizinho desapareceu.
