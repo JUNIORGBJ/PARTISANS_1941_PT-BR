@@ -82,7 +82,7 @@ Precisamos ficar longe do perigo.
 Eu estou cansado disso.
 Podemos cozinhar Borsch agora.
 Ao pressionar o botão "M", você pode abrir um mapa tático e ver suas tarefas, bem como a saída para sua localização atual.
-Você pode salvar seu jogo rapidamente pressionando [F5]. Se você deseja carregar rapidamente seu último jogo salvo, pressione [F9]. Observe que não é possíel salvar em níveis mais altos de dificuldade do jogo.
+Você pode usar o salvamento rápido pressionando [F5]. Se você deseja carregar rapidamente seu último jogo salvo, pressione [F9]. Observe que não é possível usar o salvamento rápido em níveis mais altos de dificuldades.
 Clique aqui para começar uma nova missão
 Pressione o botão para ligar
 Pressione qualquer tecla para pular
