@@ -1,10 +1,14 @@
 [![Discord](https://img.shields.io/discord/721047801957580821?color=blueviolet&label=Discord)](https://discord.gg/HESMuU2)
 [![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-blue?style=flat&logo=Windows&logoColor=white)](https://github.com/JUNIORGBJ)
 
+
 <h1 align="center"><figure>
   <img src="PARTISANS_1941.png">
 </figure></h1>
 
+## Baixar Tradução
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/PARTISANS_1941_PT-BR?label=Lan%C3%A7amento&style=for-the-badge)
 
 ## Sobre a Tradução
 
