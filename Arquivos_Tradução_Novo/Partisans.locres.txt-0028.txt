@@ -2,7 +2,7 @@
 Mate 3 inimigos com uma mina terrestre
 Mate 2 inimigos em um único uso da habilidade disparo em cone.
 Mate N inimigos com granadas
-Mate N inimigos com minas e cordéis de tropeço.
+Mate N inimigos com minas e cordas de tropeço.
 Mate N inimigos com habilidades
 Mate N inimigos usando o ambiente
 Esfaqueie Biermeier pelas costas sem disparar um alarme.

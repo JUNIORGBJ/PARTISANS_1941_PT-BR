@@ -1,7 +1,7 @@
 ﻿Esses itens não são armazenados na mochila, mas são usados ​​automaticamente.
 Em pausa
 Modo tático
-O modo tático retarda o tempo e permite que você coordene todas as ações de seus personagens. Para ativá-lo ou desativá-lo, pressione a BARRA DE ESPAÇOS.
+O modo tático retarda o tempo e permite que você coordene todas as ações de seus personagens. Para ativá-lo ou desativá-lo, pressione (ESPAÇO).
 Eu ouço tiros!
 Nós explodimos o tanque. Os alemães não poderão mais usá-lo. Também encontramos objetos que serão muito úteis para nós.
 Operador de tanque

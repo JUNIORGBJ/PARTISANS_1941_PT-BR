@@ -37,7 +37,7 @@ Permita que seus personagens suportem seus ferimentos e ignore a dor até o fina
 Capaz de fazer um balde de água ferver em 20 minutos... se ao menos você pudesse encontrar eletricidade na floresta.
 Até o final da missão, ele permite que você ignore os efeitos de ferimentos leves e médios.
 Até o final da missão, ele permite que você ignore os efeitos de ferimentos leves.
-Permite que você veja as armadilhas e minas inimigas. O tempo necessário para colocar minas, cordéis de tropeço e outros explosivos é drasticamente reduzido.
+Permite que você veja as armadilhas e minas inimigas. O tempo necessário para colocar minas, cordas de tropeço e outros explosivos é drasticamente reduzido.
 Permite que você veja as armadilhas e minas inimigas. Depois de detectar uma mina, você pode destacá-la com ALT. Raio de detecção: 700.
 Uma armadilha para os inimigos. Explode quando alguém cruza o fio.
 Permite que você distraia os Polizei e soldados Wehrmacht. O inimigo estará observando você enquanto você fala.

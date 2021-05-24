@@ -43,7 +43,7 @@ Garrafas
 Granadas
 Minas
 Usando o ambiente I
-Cordéis de tropeço
+Cordas de tropeço
 As habilidades são bloqueadas. A visibilidade na névoa da guerra é reduzida.
 Usar
 Ativar a segunda habilidade
