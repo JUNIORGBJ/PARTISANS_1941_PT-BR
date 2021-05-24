@@ -8,7 +8,7 @@
 
 ## Baixar Tradução
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/PARTISANS_1941_PT-BR?label=Lan%C3%A7amento&style=for-the-badge)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/PARTISANS_1941_PT-BR?label=Lan%C3%A7amento&style=for-the-badge)](https://github.com/JUNIORGBJ/PARTISANS_1941_PT-BR/releases/latest)
 
 ## Sobre a Tradução
 
