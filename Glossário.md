@@ -44,3 +44,5 @@ Glossário
 | lit the blue touch paper (expressão) | desencadear reações furiosas | expressão inglesa para algo como "despertar a raiva","desencadear uma série de eventos" |
 | underground (desambiguação) | clandestino | clandestino, "paralelo" |
 | wild field | "campo deserto" | Esse termo é difícil de adaptar. Pensei em estepe (https://en.wikipedia.org/wiki/Wild_Fields, https://pt.wikipedia.org/wiki/Estepe_p%C3%B4ntica), mas não sei se tem estepe necessariamente no local onde se passa o jogo. |
+| Out of the Frying Pan Into the Fire | "De mau a pior" | Expressão idiomática (https://en.wikipedia.org/wiki/Out_of_the_frying_pan_into_the_fire) |
+| tighten the screws | fazer ameaças | expressão análoga a "fazer pressão/ameaça/chantagem em alguém" (https://www.ldoceonline.com/dictionary/tighten-the-screws-on-somebody) |
