@@ -17,11 +17,11 @@ Está chovendo
 Está nevando
 De trapos a riquezas.
 Alguém escapou do campo de prisioneiros de guerra e agora estão procurando por ele.
-Retire a frigideira do fogo
+De mau a pior
 Ele deveria ser transferido do campo de prisioneiros de guerra para um campo de internamento. Totalmente ciente de que esta seria uma passagem só de ida para ele e seus camaradas, Zorin começou a trabalhar em uma fuga, mas os alemães descobriram seus planos.
 Você pode usar pistolas, espingardas e metralhadoras contra alvos distantes, mas não será muito eficaz.
 Você pode fazer um apito ou um isqueiro com uma boa concha.
-Os fascistas estão apertando os parafusos por causa dos partisans.
+Os fascistas estão fazendo ameaças por causa dos partisans.
 Muitos habitantes locais adoeceram por causa do frio.
 Evite vítimas civis
 Queimado
@@ -36,7 +36,7 @@ Se você tiver essa habilidade, seu partisan terá pouco efeito nas chances de s
 Se você tiver essa habilidade, seu partisan terá um efeito médio nas chances de sucesso das atividades do mapa global.
 Inventário
 Você encontrará áreas especiais, onde os inimigos são capazes de notar Sanek enquanto ele usa sua habilidade de "disfarçar". Tente tirar Sanek dessas áreas o mais rápido possível.
-As habilidade são recarregadas de vez em quando.
+A quantidade de habilidades é recarregada de vez em quando.
 Ferramentas
 informação
 Garrafas
@@ -56,7 +56,7 @@ Ativar a primeira habilidade
 Ativar a terceira habilidade
 Usado para calcular as trajetórias de tiro da artilharia.
 Use o Botão Esquerdo do Mouse para escolher sua ação ou mover seu partisan. Para cancelar a ação ou movimento escolhido, clique com o Botão Direito do Mouse.
-Use o Botão Esquerdo do Mouse para mover seu partisans ou selecionar uma ação. Clique com o Botão Direito do Mouse para cancelar um movimento ou ação.
+Use o Botão Esquerdo do Mouse para mover seu partisan ou selecionar uma ação. Clique com o Botão Direito do Mouse para cancelar um movimento ou ação.
 Você pode restaurar sua vida com remédios, colocando seus kits médicos no espaço de itens.
 Use granadas contra grupos de inimigos. Lembre-se de que elas são muito barulhentas e podem atrair ainda mais inimigos.
 Clique duas vezes com o Botão Esquerdo do Mouse para correr.
@@ -74,7 +74,7 @@ CANTO DOS TROFÉUS
 COZINHA
 Eu ainda estaria trabalhando como escravo no kolkhoz se não fosse pela guerra.
 Se eu soubesse como isso viraria...
-Todos os dias, trens cheios de reforços alemães dirigem-se às linhas de frente. Devemos fazer tudo ao nosso alcance para garantir que eles não cheguem ao seu destino.
+Todos os dias, trens cheios de reforços alemães se dirigem às linhas de frente. Devemos fazer de tudo ao nosso alcance para garantir que eles não cheguem ao seu destino.
 Cada modificador é único e torna a missão mais desafiadora.
 Punição
 Espero que eles não me matem.
@@ -83,17 +83,17 @@ Devo obter a documentação que diz que tenho sangue alemão.
 Eu gostaria de saber o que aconteceu com eles...
 Isso pode ficar confuso.
 Como faço você falar?
-Exatamente como Vasily Gavrilovich temia, os fascistas enviaram um esquadrão da morte depois que explodimos a ponte com o comboio da SS em Volkovo. O chefe da Polizei, Zobel, chefiará pessoalmente a missão. Devemos salvar o povo da cidade e eliminar os fascistas.
+Exatamente como Vasily Gavrilovich temia, os fascistas enviaram um esquadrão da morte depois que explodimos a ponte com o comboio da SS em Volkovo. O chefe dos Polizei, Zobel, chefiará pessoalmente a missão. Devemos salvar o povo da cidade e eliminar os fascistas.
 Como perdemos?
 O que devo colocar na mesa?
-Eu me pergunto como meu querido está indo... será que ele está morto? ferido?
+Eu me pergunto como meu querido está indo... Será que ele está morto? Ferido?
 Assim que você ouvir o motociclista inimigo se aproximando, puxe o cabo com força, enrole sua extremidade ao redor da árvore várias vezes e encontre um esconderijo.
 Como?!
 Que morte ridícula...
 Algum texto longo
 Calibre
 Pedra
-Lançar pedras é uma forma muito simples e eficaz de chamar a atenção do inimigo.
+Arremessar pedras é uma forma muito simples e eficaz de chamar a atenção do inimigo.
 Capitão B.L. Khigrin recebeu ordens de impedir que tanques alemães chegassem a uma ponte no rio Drut.
 Armadilha
 A armadilha está armada. Só esperando por um nazista agora.
