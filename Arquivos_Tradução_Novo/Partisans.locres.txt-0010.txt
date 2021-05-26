@@ -1,27 +1,27 @@
-﻿RECRUTA AGENTE
+﻿RECRUTAR AGENTE
 CARREGAR
 TAREFAS
 FECHAR
-MATE TODOS OS INIMIGOS DA VILA
+MATE TODOS OS INIMIGOS NA VILA
 CLASSIFICAÇÃO
 ÁUDIO
 Irá receber {0} de experiência adicional
 Zorin vale mais vivo do que morto.
 Eles colocam um preço nas cabeças dos partisans.
-Eles atiram em famílias que não denunciam os fugitivos.
+Eles atiram em famílias por não denunciarem os fugitivos.
 Deve pagar a mais por isso.
-Eu mereço isso? estou velho, olhe para mim.
+Eu mereço isso? Estou velho, olhe para mim.
 Como nós merecemos isso?
 Decidimos não visitar Avdotya. Não valia a pena arriscar.
 Mate a galinha.
 Vila Zabrovka.
 Zaborovka
-Zaborovka é uma pequena vila com uma guarnição inimiga localizada dentro dela. Pessoas confiáveis relataram que um caminhão transportando uma arma Anti-Aérea quebrou no caminho para fora da vila. Os partisans decidiram aproveitar a situação e destruir a arma antes que o caminhão seja consertado. Para fazer isso, você precisará encontrar explosivos no armazém, coloca-los na arma Anti-Aérea e detoná-los.
+Zaborovka é uma pequena vila com uma guarnição inimiga localizada dentro dela. Pessoas confiáveis relataram que um caminhão transportando uma arma anti-aérea quebrou no caminho para fora da vila. Os partisans decidiram aproveitar a situação e destruir a arma antes que o caminhão seja consertado. Para fazer isso, você precisará encontrar explosivos no armazém, coloca-los no canhão anti-aéreo e detoná-los.
 Pegue o veneno da colmeia
 Serei recompensado se matar um.
 Todos devem comparecer ao trabalho forçado amanhã.
 Você pegou um pouco de madeira
-Temos uma boa madeira agora.
+Temos boa madeira agora.
 Forrageadoras
 Carregar Jogo
 Carregando
@@ -30,7 +30,7 @@ Deixe os fascistas ficarem com isso!
 Missão completa!
 Configure a sequência de ações
 Tarefas
-Esconda-se. Quando você está coberto, a chance de ser atingido diminui.
+Esconda-se atrás de cobertura. Quando você está coberto, a chance de ser atingido diminui.
 Defumar comida
 Fechar
 Fechar
@@ -59,7 +59,7 @@ Capturar a bandeira
 Os invasores montaram postos de controle ao longo das estradas. Um deles está localizado nas proximidades. Eles são formados por vários Polizei. Podemos eliminá-los.
 Os invasores montaram postos de controle ao longo das estradas. Um deles está localizado nas proximidades. Eles são formados por soldados da Wehrmacht. Nós devemos ser cuidadosos.
 Os invasores montaram postos de controle ao longo das estradas. Um deles está localizado nas proximidades. O tipo de soldados e sua quantidade exata permanecem desconhecidos.
-Os invasores montaram postos de controle ao longo das estradas. Um deles está localizado nas proximidades. Eles são formados por tropas SS. Devemos nos preparar.
+Os invasores montaram postos de controle ao longo das estradas. Um deles está localizado nas proximidades. Eles são formados por tropas das SS. Devemos nos preparar.
 Os invasores entraram em seu caminho, arrasando cidades soviéticas e queimando vilas por onde passavam. Minsk, Smolensk e Novgorod caíram. A força aérea alemã bombardeou Kiev e Sebastopol. A ameaça pairava sobre Moscou e Leningrado.
 Por que eles estão nos machucando?
 Limpe o posto de controle
@@ -71,9 +71,9 @@ Eles não podem me alcançar aqui.
 Os esquadrões da morte estão aqui!
 Tem alguém aqui!
 Você pode fazer explosivos básicos e medicamentos aqui.
-Você pode atualizar suas armas aqui.
+Você pode melhorar suas armas aqui.
 Não temos partisans aqui!
-Todo o equipamento das unidades ficam armazenados aqui.
+Todo o equipamento das unidades fica armazenado aqui.
 O inverno está chegando.
 Porta-estandarte
 Bandeira do regimento
@@ -81,7 +81,7 @@ Conhecimento de cobertura
 Conhecimento de cobertura I
 Conhecimento de cobertura II
 Aumenta muito o bônus de defesa do personagem enquanto está em uma cobertura.
-Aumenta muito o alcance de lançamento de granadas. Diminui o tempo antes da explosão.
+Aumenta muito o alcance de arremesso de granadas. Diminui o tempo antes da explosão.
 Aumenta muito a quantidade de vida recuperada ao usar kits médicos.
 Aumenta a corrida em velocidade
 Maior chance de acertar com rifles.
@@ -93,8 +93,8 @@ Maior bônus de defesa do personagem durante a corrida.
 Maior chance de acerto durante o modo Emboscada [Y].
 Reduz significativamente o custo de resistência para correr durante o combate.
 Eu tenho febre.
-Um anel de ouro. Sua mãe o deu quando ela estava saindo para estudar em Alma-Ata.
+Um anel de ouro. Sua mãe a deu quando ela estava saindo para estudar em Alma-Ata.
 Anel de ouro
 Alexey Yurievich Zorin
-Zorin, Alexey Yurievich. Idade: 29 anos. Nasceu na vila Verkhovino, na região de Kalinin, em uma família de agricultores. Oficial de carreira. Participou da Guerra Soviético-Finlandesa. Com a eclosão da Grande Guerra Patriótica atingiu o posto de capitão. A companhia que ele comandou foi transportada para a linha de frente nos primeiros dias da guerra. Lutador de faca habilidoso.
+Zorin, Alexey Yurievich. Idade: 29 anos. Nasceu na vila Verkhovino, na região de Kalinin, em uma família de agricultores. Oficial de carreira. Participou da Guerra Soviético-Finlandesa. Com a eclosão da Grande Guerra Patriótica atingiu o posto de capitão. A companhia que ele comandou foi transportada para a linha de frente nos primeiros dias da guerra. Habilidoso no combate com faca.
 Eu não deveria ter falado contra você.
