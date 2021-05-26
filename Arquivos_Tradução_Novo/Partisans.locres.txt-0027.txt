@@ -73,7 +73,7 @@ Você tem alterações não salvas. Você quer aplicá-las?
 Você não tem mais jogadores.
 Seu personagem tem uma moral muito alta. Aumenta a chance de acertar o inimigo. O personagem pode correr por mais tempo. O tempo de recarga da habilidade é reduzida.
 Seu personagem tem uma moral muito alta. Aumenta significativamente a chance de acertar o inimigo. O personagem pode correr por mais tempo. O tempo de recarga da habilidade é reduzida.
-Uncle Fedor tem um canteiro de batatas na colina. No passado, ele se escondeu dos soviéticos e agora espera que os fascistas partam. Vamos pedir um pouco de comida a ele.
+Tio Fedor tem um canteiro de batatas na colina. No passado, ele se escondeu dos soviéticos e agora espera que os fascistas partam. Vamos pedir um pouco de comida a ele.
 O capitão tinha que tomar uma decisão: ou tentaria cruzar a linha de frente para se reunir aos companheiros ou permaneceria em território alemão e organizaria um grupo de partisans. A difícil situação nas áreas ocupadas encorajou Zorin a ficar.
 O comandante Mellenberg tem bom gosto. Ele estabeleceu seu quartel-general em uma antiga mansão real.
 Estou com dor de dente.
