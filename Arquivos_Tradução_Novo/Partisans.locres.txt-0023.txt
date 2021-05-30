@@ -27,7 +27,7 @@ Escala da interface
 Tamanho do carregador
 Posicione todos os seus personagens na área especificada para sair do local.
 Desmontar
-Encontre o representante da vila
+Encontre o chefe da vila
 Ruptura de tendão
 Descarregar
 Região disponível para explorar

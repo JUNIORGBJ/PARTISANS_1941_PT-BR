@@ -91,7 +91,7 @@ Você não pode começar a missão sem este partisan.
 Mate os comissários!
 Belozerova
 Belozerova corre na direção escolhida. Os inimigos não podem atingir seu guerrilheiro durante a corrida.
-Belozerova mata todos os inimigos em uma pequena área ao redor do guerrilheiro. Precisa de uma pistola.
+Belozerova mata todos os inimigos em uma pequena área ao redor do partisan. Precisa de uma pistola.
 Olga Mikhailovna Belozerova
 Belozerova, Olga Mikhailovna. Idade: 27. Ela nasceu em Novosibirsk (então Novonikolayevsk). Ela é formada em direito pela Universidade Estadual de Moscou e trabalhou como investigadora na Militsiya (Polícia) de Moscou. Especialista em tiro esportivo. Ela ingressou no Exército Vermelho depois que seu pai foi enviado para o front.
 Pantâno Beloretskeya.
