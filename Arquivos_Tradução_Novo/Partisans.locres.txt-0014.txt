@@ -2,7 +2,7 @@
 Mauser 98K
 Mauser K96
 Médico
-Medicamento
+Enfermaria
 Tenda Médica
 Maleta médica
 Tala médica
