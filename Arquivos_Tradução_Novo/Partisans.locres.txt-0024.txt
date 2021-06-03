@@ -85,8 +85,8 @@ Armazém de saque
 Quantas pessoas estão em seu grupo?
 Primeiros socorros
 Eu quero que isso acabe de uma vez.
-Cadencia de tiro
-Cadencia de tiro
+Cadência de tiro
+Cadência de tiro
 Velocidade de movimento reduzida. Este partisans não pode usar rifles, submetralhadoras ou metralhadoras.
 Velocidade de movimento reduzida. Você não pode correr.
 Ocultar indicação de objetos interativos
