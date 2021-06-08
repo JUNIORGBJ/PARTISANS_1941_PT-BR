@@ -92,7 +92,7 @@ primeira missão
 [Afirmativo! Soldados, venham comigo!]
 [Vá embora ou eu atiro em você.]
 [Vá embora.]
-[Oh não, querida! Você não é nem um pouco menos esbelta e charmosa! ]
+[Oh não, querida! Você é menos esbelta e charmosa! ]
 [São eles? Por que eles estão vestidos tão estranhos?]
 Onde fica?
 E meu pai estava bêbado em tempo integral até que foi esfaqueado. Eu tinha mais ou menos a sua idade.

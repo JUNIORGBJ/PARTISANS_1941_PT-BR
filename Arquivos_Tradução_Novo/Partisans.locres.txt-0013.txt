@@ -58,7 +58,7 @@ Uma pá é uma ótima ferramenta para combate corpo a corpo. Pode protegê-lo co
 Lago Losinoe
 Prefiro ficar dentro de casa.
 Cada inimigo no jogo tem um cone de visão. Mova o cursor para um inimigo e pressione o Botão Direito do Mouse para vê-lo. Fique fora do cone e não seja pego!
-Não importa o que
+Não importa a situação
 Deixe-os em paz!
 M30 Luftwaffe
 SEM BALAS
@@ -85,7 +85,7 @@ Maior chance de acerto com espingardas.
 Bônus máximo de defesa do personagem durante a corrida.
 Chance máxima de acerto durante o modo de emboscada [Y].
 Um esquadrão pode ter de 1 a 4 partisans com base na missão selecionada.
-Dano máximo
+Múltiplos danos
 Mamãe me diz para ficar em casa, mas eu quero sair.
 Mamãe está sempre chorando. Eu sinto muito por ela.
 Mamãe diz que a vovó nunca vai voltar.

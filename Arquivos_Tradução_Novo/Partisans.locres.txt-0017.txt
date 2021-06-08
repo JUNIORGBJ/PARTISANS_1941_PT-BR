@@ -96,5 +96,5 @@ Lenço
 As noites estão mais longas e frias a cada novo dia, enquanto os moradores locais estão proibidos de sequer se aproximar da floresta. Devemos trazer um pouco de lenha antes que morram congelados?
 Noite
 Noite. Os inimigos enxergam muito mal à noite.
-Noite: visão do inimigo é prejudicada
+Noite: O inimigo tem o campo de visão prejudicado
 À noite, os inimigos têm muito menos visibilidade. O estreito cone de visão indica a área onde eles podem ver sem luz. O grande cone de visão mostra a área onde eles podem ver um alvo com qualquer tipo de fonte de luz.

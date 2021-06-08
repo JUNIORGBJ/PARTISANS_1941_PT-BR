@@ -2,7 +2,7 @@
 Eles levaram nossos casacos.
 Os desastres sempre começam com um único passo...
 Inimigos mortos: {enemies}/{maxenemies}
-Embarque seus partisans no veículo semilagarta
+Embarque seus partisans no veículo semi-blindado
 Eles executaram todos os prisioneiros que não conseguiram escapar durante a rebelião.
 Você ainda não jogou as missões introdutórias da campanha principal. Quer continuar?
 Eu estou sem fumo.
@@ -72,7 +72,7 @@ Menu de depuração
 Chegue até o pântano
 Saia pela vila abandonada
 Apague as luzes em todos os lugares
-O ataque à estação de Bogachevo desencadeu reações furiosas. O comandante dos Hilfspolizei, Zobel, comandou pessoalmente a caçada aos partisans. Sob seu comando, dezenas de cidadãos inocentes foram levados à prisão para serem interrogados e torturados.
+O ataque à estação de Bogachevo desencadeou reações furiosas. O comandante dos Hilfspolizei, Zobel, comandou pessoalmente a caçada aos partisans. Sob seu comando, dezenas de cidadãos inocentes foram levados à prisão para serem interrogados e torturados.
 Os agentes clandestinos falharam em sua missão. Os fascistas os prenderam e os enforcaram.
 Operações
 Missões
