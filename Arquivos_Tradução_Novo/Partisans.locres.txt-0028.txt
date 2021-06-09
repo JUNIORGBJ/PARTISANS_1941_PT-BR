@@ -29,7 +29,7 @@ Aumenta a distância de arremesso e o tempo de recarga da habilidade é reduzido
 Aumenta a experiência ganha em 10%.
 Aumenta a experiência ganha em 25%.
 Aumenta a experiência ganha em 40%.
-Aumenta a quantidade de recuperação de HP ao usar kits médicos.
+Aumenta a quantidade de recuperação de vida ao usar kits médicos.
 Aumenta o limite de missão diária. Seus partisans ficarão mais bem informados sobre os acontecimentos na área.
 Aumenta o número de facas que podem ser atiradas contra um inimigo. A recarga de capacidade é visivelmente reduzida.
 Aumenta o espaço na mochila.
