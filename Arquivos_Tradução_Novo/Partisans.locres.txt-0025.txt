@@ -92,7 +92,7 @@ Analgésico
 Reduz o tempo de recarga da arma em 15%.
 Tempo de recarga de habilidade reduzido
 Tempo de recarga de habilidade reduzido. Aumente o número de usos de uma habilidade durante a missão.
-Uso do ambiente II
+Usando o ambiente II
 Ocultar corpos II
 Soldado
 A guerra não para quando o soldado está dormindo.
