@@ -68,7 +68,7 @@ Recompensa: {food}  de comida.
 Recompensa: {grocery} de recursos.
 Recursos essenciais
 Nosso discurso não soou muito convincente. Os cidadãos nos expulsaram.
-Batalha decisiva
+Batalha Final
 Decidimos não nos preocupar com o estoque. Não pensamos que o Polizei pudesse ter algo de valor e não precisamos de relógios de pulso ou brincos.
 Estilingue I
 Estilingue II
